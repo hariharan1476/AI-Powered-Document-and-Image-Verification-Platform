@@ -1,0 +1,4518 @@
+{
+    "api_version": "2023-07-31",
+    "model_id": "prebuilt-read",
+    "content": "REPORTED BY:\nA. L. EVERETT, MANAGER, CHAIN ACCOUNTS - ATLANTA, GA\nDATE:\nSEPT. 27, 1991\nMANUFACTURER:\nBROWN & WILLIAMSON\nBRAND(S) PROMOTED:\nKOOL CIGARETTES\nTYPE OF PROMOTION:\nSEE ATTACHMENTS\nHOW WIDESPREAD?\nOTHER COMMENTS:\nCC:\nA. H. TISCH\nR. H. ORCUTT\nM. A. PETERSON\nM. L ORLOWSKY\nL. GORDON\nP. J. McCANN\nJ. P. MASTANDREA\nA. J. GIACOIO\nJ. J. TATULLI\nCOMPETITIVE ACTIVITIES AND PROMOTIONS\nG. R. TELFORD\nL. H. KERSH\nJ. R. SLATER\nR. G. RYAN\nN. P. RUFFALO\nS. T. JONES\nT. L. ACHEY\nR. S. GOLDBRENNER\nN. SIMEONIDIS\nS. F. SMITH\n' 91355841",
+    "languages": [],
+    "pages": [
+        {
+            "page_number": 1,
+            "angle": null,
+            "width": 802,
+            "height": 1000,
+            "unit": "pixel",
+            "lines": [
+                {
+                    "content": "REPORTED BY:",
+                    "polygon": [
+                        {
+                            "x": 102,
+                            "y": 135
+                        },
+                        {
+                            "x": 192,
+                            "y": 135
+                        },
+                        {
+                            "x": 192,
+                            "y": 150
+                        },
+                        {
+                            "x": 102,
+                            "y": 150
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "A. L. EVERETT, MANAGER, CHAIN ACCOUNTS - ATLANTA, GA",
+                    "polygon": [
+                        {
+                            "x": 250,
+                            "y": 129
+                        },
+                        {
+                            "x": 700,
+                            "y": 130
+                        },
+                        {
+                            "x": 700,
+                            "y": 148
+                        },
+                        {
+                            "x": 250,
+                            "y": 146
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 13,
+                            "length": 52
+                        }
+                    ]
+                },
+                {
+                    "content": "DATE:",
+                    "polygon": [
+                        {
+                            "x": 188,
+                            "y": 203
+                        },
+                        {
+                            "x": 225,
+                            "y": 203
+                        },
+                        {
+                            "x": 225,
+                            "y": 218
+                        },
+                        {
+                            "x": 188,
+                            "y": 218
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 66,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "SEPT. 27, 1991",
+                    "polygon": [
+                        {
+                            "x": 269,
+                            "y": 202
+                        },
+                        {
+                            "x": 390,
+                            "y": 202
+                        },
+                        {
+                            "x": 390,
+                            "y": 218
+                        },
+                        {
+                            "x": 269,
+                            "y": 217
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 72,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "MANUFACTURER:",
+                    "polygon": [
+                        {
+                            "x": 98,
+                            "y": 270
+                        },
+                        {
+                            "x": 204,
+                            "y": 270
+                        },
+                        {
+                            "x": 204,
+                            "y": 287
+                        },
+                        {
+                            "x": 98,
+                            "y": 286
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 87,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "BROWN & WILLIAMSON",
+                    "polygon": [
+                        {
+                            "x": 276,
+                            "y": 266
+                        },
+                        {
+                            "x": 434,
+                            "y": 267
+                        },
+                        {
+                            "x": 434,
+                            "y": 283
+                        },
+                        {
+                            "x": 276,
+                            "y": 282
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 101,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "BRAND(S) PROMOTED:",
+                    "polygon": [
+                        {
+                            "x": 97,
+                            "y": 338
+                        },
+                        {
+                            "x": 237,
+                            "y": 338
+                        },
+                        {
+                            "x": 237,
+                            "y": 355
+                        },
+                        {
+                            "x": 97,
+                            "y": 355
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 120,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "KOOL CIGARETTES",
+                    "polygon": [
+                        {
+                            "x": 293,
+                            "y": 338
+                        },
+                        {
+                            "x": 425,
+                            "y": 338
+                        },
+                        {
+                            "x": 425,
+                            "y": 354
+                        },
+                        {
+                            "x": 293,
+                            "y": 354
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 139,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "TYPE OF PROMOTION:",
+                    "polygon": [
+                        {
+                            "x": 96,
+                            "y": 407
+                        },
+                        {
+                            "x": 232,
+                            "y": 407
+                        },
+                        {
+                            "x": 232,
+                            "y": 423
+                        },
+                        {
+                            "x": 96,
+                            "y": 423
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 155,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "SEE ATTACHMENTS",
+                    "polygon": [
+                        {
+                            "x": 276,
+                            "y": 403
+                        },
+                        {
+                            "x": 407,
+                            "y": 403
+                        },
+                        {
+                            "x": 407,
+                            "y": 418
+                        },
+                        {
+                            "x": 276,
+                            "y": 418
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 174,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "HOW WIDESPREAD?",
+                    "polygon": [
+                        {
+                            "x": 98,
+                            "y": 526
+                        },
+                        {
+                            "x": 219,
+                            "y": 526
+                        },
+                        {
+                            "x": 219,
+                            "y": 543
+                        },
+                        {
+                            "x": 98,
+                            "y": 542
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 190,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "OTHER COMMENTS:",
+                    "polygon": [
+                        {
+                            "x": 98,
+                            "y": 596
+                        },
+                        {
+                            "x": 220,
+                            "y": 596
+                        },
+                        {
+                            "x": 220,
+                            "y": 612
+                        },
+                        {
+                            "x": 98,
+                            "y": 612
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 206,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "CC:",
+                    "polygon": [
+                        {
+                            "x": 100,
+                            "y": 752
+                        },
+                        {
+                            "x": 123,
+                            "y": 751
+                        },
+                        {
+                            "x": 123,
+                            "y": 766
+                        },
+                        {
+                            "x": 100,
+                            "y": 765
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 222,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "A. H. TISCH",
+                    "polygon": [
+                        {
+                            "x": 122,
+                            "y": 769
+                        },
+                        {
+                            "x": 195,
+                            "y": 769
+                        },
+                        {
+                            "x": 195,
+                            "y": 784
+                        },
+                        {
+                            "x": 122,
+                            "y": 784
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 226,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "R. H. ORCUTT",
+                    "polygon": [
+                        {
+                            "x": 123,
+                            "y": 785
+                        },
+                        {
+                            "x": 208,
+                            "y": 785
+                        },
+                        {
+                            "x": 208,
+                            "y": 801
+                        },
+                        {
+                            "x": 123,
+                            "y": 800
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 238,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "M. A. PETERSON",
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 803
+                        },
+                        {
+                            "x": 226,
+                            "y": 803
+                        },
+                        {
+                            "x": 226,
+                            "y": 819
+                        },
+                        {
+                            "x": 124,
+                            "y": 818
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 251,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "M. L ORLOWSKY",
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 819
+                        },
+                        {
+                            "x": 227,
+                            "y": 820
+                        },
+                        {
+                            "x": 227,
+                            "y": 835
+                        },
+                        {
+                            "x": 124,
+                            "y": 835
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 266,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "L. GORDON",
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 838
+                        },
+                        {
+                            "x": 195,
+                            "y": 838
+                        },
+                        {
+                            "x": 195,
+                            "y": 853
+                        },
+                        {
+                            "x": 124,
+                            "y": 853
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 280,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "P. J. McCANN",
+                    "polygon": [
+                        {
+                            "x": 282,
+                            "y": 838
+                        },
+                        {
+                            "x": 366,
+                            "y": 838
+                        },
+                        {
+                            "x": 366,
+                            "y": 852
+                        },
+                        {
+                            "x": 282,
+                            "y": 852
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 290,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "J. P. MASTANDREA",
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 854
+                        },
+                        {
+                            "x": 238,
+                            "y": 854
+                        },
+                        {
+                            "x": 238,
+                            "y": 870
+                        },
+                        {
+                            "x": 124,
+                            "y": 870
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 303,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "A. J. GIACOIO",
+                    "polygon": [
+                        {
+                            "x": 282,
+                            "y": 854
+                        },
+                        {
+                            "x": 368,
+                            "y": 854
+                        },
+                        {
+                            "x": 368,
+                            "y": 870
+                        },
+                        {
+                            "x": 282,
+                            "y": 869
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 320,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "J. J. TATULLI",
+                    "polygon": [
+                        {
+                            "x": 282,
+                            "y": 871
+                        },
+                        {
+                            "x": 361,
+                            "y": 871
+                        },
+                        {
+                            "x": 361,
+                            "y": 887
+                        },
+                        {
+                            "x": 282,
+                            "y": 887
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 334,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "COMPETITIVE ACTIVITIES AND PROMOTIONS",
+                    "polygon": [
+                        {
+                            "x": 262,
+                            "y": 70
+                        },
+                        {
+                            "x": 568,
+                            "y": 71
+                        },
+                        {
+                            "x": 568,
+                            "y": 88
+                        },
+                        {
+                            "x": 262,
+                            "y": 87
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 348,
+                            "length": 37
+                        }
+                    ]
+                },
+                {
+                    "content": "G. R. TELFORD",
+                    "polygon": [
+                        {
+                            "x": 282,
+                            "y": 768
+                        },
+                        {
+                            "x": 373,
+                            "y": 768
+                        },
+                        {
+                            "x": 373,
+                            "y": 784
+                        },
+                        {
+                            "x": 282,
+                            "y": 784
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 386,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "L. H. KERSH",
+                    "polygon": [
+                        {
+                            "x": 406,
+                            "y": 769
+                        },
+                        {
+                            "x": 482,
+                            "y": 768
+                        },
+                        {
+                            "x": 483,
+                            "y": 783
+                        },
+                        {
+                            "x": 406,
+                            "y": 784
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 400,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "J. R. SLATER",
+                    "polygon": [
+                        {
+                            "x": 406,
+                            "y": 786
+                        },
+                        {
+                            "x": 486,
+                            "y": 786
+                        },
+                        {
+                            "x": 486,
+                            "y": 801
+                        },
+                        {
+                            "x": 406,
+                            "y": 801
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 412,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "R. G. RYAN",
+                    "polygon": [
+                        {
+                            "x": 282,
+                            "y": 785
+                        },
+                        {
+                            "x": 351,
+                            "y": 785
+                        },
+                        {
+                            "x": 352,
+                            "y": 801
+                        },
+                        {
+                            "x": 282,
+                            "y": 801
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 425,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "N. P. RUFFALO",
+                    "polygon": [
+                        {
+                            "x": 282,
+                            "y": 803
+                        },
+                        {
+                            "x": 373,
+                            "y": 803
+                        },
+                        {
+                            "x": 373,
+                            "y": 818
+                        },
+                        {
+                            "x": 282,
+                            "y": 817
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 436,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "S. T. JONES",
+                    "polygon": [
+                        {
+                            "x": 406,
+                            "y": 803
+                        },
+                        {
+                            "x": 480,
+                            "y": 803
+                        },
+                        {
+                            "x": 481,
+                            "y": 817
+                        },
+                        {
+                            "x": 406,
+                            "y": 818
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 450,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "T. L. ACHEY",
+                    "polygon": [
+                        {
+                            "x": 283,
+                            "y": 820
+                        },
+                        {
+                            "x": 356,
+                            "y": 820
+                        },
+                        {
+                            "x": 356,
+                            "y": 835
+                        },
+                        {
+                            "x": 283,
+                            "y": 835
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 462,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "R. S. GOLDBRENNER",
+                    "polygon": [
+                        {
+                            "x": 406,
+                            "y": 819
+                        },
+                        {
+                            "x": 534,
+                            "y": 819
+                        },
+                        {
+                            "x": 534,
+                            "y": 835
+                        },
+                        {
+                            "x": 406,
+                            "y": 835
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 474,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "N. SIMEONIDIS",
+                    "polygon": [
+                        {
+                            "x": 406,
+                            "y": 838
+                        },
+                        {
+                            "x": 497,
+                            "y": 838
+                        },
+                        {
+                            "x": 497,
+                            "y": 852
+                        },
+                        {
+                            "x": 406,
+                            "y": 852
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 492,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "S. F. SMITH",
+                    "polygon": [
+                        {
+                            "x": 406,
+                            "y": 854
+                        },
+                        {
+                            "x": 478,
+                            "y": 854
+                        },
+                        {
+                            "x": 478,
+                            "y": 869
+                        },
+                        {
+                            "x": 406,
+                            "y": 869
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 506,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "' 91355841",
+                    "polygon": [
+                        {
+                            "x": 728,
+                            "y": 713
+                        },
+                        {
+                            "x": 724,
+                            "y": 794
+                        },
+                        {
+                            "x": 709,
+                            "y": 794
+                        },
+                        {
+                            "x": 713,
+                            "y": 713
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 518,
+                            "length": 10
+                        }
+                    ]
+                }
+            ],
+            "words": [
+                {
+                    "content": "REPORTED",
+                    "polygon": [
+                        {
+                            "x": 103,
+                            "y": 136
+                        },
+                        {
+                            "x": 166,
+                            "y": 136
+                        },
+                        {
+                            "x": 165,
+                            "y": 151
+                        },
+                        {
+                            "x": 104,
+                            "y": 151
+                        }
+                    ],
+                    "span": {
+                        "offset": 0,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "BY:",
+                    "polygon": [
+                        {
+                            "x": 170,
+                            "y": 136
+                        },
+                        {
+                            "x": 192,
+                            "y": 136
+                        },
+                        {
+                            "x": 191,
+                            "y": 151
+                        },
+                        {
+                            "x": 169,
+                            "y": 151
+                        }
+                    ],
+                    "span": {
+                        "offset": 9,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "A.",
+                    "polygon": [
+                        {
+                            "x": 252,
+                            "y": 131
+                        },
+                        {
+                            "x": 269,
+                            "y": 131
+                        },
+                        {
+                            "x": 270,
+                            "y": 146
+                        },
+                        {
+                            "x": 252,
+                            "y": 146
+                        }
+                    ],
+                    "span": {
+                        "offset": 13,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "L.",
+                    "polygon": [
+                        {
+                            "x": 278,
+                            "y": 131
+                        },
+                        {
+                            "x": 296,
+                            "y": 131
+                        },
+                        {
+                            "x": 297,
+                            "y": 147
+                        },
+                        {
+                            "x": 279,
+                            "y": 147
+                        }
+                    ],
+                    "span": {
+                        "offset": 16,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "EVERETT,",
+                    "polygon": [
+                        {
+                            "x": 304,
+                            "y": 131
+                        },
+                        {
+                            "x": 374,
+                            "y": 130
+                        },
+                        {
+                            "x": 374,
+                            "y": 147
+                        },
+                        {
+                            "x": 304,
+                            "y": 147
+                        }
+                    ],
+                    "span": {
+                        "offset": 19,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MANAGER,",
+                    "polygon": [
+                        {
+                            "x": 379,
+                            "y": 130
+                        },
+                        {
+                            "x": 451,
+                            "y": 130
+                        },
+                        {
+                            "x": 452,
+                            "y": 147
+                        },
+                        {
+                            "x": 380,
+                            "y": 147
+                        }
+                    ],
+                    "span": {
+                        "offset": 28,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CHAIN",
+                    "polygon": [
+                        {
+                            "x": 458,
+                            "y": 130
+                        },
+                        {
+                            "x": 500,
+                            "y": 130
+                        },
+                        {
+                            "x": 501,
+                            "y": 148
+                        },
+                        {
+                            "x": 459,
+                            "y": 147
+                        }
+                    ],
+                    "span": {
+                        "offset": 37,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ACCOUNTS",
+                    "polygon": [
+                        {
+                            "x": 510,
+                            "y": 130
+                        },
+                        {
+                            "x": 579,
+                            "y": 130
+                        },
+                        {
+                            "x": 579,
+                            "y": 148
+                        },
+                        {
+                            "x": 511,
+                            "y": 148
+                        }
+                    ],
+                    "span": {
+                        "offset": 43,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        {
+                            "x": 587,
+                            "y": 130
+                        },
+                        {
+                            "x": 596,
+                            "y": 131
+                        },
+                        {
+                            "x": 596,
+                            "y": 148
+                        },
+                        {
+                            "x": 587,
+                            "y": 148
+                        }
+                    ],
+                    "span": {
+                        "offset": 52,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ATLANTA,",
+                    "polygon": [
+                        {
+                            "x": 605,
+                            "y": 131
+                        },
+                        {
+                            "x": 674,
+                            "y": 131
+                        },
+                        {
+                            "x": 674,
+                            "y": 148
+                        },
+                        {
+                            "x": 605,
+                            "y": 148
+                        }
+                    ],
+                    "span": {
+                        "offset": 54,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "GA",
+                    "polygon": [
+                        {
+                            "x": 681,
+                            "y": 131
+                        },
+                        {
+                            "x": 699,
+                            "y": 132
+                        },
+                        {
+                            "x": 699,
+                            "y": 148
+                        },
+                        {
+                            "x": 681,
+                            "y": 148
+                        }
+                    ],
+                    "span": {
+                        "offset": 63,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DATE:",
+                    "polygon": [
+                        {
+                            "x": 189,
+                            "y": 203
+                        },
+                        {
+                            "x": 225,
+                            "y": 203
+                        },
+                        {
+                            "x": 225,
+                            "y": 218
+                        },
+                        {
+                            "x": 189,
+                            "y": 218
+                        }
+                    ],
+                    "span": {
+                        "offset": 66,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SEPT.",
+                    "polygon": [
+                        {
+                            "x": 270,
+                            "y": 203
+                        },
+                        {
+                            "x": 313,
+                            "y": 202
+                        },
+                        {
+                            "x": 314,
+                            "y": 218
+                        },
+                        {
+                            "x": 270,
+                            "y": 218
+                        }
+                    ],
+                    "span": {
+                        "offset": 72,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "27,",
+                    "polygon": [
+                        {
+                            "x": 323,
+                            "y": 202
+                        },
+                        {
+                            "x": 348,
+                            "y": 202
+                        },
+                        {
+                            "x": 348,
+                            "y": 219
+                        },
+                        {
+                            "x": 323,
+                            "y": 218
+                        }
+                    ],
+                    "span": {
+                        "offset": 78,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1991",
+                    "polygon": [
+                        {
+                            "x": 357,
+                            "y": 202
+                        },
+                        {
+                            "x": 391,
+                            "y": 203
+                        },
+                        {
+                            "x": 391,
+                            "y": 219
+                        },
+                        {
+                            "x": 357,
+                            "y": 219
+                        }
+                    ],
+                    "span": {
+                        "offset": 82,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MANUFACTURER:",
+                    "polygon": [
+                        {
+                            "x": 100,
+                            "y": 270
+                        },
+                        {
+                            "x": 204,
+                            "y": 270
+                        },
+                        {
+                            "x": 204,
+                            "y": 287
+                        },
+                        {
+                            "x": 100,
+                            "y": 287
+                        }
+                    ],
+                    "span": {
+                        "offset": 87,
+                        "length": 13
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "BROWN",
+                    "polygon": [
+                        {
+                            "x": 278,
+                            "y": 267
+                        },
+                        {
+                            "x": 320,
+                            "y": 267
+                        },
+                        {
+                            "x": 320,
+                            "y": 283
+                        },
+                        {
+                            "x": 278,
+                            "y": 283
+                        }
+                    ],
+                    "span": {
+                        "offset": 101,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "&",
+                    "polygon": [
+                        {
+                            "x": 329,
+                            "y": 267
+                        },
+                        {
+                            "x": 339,
+                            "y": 267
+                        },
+                        {
+                            "x": 340,
+                            "y": 283
+                        },
+                        {
+                            "x": 329,
+                            "y": 283
+                        }
+                    ],
+                    "span": {
+                        "offset": 107,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "WILLIAMSON",
+                    "polygon": [
+                        {
+                            "x": 346,
+                            "y": 267
+                        },
+                        {
+                            "x": 432,
+                            "y": 267
+                        },
+                        {
+                            "x": 432,
+                            "y": 283
+                        },
+                        {
+                            "x": 346,
+                            "y": 283
+                        }
+                    ],
+                    "span": {
+                        "offset": 109,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "BRAND(S)",
+                    "polygon": [
+                        {
+                            "x": 98,
+                            "y": 339
+                        },
+                        {
+                            "x": 157,
+                            "y": 339
+                        },
+                        {
+                            "x": 157,
+                            "y": 356
+                        },
+                        {
+                            "x": 98,
+                            "y": 356
+                        }
+                    ],
+                    "span": {
+                        "offset": 120,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PROMOTED:",
+                    "polygon": [
+                        {
+                            "x": 160,
+                            "y": 339
+                        },
+                        {
+                            "x": 236,
+                            "y": 339
+                        },
+                        {
+                            "x": 236,
+                            "y": 356
+                        },
+                        {
+                            "x": 160,
+                            "y": 356
+                        }
+                    ],
+                    "span": {
+                        "offset": 129,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "KOOL",
+                    "polygon": [
+                        {
+                            "x": 295,
+                            "y": 339
+                        },
+                        {
+                            "x": 329,
+                            "y": 339
+                        },
+                        {
+                            "x": 329,
+                            "y": 354
+                        },
+                        {
+                            "x": 295,
+                            "y": 354
+                        }
+                    ],
+                    "span": {
+                        "offset": 139,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CIGARETTES",
+                    "polygon": [
+                        {
+                            "x": 337,
+                            "y": 339
+                        },
+                        {
+                            "x": 423,
+                            "y": 339
+                        },
+                        {
+                            "x": 423,
+                            "y": 355
+                        },
+                        {
+                            "x": 337,
+                            "y": 355
+                        }
+                    ],
+                    "span": {
+                        "offset": 144,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TYPE",
+                    "polygon": [
+                        {
+                            "x": 101,
+                            "y": 407
+                        },
+                        {
+                            "x": 130,
+                            "y": 407
+                        },
+                        {
+                            "x": 130,
+                            "y": 424
+                        },
+                        {
+                            "x": 101,
+                            "y": 424
+                        }
+                    ],
+                    "span": {
+                        "offset": 155,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "OF",
+                    "polygon": [
+                        {
+                            "x": 133,
+                            "y": 407
+                        },
+                        {
+                            "x": 149,
+                            "y": 407
+                        },
+                        {
+                            "x": 149,
+                            "y": 424
+                        },
+                        {
+                            "x": 133,
+                            "y": 424
+                        }
+                    ],
+                    "span": {
+                        "offset": 160,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PROMOTION:",
+                    "polygon": [
+                        {
+                            "x": 152,
+                            "y": 407
+                        },
+                        {
+                            "x": 232,
+                            "y": 407
+                        },
+                        {
+                            "x": 232,
+                            "y": 423
+                        },
+                        {
+                            "x": 152,
+                            "y": 424
+                        }
+                    ],
+                    "span": {
+                        "offset": 163,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SEE",
+                    "polygon": [
+                        {
+                            "x": 278,
+                            "y": 403
+                        },
+                        {
+                            "x": 302,
+                            "y": 403
+                        },
+                        {
+                            "x": 303,
+                            "y": 418
+                        },
+                        {
+                            "x": 278,
+                            "y": 419
+                        }
+                    ],
+                    "span": {
+                        "offset": 174,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ATTACHMENTS",
+                    "polygon": [
+                        {
+                            "x": 312,
+                            "y": 403
+                        },
+                        {
+                            "x": 406,
+                            "y": 404
+                        },
+                        {
+                            "x": 406,
+                            "y": 419
+                        },
+                        {
+                            "x": 312,
+                            "y": 418
+                        }
+                    ],
+                    "span": {
+                        "offset": 178,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "HOW",
+                    "polygon": [
+                        {
+                            "x": 100,
+                            "y": 527
+                        },
+                        {
+                            "x": 125,
+                            "y": 527
+                        },
+                        {
+                            "x": 125,
+                            "y": 543
+                        },
+                        {
+                            "x": 100,
+                            "y": 543
+                        }
+                    ],
+                    "span": {
+                        "offset": 190,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "WIDESPREAD?",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 527
+                        },
+                        {
+                            "x": 219,
+                            "y": 527
+                        },
+                        {
+                            "x": 219,
+                            "y": 543
+                        },
+                        {
+                            "x": 131,
+                            "y": 543
+                        }
+                    ],
+                    "span": {
+                        "offset": 194,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "OTHER",
+                    "polygon": [
+                        {
+                            "x": 100,
+                            "y": 596
+                        },
+                        {
+                            "x": 141,
+                            "y": 596
+                        },
+                        {
+                            "x": 141,
+                            "y": 613
+                        },
+                        {
+                            "x": 100,
+                            "y": 613
+                        }
+                    ],
+                    "span": {
+                        "offset": 206,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "COMMENTS:",
+                    "polygon": [
+                        {
+                            "x": 145,
+                            "y": 596
+                        },
+                        {
+                            "x": 221,
+                            "y": 596
+                        },
+                        {
+                            "x": 221,
+                            "y": 613
+                        },
+                        {
+                            "x": 145,
+                            "y": 613
+                        }
+                    ],
+                    "span": {
+                        "offset": 212,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CC:",
+                    "polygon": [
+                        {
+                            "x": 101,
+                            "y": 751
+                        },
+                        {
+                            "x": 123,
+                            "y": 751
+                        },
+                        {
+                            "x": 123,
+                            "y": 766
+                        },
+                        {
+                            "x": 101,
+                            "y": 766
+                        }
+                    ],
+                    "span": {
+                        "offset": 222,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "A.",
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 769
+                        },
+                        {
+                            "x": 136,
+                            "y": 769
+                        },
+                        {
+                            "x": 137,
+                            "y": 785
+                        },
+                        {
+                            "x": 125,
+                            "y": 785
+                        }
+                    ],
+                    "span": {
+                        "offset": 226,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "H.",
+                    "polygon": [
+                        {
+                            "x": 139,
+                            "y": 769
+                        },
+                        {
+                            "x": 153,
+                            "y": 769
+                        },
+                        {
+                            "x": 154,
+                            "y": 785
+                        },
+                        {
+                            "x": 140,
+                            "y": 785
+                        }
+                    ],
+                    "span": {
+                        "offset": 229,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TISCH",
+                    "polygon": [
+                        {
+                            "x": 156,
+                            "y": 769
+                        },
+                        {
+                            "x": 192,
+                            "y": 769
+                        },
+                        {
+                            "x": 192,
+                            "y": 784
+                        },
+                        {
+                            "x": 157,
+                            "y": 785
+                        }
+                    ],
+                    "span": {
+                        "offset": 232,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "R.",
+                    "polygon": [
+                        {
+                            "x": 125,
+                            "y": 786
+                        },
+                        {
+                            "x": 136,
+                            "y": 786
+                        },
+                        {
+                            "x": 137,
+                            "y": 801
+                        },
+                        {
+                            "x": 125,
+                            "y": 801
+                        }
+                    ],
+                    "span": {
+                        "offset": 238,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "H.",
+                    "polygon": [
+                        {
+                            "x": 139,
+                            "y": 786
+                        },
+                        {
+                            "x": 154,
+                            "y": 786
+                        },
+                        {
+                            "x": 155,
+                            "y": 801
+                        },
+                        {
+                            "x": 140,
+                            "y": 801
+                        }
+                    ],
+                    "span": {
+                        "offset": 241,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ORCUTT",
+                    "polygon": [
+                        {
+                            "x": 157,
+                            "y": 786
+                        },
+                        {
+                            "x": 208,
+                            "y": 786
+                        },
+                        {
+                            "x": 209,
+                            "y": 801
+                        },
+                        {
+                            "x": 158,
+                            "y": 801
+                        }
+                    ],
+                    "span": {
+                        "offset": 244,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "M.",
+                    "polygon": [
+                        {
+                            "x": 125,
+                            "y": 803
+                        },
+                        {
+                            "x": 139,
+                            "y": 803
+                        },
+                        {
+                            "x": 140,
+                            "y": 819
+                        },
+                        {
+                            "x": 125,
+                            "y": 819
+                        }
+                    ],
+                    "span": {
+                        "offset": 251,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "A.",
+                    "polygon": [
+                        {
+                            "x": 142,
+                            "y": 803
+                        },
+                        {
+                            "x": 154,
+                            "y": 804
+                        },
+                        {
+                            "x": 154,
+                            "y": 819
+                        },
+                        {
+                            "x": 143,
+                            "y": 819
+                        }
+                    ],
+                    "span": {
+                        "offset": 254,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PETERSON",
+                    "polygon": [
+                        {
+                            "x": 157,
+                            "y": 804
+                        },
+                        {
+                            "x": 221,
+                            "y": 804
+                        },
+                        {
+                            "x": 222,
+                            "y": 819
+                        },
+                        {
+                            "x": 157,
+                            "y": 819
+                        }
+                    ],
+                    "span": {
+                        "offset": 257,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "M.",
+                    "polygon": [
+                        {
+                            "x": 125,
+                            "y": 820
+                        },
+                        {
+                            "x": 138,
+                            "y": 820
+                        },
+                        {
+                            "x": 138,
+                            "y": 836
+                        },
+                        {
+                            "x": 125,
+                            "y": 836
+                        }
+                    ],
+                    "span": {
+                        "offset": 266,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "L",
+                    "polygon": [
+                        {
+                            "x": 141,
+                            "y": 820
+                        },
+                        {
+                            "x": 150,
+                            "y": 820
+                        },
+                        {
+                            "x": 151,
+                            "y": 836
+                        },
+                        {
+                            "x": 141,
+                            "y": 836
+                        }
+                    ],
+                    "span": {
+                        "offset": 269,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ORLOWSKY",
+                    "polygon": [
+                        {
+                            "x": 156,
+                            "y": 820
+                        },
+                        {
+                            "x": 225,
+                            "y": 820
+                        },
+                        {
+                            "x": 225,
+                            "y": 836
+                        },
+                        {
+                            "x": 157,
+                            "y": 836
+                        }
+                    ],
+                    "span": {
+                        "offset": 271,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "L.",
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 839
+                        },
+                        {
+                            "x": 137,
+                            "y": 839
+                        },
+                        {
+                            "x": 137,
+                            "y": 853
+                        },
+                        {
+                            "x": 125,
+                            "y": 853
+                        }
+                    ],
+                    "span": {
+                        "offset": 280,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "GORDON",
+                    "polygon": [
+                        {
+                            "x": 139,
+                            "y": 839
+                        },
+                        {
+                            "x": 192,
+                            "y": 838
+                        },
+                        {
+                            "x": 192,
+                            "y": 853
+                        },
+                        {
+                            "x": 140,
+                            "y": 853
+                        }
+                    ],
+                    "span": {
+                        "offset": 283,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "P.",
+                    "polygon": [
+                        {
+                            "x": 284,
+                            "y": 838
+                        },
+                        {
+                            "x": 296,
+                            "y": 838
+                        },
+                        {
+                            "x": 297,
+                            "y": 853
+                        },
+                        {
+                            "x": 284,
+                            "y": 853
+                        }
+                    ],
+                    "span": {
+                        "offset": 290,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "J.",
+                    "polygon": [
+                        {
+                            "x": 299,
+                            "y": 838
+                        },
+                        {
+                            "x": 309,
+                            "y": 838
+                        },
+                        {
+                            "x": 309,
+                            "y": 853
+                        },
+                        {
+                            "x": 300,
+                            "y": 853
+                        }
+                    ],
+                    "span": {
+                        "offset": 293,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "McCANN",
+                    "polygon": [
+                        {
+                            "x": 312,
+                            "y": 838
+                        },
+                        {
+                            "x": 363,
+                            "y": 838
+                        },
+                        {
+                            "x": 363,
+                            "y": 853
+                        },
+                        {
+                            "x": 312,
+                            "y": 853
+                        }
+                    ],
+                    "span": {
+                        "offset": 296,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "J.",
+                    "polygon": [
+                        {
+                            "x": 125,
+                            "y": 855
+                        },
+                        {
+                            "x": 135,
+                            "y": 855
+                        },
+                        {
+                            "x": 135,
+                            "y": 871
+                        },
+                        {
+                            "x": 126,
+                            "y": 871
+                        }
+                    ],
+                    "span": {
+                        "offset": 303,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "P.",
+                    "polygon": [
+                        {
+                            "x": 138,
+                            "y": 855
+                        },
+                        {
+                            "x": 150,
+                            "y": 855
+                        },
+                        {
+                            "x": 150,
+                            "y": 870
+                        },
+                        {
+                            "x": 138,
+                            "y": 871
+                        }
+                    ],
+                    "span": {
+                        "offset": 306,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MASTANDREA",
+                    "polygon": [
+                        {
+                            "x": 153,
+                            "y": 855
+                        },
+                        {
+                            "x": 237,
+                            "y": 855
+                        },
+                        {
+                            "x": 237,
+                            "y": 870
+                        },
+                        {
+                            "x": 153,
+                            "y": 870
+                        }
+                    ],
+                    "span": {
+                        "offset": 309,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "A.",
+                    "polygon": [
+                        {
+                            "x": 284,
+                            "y": 854
+                        },
+                        {
+                            "x": 297,
+                            "y": 854
+                        },
+                        {
+                            "x": 297,
+                            "y": 870
+                        },
+                        {
+                            "x": 284,
+                            "y": 870
+                        }
+                    ],
+                    "span": {
+                        "offset": 320,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "J.",
+                    "polygon": [
+                        {
+                            "x": 300,
+                            "y": 854
+                        },
+                        {
+                            "x": 310,
+                            "y": 854
+                        },
+                        {
+                            "x": 310,
+                            "y": 870
+                        },
+                        {
+                            "x": 300,
+                            "y": 870
+                        }
+                    ],
+                    "span": {
+                        "offset": 323,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "GIACOIO",
+                    "polygon": [
+                        {
+                            "x": 313,
+                            "y": 854
+                        },
+                        {
+                            "x": 364,
+                            "y": 855
+                        },
+                        {
+                            "x": 364,
+                            "y": 870
+                        },
+                        {
+                            "x": 313,
+                            "y": 870
+                        }
+                    ],
+                    "span": {
+                        "offset": 326,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "J.",
+                    "polygon": [
+                        {
+                            "x": 285,
+                            "y": 872
+                        },
+                        {
+                            "x": 295,
+                            "y": 872
+                        },
+                        {
+                            "x": 295,
+                            "y": 887
+                        },
+                        {
+                            "x": 285,
+                            "y": 887
+                        }
+                    ],
+                    "span": {
+                        "offset": 334,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "J.",
+                    "polygon": [
+                        {
+                            "x": 298,
+                            "y": 872
+                        },
+                        {
+                            "x": 308,
+                            "y": 872
+                        },
+                        {
+                            "x": 309,
+                            "y": 887
+                        },
+                        {
+                            "x": 298,
+                            "y": 887
+                        }
+                    ],
+                    "span": {
+                        "offset": 337,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TATULLI",
+                    "polygon": [
+                        {
+                            "x": 312,
+                            "y": 872
+                        },
+                        {
+                            "x": 361,
+                            "y": 871
+                        },
+                        {
+                            "x": 361,
+                            "y": 888
+                        },
+                        {
+                            "x": 312,
+                            "y": 887
+                        }
+                    ],
+                    "span": {
+                        "offset": 340,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "COMPETITIVE",
+                    "polygon": [
+                        {
+                            "x": 262,
+                            "y": 71
+                        },
+                        {
+                            "x": 353,
+                            "y": 71
+                        },
+                        {
+                            "x": 353,
+                            "y": 88
+                        },
+                        {
+                            "x": 262,
+                            "y": 88
+                        }
+                    ],
+                    "span": {
+                        "offset": 348,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ACTIVITIES",
+                    "polygon": [
+                        {
+                            "x": 359,
+                            "y": 71
+                        },
+                        {
+                            "x": 433,
+                            "y": 71
+                        },
+                        {
+                            "x": 434,
+                            "y": 88
+                        },
+                        {
+                            "x": 359,
+                            "y": 88
+                        }
+                    ],
+                    "span": {
+                        "offset": 360,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "AND",
+                    "polygon": [
+                        {
+                            "x": 439,
+                            "y": 71
+                        },
+                        {
+                            "x": 465,
+                            "y": 71
+                        },
+                        {
+                            "x": 465,
+                            "y": 88
+                        },
+                        {
+                            "x": 439,
+                            "y": 88
+                        }
+                    ],
+                    "span": {
+                        "offset": 371,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PROMOTIONS",
+                    "polygon": [
+                        {
+                            "x": 471,
+                            "y": 71
+                        },
+                        {
+                            "x": 566,
+                            "y": 72
+                        },
+                        {
+                            "x": 566,
+                            "y": 88
+                        },
+                        {
+                            "x": 471,
+                            "y": 88
+                        }
+                    ],
+                    "span": {
+                        "offset": 375,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "G.",
+                    "polygon": [
+                        {
+                            "x": 285,
+                            "y": 769
+                        },
+                        {
+                            "x": 298,
+                            "y": 769
+                        },
+                        {
+                            "x": 298,
+                            "y": 784
+                        },
+                        {
+                            "x": 285,
+                            "y": 785
+                        }
+                    ],
+                    "span": {
+                        "offset": 386,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "R.",
+                    "polygon": [
+                        {
+                            "x": 301,
+                            "y": 769
+                        },
+                        {
+                            "x": 314,
+                            "y": 769
+                        },
+                        {
+                            "x": 314,
+                            "y": 784
+                        },
+                        {
+                            "x": 301,
+                            "y": 784
+                        }
+                    ],
+                    "span": {
+                        "offset": 389,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TELFORD",
+                    "polygon": [
+                        {
+                            "x": 317,
+                            "y": 769
+                        },
+                        {
+                            "x": 371,
+                            "y": 769
+                        },
+                        {
+                            "x": 371,
+                            "y": 784
+                        },
+                        {
+                            "x": 317,
+                            "y": 784
+                        }
+                    ],
+                    "span": {
+                        "offset": 392,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "L.",
+                    "polygon": [
+                        {
+                            "x": 407,
+                            "y": 769
+                        },
+                        {
+                            "x": 418,
+                            "y": 769
+                        },
+                        {
+                            "x": 418,
+                            "y": 784
+                        },
+                        {
+                            "x": 407,
+                            "y": 784
+                        }
+                    ],
+                    "span": {
+                        "offset": 400,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "H.",
+                    "polygon": [
+                        {
+                            "x": 421,
+                            "y": 769
+                        },
+                        {
+                            "x": 434,
+                            "y": 769
+                        },
+                        {
+                            "x": 435,
+                            "y": 784
+                        },
+                        {
+                            "x": 421,
+                            "y": 784
+                        }
+                    ],
+                    "span": {
+                        "offset": 403,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "KERSH",
+                    "polygon": [
+                        {
+                            "x": 437,
+                            "y": 769
+                        },
+                        {
+                            "x": 477,
+                            "y": 769
+                        },
+                        {
+                            "x": 478,
+                            "y": 784
+                        },
+                        {
+                            "x": 438,
+                            "y": 784
+                        }
+                    ],
+                    "span": {
+                        "offset": 406,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "J.",
+                    "polygon": [
+                        {
+                            "x": 408,
+                            "y": 786
+                        },
+                        {
+                            "x": 417,
+                            "y": 786
+                        },
+                        {
+                            "x": 417,
+                            "y": 802
+                        },
+                        {
+                            "x": 408,
+                            "y": 802
+                        }
+                    ],
+                    "span": {
+                        "offset": 412,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "R.",
+                    "polygon": [
+                        {
+                            "x": 420,
+                            "y": 786
+                        },
+                        {
+                            "x": 434,
+                            "y": 786
+                        },
+                        {
+                            "x": 434,
+                            "y": 801
+                        },
+                        {
+                            "x": 420,
+                            "y": 801
+                        }
+                    ],
+                    "span": {
+                        "offset": 415,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SLATER",
+                    "polygon": [
+                        {
+                            "x": 437,
+                            "y": 786
+                        },
+                        {
+                            "x": 482,
+                            "y": 786
+                        },
+                        {
+                            "x": 482,
+                            "y": 801
+                        },
+                        {
+                            "x": 437,
+                            "y": 801
+                        }
+                    ],
+                    "span": {
+                        "offset": 418,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "R.",
+                    "polygon": [
+                        {
+                            "x": 284,
+                            "y": 786
+                        },
+                        {
+                            "x": 297,
+                            "y": 786
+                        },
+                        {
+                            "x": 297,
+                            "y": 801
+                        },
+                        {
+                            "x": 284,
+                            "y": 802
+                        }
+                    ],
+                    "span": {
+                        "offset": 425,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "G.",
+                    "polygon": [
+                        {
+                            "x": 300,
+                            "y": 786
+                        },
+                        {
+                            "x": 314,
+                            "y": 786
+                        },
+                        {
+                            "x": 314,
+                            "y": 801
+                        },
+                        {
+                            "x": 300,
+                            "y": 801
+                        }
+                    ],
+                    "span": {
+                        "offset": 428,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RYAN",
+                    "polygon": [
+                        {
+                            "x": 317,
+                            "y": 786
+                        },
+                        {
+                            "x": 348,
+                            "y": 786
+                        },
+                        {
+                            "x": 348,
+                            "y": 801
+                        },
+                        {
+                            "x": 317,
+                            "y": 801
+                        }
+                    ],
+                    "span": {
+                        "offset": 431,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "N.",
+                    "polygon": [
+                        {
+                            "x": 283,
+                            "y": 803
+                        },
+                        {
+                            "x": 296,
+                            "y": 803
+                        },
+                        {
+                            "x": 297,
+                            "y": 818
+                        },
+                        {
+                            "x": 284,
+                            "y": 818
+                        }
+                    ],
+                    "span": {
+                        "offset": 436,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "P.",
+                    "polygon": [
+                        {
+                            "x": 299,
+                            "y": 804
+                        },
+                        {
+                            "x": 313,
+                            "y": 804
+                        },
+                        {
+                            "x": 313,
+                            "y": 818
+                        },
+                        {
+                            "x": 300,
+                            "y": 818
+                        }
+                    ],
+                    "span": {
+                        "offset": 439,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RUFFALO",
+                    "polygon": [
+                        {
+                            "x": 316,
+                            "y": 804
+                        },
+                        {
+                            "x": 369,
+                            "y": 804
+                        },
+                        {
+                            "x": 369,
+                            "y": 819
+                        },
+                        {
+                            "x": 316,
+                            "y": 818
+                        }
+                    ],
+                    "span": {
+                        "offset": 442,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "S.",
+                    "polygon": [
+                        {
+                            "x": 408,
+                            "y": 804
+                        },
+                        {
+                            "x": 421,
+                            "y": 804
+                        },
+                        {
+                            "x": 421,
+                            "y": 818
+                        },
+                        {
+                            "x": 408,
+                            "y": 819
+                        }
+                    ],
+                    "span": {
+                        "offset": 450,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "T.",
+                    "polygon": [
+                        {
+                            "x": 423,
+                            "y": 804
+                        },
+                        {
+                            "x": 435,
+                            "y": 804
+                        },
+                        {
+                            "x": 435,
+                            "y": 818
+                        },
+                        {
+                            "x": 424,
+                            "y": 818
+                        }
+                    ],
+                    "span": {
+                        "offset": 453,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "JONES",
+                    "polygon": [
+                        {
+                            "x": 438,
+                            "y": 804
+                        },
+                        {
+                            "x": 479,
+                            "y": 803
+                        },
+                        {
+                            "x": 479,
+                            "y": 818
+                        },
+                        {
+                            "x": 438,
+                            "y": 818
+                        }
+                    ],
+                    "span": {
+                        "offset": 456,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "T.",
+                    "polygon": [
+                        {
+                            "x": 285,
+                            "y": 821
+                        },
+                        {
+                            "x": 295,
+                            "y": 821
+                        },
+                        {
+                            "x": 295,
+                            "y": 836
+                        },
+                        {
+                            "x": 286,
+                            "y": 836
+                        }
+                    ],
+                    "span": {
+                        "offset": 462,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "L.",
+                    "polygon": [
+                        {
+                            "x": 298,
+                            "y": 821
+                        },
+                        {
+                            "x": 309,
+                            "y": 821
+                        },
+                        {
+                            "x": 309,
+                            "y": 835
+                        },
+                        {
+                            "x": 298,
+                            "y": 836
+                        }
+                    ],
+                    "span": {
+                        "offset": 465,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ACHEY",
+                    "polygon": [
+                        {
+                            "x": 312,
+                            "y": 821
+                        },
+                        {
+                            "x": 354,
+                            "y": 821
+                        },
+                        {
+                            "x": 354,
+                            "y": 836
+                        },
+                        {
+                            "x": 312,
+                            "y": 835
+                        }
+                    ],
+                    "span": {
+                        "offset": 468,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "R.",
+                    "polygon": [
+                        {
+                            "x": 407,
+                            "y": 820
+                        },
+                        {
+                            "x": 420,
+                            "y": 820
+                        },
+                        {
+                            "x": 420,
+                            "y": 836
+                        },
+                        {
+                            "x": 407,
+                            "y": 836
+                        }
+                    ],
+                    "span": {
+                        "offset": 474,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "S.",
+                    "polygon": [
+                        {
+                            "x": 423,
+                            "y": 820
+                        },
+                        {
+                            "x": 436,
+                            "y": 820
+                        },
+                        {
+                            "x": 436,
+                            "y": 836
+                        },
+                        {
+                            "x": 423,
+                            "y": 836
+                        }
+                    ],
+                    "span": {
+                        "offset": 477,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "GOLDBRENNER",
+                    "polygon": [
+                        {
+                            "x": 439,
+                            "y": 820
+                        },
+                        {
+                            "x": 531,
+                            "y": 820
+                        },
+                        {
+                            "x": 531,
+                            "y": 836
+                        },
+                        {
+                            "x": 439,
+                            "y": 836
+                        }
+                    ],
+                    "span": {
+                        "offset": 480,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "N.",
+                    "polygon": [
+                        {
+                            "x": 407,
+                            "y": 838
+                        },
+                        {
+                            "x": 421,
+                            "y": 838
+                        },
+                        {
+                            "x": 421,
+                            "y": 852
+                        },
+                        {
+                            "x": 407,
+                            "y": 852
+                        }
+                    ],
+                    "span": {
+                        "offset": 492,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SIMEONIDIS",
+                    "polygon": [
+                        {
+                            "x": 424,
+                            "y": 838
+                        },
+                        {
+                            "x": 496,
+                            "y": 838
+                        },
+                        {
+                            "x": 496,
+                            "y": 853
+                        },
+                        {
+                            "x": 424,
+                            "y": 852
+                        }
+                    ],
+                    "span": {
+                        "offset": 495,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "S.",
+                    "polygon": [
+                        {
+                            "x": 407,
+                            "y": 855
+                        },
+                        {
+                            "x": 419,
+                            "y": 854
+                        },
+                        {
+                            "x": 420,
+                            "y": 870
+                        },
+                        {
+                            "x": 408,
+                            "y": 870
+                        }
+                    ],
+                    "span": {
+                        "offset": 506,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "F.",
+                    "polygon": [
+                        {
+                            "x": 422,
+                            "y": 854
+                        },
+                        {
+                            "x": 434,
+                            "y": 854
+                        },
+                        {
+                            "x": 435,
+                            "y": 870
+                        },
+                        {
+                            "x": 423,
+                            "y": 870
+                        }
+                    ],
+                    "span": {
+                        "offset": 509,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SMITH",
+                    "polygon": [
+                        {
+                            "x": 438,
+                            "y": 854
+                        },
+                        {
+                            "x": 474,
+                            "y": 854
+                        },
+                        {
+                            "x": 474,
+                            "y": 870
+                        },
+                        {
+                            "x": 438,
+                            "y": 870
+                        }
+                    ],
+                    "span": {
+                        "offset": 512,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "'",
+                    "polygon": [
+                        {
+                            "x": 728,
+                            "y": 714
+                        },
+                        {
+                            "x": 728,
+                            "y": 720
+                        },
+                        {
+                            "x": 713,
+                            "y": 720
+                        },
+                        {
+                            "x": 714,
+                            "y": 713
+                        }
+                    ],
+                    "span": {
+                        "offset": 518,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "91355841",
+                    "polygon": [
+                        {
+                            "x": 728,
+                            "y": 725
+                        },
+                        {
+                            "x": 724,
+                            "y": 794
+                        },
+                        {
+                            "x": 709,
+                            "y": 792
+                        },
+                        {
+                            "x": 713,
+                            "y": 725
+                        }
+                    ],
+                    "span": {
+                        "offset": 520,
+                        "length": 8
+                    },
+                    "confidence": 0
+                }
+            ],
+            "selection_marks": [],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 528
+                }
+            ],
+            "barcodes": [],
+            "formulas": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "role": null,
+            "content": "REPORTED BY:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 102,
+                            "y": 135
+                        },
+                        {
+                            "x": 192,
+                            "y": 135
+                        },
+                        {
+                            "x": 192,
+                            "y": 150
+                        },
+                        {
+                            "x": 102,
+                            "y": 150
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "A. L. EVERETT, MANAGER, CHAIN ACCOUNTS - ATLANTA, GA",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 250,
+                            "y": 129
+                        },
+                        {
+                            "x": 700,
+                            "y": 130
+                        },
+                        {
+                            "x": 700,
+                            "y": 148
+                        },
+                        {
+                            "x": 250,
+                            "y": 146
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 13,
+                    "length": 52
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "DATE:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 188,
+                            "y": 203
+                        },
+                        {
+                            "x": 225,
+                            "y": 203
+                        },
+                        {
+                            "x": 225,
+                            "y": 218
+                        },
+                        {
+                            "x": 188,
+                            "y": 218
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 66,
+                    "length": 5
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SEPT. 27, 1991",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 269,
+                            "y": 202
+                        },
+                        {
+                            "x": 390,
+                            "y": 202
+                        },
+                        {
+                            "x": 390,
+                            "y": 218
+                        },
+                        {
+                            "x": 269,
+                            "y": 217
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 72,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MANUFACTURER:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 98,
+                            "y": 270
+                        },
+                        {
+                            "x": 204,
+                            "y": 270
+                        },
+                        {
+                            "x": 204,
+                            "y": 287
+                        },
+                        {
+                            "x": 98,
+                            "y": 286
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 87,
+                    "length": 13
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "BROWN & WILLIAMSON",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 276,
+                            "y": 266
+                        },
+                        {
+                            "x": 434,
+                            "y": 267
+                        },
+                        {
+                            "x": 434,
+                            "y": 283
+                        },
+                        {
+                            "x": 276,
+                            "y": 282
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 101,
+                    "length": 18
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "BRAND(S) PROMOTED:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 97,
+                            "y": 338
+                        },
+                        {
+                            "x": 237,
+                            "y": 338
+                        },
+                        {
+                            "x": 237,
+                            "y": 355
+                        },
+                        {
+                            "x": 97,
+                            "y": 355
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 120,
+                    "length": 18
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "KOOL CIGARETTES",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 293,
+                            "y": 338
+                        },
+                        {
+                            "x": 425,
+                            "y": 338
+                        },
+                        {
+                            "x": 425,
+                            "y": 354
+                        },
+                        {
+                            "x": 293,
+                            "y": 354
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 139,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "TYPE OF PROMOTION:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 96,
+                            "y": 407
+                        },
+                        {
+                            "x": 232,
+                            "y": 407
+                        },
+                        {
+                            "x": 232,
+                            "y": 423
+                        },
+                        {
+                            "x": 96,
+                            "y": 423
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 155,
+                    "length": 18
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SEE ATTACHMENTS",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 276,
+                            "y": 403
+                        },
+                        {
+                            "x": 407,
+                            "y": 403
+                        },
+                        {
+                            "x": 407,
+                            "y": 418
+                        },
+                        {
+                            "x": 276,
+                            "y": 418
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 174,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "HOW WIDESPREAD?",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 98,
+                            "y": 526
+                        },
+                        {
+                            "x": 219,
+                            "y": 526
+                        },
+                        {
+                            "x": 219,
+                            "y": 543
+                        },
+                        {
+                            "x": 98,
+                            "y": 543
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 190,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "OTHER COMMENTS:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 98,
+                            "y": 596
+                        },
+                        {
+                            "x": 220,
+                            "y": 596
+                        },
+                        {
+                            "x": 220,
+                            "y": 612
+                        },
+                        {
+                            "x": 98,
+                            "y": 612
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 206,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CC:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 100,
+                            "y": 751
+                        },
+                        {
+                            "x": 123,
+                            "y": 751
+                        },
+                        {
+                            "x": 123,
+                            "y": 766
+                        },
+                        {
+                            "x": 100,
+                            "y": 766
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 222,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "A. H. TISCH",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 122,
+                            "y": 769
+                        },
+                        {
+                            "x": 195,
+                            "y": 769
+                        },
+                        {
+                            "x": 195,
+                            "y": 784
+                        },
+                        {
+                            "x": 122,
+                            "y": 784
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 226,
+                    "length": 11
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "R. H. ORCUTT",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 123,
+                            "y": 785
+                        },
+                        {
+                            "x": 208,
+                            "y": 785
+                        },
+                        {
+                            "x": 208,
+                            "y": 801
+                        },
+                        {
+                            "x": 123,
+                            "y": 800
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 238,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "M. A. PETERSON",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 803
+                        },
+                        {
+                            "x": 226,
+                            "y": 803
+                        },
+                        {
+                            "x": 226,
+                            "y": 819
+                        },
+                        {
+                            "x": 124,
+                            "y": 818
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 251,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "M. L ORLOWSKY",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 819
+                        },
+                        {
+                            "x": 227,
+                            "y": 820
+                        },
+                        {
+                            "x": 227,
+                            "y": 835
+                        },
+                        {
+                            "x": 124,
+                            "y": 835
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 266,
+                    "length": 13
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "L. GORDON",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 838
+                        },
+                        {
+                            "x": 195,
+                            "y": 838
+                        },
+                        {
+                            "x": 195,
+                            "y": 853
+                        },
+                        {
+                            "x": 124,
+                            "y": 853
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 280,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "P. J. McCANN",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 282,
+                            "y": 838
+                        },
+                        {
+                            "x": 366,
+                            "y": 838
+                        },
+                        {
+                            "x": 366,
+                            "y": 852
+                        },
+                        {
+                            "x": 282,
+                            "y": 852
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 290,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "J. P. MASTANDREA",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 854
+                        },
+                        {
+                            "x": 238,
+                            "y": 854
+                        },
+                        {
+                            "x": 238,
+                            "y": 870
+                        },
+                        {
+                            "x": 124,
+                            "y": 870
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 303,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "A. J. GIACOIO",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 282,
+                            "y": 854
+                        },
+                        {
+                            "x": 368,
+                            "y": 854
+                        },
+                        {
+                            "x": 368,
+                            "y": 870
+                        },
+                        {
+                            "x": 282,
+                            "y": 869
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 320,
+                    "length": 13
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "J. J. TATULLI",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 282,
+                            "y": 871
+                        },
+                        {
+                            "x": 361,
+                            "y": 871
+                        },
+                        {
+                            "x": 361,
+                            "y": 887
+                        },
+                        {
+                            "x": 282,
+                            "y": 887
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 334,
+                    "length": 13
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "COMPETITIVE ACTIVITIES AND PROMOTIONS",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 262,
+                            "y": 70
+                        },
+                        {
+                            "x": 568,
+                            "y": 71
+                        },
+                        {
+                            "x": 568,
+                            "y": 88
+                        },
+                        {
+                            "x": 262,
+                            "y": 87
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 348,
+                    "length": 37
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "G. R. TELFORD",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 282,
+                            "y": 768
+                        },
+                        {
+                            "x": 373,
+                            "y": 768
+                        },
+                        {
+                            "x": 373,
+                            "y": 784
+                        },
+                        {
+                            "x": 282,
+                            "y": 784
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 386,
+                    "length": 13
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "L. H. KERSH",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 406,
+                            "y": 769
+                        },
+                        {
+                            "x": 482,
+                            "y": 768
+                        },
+                        {
+                            "x": 483,
+                            "y": 783
+                        },
+                        {
+                            "x": 406,
+                            "y": 784
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 400,
+                    "length": 11
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "J. R. SLATER",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 406,
+                            "y": 786
+                        },
+                        {
+                            "x": 486,
+                            "y": 786
+                        },
+                        {
+                            "x": 486,
+                            "y": 801
+                        },
+                        {
+                            "x": 406,
+                            "y": 801
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 412,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "R. G. RYAN",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 282,
+                            "y": 785
+                        },
+                        {
+                            "x": 351,
+                            "y": 785
+                        },
+                        {
+                            "x": 352,
+                            "y": 801
+                        },
+                        {
+                            "x": 282,
+                            "y": 801
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 425,
+                    "length": 10
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "N. P. RUFFALO",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 282,
+                            "y": 803
+                        },
+                        {
+                            "x": 373,
+                            "y": 803
+                        },
+                        {
+                            "x": 373,
+                            "y": 818
+                        },
+                        {
+                            "x": 282,
+                            "y": 817
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 436,
+                    "length": 13
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "S. T. JONES",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 406,
+                            "y": 803
+                        },
+                        {
+                            "x": 480,
+                            "y": 803
+                        },
+                        {
+                            "x": 481,
+                            "y": 817
+                        },
+                        {
+                            "x": 406,
+                            "y": 818
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 450,
+                    "length": 11
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "T. L. ACHEY",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 283,
+                            "y": 820
+                        },
+                        {
+                            "x": 356,
+                            "y": 820
+                        },
+                        {
+                            "x": 356,
+                            "y": 835
+                        },
+                        {
+                            "x": 283,
+                            "y": 835
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 462,
+                    "length": 11
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "R. S. GOLDBRENNER",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 406,
+                            "y": 819
+                        },
+                        {
+                            "x": 534,
+                            "y": 819
+                        },
+                        {
+                            "x": 534,
+                            "y": 835
+                        },
+                        {
+                            "x": 406,
+                            "y": 835
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 474,
+                    "length": 17
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "N. SIMEONIDIS",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 406,
+                            "y": 838
+                        },
+                        {
+                            "x": 497,
+                            "y": 838
+                        },
+                        {
+                            "x": 497,
+                            "y": 852
+                        },
+                        {
+                            "x": 406,
+                            "y": 852
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 492,
+                    "length": 13
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "S. F. SMITH",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 406,
+                            "y": 854
+                        },
+                        {
+                            "x": 478,
+                            "y": 854
+                        },
+                        {
+                            "x": 478,
+                            "y": 869
+                        },
+                        {
+                            "x": 406,
+                            "y": 869
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 506,
+                    "length": 11
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "' 91355841",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 713,
+                            "y": 712
+                        },
+                        {
+                            "x": 728,
+                            "y": 713
+                        },
+                        {
+                            "x": 724,
+                            "y": 795
+                        },
+                        {
+                            "x": 709,
+                            "y": 794
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 518,
+                    "length": 10
+                }
+            ]
+        }
+    ],
+    "tables": [],
+    "key_value_pairs": [],
+    "styles": [],
+    "documents": []
+}

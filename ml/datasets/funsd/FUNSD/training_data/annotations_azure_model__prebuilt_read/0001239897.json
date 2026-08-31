@@ -1,0 +1,6272 @@
+{
+    "api_version": "2023-07-31",
+    "model_id": "prebuilt-read",
+    "content": "ME 1317\nTOP-LINES HON-MENTHOL PRODUCT TEST\nSUBJECT:\n25% Replacement of Propylene Glycol With SORBITOL\nSAMPLE:\n250 VICEROY/125 Marlboro/125 Winston\nCIGARETTES:\nREFERENCE: (#627/647) (#647/627) ATTRIBUTES\nSTRENGTH + 1 HARSHNESS + 5 AFTERTASTE +22\nPROJECT # 19,4-26A\n#627/#647 - Current VICEROY 84\n#647/#627 - Current VICEROY 84 except with 25% of the propylene glycol replaced with SORBITOL.\nCurrent VICEROY. 04. 25% PG with SORBITOL VICEROY\nVICEROY\n47% 53%\nCompetitive\n54 % 46 %\nCompetitive\nCurrent VICEROY 84 (#627/647 )\n25% PG W/SORBITOL (@ 647/627)\nCurrent VICEROY 84 (# 627/647)\n25% PG W/SORBITOL (#647/627 )\n-15*\n- 5\n+21\n-13\n- 4\n- 7\n+ 7*\n+14\n+26*\n*Statistically_Significant\nNOTICE IF THE FILM LMAGE IS LESS CLEAR THAN THIS NOTICE. IT IS DUE TO THE QUALITY OF THE DOCUMENT BEING FILMED.\n77905 6 4 3 3",
+    "languages": [],
+    "pages": [
+        {
+            "page_number": 1,
+            "angle": null,
+            "width": 762,
+            "height": 1000,
+            "unit": "pixel",
+            "lines": [
+                {
+                    "content": "ME 1317",
+                    "polygon": [
+                        {
+                            "x": 111,
+                            "y": 208
+                        },
+                        {
+                            "x": 140,
+                            "y": 208
+                        },
+                        {
+                            "x": 140,
+                            "y": 217
+                        },
+                        {
+                            "x": 111,
+                            "y": 216
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "TOP-LINES",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 236
+                        },
+                        {
+                            "x": 164,
+                            "y": 236
+                        },
+                        {
+                            "x": 164,
+                            "y": 248
+                        },
+                        {
+                            "x": 107,
+                            "y": 247
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 8,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "HON-MENTHOL PRODUCT TEST",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 247
+                        },
+                        {
+                            "x": 254,
+                            "y": 247
+                        },
+                        {
+                            "x": 254,
+                            "y": 260
+                        },
+                        {
+                            "x": 107,
+                            "y": 260
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 18,
+                            "length": 24
+                        }
+                    ]
+                },
+                {
+                    "content": "SUBJECT:",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 283
+                        },
+                        {
+                            "x": 157,
+                            "y": 283
+                        },
+                        {
+                            "x": 157,
+                            "y": 293
+                        },
+                        {
+                            "x": 107,
+                            "y": 293
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 43,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "25% Replacement of Propylene Glycol With SORBITOL",
+                    "polygon": [
+                        {
+                            "x": 202,
+                            "y": 282
+                        },
+                        {
+                            "x": 499,
+                            "y": 281
+                        },
+                        {
+                            "x": 499,
+                            "y": 294
+                        },
+                        {
+                            "x": 202,
+                            "y": 295
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 52,
+                            "length": 49
+                        }
+                    ]
+                },
+                {
+                    "content": "SAMPLE:",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 306
+                        },
+                        {
+                            "x": 151,
+                            "y": 306
+                        },
+                        {
+                            "x": 151,
+                            "y": 317
+                        },
+                        {
+                            "x": 107,
+                            "y": 316
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 102,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "250 VICEROY/125 Marlboro/125 Winston",
+                    "polygon": [
+                        {
+                            "x": 203,
+                            "y": 304
+                        },
+                        {
+                            "x": 422,
+                            "y": 304
+                        },
+                        {
+                            "x": 422,
+                            "y": 317
+                        },
+                        {
+                            "x": 203,
+                            "y": 318
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 110,
+                            "length": 36
+                        }
+                    ]
+                },
+                {
+                    "content": "CIGARETTES:",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 329
+                        },
+                        {
+                            "x": 174,
+                            "y": 329
+                        },
+                        {
+                            "x": 173,
+                            "y": 340
+                        },
+                        {
+                            "x": 107,
+                            "y": 339
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 147,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "REFERENCE:",
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 456
+                        },
+                        {
+                            "x": 175,
+                            "y": 456
+                        },
+                        {
+                            "x": 175,
+                            "y": 467
+                        },
+                        {
+                            "x": 112,
+                            "y": 467
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 159,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "(#627/647)",
+                    "polygon": [
+                        {
+                            "x": 109,
+                            "y": 467
+                        },
+                        {
+                            "x": 169,
+                            "y": 467
+                        },
+                        {
+                            "x": 169,
+                            "y": 480
+                        },
+                        {
+                            "x": 109,
+                            "y": 479
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 170,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "(#647/627)",
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 479
+                        },
+                        {
+                            "x": 168,
+                            "y": 480
+                        },
+                        {
+                            "x": 168,
+                            "y": 492
+                        },
+                        {
+                            "x": 110,
+                            "y": 491
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 181,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "ATTRIBUTES",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 501
+                        },
+                        {
+                            "x": 174,
+                            "y": 501
+                        },
+                        {
+                            "x": 174,
+                            "y": 513
+                        },
+                        {
+                            "x": 108,
+                            "y": 513
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 192,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "STRENGTH",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 559
+                        },
+                        {
+                            "x": 158,
+                            "y": 558
+                        },
+                        {
+                            "x": 158,
+                            "y": 569
+                        },
+                        {
+                            "x": 107,
+                            "y": 569
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 203,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "+ 1",
+                    "polygon": [
+                        {
+                            "x": 209,
+                            "y": 561
+                        },
+                        {
+                            "x": 228,
+                            "y": 560
+                        },
+                        {
+                            "x": 229,
+                            "y": 569
+                        },
+                        {
+                            "x": 209,
+                            "y": 569
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 212,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "HARSHNESS",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 571
+                        },
+                        {
+                            "x": 165,
+                            "y": 571
+                        },
+                        {
+                            "x": 165,
+                            "y": 580
+                        },
+                        {
+                            "x": 108,
+                            "y": 580
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 216,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "+ 5",
+                    "polygon": [
+                        {
+                            "x": 209,
+                            "y": 572
+                        },
+                        {
+                            "x": 230,
+                            "y": 571
+                        },
+                        {
+                            "x": 230,
+                            "y": 580
+                        },
+                        {
+                            "x": 209,
+                            "y": 580
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 226,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "AFTERTASTE",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 582
+                        },
+                        {
+                            "x": 170,
+                            "y": 582
+                        },
+                        {
+                            "x": 170,
+                            "y": 592
+                        },
+                        {
+                            "x": 107,
+                            "y": 592
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 230,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "+22",
+                    "polygon": [
+                        {
+                            "x": 206,
+                            "y": 583
+                        },
+                        {
+                            "x": 230,
+                            "y": 583
+                        },
+                        {
+                            "x": 230,
+                            "y": 592
+                        },
+                        {
+                            "x": 206,
+                            "y": 592
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 241,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "PROJECT # 19,4-26A",
+                    "polygon": [
+                        {
+                            "x": 437,
+                            "y": 235
+                        },
+                        {
+                            "x": 547,
+                            "y": 234
+                        },
+                        {
+                            "x": 548,
+                            "y": 247
+                        },
+                        {
+                            "x": 437,
+                            "y": 248
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 245,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "#627/#647 - Current VICEROY 84",
+                    "polygon": [
+                        {
+                            "x": 201,
+                            "y": 339
+                        },
+                        {
+                            "x": 384,
+                            "y": 338
+                        },
+                        {
+                            "x": 384,
+                            "y": 351
+                        },
+                        {
+                            "x": 201,
+                            "y": 352
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 264,
+                            "length": 30
+                        }
+                    ]
+                },
+                {
+                    "content": "#647/#627 - Current VICEROY 84 except with",
+                    "polygon": [
+                        {
+                            "x": 201,
+                            "y": 361
+                        },
+                        {
+                            "x": 459,
+                            "y": 360
+                        },
+                        {
+                            "x": 459,
+                            "y": 374
+                        },
+                        {
+                            "x": 201,
+                            "y": 375
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 295,
+                            "length": 42
+                        }
+                    ]
+                },
+                {
+                    "content": "25% of the propylene glycol",
+                    "polygon": [
+                        {
+                            "x": 274,
+                            "y": 373
+                        },
+                        {
+                            "x": 440,
+                            "y": 372
+                        },
+                        {
+                            "x": 440,
+                            "y": 386
+                        },
+                        {
+                            "x": 274,
+                            "y": 386
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 338,
+                            "length": 27
+                        }
+                    ]
+                },
+                {
+                    "content": "replaced with SORBITOL.",
+                    "polygon": [
+                        {
+                            "x": 273,
+                            "y": 385
+                        },
+                        {
+                            "x": 414,
+                            "y": 384
+                        },
+                        {
+                            "x": 414,
+                            "y": 397
+                        },
+                        {
+                            "x": 273,
+                            "y": 398
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 366,
+                            "length": 23
+                        }
+                    ]
+                },
+                {
+                    "content": "Current VICEROY. 04.",
+                    "polygon": [
+                        {
+                            "x": 184,
+                            "y": 468
+                        },
+                        {
+                            "x": 297,
+                            "y": 468
+                        },
+                        {
+                            "x": 297,
+                            "y": 479
+                        },
+                        {
+                            "x": 184,
+                            "y": 479
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 390,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "25% PG with SORBITOL",
+                    "polygon": [
+                        {
+                            "x": 185,
+                            "y": 480
+                        },
+                        {
+                            "x": 308,
+                            "y": 480
+                        },
+                        {
+                            "x": 308,
+                            "y": 490
+                        },
+                        {
+                            "x": 185,
+                            "y": 490
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 411,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "VICEROY",
+                    "polygon": [
+                        {
+                            "x": 226,
+                            "y": 502
+                        },
+                        {
+                            "x": 271,
+                            "y": 502
+                        },
+                        {
+                            "x": 271,
+                            "y": 511
+                        },
+                        {
+                            "x": 226,
+                            "y": 511
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 432,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "VICEROY",
+                    "polygon": [
+                        {
+                            "x": 345,
+                            "y": 456
+                        },
+                        {
+                            "x": 393,
+                            "y": 456
+                        },
+                        {
+                            "x": 393,
+                            "y": 466
+                        },
+                        {
+                            "x": 345,
+                            "y": 466
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 440,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "47%",
+                    "polygon": [
+                        {
+                            "x": 377,
+                            "y": 468
+                        },
+                        {
+                            "x": 399,
+                            "y": 467
+                        },
+                        {
+                            "x": 399,
+                            "y": 478
+                        },
+                        {
+                            "x": 378,
+                            "y": 478
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 448,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "53%",
+                    "polygon": [
+                        {
+                            "x": 376,
+                            "y": 479
+                        },
+                        {
+                            "x": 398,
+                            "y": 479
+                        },
+                        {
+                            "x": 399,
+                            "y": 489
+                        },
+                        {
+                            "x": 376,
+                            "y": 489
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 452,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "Competitive",
+                    "polygon": [
+                        {
+                            "x": 477,
+                            "y": 456
+                        },
+                        {
+                            "x": 549,
+                            "y": 456
+                        },
+                        {
+                            "x": 549,
+                            "y": 467
+                        },
+                        {
+                            "x": 477,
+                            "y": 467
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 456,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "54 %",
+                    "polygon": [
+                        {
+                            "x": 514,
+                            "y": 468
+                        },
+                        {
+                            "x": 542,
+                            "y": 467
+                        },
+                        {
+                            "x": 542,
+                            "y": 478
+                        },
+                        {
+                            "x": 514,
+                            "y": 477
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 468,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "46 %",
+                    "polygon": [
+                        {
+                            "x": 513,
+                            "y": 480
+                        },
+                        {
+                            "x": 542,
+                            "y": 478
+                        },
+                        {
+                            "x": 543,
+                            "y": 488
+                        },
+                        {
+                            "x": 513,
+                            "y": 489
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 473,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "Competitive",
+                    "polygon": [
+                        {
+                            "x": 466,
+                            "y": 500
+                        },
+                        {
+                            "x": 536,
+                            "y": 500
+                        },
+                        {
+                            "x": 536,
+                            "y": 511
+                        },
+                        {
+                            "x": 466,
+                            "y": 511
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 478,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "Current",
+                    "polygon": [
+                        {
+                            "x": 189,
+                            "y": 513
+                        },
+                        {
+                            "x": 235,
+                            "y": 513
+                        },
+                        {
+                            "x": 235,
+                            "y": 524
+                        },
+                        {
+                            "x": 189,
+                            "y": 523
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 490,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "VICEROY 84",
+                    "polygon": [
+                        {
+                            "x": 183,
+                            "y": 525
+                        },
+                        {
+                            "x": 249,
+                            "y": 524
+                        },
+                        {
+                            "x": 249,
+                            "y": 535
+                        },
+                        {
+                            "x": 183,
+                            "y": 536
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 498,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "(#627/647 )",
+                    "polygon": [
+                        {
+                            "x": 186,
+                            "y": 535
+                        },
+                        {
+                            "x": 254,
+                            "y": 535
+                        },
+                        {
+                            "x": 254,
+                            "y": 547
+                        },
+                        {
+                            "x": 186,
+                            "y": 547
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 509,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "25% PG",
+                    "polygon": [
+                        {
+                            "x": 281,
+                            "y": 513
+                        },
+                        {
+                            "x": 320,
+                            "y": 513
+                        },
+                        {
+                            "x": 320,
+                            "y": 523
+                        },
+                        {
+                            "x": 281,
+                            "y": 523
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 521,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "W/SORBITOL",
+                    "polygon": [
+                        {
+                            "x": 267,
+                            "y": 525
+                        },
+                        {
+                            "x": 331,
+                            "y": 524
+                        },
+                        {
+                            "x": 332,
+                            "y": 535
+                        },
+                        {
+                            "x": 267,
+                            "y": 537
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 528,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "(@ 647/627)",
+                    "polygon": [
+                        {
+                            "x": 271,
+                            "y": 535
+                        },
+                        {
+                            "x": 337,
+                            "y": 534
+                        },
+                        {
+                            "x": 337,
+                            "y": 547
+                        },
+                        {
+                            "x": 271,
+                            "y": 548
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 539,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "Current",
+                    "polygon": [
+                        {
+                            "x": 430,
+                            "y": 513
+                        },
+                        {
+                            "x": 475,
+                            "y": 513
+                        },
+                        {
+                            "x": 475,
+                            "y": 522
+                        },
+                        {
+                            "x": 430,
+                            "y": 522
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 551,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "VICEROY 84",
+                    "polygon": [
+                        {
+                            "x": 425,
+                            "y": 524
+                        },
+                        {
+                            "x": 490,
+                            "y": 524
+                        },
+                        {
+                            "x": 490,
+                            "y": 533
+                        },
+                        {
+                            "x": 425,
+                            "y": 533
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 559,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "(# 627/647)",
+                    "polygon": [
+                        {
+                            "x": 426,
+                            "y": 535
+                        },
+                        {
+                            "x": 494,
+                            "y": 534
+                        },
+                        {
+                            "x": 494,
+                            "y": 546
+                        },
+                        {
+                            "x": 427,
+                            "y": 546
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 570,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "25% PG",
+                    "polygon": [
+                        {
+                            "x": 523,
+                            "y": 512
+                        },
+                        {
+                            "x": 562,
+                            "y": 512
+                        },
+                        {
+                            "x": 562,
+                            "y": 522
+                        },
+                        {
+                            "x": 523,
+                            "y": 522
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 582,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "W/SORBITOL",
+                    "polygon": [
+                        {
+                            "x": 508,
+                            "y": 524
+                        },
+                        {
+                            "x": 574,
+                            "y": 523
+                        },
+                        {
+                            "x": 574,
+                            "y": 534
+                        },
+                        {
+                            "x": 508,
+                            "y": 535
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 589,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "(#647/627 )",
+                    "polygon": [
+                        {
+                            "x": 509,
+                            "y": 533
+                        },
+                        {
+                            "x": 578,
+                            "y": 534
+                        },
+                        {
+                            "x": 578,
+                            "y": 546
+                        },
+                        {
+                            "x": 509,
+                            "y": 545
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 600,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "-15*",
+                    "polygon": [
+                        {
+                            "x": 294,
+                            "y": 560
+                        },
+                        {
+                            "x": 320,
+                            "y": 559
+                        },
+                        {
+                            "x": 320,
+                            "y": 568
+                        },
+                        {
+                            "x": 294,
+                            "y": 569
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 612,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "- 5",
+                    "polygon": [
+                        {
+                            "x": 293,
+                            "y": 572
+                        },
+                        {
+                            "x": 315,
+                            "y": 571
+                        },
+                        {
+                            "x": 315,
+                            "y": 580
+                        },
+                        {
+                            "x": 294,
+                            "y": 580
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 617,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "+21",
+                    "polygon": [
+                        {
+                            "x": 294,
+                            "y": 583
+                        },
+                        {
+                            "x": 314,
+                            "y": 583
+                        },
+                        {
+                            "x": 314,
+                            "y": 591
+                        },
+                        {
+                            "x": 294,
+                            "y": 592
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 621,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "-13",
+                    "polygon": [
+                        {
+                            "x": 452,
+                            "y": 559
+                        },
+                        {
+                            "x": 469,
+                            "y": 559
+                        },
+                        {
+                            "x": 470,
+                            "y": 570
+                        },
+                        {
+                            "x": 452,
+                            "y": 569
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 625,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "- 4",
+                    "polygon": [
+                        {
+                            "x": 534,
+                            "y": 560
+                        },
+                        {
+                            "x": 554,
+                            "y": 559
+                        },
+                        {
+                            "x": 555,
+                            "y": 567
+                        },
+                        {
+                            "x": 535,
+                            "y": 567
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 629,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "- 7",
+                    "polygon": [
+                        {
+                            "x": 451,
+                            "y": 571
+                        },
+                        {
+                            "x": 471,
+                            "y": 570
+                        },
+                        {
+                            "x": 471,
+                            "y": 578
+                        },
+                        {
+                            "x": 451,
+                            "y": 578
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 633,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "+ 7*",
+                    "polygon": [
+                        {
+                            "x": 534,
+                            "y": 570
+                        },
+                        {
+                            "x": 561,
+                            "y": 570
+                        },
+                        {
+                            "x": 561,
+                            "y": 578
+                        },
+                        {
+                            "x": 534,
+                            "y": 579
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 637,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "+14",
+                    "polygon": [
+                        {
+                            "x": 450,
+                            "y": 582
+                        },
+                        {
+                            "x": 471,
+                            "y": 582
+                        },
+                        {
+                            "x": 471,
+                            "y": 591
+                        },
+                        {
+                            "x": 451,
+                            "y": 591
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 642,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "+26*",
+                    "polygon": [
+                        {
+                            "x": 535,
+                            "y": 582
+                        },
+                        {
+                            "x": 561,
+                            "y": 581
+                        },
+                        {
+                            "x": 561,
+                            "y": 590
+                        },
+                        {
+                            "x": 535,
+                            "y": 591
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 646,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "*Statistically_Significant",
+                    "polygon": [
+                        {
+                            "x": 294,
+                            "y": 599
+                        },
+                        {
+                            "x": 452,
+                            "y": 599
+                        },
+                        {
+                            "x": 452,
+                            "y": 611
+                        },
+                        {
+                            "x": 294,
+                            "y": 611
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 651,
+                            "length": 26
+                        }
+                    ]
+                },
+                {
+                    "content": "NOTICE IF THE FILM LMAGE IS LESS CLEAR",
+                    "polygon": [
+                        {
+                            "x": 13,
+                            "y": 912
+                        },
+                        {
+                            "x": 207,
+                            "y": 908
+                        },
+                        {
+                            "x": 207,
+                            "y": 919
+                        },
+                        {
+                            "x": 13,
+                            "y": 923
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 678,
+                            "length": 38
+                        }
+                    ]
+                },
+                {
+                    "content": "THAN THIS NOTICE. IT IS DUE TO THE",
+                    "polygon": [
+                        {
+                            "x": 13,
+                            "y": 923
+                        },
+                        {
+                            "x": 188,
+                            "y": 919
+                        },
+                        {
+                            "x": 188,
+                            "y": 929
+                        },
+                        {
+                            "x": 14,
+                            "y": 933
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 717,
+                            "length": 34
+                        }
+                    ]
+                },
+                {
+                    "content": "QUALITY OF THE DOCUMENT BEING FILMED.",
+                    "polygon": [
+                        {
+                            "x": 14,
+                            "y": 932
+                        },
+                        {
+                            "x": 200,
+                            "y": 928
+                        },
+                        {
+                            "x": 200,
+                            "y": 939
+                        },
+                        {
+                            "x": 14,
+                            "y": 943
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 752,
+                            "length": 37
+                        }
+                    ]
+                },
+                {
+                    "content": "77905 6 4 3 3",
+                    "polygon": [
+                        {
+                            "x": 208,
+                            "y": 908
+                        },
+                        {
+                            "x": 415,
+                            "y": 908
+                        },
+                        {
+                            "x": 415,
+                            "y": 936
+                        },
+                        {
+                            "x": 208,
+                            "y": 936
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 790,
+                            "length": 13
+                        }
+                    ]
+                }
+            ],
+            "words": [
+                {
+                    "content": "ME",
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 208
+                        },
+                        {
+                            "x": 121,
+                            "y": 209
+                        },
+                        {
+                            "x": 121,
+                            "y": 217
+                        },
+                        {
+                            "x": 112,
+                            "y": 216
+                        }
+                    ],
+                    "span": {
+                        "offset": 0,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1317",
+                    "polygon": [
+                        {
+                            "x": 125,
+                            "y": 209
+                        },
+                        {
+                            "x": 140,
+                            "y": 208
+                        },
+                        {
+                            "x": 139,
+                            "y": 217
+                        },
+                        {
+                            "x": 125,
+                            "y": 217
+                        }
+                    ],
+                    "span": {
+                        "offset": 3,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TOP-LINES",
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 236
+                        },
+                        {
+                            "x": 164,
+                            "y": 237
+                        },
+                        {
+                            "x": 164,
+                            "y": 248
+                        },
+                        {
+                            "x": 110,
+                            "y": 248
+                        }
+                    ],
+                    "span": {
+                        "offset": 8,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "HON-MENTHOL",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 249
+                        },
+                        {
+                            "x": 175,
+                            "y": 248
+                        },
+                        {
+                            "x": 175,
+                            "y": 260
+                        },
+                        {
+                            "x": 108,
+                            "y": 259
+                        }
+                    ],
+                    "span": {
+                        "offset": 18,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PRODUCT",
+                    "polygon": [
+                        {
+                            "x": 181,
+                            "y": 248
+                        },
+                        {
+                            "x": 224,
+                            "y": 248
+                        },
+                        {
+                            "x": 224,
+                            "y": 260
+                        },
+                        {
+                            "x": 181,
+                            "y": 260
+                        }
+                    ],
+                    "span": {
+                        "offset": 30,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TEST",
+                    "polygon": [
+                        {
+                            "x": 229,
+                            "y": 248
+                        },
+                        {
+                            "x": 254,
+                            "y": 248
+                        },
+                        {
+                            "x": 254,
+                            "y": 261
+                        },
+                        {
+                            "x": 229,
+                            "y": 260
+                        }
+                    ],
+                    "span": {
+                        "offset": 38,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SUBJECT:",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 283
+                        },
+                        {
+                            "x": 156,
+                            "y": 284
+                        },
+                        {
+                            "x": 156,
+                            "y": 294
+                        },
+                        {
+                            "x": 108,
+                            "y": 293
+                        }
+                    ],
+                    "span": {
+                        "offset": 43,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "25%",
+                    "polygon": [
+                        {
+                            "x": 203,
+                            "y": 284
+                        },
+                        {
+                            "x": 223,
+                            "y": 284
+                        },
+                        {
+                            "x": 224,
+                            "y": 294
+                        },
+                        {
+                            "x": 203,
+                            "y": 294
+                        }
+                    ],
+                    "span": {
+                        "offset": 52,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Replacement",
+                    "polygon": [
+                        {
+                            "x": 226,
+                            "y": 283
+                        },
+                        {
+                            "x": 293,
+                            "y": 283
+                        },
+                        {
+                            "x": 294,
+                            "y": 294
+                        },
+                        {
+                            "x": 227,
+                            "y": 294
+                        }
+                    ],
+                    "span": {
+                        "offset": 56,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "of",
+                    "polygon": [
+                        {
+                            "x": 299,
+                            "y": 283
+                        },
+                        {
+                            "x": 312,
+                            "y": 282
+                        },
+                        {
+                            "x": 312,
+                            "y": 294
+                        },
+                        {
+                            "x": 299,
+                            "y": 294
+                        }
+                    ],
+                    "span": {
+                        "offset": 68,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Propylene",
+                    "polygon": [
+                        {
+                            "x": 317,
+                            "y": 282
+                        },
+                        {
+                            "x": 371,
+                            "y": 282
+                        },
+                        {
+                            "x": 371,
+                            "y": 294
+                        },
+                        {
+                            "x": 317,
+                            "y": 294
+                        }
+                    ],
+                    "span": {
+                        "offset": 71,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Glycol",
+                    "polygon": [
+                        {
+                            "x": 376,
+                            "y": 282
+                        },
+                        {
+                            "x": 414,
+                            "y": 282
+                        },
+                        {
+                            "x": 415,
+                            "y": 294
+                        },
+                        {
+                            "x": 377,
+                            "y": 294
+                        }
+                    ],
+                    "span": {
+                        "offset": 81,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "With",
+                    "polygon": [
+                        {
+                            "x": 417,
+                            "y": 282
+                        },
+                        {
+                            "x": 443,
+                            "y": 281
+                        },
+                        {
+                            "x": 444,
+                            "y": 294
+                        },
+                        {
+                            "x": 418,
+                            "y": 294
+                        }
+                    ],
+                    "span": {
+                        "offset": 88,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SORBITOL",
+                    "polygon": [
+                        {
+                            "x": 449,
+                            "y": 281
+                        },
+                        {
+                            "x": 497,
+                            "y": 281
+                        },
+                        {
+                            "x": 498,
+                            "y": 295
+                        },
+                        {
+                            "x": 450,
+                            "y": 294
+                        }
+                    ],
+                    "span": {
+                        "offset": 93,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SAMPLE:",
+                    "polygon": [
+                        {
+                            "x": 109,
+                            "y": 306
+                        },
+                        {
+                            "x": 151,
+                            "y": 307
+                        },
+                        {
+                            "x": 151,
+                            "y": 317
+                        },
+                        {
+                            "x": 109,
+                            "y": 317
+                        }
+                    ],
+                    "span": {
+                        "offset": 102,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "250",
+                    "polygon": [
+                        {
+                            "x": 203,
+                            "y": 305
+                        },
+                        {
+                            "x": 222,
+                            "y": 305
+                        },
+                        {
+                            "x": 222,
+                            "y": 318
+                        },
+                        {
+                            "x": 203,
+                            "y": 319
+                        }
+                    ],
+                    "span": {
+                        "offset": 110,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "VICEROY/125",
+                    "polygon": [
+                        {
+                            "x": 226,
+                            "y": 305
+                        },
+                        {
+                            "x": 293,
+                            "y": 305
+                        },
+                        {
+                            "x": 294,
+                            "y": 318
+                        },
+                        {
+                            "x": 226,
+                            "y": 318
+                        }
+                    ],
+                    "span": {
+                        "offset": 114,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Marlboro/125",
+                    "polygon": [
+                        {
+                            "x": 298,
+                            "y": 305
+                        },
+                        {
+                            "x": 372,
+                            "y": 305
+                        },
+                        {
+                            "x": 372,
+                            "y": 318
+                        },
+                        {
+                            "x": 298,
+                            "y": 318
+                        }
+                    ],
+                    "span": {
+                        "offset": 126,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Winston",
+                    "polygon": [
+                        {
+                            "x": 376,
+                            "y": 305
+                        },
+                        {
+                            "x": 420,
+                            "y": 305
+                        },
+                        {
+                            "x": 420,
+                            "y": 318
+                        },
+                        {
+                            "x": 377,
+                            "y": 318
+                        }
+                    ],
+                    "span": {
+                        "offset": 139,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CIGARETTES:",
+                    "polygon": [
+                        {
+                            "x": 109,
+                            "y": 329
+                        },
+                        {
+                            "x": 174,
+                            "y": 329
+                        },
+                        {
+                            "x": 174,
+                            "y": 341
+                        },
+                        {
+                            "x": 109,
+                            "y": 340
+                        }
+                    ],
+                    "span": {
+                        "offset": 147,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "REFERENCE:",
+                    "polygon": [
+                        {
+                            "x": 114,
+                            "y": 457
+                        },
+                        {
+                            "x": 175,
+                            "y": 457
+                        },
+                        {
+                            "x": 175,
+                            "y": 468
+                        },
+                        {
+                            "x": 114,
+                            "y": 467
+                        }
+                    ],
+                    "span": {
+                        "offset": 159,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(#627/647)",
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 468
+                        },
+                        {
+                            "x": 168,
+                            "y": 468
+                        },
+                        {
+                            "x": 169,
+                            "y": 480
+                        },
+                        {
+                            "x": 110,
+                            "y": 480
+                        }
+                    ],
+                    "span": {
+                        "offset": 170,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(#647/627)",
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 480
+                        },
+                        {
+                            "x": 168,
+                            "y": 480
+                        },
+                        {
+                            "x": 168,
+                            "y": 492
+                        },
+                        {
+                            "x": 110,
+                            "y": 491
+                        }
+                    ],
+                    "span": {
+                        "offset": 181,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ATTRIBUTES",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 502
+                        },
+                        {
+                            "x": 169,
+                            "y": 502
+                        },
+                        {
+                            "x": 169,
+                            "y": 514
+                        },
+                        {
+                            "x": 109,
+                            "y": 513
+                        }
+                    ],
+                    "span": {
+                        "offset": 192,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "STRENGTH",
+                    "polygon": [
+                        {
+                            "x": 109,
+                            "y": 559
+                        },
+                        {
+                            "x": 156,
+                            "y": 559
+                        },
+                        {
+                            "x": 156,
+                            "y": 569
+                        },
+                        {
+                            "x": 109,
+                            "y": 570
+                        }
+                    ],
+                    "span": {
+                        "offset": 203,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "+",
+                    "polygon": [
+                        {
+                            "x": 210,
+                            "y": 560
+                        },
+                        {
+                            "x": 215,
+                            "y": 560
+                        },
+                        {
+                            "x": 216,
+                            "y": 569
+                        },
+                        {
+                            "x": 210,
+                            "y": 569
+                        }
+                    ],
+                    "span": {
+                        "offset": 212,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        {
+                            "x": 223,
+                            "y": 560
+                        },
+                        {
+                            "x": 228,
+                            "y": 560
+                        },
+                        {
+                            "x": 228,
+                            "y": 568
+                        },
+                        {
+                            "x": 224,
+                            "y": 569
+                        }
+                    ],
+                    "span": {
+                        "offset": 214,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "HARSHNESS",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 572
+                        },
+                        {
+                            "x": 163,
+                            "y": 571
+                        },
+                        {
+                            "x": 163,
+                            "y": 581
+                        },
+                        {
+                            "x": 108,
+                            "y": 580
+                        }
+                    ],
+                    "span": {
+                        "offset": 216,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "+",
+                    "polygon": [
+                        {
+                            "x": 210,
+                            "y": 571
+                        },
+                        {
+                            "x": 218,
+                            "y": 571
+                        },
+                        {
+                            "x": 218,
+                            "y": 580
+                        },
+                        {
+                            "x": 210,
+                            "y": 580
+                        }
+                    ],
+                    "span": {
+                        "offset": 226,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "5",
+                    "polygon": [
+                        {
+                            "x": 223,
+                            "y": 571
+                        },
+                        {
+                            "x": 229,
+                            "y": 571
+                        },
+                        {
+                            "x": 229,
+                            "y": 580
+                        },
+                        {
+                            "x": 224,
+                            "y": 580
+                        }
+                    ],
+                    "span": {
+                        "offset": 228,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "AFTERTASTE",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 583
+                        },
+                        {
+                            "x": 169,
+                            "y": 583
+                        },
+                        {
+                            "x": 169,
+                            "y": 592
+                        },
+                        {
+                            "x": 109,
+                            "y": 592
+                        }
+                    ],
+                    "span": {
+                        "offset": 230,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "+22",
+                    "polygon": [
+                        {
+                            "x": 210,
+                            "y": 583
+                        },
+                        {
+                            "x": 229,
+                            "y": 583
+                        },
+                        {
+                            "x": 229,
+                            "y": 592
+                        },
+                        {
+                            "x": 210,
+                            "y": 592
+                        }
+                    ],
+                    "span": {
+                        "offset": 241,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PROJECT",
+                    "polygon": [
+                        {
+                            "x": 438,
+                            "y": 236
+                        },
+                        {
+                            "x": 481,
+                            "y": 235
+                        },
+                        {
+                            "x": 481,
+                            "y": 248
+                        },
+                        {
+                            "x": 438,
+                            "y": 249
+                        }
+                    ],
+                    "span": {
+                        "offset": 245,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "#",
+                    "polygon": [
+                        {
+                            "x": 486,
+                            "y": 235
+                        },
+                        {
+                            "x": 492,
+                            "y": 235
+                        },
+                        {
+                            "x": 492,
+                            "y": 247
+                        },
+                        {
+                            "x": 486,
+                            "y": 248
+                        }
+                    ],
+                    "span": {
+                        "offset": 253,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "19,4-26A",
+                    "polygon": [
+                        {
+                            "x": 499,
+                            "y": 235
+                        },
+                        {
+                            "x": 546,
+                            "y": 235
+                        },
+                        {
+                            "x": 546,
+                            "y": 247
+                        },
+                        {
+                            "x": 499,
+                            "y": 247
+                        }
+                    ],
+                    "span": {
+                        "offset": 255,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "#627/#647",
+                    "polygon": [
+                        {
+                            "x": 202,
+                            "y": 339
+                        },
+                        {
+                            "x": 258,
+                            "y": 339
+                        },
+                        {
+                            "x": 259,
+                            "y": 352
+                        },
+                        {
+                            "x": 202,
+                            "y": 352
+                        }
+                    ],
+                    "span": {
+                        "offset": 264,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        {
+                            "x": 262,
+                            "y": 339
+                        },
+                        {
+                            "x": 269,
+                            "y": 339
+                        },
+                        {
+                            "x": 269,
+                            "y": 352
+                        },
+                        {
+                            "x": 263,
+                            "y": 352
+                        }
+                    ],
+                    "span": {
+                        "offset": 274,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Current",
+                    "polygon": [
+                        {
+                            "x": 274,
+                            "y": 339
+                        },
+                        {
+                            "x": 318,
+                            "y": 339
+                        },
+                        {
+                            "x": 318,
+                            "y": 352
+                        },
+                        {
+                            "x": 274,
+                            "y": 352
+                        }
+                    ],
+                    "span": {
+                        "offset": 276,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "VICEROY",
+                    "polygon": [
+                        {
+                            "x": 323,
+                            "y": 339
+                        },
+                        {
+                            "x": 366,
+                            "y": 339
+                        },
+                        {
+                            "x": 366,
+                            "y": 352
+                        },
+                        {
+                            "x": 323,
+                            "y": 352
+                        }
+                    ],
+                    "span": {
+                        "offset": 284,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "84",
+                    "polygon": [
+                        {
+                            "x": 371,
+                            "y": 339
+                        },
+                        {
+                            "x": 384,
+                            "y": 339
+                        },
+                        {
+                            "x": 384,
+                            "y": 351
+                        },
+                        {
+                            "x": 371,
+                            "y": 352
+                        }
+                    ],
+                    "span": {
+                        "offset": 292,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "#647/#627",
+                    "polygon": [
+                        {
+                            "x": 202,
+                            "y": 362
+                        },
+                        {
+                            "x": 259,
+                            "y": 363
+                        },
+                        {
+                            "x": 259,
+                            "y": 375
+                        },
+                        {
+                            "x": 202,
+                            "y": 375
+                        }
+                    ],
+                    "span": {
+                        "offset": 295,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        {
+                            "x": 263,
+                            "y": 363
+                        },
+                        {
+                            "x": 269,
+                            "y": 363
+                        },
+                        {
+                            "x": 269,
+                            "y": 374
+                        },
+                        {
+                            "x": 263,
+                            "y": 375
+                        }
+                    ],
+                    "span": {
+                        "offset": 305,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Current",
+                    "polygon": [
+                        {
+                            "x": 275,
+                            "y": 363
+                        },
+                        {
+                            "x": 319,
+                            "y": 363
+                        },
+                        {
+                            "x": 319,
+                            "y": 374
+                        },
+                        {
+                            "x": 275,
+                            "y": 374
+                        }
+                    ],
+                    "span": {
+                        "offset": 307,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "VICEROY",
+                    "polygon": [
+                        {
+                            "x": 323,
+                            "y": 363
+                        },
+                        {
+                            "x": 366,
+                            "y": 362
+                        },
+                        {
+                            "x": 366,
+                            "y": 374
+                        },
+                        {
+                            "x": 324,
+                            "y": 374
+                        }
+                    ],
+                    "span": {
+                        "offset": 315,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "84",
+                    "polygon": [
+                        {
+                            "x": 372,
+                            "y": 362
+                        },
+                        {
+                            "x": 384,
+                            "y": 362
+                        },
+                        {
+                            "x": 384,
+                            "y": 374
+                        },
+                        {
+                            "x": 372,
+                            "y": 374
+                        }
+                    ],
+                    "span": {
+                        "offset": 323,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "except",
+                    "polygon": [
+                        {
+                            "x": 389,
+                            "y": 362
+                        },
+                        {
+                            "x": 426,
+                            "y": 361
+                        },
+                        {
+                            "x": 426,
+                            "y": 374
+                        },
+                        {
+                            "x": 389,
+                            "y": 374
+                        }
+                    ],
+                    "span": {
+                        "offset": 326,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "with",
+                    "polygon": [
+                        {
+                            "x": 431,
+                            "y": 361
+                        },
+                        {
+                            "x": 456,
+                            "y": 361
+                        },
+                        {
+                            "x": 456,
+                            "y": 374
+                        },
+                        {
+                            "x": 431,
+                            "y": 374
+                        }
+                    ],
+                    "span": {
+                        "offset": 333,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "25%",
+                    "polygon": [
+                        {
+                            "x": 276,
+                            "y": 374
+                        },
+                        {
+                            "x": 294,
+                            "y": 374
+                        },
+                        {
+                            "x": 295,
+                            "y": 386
+                        },
+                        {
+                            "x": 276,
+                            "y": 385
+                        }
+                    ],
+                    "span": {
+                        "offset": 338,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "of",
+                    "polygon": [
+                        {
+                            "x": 299,
+                            "y": 374
+                        },
+                        {
+                            "x": 312,
+                            "y": 374
+                        },
+                        {
+                            "x": 312,
+                            "y": 386
+                        },
+                        {
+                            "x": 300,
+                            "y": 386
+                        }
+                    ],
+                    "span": {
+                        "offset": 342,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        {
+                            "x": 318,
+                            "y": 374
+                        },
+                        {
+                            "x": 335,
+                            "y": 374
+                        },
+                        {
+                            "x": 336,
+                            "y": 386
+                        },
+                        {
+                            "x": 318,
+                            "y": 386
+                        }
+                    ],
+                    "span": {
+                        "offset": 345,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "propylene",
+                    "polygon": [
+                        {
+                            "x": 341,
+                            "y": 374
+                        },
+                        {
+                            "x": 396,
+                            "y": 374
+                        },
+                        {
+                            "x": 396,
+                            "y": 387
+                        },
+                        {
+                            "x": 341,
+                            "y": 387
+                        }
+                    ],
+                    "span": {
+                        "offset": 349,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "glycol",
+                    "polygon": [
+                        {
+                            "x": 402,
+                            "y": 374
+                        },
+                        {
+                            "x": 440,
+                            "y": 373
+                        },
+                        {
+                            "x": 439,
+                            "y": 386
+                        },
+                        {
+                            "x": 402,
+                            "y": 387
+                        }
+                    ],
+                    "span": {
+                        "offset": 359,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "replaced",
+                    "polygon": [
+                        {
+                            "x": 275,
+                            "y": 386
+                        },
+                        {
+                            "x": 324,
+                            "y": 385
+                        },
+                        {
+                            "x": 324,
+                            "y": 398
+                        },
+                        {
+                            "x": 275,
+                            "y": 398
+                        }
+                    ],
+                    "span": {
+                        "offset": 366,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "with",
+                    "polygon": [
+                        {
+                            "x": 328,
+                            "y": 385
+                        },
+                        {
+                            "x": 353,
+                            "y": 385
+                        },
+                        {
+                            "x": 354,
+                            "y": 398
+                        },
+                        {
+                            "x": 328,
+                            "y": 398
+                        }
+                    ],
+                    "span": {
+                        "offset": 375,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SORBITOL.",
+                    "polygon": [
+                        {
+                            "x": 359,
+                            "y": 385
+                        },
+                        {
+                            "x": 413,
+                            "y": 385
+                        },
+                        {
+                            "x": 414,
+                            "y": 398
+                        },
+                        {
+                            "x": 360,
+                            "y": 398
+                        }
+                    ],
+                    "span": {
+                        "offset": 380,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Current",
+                    "polygon": [
+                        {
+                            "x": 185,
+                            "y": 469
+                        },
+                        {
+                            "x": 228,
+                            "y": 468
+                        },
+                        {
+                            "x": 228,
+                            "y": 479
+                        },
+                        {
+                            "x": 185,
+                            "y": 479
+                        }
+                    ],
+                    "span": {
+                        "offset": 390,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "VICEROY.",
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 468
+                        },
+                        {
+                            "x": 279,
+                            "y": 468
+                        },
+                        {
+                            "x": 280,
+                            "y": 480
+                        },
+                        {
+                            "x": 233,
+                            "y": 480
+                        }
+                    ],
+                    "span": {
+                        "offset": 398,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "04.",
+                    "polygon": [
+                        {
+                            "x": 281,
+                            "y": 468
+                        },
+                        {
+                            "x": 297,
+                            "y": 468
+                        },
+                        {
+                            "x": 298,
+                            "y": 480
+                        },
+                        {
+                            "x": 282,
+                            "y": 480
+                        }
+                    ],
+                    "span": {
+                        "offset": 407,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "25%",
+                    "polygon": [
+                        {
+                            "x": 187,
+                            "y": 481
+                        },
+                        {
+                            "x": 205,
+                            "y": 481
+                        },
+                        {
+                            "x": 206,
+                            "y": 491
+                        },
+                        {
+                            "x": 187,
+                            "y": 491
+                        }
+                    ],
+                    "span": {
+                        "offset": 411,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PG",
+                    "polygon": [
+                        {
+                            "x": 210,
+                            "y": 481
+                        },
+                        {
+                            "x": 221,
+                            "y": 480
+                        },
+                        {
+                            "x": 221,
+                            "y": 491
+                        },
+                        {
+                            "x": 210,
+                            "y": 491
+                        }
+                    ],
+                    "span": {
+                        "offset": 415,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "with",
+                    "polygon": [
+                        {
+                            "x": 226,
+                            "y": 480
+                        },
+                        {
+                            "x": 251,
+                            "y": 480
+                        },
+                        {
+                            "x": 251,
+                            "y": 491
+                        },
+                        {
+                            "x": 227,
+                            "y": 491
+                        }
+                    ],
+                    "span": {
+                        "offset": 418,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SORBITOL",
+                    "polygon": [
+                        {
+                            "x": 258,
+                            "y": 480
+                        },
+                        {
+                            "x": 306,
+                            "y": 480
+                        },
+                        {
+                            "x": 307,
+                            "y": 491
+                        },
+                        {
+                            "x": 259,
+                            "y": 491
+                        }
+                    ],
+                    "span": {
+                        "offset": 423,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "VICEROY",
+                    "polygon": [
+                        {
+                            "x": 227,
+                            "y": 502
+                        },
+                        {
+                            "x": 269,
+                            "y": 502
+                        },
+                        {
+                            "x": 269,
+                            "y": 512
+                        },
+                        {
+                            "x": 228,
+                            "y": 512
+                        }
+                    ],
+                    "span": {
+                        "offset": 432,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "VICEROY",
+                    "polygon": [
+                        {
+                            "x": 347,
+                            "y": 457
+                        },
+                        {
+                            "x": 390,
+                            "y": 456
+                        },
+                        {
+                            "x": 390,
+                            "y": 466
+                        },
+                        {
+                            "x": 348,
+                            "y": 467
+                        }
+                    ],
+                    "span": {
+                        "offset": 440,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "47%",
+                    "polygon": [
+                        {
+                            "x": 378,
+                            "y": 467
+                        },
+                        {
+                            "x": 397,
+                            "y": 467
+                        },
+                        {
+                            "x": 397,
+                            "y": 478
+                        },
+                        {
+                            "x": 378,
+                            "y": 478
+                        }
+                    ],
+                    "span": {
+                        "offset": 448,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "53%",
+                    "polygon": [
+                        {
+                            "x": 378,
+                            "y": 479
+                        },
+                        {
+                            "x": 397,
+                            "y": 479
+                        },
+                        {
+                            "x": 397,
+                            "y": 489
+                        },
+                        {
+                            "x": 378,
+                            "y": 489
+                        }
+                    ],
+                    "span": {
+                        "offset": 452,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Competitive",
+                    "polygon": [
+                        {
+                            "x": 480,
+                            "y": 458
+                        },
+                        {
+                            "x": 546,
+                            "y": 456
+                        },
+                        {
+                            "x": 547,
+                            "y": 468
+                        },
+                        {
+                            "x": 481,
+                            "y": 467
+                        }
+                    ],
+                    "span": {
+                        "offset": 456,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "54",
+                    "polygon": [
+                        {
+                            "x": 517,
+                            "y": 467
+                        },
+                        {
+                            "x": 529,
+                            "y": 467
+                        },
+                        {
+                            "x": 529,
+                            "y": 478
+                        },
+                        {
+                            "x": 517,
+                            "y": 478
+                        }
+                    ],
+                    "span": {
+                        "offset": 468,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "%",
+                    "polygon": [
+                        {
+                            "x": 536,
+                            "y": 467
+                        },
+                        {
+                            "x": 542,
+                            "y": 467
+                        },
+                        {
+                            "x": 542,
+                            "y": 478
+                        },
+                        {
+                            "x": 536,
+                            "y": 478
+                        }
+                    ],
+                    "span": {
+                        "offset": 471,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "46",
+                    "polygon": [
+                        {
+                            "x": 517,
+                            "y": 480
+                        },
+                        {
+                            "x": 528,
+                            "y": 480
+                        },
+                        {
+                            "x": 528,
+                            "y": 489
+                        },
+                        {
+                            "x": 517,
+                            "y": 489
+                        }
+                    ],
+                    "span": {
+                        "offset": 473,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "%",
+                    "polygon": [
+                        {
+                            "x": 537,
+                            "y": 479
+                        },
+                        {
+                            "x": 543,
+                            "y": 479
+                        },
+                        {
+                            "x": 543,
+                            "y": 489
+                        },
+                        {
+                            "x": 537,
+                            "y": 489
+                        }
+                    ],
+                    "span": {
+                        "offset": 476,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Competitive",
+                    "polygon": [
+                        {
+                            "x": 468,
+                            "y": 501
+                        },
+                        {
+                            "x": 535,
+                            "y": 501
+                        },
+                        {
+                            "x": 535,
+                            "y": 511
+                        },
+                        {
+                            "x": 468,
+                            "y": 511
+                        }
+                    ],
+                    "span": {
+                        "offset": 478,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Current",
+                    "polygon": [
+                        {
+                            "x": 191,
+                            "y": 513
+                        },
+                        {
+                            "x": 234,
+                            "y": 514
+                        },
+                        {
+                            "x": 234,
+                            "y": 524
+                        },
+                        {
+                            "x": 191,
+                            "y": 524
+                        }
+                    ],
+                    "span": {
+                        "offset": 490,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "VICEROY",
+                    "polygon": [
+                        {
+                            "x": 186,
+                            "y": 526
+                        },
+                        {
+                            "x": 228,
+                            "y": 525
+                        },
+                        {
+                            "x": 228,
+                            "y": 536
+                        },
+                        {
+                            "x": 186,
+                            "y": 536
+                        }
+                    ],
+                    "span": {
+                        "offset": 498,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "84",
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 525
+                        },
+                        {
+                            "x": 245,
+                            "y": 525
+                        },
+                        {
+                            "x": 246,
+                            "y": 536
+                        },
+                        {
+                            "x": 234,
+                            "y": 536
+                        }
+                    ],
+                    "span": {
+                        "offset": 506,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(#627/647",
+                    "polygon": [
+                        {
+                            "x": 188,
+                            "y": 537
+                        },
+                        {
+                            "x": 241,
+                            "y": 536
+                        },
+                        {
+                            "x": 241,
+                            "y": 547
+                        },
+                        {
+                            "x": 188,
+                            "y": 547
+                        }
+                    ],
+                    "span": {
+                        "offset": 509,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ")",
+                    "polygon": [
+                        {
+                            "x": 246,
+                            "y": 536
+                        },
+                        {
+                            "x": 254,
+                            "y": 535
+                        },
+                        {
+                            "x": 254,
+                            "y": 547
+                        },
+                        {
+                            "x": 247,
+                            "y": 547
+                        }
+                    ],
+                    "span": {
+                        "offset": 519,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "25%",
+                    "polygon": [
+                        {
+                            "x": 283,
+                            "y": 514
+                        },
+                        {
+                            "x": 302,
+                            "y": 514
+                        },
+                        {
+                            "x": 302,
+                            "y": 523
+                        },
+                        {
+                            "x": 283,
+                            "y": 523
+                        }
+                    ],
+                    "span": {
+                        "offset": 521,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PG",
+                    "polygon": [
+                        {
+                            "x": 307,
+                            "y": 514
+                        },
+                        {
+                            "x": 318,
+                            "y": 513
+                        },
+                        {
+                            "x": 318,
+                            "y": 523
+                        },
+                        {
+                            "x": 307,
+                            "y": 523
+                        }
+                    ],
+                    "span": {
+                        "offset": 525,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "W/SORBITOL",
+                    "polygon": [
+                        {
+                            "x": 269,
+                            "y": 526
+                        },
+                        {
+                            "x": 331,
+                            "y": 524
+                        },
+                        {
+                            "x": 331,
+                            "y": 535
+                        },
+                        {
+                            "x": 269,
+                            "y": 537
+                        }
+                    ],
+                    "span": {
+                        "offset": 528,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(@",
+                    "polygon": [
+                        {
+                            "x": 272,
+                            "y": 537
+                        },
+                        {
+                            "x": 283,
+                            "y": 537
+                        },
+                        {
+                            "x": 283,
+                            "y": 547
+                        },
+                        {
+                            "x": 273,
+                            "y": 547
+                        }
+                    ],
+                    "span": {
+                        "offset": 539,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "647/627)",
+                    "polygon": [
+                        {
+                            "x": 288,
+                            "y": 537
+                        },
+                        {
+                            "x": 337,
+                            "y": 534
+                        },
+                        {
+                            "x": 337,
+                            "y": 547
+                        },
+                        {
+                            "x": 288,
+                            "y": 547
+                        }
+                    ],
+                    "span": {
+                        "offset": 542,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Current",
+                    "polygon": [
+                        {
+                            "x": 432,
+                            "y": 513
+                        },
+                        {
+                            "x": 475,
+                            "y": 513
+                        },
+                        {
+                            "x": 475,
+                            "y": 523
+                        },
+                        {
+                            "x": 432,
+                            "y": 522
+                        }
+                    ],
+                    "span": {
+                        "offset": 551,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "VICEROY",
+                    "polygon": [
+                        {
+                            "x": 426,
+                            "y": 525
+                        },
+                        {
+                            "x": 468,
+                            "y": 524
+                        },
+                        {
+                            "x": 468,
+                            "y": 534
+                        },
+                        {
+                            "x": 427,
+                            "y": 534
+                        }
+                    ],
+                    "span": {
+                        "offset": 559,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "84",
+                    "polygon": [
+                        {
+                            "x": 474,
+                            "y": 524
+                        },
+                        {
+                            "x": 486,
+                            "y": 524
+                        },
+                        {
+                            "x": 487,
+                            "y": 534
+                        },
+                        {
+                            "x": 475,
+                            "y": 534
+                        }
+                    ],
+                    "span": {
+                        "offset": 567,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(#",
+                    "polygon": [
+                        {
+                            "x": 428,
+                            "y": 536
+                        },
+                        {
+                            "x": 439,
+                            "y": 535
+                        },
+                        {
+                            "x": 439,
+                            "y": 547
+                        },
+                        {
+                            "x": 429,
+                            "y": 546
+                        }
+                    ],
+                    "span": {
+                        "offset": 570,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "627/647)",
+                    "polygon": [
+                        {
+                            "x": 445,
+                            "y": 535
+                        },
+                        {
+                            "x": 493,
+                            "y": 534
+                        },
+                        {
+                            "x": 493,
+                            "y": 546
+                        },
+                        {
+                            "x": 445,
+                            "y": 547
+                        }
+                    ],
+                    "span": {
+                        "offset": 573,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "25%",
+                    "polygon": [
+                        {
+                            "x": 524,
+                            "y": 513
+                        },
+                        {
+                            "x": 543,
+                            "y": 513
+                        },
+                        {
+                            "x": 543,
+                            "y": 523
+                        },
+                        {
+                            "x": 524,
+                            "y": 522
+                        }
+                    ],
+                    "span": {
+                        "offset": 582,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PG",
+                    "polygon": [
+                        {
+                            "x": 547,
+                            "y": 513
+                        },
+                        {
+                            "x": 559,
+                            "y": 513
+                        },
+                        {
+                            "x": 559,
+                            "y": 523
+                        },
+                        {
+                            "x": 547,
+                            "y": 523
+                        }
+                    ],
+                    "span": {
+                        "offset": 586,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "W/SORBITOL",
+                    "polygon": [
+                        {
+                            "x": 510,
+                            "y": 525
+                        },
+                        {
+                            "x": 571,
+                            "y": 524
+                        },
+                        {
+                            "x": 571,
+                            "y": 534
+                        },
+                        {
+                            "x": 510,
+                            "y": 534
+                        }
+                    ],
+                    "span": {
+                        "offset": 589,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(#647/627",
+                    "polygon": [
+                        {
+                            "x": 511,
+                            "y": 534
+                        },
+                        {
+                            "x": 567,
+                            "y": 534
+                        },
+                        {
+                            "x": 567,
+                            "y": 546
+                        },
+                        {
+                            "x": 511,
+                            "y": 546
+                        }
+                    ],
+                    "span": {
+                        "offset": 600,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ")",
+                    "polygon": [
+                        {
+                            "x": 573,
+                            "y": 534
+                        },
+                        {
+                            "x": 578,
+                            "y": 534
+                        },
+                        {
+                            "x": 578,
+                            "y": 546
+                        },
+                        {
+                            "x": 573,
+                            "y": 546
+                        }
+                    ],
+                    "span": {
+                        "offset": 610,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-15*",
+                    "polygon": [
+                        {
+                            "x": 294,
+                            "y": 561
+                        },
+                        {
+                            "x": 318,
+                            "y": 559
+                        },
+                        {
+                            "x": 318,
+                            "y": 568
+                        },
+                        {
+                            "x": 295,
+                            "y": 569
+                        }
+                    ],
+                    "span": {
+                        "offset": 612,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        {
+                            "x": 294,
+                            "y": 571
+                        },
+                        {
+                            "x": 299,
+                            "y": 571
+                        },
+                        {
+                            "x": 299,
+                            "y": 580
+                        },
+                        {
+                            "x": 295,
+                            "y": 580
+                        }
+                    ],
+                    "span": {
+                        "offset": 617,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "5",
+                    "polygon": [
+                        {
+                            "x": 308,
+                            "y": 571
+                        },
+                        {
+                            "x": 312,
+                            "y": 571
+                        },
+                        {
+                            "x": 313,
+                            "y": 580
+                        },
+                        {
+                            "x": 308,
+                            "y": 580
+                        }
+                    ],
+                    "span": {
+                        "offset": 619,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "+21",
+                    "polygon": [
+                        {
+                            "x": 295,
+                            "y": 583
+                        },
+                        {
+                            "x": 313,
+                            "y": 583
+                        },
+                        {
+                            "x": 314,
+                            "y": 592
+                        },
+                        {
+                            "x": 295,
+                            "y": 592
+                        }
+                    ],
+                    "span": {
+                        "offset": 621,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-13",
+                    "polygon": [
+                        {
+                            "x": 452,
+                            "y": 559
+                        },
+                        {
+                            "x": 470,
+                            "y": 559
+                        },
+                        {
+                            "x": 469,
+                            "y": 570
+                        },
+                        {
+                            "x": 452,
+                            "y": 569
+                        }
+                    ],
+                    "span": {
+                        "offset": 625,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        {
+                            "x": 535,
+                            "y": 559
+                        },
+                        {
+                            "x": 539,
+                            "y": 559
+                        },
+                        {
+                            "x": 540,
+                            "y": 567
+                        },
+                        {
+                            "x": 535,
+                            "y": 567
+                        }
+                    ],
+                    "span": {
+                        "offset": 629,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "4",
+                    "polygon": [
+                        {
+                            "x": 549,
+                            "y": 559
+                        },
+                        {
+                            "x": 553,
+                            "y": 559
+                        },
+                        {
+                            "x": 553,
+                            "y": 567
+                        },
+                        {
+                            "x": 549,
+                            "y": 567
+                        }
+                    ],
+                    "span": {
+                        "offset": 631,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        {
+                            "x": 452,
+                            "y": 570
+                        },
+                        {
+                            "x": 456,
+                            "y": 570
+                        },
+                        {
+                            "x": 456,
+                            "y": 578
+                        },
+                        {
+                            "x": 452,
+                            "y": 578
+                        }
+                    ],
+                    "span": {
+                        "offset": 633,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        {
+                            "x": 466,
+                            "y": 570
+                        },
+                        {
+                            "x": 470,
+                            "y": 570
+                        },
+                        {
+                            "x": 470,
+                            "y": 578
+                        },
+                        {
+                            "x": 466,
+                            "y": 578
+                        }
+                    ],
+                    "span": {
+                        "offset": 635,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "+",
+                    "polygon": [
+                        {
+                            "x": 535,
+                            "y": 571
+                        },
+                        {
+                            "x": 540,
+                            "y": 571
+                        },
+                        {
+                            "x": 541,
+                            "y": 579
+                        },
+                        {
+                            "x": 536,
+                            "y": 579
+                        }
+                    ],
+                    "span": {
+                        "offset": 637,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "7*",
+                    "polygon": [
+                        {
+                            "x": 549,
+                            "y": 571
+                        },
+                        {
+                            "x": 559,
+                            "y": 570
+                        },
+                        {
+                            "x": 560,
+                            "y": 579
+                        },
+                        {
+                            "x": 549,
+                            "y": 579
+                        }
+                    ],
+                    "span": {
+                        "offset": 639,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "+14",
+                    "polygon": [
+                        {
+                            "x": 452,
+                            "y": 582
+                        },
+                        {
+                            "x": 469,
+                            "y": 582
+                        },
+                        {
+                            "x": 469,
+                            "y": 591
+                        },
+                        {
+                            "x": 452,
+                            "y": 591
+                        }
+                    ],
+                    "span": {
+                        "offset": 642,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "+26*",
+                    "polygon": [
+                        {
+                            "x": 536,
+                            "y": 583
+                        },
+                        {
+                            "x": 559,
+                            "y": 582
+                        },
+                        {
+                            "x": 559,
+                            "y": 591
+                        },
+                        {
+                            "x": 537,
+                            "y": 591
+                        }
+                    ],
+                    "span": {
+                        "offset": 646,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "*Statistically_Significant",
+                    "polygon": [
+                        {
+                            "x": 295,
+                            "y": 600
+                        },
+                        {
+                            "x": 452,
+                            "y": 599
+                        },
+                        {
+                            "x": 452,
+                            "y": 612
+                        },
+                        {
+                            "x": 295,
+                            "y": 611
+                        }
+                    ],
+                    "span": {
+                        "offset": 651,
+                        "length": 26
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NOTICE",
+                    "polygon": [
+                        {
+                            "x": 14,
+                            "y": 913
+                        },
+                        {
+                            "x": 44,
+                            "y": 913
+                        },
+                        {
+                            "x": 45,
+                            "y": 923
+                        },
+                        {
+                            "x": 15,
+                            "y": 923
+                        }
+                    ],
+                    "span": {
+                        "offset": 678,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "IF",
+                    "polygon": [
+                        {
+                            "x": 50,
+                            "y": 913
+                        },
+                        {
+                            "x": 60,
+                            "y": 913
+                        },
+                        {
+                            "x": 61,
+                            "y": 922
+                        },
+                        {
+                            "x": 51,
+                            "y": 923
+                        }
+                    ],
+                    "span": {
+                        "offset": 685,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "THE",
+                    "polygon": [
+                        {
+                            "x": 66,
+                            "y": 913
+                        },
+                        {
+                            "x": 79,
+                            "y": 913
+                        },
+                        {
+                            "x": 79,
+                            "y": 922
+                        },
+                        {
+                            "x": 66,
+                            "y": 922
+                        }
+                    ],
+                    "span": {
+                        "offset": 688,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FILM",
+                    "polygon": [
+                        {
+                            "x": 85,
+                            "y": 912
+                        },
+                        {
+                            "x": 104,
+                            "y": 912
+                        },
+                        {
+                            "x": 105,
+                            "y": 922
+                        },
+                        {
+                            "x": 85,
+                            "y": 922
+                        }
+                    ],
+                    "span": {
+                        "offset": 692,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "LMAGE",
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 912
+                        },
+                        {
+                            "x": 134,
+                            "y": 911
+                        },
+                        {
+                            "x": 135,
+                            "y": 921
+                        },
+                        {
+                            "x": 110,
+                            "y": 921
+                        }
+                    ],
+                    "span": {
+                        "offset": 697,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "IS",
+                    "polygon": [
+                        {
+                            "x": 140,
+                            "y": 911
+                        },
+                        {
+                            "x": 150,
+                            "y": 911
+                        },
+                        {
+                            "x": 150,
+                            "y": 921
+                        },
+                        {
+                            "x": 140,
+                            "y": 921
+                        }
+                    ],
+                    "span": {
+                        "offset": 703,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "LESS",
+                    "polygon": [
+                        {
+                            "x": 154,
+                            "y": 911
+                        },
+                        {
+                            "x": 175,
+                            "y": 910
+                        },
+                        {
+                            "x": 175,
+                            "y": 920
+                        },
+                        {
+                            "x": 154,
+                            "y": 921
+                        }
+                    ],
+                    "span": {
+                        "offset": 706,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CLEAR",
+                    "polygon": [
+                        {
+                            "x": 180,
+                            "y": 910
+                        },
+                        {
+                            "x": 204,
+                            "y": 909
+                        },
+                        {
+                            "x": 204,
+                            "y": 920
+                        },
+                        {
+                            "x": 180,
+                            "y": 920
+                        }
+                    ],
+                    "span": {
+                        "offset": 711,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "THAN",
+                    "polygon": [
+                        {
+                            "x": 15,
+                            "y": 924
+                        },
+                        {
+                            "x": 34,
+                            "y": 923
+                        },
+                        {
+                            "x": 34,
+                            "y": 932
+                        },
+                        {
+                            "x": 15,
+                            "y": 933
+                        }
+                    ],
+                    "span": {
+                        "offset": 717,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "THIS",
+                    "polygon": [
+                        {
+                            "x": 40,
+                            "y": 923
+                        },
+                        {
+                            "x": 60,
+                            "y": 923
+                        },
+                        {
+                            "x": 60,
+                            "y": 932
+                        },
+                        {
+                            "x": 41,
+                            "y": 932
+                        }
+                    ],
+                    "span": {
+                        "offset": 722,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NOTICE.",
+                    "polygon": [
+                        {
+                            "x": 65,
+                            "y": 923
+                        },
+                        {
+                            "x": 99,
+                            "y": 922
+                        },
+                        {
+                            "x": 100,
+                            "y": 931
+                        },
+                        {
+                            "x": 65,
+                            "y": 932
+                        }
+                    ],
+                    "span": {
+                        "offset": 727,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "IT",
+                    "polygon": [
+                        {
+                            "x": 105,
+                            "y": 922
+                        },
+                        {
+                            "x": 116,
+                            "y": 921
+                        },
+                        {
+                            "x": 116,
+                            "y": 931
+                        },
+                        {
+                            "x": 105,
+                            "y": 931
+                        }
+                    ],
+                    "span": {
+                        "offset": 735,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "IS",
+                    "polygon": [
+                        {
+                            "x": 120,
+                            "y": 921
+                        },
+                        {
+                            "x": 130,
+                            "y": 921
+                        },
+                        {
+                            "x": 131,
+                            "y": 931
+                        },
+                        {
+                            "x": 121,
+                            "y": 931
+                        }
+                    ],
+                    "span": {
+                        "offset": 738,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DUE",
+                    "polygon": [
+                        {
+                            "x": 134,
+                            "y": 921
+                        },
+                        {
+                            "x": 150,
+                            "y": 921
+                        },
+                        {
+                            "x": 151,
+                            "y": 930
+                        },
+                        {
+                            "x": 134,
+                            "y": 931
+                        }
+                    ],
+                    "span": {
+                        "offset": 741,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TO",
+                    "polygon": [
+                        {
+                            "x": 155,
+                            "y": 920
+                        },
+                        {
+                            "x": 164,
+                            "y": 920
+                        },
+                        {
+                            "x": 165,
+                            "y": 930
+                        },
+                        {
+                            "x": 156,
+                            "y": 930
+                        }
+                    ],
+                    "span": {
+                        "offset": 745,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "THE",
+                    "polygon": [
+                        {
+                            "x": 171,
+                            "y": 920
+                        },
+                        {
+                            "x": 187,
+                            "y": 920
+                        },
+                        {
+                            "x": 187,
+                            "y": 929
+                        },
+                        {
+                            "x": 171,
+                            "y": 930
+                        }
+                    ],
+                    "span": {
+                        "offset": 748,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "QUALITY",
+                    "polygon": [
+                        {
+                            "x": 15,
+                            "y": 933
+                        },
+                        {
+                            "x": 51,
+                            "y": 932
+                        },
+                        {
+                            "x": 51,
+                            "y": 942
+                        },
+                        {
+                            "x": 15,
+                            "y": 943
+                        }
+                    ],
+                    "span": {
+                        "offset": 752,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "OF",
+                    "polygon": [
+                        {
+                            "x": 54,
+                            "y": 932
+                        },
+                        {
+                            "x": 65,
+                            "y": 932
+                        },
+                        {
+                            "x": 66,
+                            "y": 942
+                        },
+                        {
+                            "x": 54,
+                            "y": 942
+                        }
+                    ],
+                    "span": {
+                        "offset": 760,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "THE",
+                    "polygon": [
+                        {
+                            "x": 71,
+                            "y": 932
+                        },
+                        {
+                            "x": 85,
+                            "y": 932
+                        },
+                        {
+                            "x": 85,
+                            "y": 941
+                        },
+                        {
+                            "x": 71,
+                            "y": 942
+                        }
+                    ],
+                    "span": {
+                        "offset": 763,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DOCUMENT",
+                    "polygon": [
+                        {
+                            "x": 89,
+                            "y": 932
+                        },
+                        {
+                            "x": 131,
+                            "y": 931
+                        },
+                        {
+                            "x": 131,
+                            "y": 940
+                        },
+                        {
+                            "x": 89,
+                            "y": 941
+                        }
+                    ],
+                    "span": {
+                        "offset": 767,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "BEING",
+                    "polygon": [
+                        {
+                            "x": 134,
+                            "y": 930
+                        },
+                        {
+                            "x": 160,
+                            "y": 930
+                        },
+                        {
+                            "x": 160,
+                            "y": 940
+                        },
+                        {
+                            "x": 135,
+                            "y": 940
+                        }
+                    ],
+                    "span": {
+                        "offset": 776,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FILMED.",
+                    "polygon": [
+                        {
+                            "x": 165,
+                            "y": 930
+                        },
+                        {
+                            "x": 200,
+                            "y": 929
+                        },
+                        {
+                            "x": 201,
+                            "y": 939
+                        },
+                        {
+                            "x": 166,
+                            "y": 940
+                        }
+                    ],
+                    "span": {
+                        "offset": 782,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "77905",
+                    "polygon": [
+                        {
+                            "x": 216,
+                            "y": 909
+                        },
+                        {
+                            "x": 307,
+                            "y": 909
+                        },
+                        {
+                            "x": 308,
+                            "y": 937
+                        },
+                        {
+                            "x": 216,
+                            "y": 937
+                        }
+                    ],
+                    "span": {
+                        "offset": 790,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "6",
+                    "polygon": [
+                        {
+                            "x": 322,
+                            "y": 909
+                        },
+                        {
+                            "x": 336,
+                            "y": 909
+                        },
+                        {
+                            "x": 336,
+                            "y": 937
+                        },
+                        {
+                            "x": 322,
+                            "y": 937
+                        }
+                    ],
+                    "span": {
+                        "offset": 796,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "4",
+                    "polygon": [
+                        {
+                            "x": 349,
+                            "y": 909
+                        },
+                        {
+                            "x": 363,
+                            "y": 909
+                        },
+                        {
+                            "x": 363,
+                            "y": 936
+                        },
+                        {
+                            "x": 349,
+                            "y": 936
+                        }
+                    ],
+                    "span": {
+                        "offset": 798,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "3",
+                    "polygon": [
+                        {
+                            "x": 376,
+                            "y": 909
+                        },
+                        {
+                            "x": 390,
+                            "y": 910
+                        },
+                        {
+                            "x": 390,
+                            "y": 936
+                        },
+                        {
+                            "x": 376,
+                            "y": 936
+                        }
+                    ],
+                    "span": {
+                        "offset": 800,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "3",
+                    "polygon": [
+                        {
+                            "x": 401,
+                            "y": 910
+                        },
+                        {
+                            "x": 416,
+                            "y": 910
+                        },
+                        {
+                            "x": 416,
+                            "y": 936
+                        },
+                        {
+                            "x": 401,
+                            "y": 936
+                        }
+                    ],
+                    "span": {
+                        "offset": 802,
+                        "length": 1
+                    },
+                    "confidence": 0
+                }
+            ],
+            "selection_marks": [],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 803
+                }
+            ],
+            "barcodes": [],
+            "formulas": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "role": null,
+            "content": "ME 1317",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 111,
+                            "y": 208
+                        },
+                        {
+                            "x": 140,
+                            "y": 208
+                        },
+                        {
+                            "x": 140,
+                            "y": 217
+                        },
+                        {
+                            "x": 111,
+                            "y": 217
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 7
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "TOP-LINES HON-MENTHOL PRODUCT TEST",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 236
+                        },
+                        {
+                            "x": 254,
+                            "y": 236
+                        },
+                        {
+                            "x": 254,
+                            "y": 260
+                        },
+                        {
+                            "x": 107,
+                            "y": 260
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 8,
+                    "length": 34
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SUBJECT:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 283
+                        },
+                        {
+                            "x": 157,
+                            "y": 283
+                        },
+                        {
+                            "x": 157,
+                            "y": 293
+                        },
+                        {
+                            "x": 107,
+                            "y": 293
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 43,
+                    "length": 8
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "25% Replacement of Propylene Glycol With SORBITOL",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 202,
+                            "y": 282
+                        },
+                        {
+                            "x": 499,
+                            "y": 281
+                        },
+                        {
+                            "x": 499,
+                            "y": 294
+                        },
+                        {
+                            "x": 202,
+                            "y": 295
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 52,
+                    "length": 49
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SAMPLE:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 306
+                        },
+                        {
+                            "x": 151,
+                            "y": 306
+                        },
+                        {
+                            "x": 151,
+                            "y": 317
+                        },
+                        {
+                            "x": 107,
+                            "y": 316
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 102,
+                    "length": 7
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "250 VICEROY/125 Marlboro/125 Winston",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 203,
+                            "y": 304
+                        },
+                        {
+                            "x": 422,
+                            "y": 304
+                        },
+                        {
+                            "x": 422,
+                            "y": 317
+                        },
+                        {
+                            "x": 203,
+                            "y": 318
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 110,
+                    "length": 36
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CIGARETTES:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 329
+                        },
+                        {
+                            "x": 174,
+                            "y": 329
+                        },
+                        {
+                            "x": 173,
+                            "y": 340
+                        },
+                        {
+                            "x": 107,
+                            "y": 339
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 147,
+                    "length": 11
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "REFERENCE: (#627/647) (#647/627) ATTRIBUTES",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 456
+                        },
+                        {
+                            "x": 175,
+                            "y": 456
+                        },
+                        {
+                            "x": 175,
+                            "y": 513
+                        },
+                        {
+                            "x": 108,
+                            "y": 513
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 159,
+                    "length": 43
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "STRENGTH + 1 HARSHNESS + 5 AFTERTASTE +22",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 558
+                        },
+                        {
+                            "x": 230,
+                            "y": 558
+                        },
+                        {
+                            "x": 230,
+                            "y": 592
+                        },
+                        {
+                            "x": 107,
+                            "y": 592
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 203,
+                    "length": 41
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "PROJECT # 19,4-26A",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 437,
+                            "y": 235
+                        },
+                        {
+                            "x": 548,
+                            "y": 234
+                        },
+                        {
+                            "x": 548,
+                            "y": 247
+                        },
+                        {
+                            "x": 437,
+                            "y": 248
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 245,
+                    "length": 18
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "#627/#647 - Current VICEROY 84",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 201,
+                            "y": 339
+                        },
+                        {
+                            "x": 384,
+                            "y": 338
+                        },
+                        {
+                            "x": 384,
+                            "y": 351
+                        },
+                        {
+                            "x": 201,
+                            "y": 352
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 264,
+                    "length": 30
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "#647/#627 - Current VICEROY 84 except with 25% of the propylene glycol replaced with SORBITOL.",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 201,
+                            "y": 361
+                        },
+                        {
+                            "x": 459,
+                            "y": 360
+                        },
+                        {
+                            "x": 459,
+                            "y": 397
+                        },
+                        {
+                            "x": 201,
+                            "y": 398
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 295,
+                    "length": 94
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Current VICEROY. 04. 25% PG with SORBITOL VICEROY",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 184,
+                            "y": 468
+                        },
+                        {
+                            "x": 308,
+                            "y": 468
+                        },
+                        {
+                            "x": 308,
+                            "y": 511
+                        },
+                        {
+                            "x": 184,
+                            "y": 511
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 390,
+                    "length": 49
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "VICEROY",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 345,
+                            "y": 456
+                        },
+                        {
+                            "x": 393,
+                            "y": 456
+                        },
+                        {
+                            "x": 393,
+                            "y": 466
+                        },
+                        {
+                            "x": 345,
+                            "y": 466
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 440,
+                    "length": 7
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "47% 53%",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 376,
+                            "y": 467
+                        },
+                        {
+                            "x": 399,
+                            "y": 467
+                        },
+                        {
+                            "x": 399,
+                            "y": 489
+                        },
+                        {
+                            "x": 376,
+                            "y": 489
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 448,
+                    "length": 7
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Competitive",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 477,
+                            "y": 456
+                        },
+                        {
+                            "x": 549,
+                            "y": 456
+                        },
+                        {
+                            "x": 549,
+                            "y": 467
+                        },
+                        {
+                            "x": 477,
+                            "y": 467
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 456,
+                    "length": 11
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "54 % 46 %",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 512,
+                            "y": 468
+                        },
+                        {
+                            "x": 542,
+                            "y": 467
+                        },
+                        {
+                            "x": 543,
+                            "y": 488
+                        },
+                        {
+                            "x": 513,
+                            "y": 489
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 468,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Competitive",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 466,
+                            "y": 500
+                        },
+                        {
+                            "x": 536,
+                            "y": 500
+                        },
+                        {
+                            "x": 536,
+                            "y": 511
+                        },
+                        {
+                            "x": 466,
+                            "y": 511
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 478,
+                    "length": 11
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Current VICEROY 84 (#627/647 )",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 183,
+                            "y": 513
+                        },
+                        {
+                            "x": 254,
+                            "y": 513
+                        },
+                        {
+                            "x": 254,
+                            "y": 547
+                        },
+                        {
+                            "x": 183,
+                            "y": 547
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 490,
+                    "length": 30
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "25% PG W/SORBITOL (@ 647/627)",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 267,
+                            "y": 513
+                        },
+                        {
+                            "x": 337,
+                            "y": 512
+                        },
+                        {
+                            "x": 337,
+                            "y": 547
+                        },
+                        {
+                            "x": 267,
+                            "y": 548
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 521,
+                    "length": 29
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Current VICEROY 84 (# 627/647)",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 425,
+                            "y": 513
+                        },
+                        {
+                            "x": 494,
+                            "y": 513
+                        },
+                        {
+                            "x": 494,
+                            "y": 546
+                        },
+                        {
+                            "x": 425,
+                            "y": 546
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 551,
+                    "length": 30
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "25% PG W/SORBITOL (#647/627 )",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 508,
+                            "y": 511
+                        },
+                        {
+                            "x": 578,
+                            "y": 512
+                        },
+                        {
+                            "x": 578,
+                            "y": 546
+                        },
+                        {
+                            "x": 508,
+                            "y": 545
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 582,
+                    "length": 29
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "-15*",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 294,
+                            "y": 560
+                        },
+                        {
+                            "x": 320,
+                            "y": 559
+                        },
+                        {
+                            "x": 320,
+                            "y": 568
+                        },
+                        {
+                            "x": 294,
+                            "y": 569
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 612,
+                    "length": 4
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "- 5",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 293,
+                            "y": 572
+                        },
+                        {
+                            "x": 315,
+                            "y": 571
+                        },
+                        {
+                            "x": 315,
+                            "y": 580
+                        },
+                        {
+                            "x": 294,
+                            "y": 580
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 617,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "+21",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 294,
+                            "y": 583
+                        },
+                        {
+                            "x": 314,
+                            "y": 583
+                        },
+                        {
+                            "x": 314,
+                            "y": 592
+                        },
+                        {
+                            "x": 294,
+                            "y": 592
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 621,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "-13",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 452,
+                            "y": 559
+                        },
+                        {
+                            "x": 470,
+                            "y": 559
+                        },
+                        {
+                            "x": 470,
+                            "y": 570
+                        },
+                        {
+                            "x": 452,
+                            "y": 570
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 625,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "- 4",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 534,
+                            "y": 560
+                        },
+                        {
+                            "x": 555,
+                            "y": 559
+                        },
+                        {
+                            "x": 555,
+                            "y": 567
+                        },
+                        {
+                            "x": 534,
+                            "y": 568
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 629,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "- 7",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 451,
+                            "y": 570
+                        },
+                        {
+                            "x": 471,
+                            "y": 570
+                        },
+                        {
+                            "x": 471,
+                            "y": 578
+                        },
+                        {
+                            "x": 451,
+                            "y": 578
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 633,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "+ 7*",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 534,
+                            "y": 570
+                        },
+                        {
+                            "x": 561,
+                            "y": 570
+                        },
+                        {
+                            "x": 561,
+                            "y": 579
+                        },
+                        {
+                            "x": 534,
+                            "y": 579
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 637,
+                    "length": 4
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "+14",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 450,
+                            "y": 582
+                        },
+                        {
+                            "x": 471,
+                            "y": 582
+                        },
+                        {
+                            "x": 471,
+                            "y": 591
+                        },
+                        {
+                            "x": 450,
+                            "y": 591
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 642,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "+26*",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 535,
+                            "y": 582
+                        },
+                        {
+                            "x": 561,
+                            "y": 581
+                        },
+                        {
+                            "x": 561,
+                            "y": 590
+                        },
+                        {
+                            "x": 535,
+                            "y": 591
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 646,
+                    "length": 4
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "*Statistically_Significant",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 294,
+                            "y": 599
+                        },
+                        {
+                            "x": 452,
+                            "y": 599
+                        },
+                        {
+                            "x": 452,
+                            "y": 611
+                        },
+                        {
+                            "x": 294,
+                            "y": 611
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 651,
+                    "length": 26
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "NOTICE IF THE FILM LMAGE IS LESS CLEAR THAN THIS NOTICE. IT IS DUE TO THE QUALITY OF THE DOCUMENT BEING FILMED.",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 13,
+                            "y": 912
+                        },
+                        {
+                            "x": 207,
+                            "y": 908
+                        },
+                        {
+                            "x": 208,
+                            "y": 939
+                        },
+                        {
+                            "x": 13,
+                            "y": 943
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 678,
+                    "length": 111
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "77905 6 4 3 3",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 208,
+                            "y": 908
+                        },
+                        {
+                            "x": 415,
+                            "y": 908
+                        },
+                        {
+                            "x": 415,
+                            "y": 936
+                        },
+                        {
+                            "x": 208,
+                            "y": 936
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 790,
+                    "length": 13
+                }
+            ]
+        }
+    ],
+    "tables": [],
+    "key_value_pairs": [],
+    "styles": [
+        {
+            "is_handwritten": true,
+            "similar_font_family": null,
+            "font_style": null,
+            "font_weight": null,
+            "color": null,
+            "background_color": null,
+            "spans": [
+                {
+                    "offset": 212,
+                    "length": 3
+                }
+            ],
+            "confidence": 0
+        },
+        {
+            "is_handwritten": true,
+            "similar_font_family": null,
+            "font_style": null,
+            "font_weight": null,
+            "color": null,
+            "background_color": null,
+            "spans": [
+                {
+                    "offset": 226,
+                    "length": 3
+                }
+            ],
+            "confidence": 0
+        },
+        {
+            "is_handwritten": true,
+            "similar_font_family": null,
+            "font_style": null,
+            "font_weight": null,
+            "color": null,
+            "background_color": null,
+            "spans": [
+                {
+                    "offset": 241,
+                    "length": 3
+                },
+                {
+                    "offset": 468,
+                    "length": 4
+                }
+            ],
+            "confidence": 0
+        },
+        {
+            "is_handwritten": true,
+            "similar_font_family": null,
+            "font_style": null,
+            "font_weight": null,
+            "color": null,
+            "background_color": null,
+            "spans": [
+                {
+                    "offset": 625,
+                    "length": 3
+                }
+            ],
+            "confidence": 0
+        }
+    ],
+    "documents": []
+}

@@ -1,0 +1,3520 @@
+{
+    "api_version": "2023-07-31",
+    "model_id": "prebuilt-read",
+    "content": "Newport pleasure!\nSPECIAL EVENT INFORMATION SHEET\nGENERAL INFORMATION:\nEVENT NAME:\nUpper Madison Avenue Festival\nEVENT LOCATION: _\n68th -86th Street, New York, NY\nEVENT DATES:\nJune 4, 1995\nHOURS:\nMONDAY-FRIDAY:\nSATURDAY-SUNDAY: _ 11am - 6pm\nSPECIFICS: check applicable box(es):\n[X # OF BOOTH(S)\nSIGNAGE\nSAMPLING & PREMIUMS\nMUSIC VAN\nX PREMIUMS ONLY\nRACING CAR\nSUPERVISOR INFORMATION:\nNAME OF ALLWAYS SUPERVISOR: Jerome Curry\nPHONE NUMBER: (201) 923-9208\nBEEPER NUMBER:\n(201) 698-1780\n92586242\n3046",
+    "languages": [],
+    "pages": [
+        {
+            "page_number": 1,
+            "angle": null,
+            "width": 754,
+            "height": 1000,
+            "unit": "pixel",
+            "lines": [
+                {
+                    "content": "Newport pleasure!",
+                    "polygon": [
+                        {
+                            "x": 74,
+                            "y": 83
+                        },
+                        {
+                            "x": 676,
+                            "y": 83
+                        },
+                        {
+                            "x": 676,
+                            "y": 164
+                        },
+                        {
+                            "x": 74,
+                            "y": 165
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "SPECIAL EVENT INFORMATION SHEET",
+                    "polygon": [
+                        {
+                            "x": 132,
+                            "y": 238
+                        },
+                        {
+                            "x": 623,
+                            "y": 238
+                        },
+                        {
+                            "x": 623,
+                            "y": 264
+                        },
+                        {
+                            "x": 132,
+                            "y": 265
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 18,
+                            "length": 31
+                        }
+                    ]
+                },
+                {
+                    "content": "GENERAL INFORMATION:",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 338
+                        },
+                        {
+                            "x": 366,
+                            "y": 337
+                        },
+                        {
+                            "x": 366,
+                            "y": 358
+                        },
+                        {
+                            "x": 131,
+                            "y": 359
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 50,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "EVENT NAME:",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 374
+                        },
+                        {
+                            "x": 216,
+                            "y": 374
+                        },
+                        {
+                            "x": 216,
+                            "y": 389
+                        },
+                        {
+                            "x": 131,
+                            "y": 390
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 71,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "Upper Madison Avenue Festival",
+                    "polygon": [
+                        {
+                            "x": 257,
+                            "y": 372
+                        },
+                        {
+                            "x": 458,
+                            "y": 372
+                        },
+                        {
+                            "x": 458,
+                            "y": 386
+                        },
+                        {
+                            "x": 257,
+                            "y": 387
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 83,
+                            "length": 29
+                        }
+                    ]
+                },
+                {
+                    "content": "EVENT LOCATION: _",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 403
+                        },
+                        {
+                            "x": 259,
+                            "y": 403
+                        },
+                        {
+                            "x": 259,
+                            "y": 420
+                        },
+                        {
+                            "x": 131,
+                            "y": 420
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 113,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "68th -86th Street, New York, NY",
+                    "polygon": [
+                        {
+                            "x": 258,
+                            "y": 405
+                        },
+                        {
+                            "x": 472,
+                            "y": 405
+                        },
+                        {
+                            "x": 472,
+                            "y": 417
+                        },
+                        {
+                            "x": 258,
+                            "y": 417
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 131,
+                            "length": 31
+                        }
+                    ]
+                },
+                {
+                    "content": "EVENT DATES:",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 433
+                        },
+                        {
+                            "x": 218,
+                            "y": 433
+                        },
+                        {
+                            "x": 218,
+                            "y": 449
+                        },
+                        {
+                            "x": 131,
+                            "y": 449
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 163,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "June 4, 1995",
+                    "polygon": [
+                        {
+                            "x": 259,
+                            "y": 433
+                        },
+                        {
+                            "x": 341,
+                            "y": 432
+                        },
+                        {
+                            "x": 341,
+                            "y": 446
+                        },
+                        {
+                            "x": 259,
+                            "y": 446
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 176,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "HOURS:",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 501
+                        },
+                        {
+                            "x": 205,
+                            "y": 501
+                        },
+                        {
+                            "x": 205,
+                            "y": 520
+                        },
+                        {
+                            "x": 131,
+                            "y": 520
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 189,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "MONDAY-FRIDAY:",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 536
+                        },
+                        {
+                            "x": 241,
+                            "y": 535
+                        },
+                        {
+                            "x": 241,
+                            "y": 551
+                        },
+                        {
+                            "x": 131,
+                            "y": 552
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 196,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "SATURDAY-SUNDAY: _ 11am - 6pm",
+                    "polygon": [
+                        {
+                            "x": 130,
+                            "y": 566
+                        },
+                        {
+                            "x": 343,
+                            "y": 566
+                        },
+                        {
+                            "x": 343,
+                            "y": 582
+                        },
+                        {
+                            "x": 130,
+                            "y": 582
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 211,
+                            "length": 29
+                        }
+                    ]
+                },
+                {
+                    "content": "SPECIFICS:",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 634
+                        },
+                        {
+                            "x": 226,
+                            "y": 634
+                        },
+                        {
+                            "x": 226,
+                            "y": 654
+                        },
+                        {
+                            "x": 131,
+                            "y": 654
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 241,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "check applicable box(es):",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 657
+                        },
+                        {
+                            "x": 253,
+                            "y": 657
+                        },
+                        {
+                            "x": 253,
+                            "y": 673
+                        },
+                        {
+                            "x": 131,
+                            "y": 672
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 252,
+                            "length": 25
+                        }
+                    ]
+                },
+                {
+                    "content": "[X # OF BOOTH(S)",
+                    "polygon": [
+                        {
+                            "x": 208,
+                            "y": 686
+                        },
+                        {
+                            "x": 319,
+                            "y": 686
+                        },
+                        {
+                            "x": 319,
+                            "y": 702
+                        },
+                        {
+                            "x": 208,
+                            "y": 700
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 278,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "SIGNAGE",
+                    "polygon": [
+                        {
+                            "x": 466,
+                            "y": 685
+                        },
+                        {
+                            "x": 522,
+                            "y": 685
+                        },
+                        {
+                            "x": 522,
+                            "y": 699
+                        },
+                        {
+                            "x": 466,
+                            "y": 699
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 295,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "SAMPLING & PREMIUMS",
+                    "polygon": [
+                        {
+                            "x": 223,
+                            "y": 715
+                        },
+                        {
+                            "x": 366,
+                            "y": 714
+                        },
+                        {
+                            "x": 366,
+                            "y": 731
+                        },
+                        {
+                            "x": 223,
+                            "y": 731
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 303,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "MUSIC VAN",
+                    "polygon": [
+                        {
+                            "x": 464,
+                            "y": 715
+                        },
+                        {
+                            "x": 536,
+                            "y": 715
+                        },
+                        {
+                            "x": 536,
+                            "y": 730
+                        },
+                        {
+                            "x": 464,
+                            "y": 729
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 323,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "X PREMIUMS ONLY",
+                    "polygon": [
+                        {
+                            "x": 214,
+                            "y": 745
+                        },
+                        {
+                            "x": 325,
+                            "y": 745
+                        },
+                        {
+                            "x": 325,
+                            "y": 760
+                        },
+                        {
+                            "x": 214,
+                            "y": 760
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 333,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "RACING CAR",
+                    "polygon": [
+                        {
+                            "x": 466,
+                            "y": 744
+                        },
+                        {
+                            "x": 545,
+                            "y": 744
+                        },
+                        {
+                            "x": 545,
+                            "y": 760
+                        },
+                        {
+                            "x": 466,
+                            "y": 760
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 349,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "SUPERVISOR INFORMATION:",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 812
+                        },
+                        {
+                            "x": 393,
+                            "y": 811
+                        },
+                        {
+                            "x": 393,
+                            "y": 833
+                        },
+                        {
+                            "x": 131,
+                            "y": 834
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 360,
+                            "length": 23
+                        }
+                    ]
+                },
+                {
+                    "content": "NAME OF ALLWAYS SUPERVISOR:",
+                    "polygon": [
+                        {
+                            "x": 132,
+                            "y": 848
+                        },
+                        {
+                            "x": 331,
+                            "y": 848
+                        },
+                        {
+                            "x": 331,
+                            "y": 864
+                        },
+                        {
+                            "x": 132,
+                            "y": 864
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 384,
+                            "length": 27
+                        }
+                    ]
+                },
+                {
+                    "content": "Jerome Curry",
+                    "polygon": [
+                        {
+                            "x": 356,
+                            "y": 851
+                        },
+                        {
+                            "x": 441,
+                            "y": 851
+                        },
+                        {
+                            "x": 441,
+                            "y": 865
+                        },
+                        {
+                            "x": 356,
+                            "y": 865
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 412,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "PHONE NUMBER: (201) 923-9208",
+                    "polygon": [
+                        {
+                            "x": 132,
+                            "y": 877
+                        },
+                        {
+                            "x": 349,
+                            "y": 877
+                        },
+                        {
+                            "x": 349,
+                            "y": 893
+                        },
+                        {
+                            "x": 132,
+                            "y": 894
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 425,
+                            "length": 28
+                        }
+                    ]
+                },
+                {
+                    "content": "BEEPER NUMBER:",
+                    "polygon": [
+                        {
+                            "x": 371,
+                            "y": 878
+                        },
+                        {
+                            "x": 477,
+                            "y": 878
+                        },
+                        {
+                            "x": 477,
+                            "y": 892
+                        },
+                        {
+                            "x": 371,
+                            "y": 892
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 454,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "(201) 698-1780",
+                    "polygon": [
+                        {
+                            "x": 493,
+                            "y": 877
+                        },
+                        {
+                            "x": 591,
+                            "y": 877
+                        },
+                        {
+                            "x": 591,
+                            "y": 891
+                        },
+                        {
+                            "x": 493,
+                            "y": 891
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 469,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "92586242",
+                    "polygon": [
+                        {
+                            "x": 677,
+                            "y": 801
+                        },
+                        {
+                            "x": 677,
+                            "y": 870
+                        },
+                        {
+                            "x": 662,
+                            "y": 870
+                        },
+                        {
+                            "x": 663,
+                            "y": 801
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 484,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "3046",
+                    "polygon": [
+                        {
+                            "x": 52,
+                            "y": 939
+                        },
+                        {
+                            "x": 71,
+                            "y": 938
+                        },
+                        {
+                            "x": 71,
+                            "y": 947
+                        },
+                        {
+                            "x": 52,
+                            "y": 946
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 493,
+                            "length": 4
+                        }
+                    ]
+                }
+            ],
+            "words": [
+                {
+                    "content": "Newport",
+                    "polygon": [
+                        {
+                            "x": 80,
+                            "y": 84
+                        },
+                        {
+                            "x": 353,
+                            "y": 89
+                        },
+                        {
+                            "x": 353,
+                            "y": 166
+                        },
+                        {
+                            "x": 78,
+                            "y": 166
+                        }
+                    ],
+                    "span": {
+                        "offset": 0,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "pleasure!",
+                    "polygon": [
+                        {
+                            "x": 368,
+                            "y": 89
+                        },
+                        {
+                            "x": 671,
+                            "y": 90
+                        },
+                        {
+                            "x": 673,
+                            "y": 156
+                        },
+                        {
+                            "x": 368,
+                            "y": 165
+                        }
+                    ],
+                    "span": {
+                        "offset": 8,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SPECIAL",
+                    "polygon": [
+                        {
+                            "x": 133,
+                            "y": 240
+                        },
+                        {
+                            "x": 235,
+                            "y": 239
+                        },
+                        {
+                            "x": 235,
+                            "y": 266
+                        },
+                        {
+                            "x": 134,
+                            "y": 266
+                        }
+                    ],
+                    "span": {
+                        "offset": 18,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "EVENT",
+                    "polygon": [
+                        {
+                            "x": 243,
+                            "y": 239
+                        },
+                        {
+                            "x": 332,
+                            "y": 239
+                        },
+                        {
+                            "x": 333,
+                            "y": 265
+                        },
+                        {
+                            "x": 244,
+                            "y": 266
+                        }
+                    ],
+                    "span": {
+                        "offset": 26,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "INFORMATION",
+                    "polygon": [
+                        {
+                            "x": 338,
+                            "y": 238
+                        },
+                        {
+                            "x": 519,
+                            "y": 238
+                        },
+                        {
+                            "x": 519,
+                            "y": 265
+                        },
+                        {
+                            "x": 338,
+                            "y": 265
+                        }
+                    ],
+                    "span": {
+                        "offset": 32,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SHEET",
+                    "polygon": [
+                        {
+                            "x": 537,
+                            "y": 238
+                        },
+                        {
+                            "x": 619,
+                            "y": 238
+                        },
+                        {
+                            "x": 619,
+                            "y": 265
+                        },
+                        {
+                            "x": 537,
+                            "y": 265
+                        }
+                    ],
+                    "span": {
+                        "offset": 44,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "GENERAL",
+                    "polygon": [
+                        {
+                            "x": 132,
+                            "y": 339
+                        },
+                        {
+                            "x": 220,
+                            "y": 338
+                        },
+                        {
+                            "x": 220,
+                            "y": 359
+                        },
+                        {
+                            "x": 133,
+                            "y": 359
+                        }
+                    ],
+                    "span": {
+                        "offset": 50,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "INFORMATION:",
+                    "polygon": [
+                        {
+                            "x": 224,
+                            "y": 338
+                        },
+                        {
+                            "x": 366,
+                            "y": 338
+                        },
+                        {
+                            "x": 366,
+                            "y": 359
+                        },
+                        {
+                            "x": 224,
+                            "y": 359
+                        }
+                    ],
+                    "span": {
+                        "offset": 58,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "EVENT",
+                    "polygon": [
+                        {
+                            "x": 132,
+                            "y": 375
+                        },
+                        {
+                            "x": 171,
+                            "y": 375
+                        },
+                        {
+                            "x": 171,
+                            "y": 390
+                        },
+                        {
+                            "x": 132,
+                            "y": 390
+                        }
+                    ],
+                    "span": {
+                        "offset": 71,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NAME:",
+                    "polygon": [
+                        {
+                            "x": 174,
+                            "y": 375
+                        },
+                        {
+                            "x": 216,
+                            "y": 374
+                        },
+                        {
+                            "x": 216,
+                            "y": 390
+                        },
+                        {
+                            "x": 174,
+                            "y": 390
+                        }
+                    ],
+                    "span": {
+                        "offset": 77,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Upper",
+                    "polygon": [
+                        {
+                            "x": 259,
+                            "y": 373
+                        },
+                        {
+                            "x": 295,
+                            "y": 373
+                        },
+                        {
+                            "x": 296,
+                            "y": 388
+                        },
+                        {
+                            "x": 259,
+                            "y": 388
+                        }
+                    ],
+                    "span": {
+                        "offset": 83,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Madison",
+                    "polygon": [
+                        {
+                            "x": 299,
+                            "y": 373
+                        },
+                        {
+                            "x": 348,
+                            "y": 372
+                        },
+                        {
+                            "x": 349,
+                            "y": 387
+                        },
+                        {
+                            "x": 299,
+                            "y": 388
+                        }
+                    ],
+                    "span": {
+                        "offset": 89,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Avenue",
+                    "polygon": [
+                        {
+                            "x": 354,
+                            "y": 372
+                        },
+                        {
+                            "x": 397,
+                            "y": 372
+                        },
+                        {
+                            "x": 397,
+                            "y": 387
+                        },
+                        {
+                            "x": 355,
+                            "y": 387
+                        }
+                    ],
+                    "span": {
+                        "offset": 97,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Festival",
+                    "polygon": [
+                        {
+                            "x": 402,
+                            "y": 372
+                        },
+                        {
+                            "x": 458,
+                            "y": 372
+                        },
+                        {
+                            "x": 458,
+                            "y": 386
+                        },
+                        {
+                            "x": 403,
+                            "y": 387
+                        }
+                    ],
+                    "span": {
+                        "offset": 104,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "EVENT",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 404
+                        },
+                        {
+                            "x": 171,
+                            "y": 404
+                        },
+                        {
+                            "x": 171,
+                            "y": 421
+                        },
+                        {
+                            "x": 132,
+                            "y": 421
+                        }
+                    ],
+                    "span": {
+                        "offset": 113,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "LOCATION:",
+                    "polygon": [
+                        {
+                            "x": 174,
+                            "y": 404
+                        },
+                        {
+                            "x": 240,
+                            "y": 404
+                        },
+                        {
+                            "x": 240,
+                            "y": 420
+                        },
+                        {
+                            "x": 174,
+                            "y": 420
+                        }
+                    ],
+                    "span": {
+                        "offset": 119,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "_",
+                    "polygon": [
+                        {
+                            "x": 243,
+                            "y": 404
+                        },
+                        {
+                            "x": 258,
+                            "y": 405
+                        },
+                        {
+                            "x": 259,
+                            "y": 420
+                        },
+                        {
+                            "x": 244,
+                            "y": 420
+                        }
+                    ],
+                    "span": {
+                        "offset": 129,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "68th",
+                    "polygon": [
+                        {
+                            "x": 260,
+                            "y": 406
+                        },
+                        {
+                            "x": 286,
+                            "y": 406
+                        },
+                        {
+                            "x": 287,
+                            "y": 418
+                        },
+                        {
+                            "x": 260,
+                            "y": 418
+                        }
+                    ],
+                    "span": {
+                        "offset": 131,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-86th",
+                    "polygon": [
+                        {
+                            "x": 293,
+                            "y": 406
+                        },
+                        {
+                            "x": 327,
+                            "y": 406
+                        },
+                        {
+                            "x": 327,
+                            "y": 418
+                        },
+                        {
+                            "x": 293,
+                            "y": 418
+                        }
+                    ],
+                    "span": {
+                        "offset": 136,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Street,",
+                    "polygon": [
+                        {
+                            "x": 335,
+                            "y": 406
+                        },
+                        {
+                            "x": 382,
+                            "y": 406
+                        },
+                        {
+                            "x": 383,
+                            "y": 418
+                        },
+                        {
+                            "x": 335,
+                            "y": 418
+                        }
+                    ],
+                    "span": {
+                        "offset": 142,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "New",
+                    "polygon": [
+                        {
+                            "x": 389,
+                            "y": 406
+                        },
+                        {
+                            "x": 409,
+                            "y": 406
+                        },
+                        {
+                            "x": 409,
+                            "y": 418
+                        },
+                        {
+                            "x": 389,
+                            "y": 418
+                        }
+                    ],
+                    "span": {
+                        "offset": 150,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "York,",
+                    "polygon": [
+                        {
+                            "x": 417,
+                            "y": 406
+                        },
+                        {
+                            "x": 451,
+                            "y": 406
+                        },
+                        {
+                            "x": 451,
+                            "y": 418
+                        },
+                        {
+                            "x": 417,
+                            "y": 418
+                        }
+                    ],
+                    "span": {
+                        "offset": 154,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NY",
+                    "polygon": [
+                        {
+                            "x": 457,
+                            "y": 406
+                        },
+                        {
+                            "x": 471,
+                            "y": 406
+                        },
+                        {
+                            "x": 471,
+                            "y": 418
+                        },
+                        {
+                            "x": 457,
+                            "y": 418
+                        }
+                    ],
+                    "span": {
+                        "offset": 160,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "EVENT",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 434
+                        },
+                        {
+                            "x": 172,
+                            "y": 434
+                        },
+                        {
+                            "x": 172,
+                            "y": 450
+                        },
+                        {
+                            "x": 132,
+                            "y": 449
+                        }
+                    ],
+                    "span": {
+                        "offset": 163,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DATES:",
+                    "polygon": [
+                        {
+                            "x": 175,
+                            "y": 434
+                        },
+                        {
+                            "x": 218,
+                            "y": 434
+                        },
+                        {
+                            "x": 218,
+                            "y": 449
+                        },
+                        {
+                            "x": 175,
+                            "y": 450
+                        }
+                    ],
+                    "span": {
+                        "offset": 169,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "June",
+                    "polygon": [
+                        {
+                            "x": 262,
+                            "y": 434
+                        },
+                        {
+                            "x": 287,
+                            "y": 434
+                        },
+                        {
+                            "x": 288,
+                            "y": 447
+                        },
+                        {
+                            "x": 262,
+                            "y": 447
+                        }
+                    ],
+                    "span": {
+                        "offset": 176,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "4,",
+                    "polygon": [
+                        {
+                            "x": 293,
+                            "y": 434
+                        },
+                        {
+                            "x": 308,
+                            "y": 434
+                        },
+                        {
+                            "x": 309,
+                            "y": 447
+                        },
+                        {
+                            "x": 294,
+                            "y": 447
+                        }
+                    ],
+                    "span": {
+                        "offset": 181,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1995",
+                    "polygon": [
+                        {
+                            "x": 315,
+                            "y": 433
+                        },
+                        {
+                            "x": 341,
+                            "y": 433
+                        },
+                        {
+                            "x": 342,
+                            "y": 447
+                        },
+                        {
+                            "x": 316,
+                            "y": 447
+                        }
+                    ],
+                    "span": {
+                        "offset": 184,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "HOURS:",
+                    "polygon": [
+                        {
+                            "x": 132,
+                            "y": 502
+                        },
+                        {
+                            "x": 206,
+                            "y": 502
+                        },
+                        {
+                            "x": 206,
+                            "y": 521
+                        },
+                        {
+                            "x": 133,
+                            "y": 520
+                        }
+                    ],
+                    "span": {
+                        "offset": 189,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MONDAY-FRIDAY:",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 537
+                        },
+                        {
+                            "x": 242,
+                            "y": 536
+                        },
+                        {
+                            "x": 242,
+                            "y": 552
+                        },
+                        {
+                            "x": 131,
+                            "y": 552
+                        }
+                    ],
+                    "span": {
+                        "offset": 196,
+                        "length": 14
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SATURDAY-SUNDAY:",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 567
+                        },
+                        {
+                            "x": 253,
+                            "y": 567
+                        },
+                        {
+                            "x": 253,
+                            "y": 582
+                        },
+                        {
+                            "x": 132,
+                            "y": 582
+                        }
+                    ],
+                    "span": {
+                        "offset": 211,
+                        "length": 16
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "_",
+                    "polygon": [
+                        {
+                            "x": 256,
+                            "y": 567
+                        },
+                        {
+                            "x": 266,
+                            "y": 567
+                        },
+                        {
+                            "x": 266,
+                            "y": 582
+                        },
+                        {
+                            "x": 256,
+                            "y": 582
+                        }
+                    ],
+                    "span": {
+                        "offset": 228,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "11am",
+                    "polygon": [
+                        {
+                            "x": 275,
+                            "y": 567
+                        },
+                        {
+                            "x": 301,
+                            "y": 567
+                        },
+                        {
+                            "x": 302,
+                            "y": 582
+                        },
+                        {
+                            "x": 275,
+                            "y": 582
+                        }
+                    ],
+                    "span": {
+                        "offset": 230,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        {
+                            "x": 307,
+                            "y": 567
+                        },
+                        {
+                            "x": 316,
+                            "y": 568
+                        },
+                        {
+                            "x": 316,
+                            "y": 582
+                        },
+                        {
+                            "x": 307,
+                            "y": 582
+                        }
+                    ],
+                    "span": {
+                        "offset": 235,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "6pm",
+                    "polygon": [
+                        {
+                            "x": 321,
+                            "y": 568
+                        },
+                        {
+                            "x": 342,
+                            "y": 568
+                        },
+                        {
+                            "x": 342,
+                            "y": 582
+                        },
+                        {
+                            "x": 321,
+                            "y": 582
+                        }
+                    ],
+                    "span": {
+                        "offset": 237,
+                        "length": 3
+                    },
+                    "confidence": 1
+                },
+                {
+                    "content": "SPECIFICS:",
+                    "polygon": [
+                        {
+                            "x": 133,
+                            "y": 634
+                        },
+                        {
+                            "x": 226,
+                            "y": 635
+                        },
+                        {
+                            "x": 226,
+                            "y": 654
+                        },
+                        {
+                            "x": 134,
+                            "y": 655
+                        }
+                    ],
+                    "span": {
+                        "offset": 241,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "check",
+                    "polygon": [
+                        {
+                            "x": 132,
+                            "y": 657
+                        },
+                        {
+                            "x": 159,
+                            "y": 658
+                        },
+                        {
+                            "x": 160,
+                            "y": 673
+                        },
+                        {
+                            "x": 132,
+                            "y": 673
+                        }
+                    ],
+                    "span": {
+                        "offset": 252,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "applicable",
+                    "polygon": [
+                        {
+                            "x": 162,
+                            "y": 658
+                        },
+                        {
+                            "x": 211,
+                            "y": 658
+                        },
+                        {
+                            "x": 211,
+                            "y": 673
+                        },
+                        {
+                            "x": 163,
+                            "y": 673
+                        }
+                    ],
+                    "span": {
+                        "offset": 258,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "box(es):",
+                    "polygon": [
+                        {
+                            "x": 214,
+                            "y": 658
+                        },
+                        {
+                            "x": 254,
+                            "y": 658
+                        },
+                        {
+                            "x": 254,
+                            "y": 673
+                        },
+                        {
+                            "x": 214,
+                            "y": 673
+                        }
+                    ],
+                    "span": {
+                        "offset": 269,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "[X",
+                    "polygon": [
+                        {
+                            "x": 209,
+                            "y": 686
+                        },
+                        {
+                            "x": 222,
+                            "y": 686
+                        },
+                        {
+                            "x": 222,
+                            "y": 700
+                        },
+                        {
+                            "x": 209,
+                            "y": 700
+                        }
+                    ],
+                    "span": {
+                        "offset": 278,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "#",
+                    "polygon": [
+                        {
+                            "x": 225,
+                            "y": 686
+                        },
+                        {
+                            "x": 233,
+                            "y": 686
+                        },
+                        {
+                            "x": 233,
+                            "y": 701
+                        },
+                        {
+                            "x": 225,
+                            "y": 700
+                        }
+                    ],
+                    "span": {
+                        "offset": 281,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "OF",
+                    "polygon": [
+                        {
+                            "x": 236,
+                            "y": 686
+                        },
+                        {
+                            "x": 254,
+                            "y": 686
+                        },
+                        {
+                            "x": 254,
+                            "y": 701
+                        },
+                        {
+                            "x": 236,
+                            "y": 701
+                        }
+                    ],
+                    "span": {
+                        "offset": 283,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "BOOTH(S)",
+                    "polygon": [
+                        {
+                            "x": 257,
+                            "y": 686
+                        },
+                        {
+                            "x": 319,
+                            "y": 686
+                        },
+                        {
+                            "x": 319,
+                            "y": 703
+                        },
+                        {
+                            "x": 257,
+                            "y": 701
+                        }
+                    ],
+                    "span": {
+                        "offset": 286,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SIGNAGE",
+                    "polygon": [
+                        {
+                            "x": 467,
+                            "y": 686
+                        },
+                        {
+                            "x": 521,
+                            "y": 686
+                        },
+                        {
+                            "x": 521,
+                            "y": 700
+                        },
+                        {
+                            "x": 467,
+                            "y": 700
+                        }
+                    ],
+                    "span": {
+                        "offset": 295,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SAMPLING",
+                    "polygon": [
+                        {
+                            "x": 225,
+                            "y": 717
+                        },
+                        {
+                            "x": 284,
+                            "y": 716
+                        },
+                        {
+                            "x": 285,
+                            "y": 731
+                        },
+                        {
+                            "x": 225,
+                            "y": 730
+                        }
+                    ],
+                    "span": {
+                        "offset": 303,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "&",
+                    "polygon": [
+                        {
+                            "x": 289,
+                            "y": 716
+                        },
+                        {
+                            "x": 299,
+                            "y": 716
+                        },
+                        {
+                            "x": 299,
+                            "y": 731
+                        },
+                        {
+                            "x": 290,
+                            "y": 731
+                        }
+                    ],
+                    "span": {
+                        "offset": 312,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PREMIUMS",
+                    "polygon": [
+                        {
+                            "x": 302,
+                            "y": 716
+                        },
+                        {
+                            "x": 366,
+                            "y": 715
+                        },
+                        {
+                            "x": 366,
+                            "y": 732
+                        },
+                        {
+                            "x": 302,
+                            "y": 731
+                        }
+                    ],
+                    "span": {
+                        "offset": 314,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MUSIC",
+                    "polygon": [
+                        {
+                            "x": 466,
+                            "y": 715
+                        },
+                        {
+                            "x": 504,
+                            "y": 716
+                        },
+                        {
+                            "x": 504,
+                            "y": 730
+                        },
+                        {
+                            "x": 466,
+                            "y": 730
+                        }
+                    ],
+                    "span": {
+                        "offset": 323,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "VAN",
+                    "polygon": [
+                        {
+                            "x": 508,
+                            "y": 715
+                        },
+                        {
+                            "x": 532,
+                            "y": 715
+                        },
+                        {
+                            "x": 532,
+                            "y": 730
+                        },
+                        {
+                            "x": 508,
+                            "y": 730
+                        }
+                    ],
+                    "span": {
+                        "offset": 329,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "X",
+                    "polygon": [
+                        {
+                            "x": 214,
+                            "y": 746
+                        },
+                        {
+                            "x": 221,
+                            "y": 746
+                        },
+                        {
+                            "x": 221,
+                            "y": 760
+                        },
+                        {
+                            "x": 214,
+                            "y": 760
+                        }
+                    ],
+                    "span": {
+                        "offset": 333,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PREMIUMS",
+                    "polygon": [
+                        {
+                            "x": 225,
+                            "y": 746
+                        },
+                        {
+                            "x": 289,
+                            "y": 746
+                        },
+                        {
+                            "x": 289,
+                            "y": 761
+                        },
+                        {
+                            "x": 224,
+                            "y": 760
+                        }
+                    ],
+                    "span": {
+                        "offset": 335,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ONLY",
+                    "polygon": [
+                        {
+                            "x": 292,
+                            "y": 746
+                        },
+                        {
+                            "x": 325,
+                            "y": 745
+                        },
+                        {
+                            "x": 325,
+                            "y": 761
+                        },
+                        {
+                            "x": 291,
+                            "y": 761
+                        }
+                    ],
+                    "span": {
+                        "offset": 344,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RACING",
+                    "polygon": [
+                        {
+                            "x": 467,
+                            "y": 745
+                        },
+                        {
+                            "x": 511,
+                            "y": 745
+                        },
+                        {
+                            "x": 512,
+                            "y": 760
+                        },
+                        {
+                            "x": 467,
+                            "y": 760
+                        }
+                    ],
+                    "span": {
+                        "offset": 349,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAR",
+                    "polygon": [
+                        {
+                            "x": 517,
+                            "y": 745
+                        },
+                        {
+                            "x": 541,
+                            "y": 745
+                        },
+                        {
+                            "x": 542,
+                            "y": 761
+                        },
+                        {
+                            "x": 518,
+                            "y": 761
+                        }
+                    ],
+                    "span": {
+                        "offset": 356,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SUPERVISOR",
+                    "polygon": [
+                        {
+                            "x": 134,
+                            "y": 813
+                        },
+                        {
+                            "x": 244,
+                            "y": 812
+                        },
+                        {
+                            "x": 244,
+                            "y": 833
+                        },
+                        {
+                            "x": 134,
+                            "y": 834
+                        }
+                    ],
+                    "span": {
+                        "offset": 360,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "INFORMATION:",
+                    "polygon": [
+                        {
+                            "x": 251,
+                            "y": 812
+                        },
+                        {
+                            "x": 393,
+                            "y": 811
+                        },
+                        {
+                            "x": 393,
+                            "y": 834
+                        },
+                        {
+                            "x": 251,
+                            "y": 833
+                        }
+                    ],
+                    "span": {
+                        "offset": 371,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NAME",
+                    "polygon": [
+                        {
+                            "x": 132,
+                            "y": 849
+                        },
+                        {
+                            "x": 170,
+                            "y": 849
+                        },
+                        {
+                            "x": 170,
+                            "y": 864
+                        },
+                        {
+                            "x": 133,
+                            "y": 864
+                        }
+                    ],
+                    "span": {
+                        "offset": 384,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "OF",
+                    "polygon": [
+                        {
+                            "x": 173,
+                            "y": 849
+                        },
+                        {
+                            "x": 191,
+                            "y": 848
+                        },
+                        {
+                            "x": 191,
+                            "y": 865
+                        },
+                        {
+                            "x": 173,
+                            "y": 864
+                        }
+                    ],
+                    "span": {
+                        "offset": 389,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ALLWAYS",
+                    "polygon": [
+                        {
+                            "x": 194,
+                            "y": 848
+                        },
+                        {
+                            "x": 246,
+                            "y": 848
+                        },
+                        {
+                            "x": 246,
+                            "y": 864
+                        },
+                        {
+                            "x": 194,
+                            "y": 865
+                        }
+                    ],
+                    "span": {
+                        "offset": 392,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SUPERVISOR:",
+                    "polygon": [
+                        {
+                            "x": 250,
+                            "y": 848
+                        },
+                        {
+                            "x": 332,
+                            "y": 848
+                        },
+                        {
+                            "x": 331,
+                            "y": 864
+                        },
+                        {
+                            "x": 250,
+                            "y": 864
+                        }
+                    ],
+                    "span": {
+                        "offset": 400,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Jerome",
+                    "polygon": [
+                        {
+                            "x": 359,
+                            "y": 852
+                        },
+                        {
+                            "x": 399,
+                            "y": 852
+                        },
+                        {
+                            "x": 399,
+                            "y": 865
+                        },
+                        {
+                            "x": 359,
+                            "y": 865
+                        }
+                    ],
+                    "span": {
+                        "offset": 412,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Curry",
+                    "polygon": [
+                        {
+                            "x": 406,
+                            "y": 852
+                        },
+                        {
+                            "x": 440,
+                            "y": 851
+                        },
+                        {
+                            "x": 440,
+                            "y": 866
+                        },
+                        {
+                            "x": 406,
+                            "y": 865
+                        }
+                    ],
+                    "span": {
+                        "offset": 419,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PHONE",
+                    "polygon": [
+                        {
+                            "x": 133,
+                            "y": 878
+                        },
+                        {
+                            "x": 177,
+                            "y": 878
+                        },
+                        {
+                            "x": 177,
+                            "y": 894
+                        },
+                        {
+                            "x": 133,
+                            "y": 894
+                        }
+                    ],
+                    "span": {
+                        "offset": 425,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NUMBER:",
+                    "polygon": [
+                        {
+                            "x": 180,
+                            "y": 878
+                        },
+                        {
+                            "x": 243,
+                            "y": 878
+                        },
+                        {
+                            "x": 244,
+                            "y": 894
+                        },
+                        {
+                            "x": 180,
+                            "y": 894
+                        }
+                    ],
+                    "span": {
+                        "offset": 431,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(201)",
+                    "polygon": [
+                        {
+                            "x": 247,
+                            "y": 878
+                        },
+                        {
+                            "x": 286,
+                            "y": 878
+                        },
+                        {
+                            "x": 287,
+                            "y": 893
+                        },
+                        {
+                            "x": 247,
+                            "y": 894
+                        }
+                    ],
+                    "span": {
+                        "offset": 439,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "923-9208",
+                    "polygon": [
+                        {
+                            "x": 290,
+                            "y": 878
+                        },
+                        {
+                            "x": 346,
+                            "y": 878
+                        },
+                        {
+                            "x": 346,
+                            "y": 892
+                        },
+                        {
+                            "x": 290,
+                            "y": 893
+                        }
+                    ],
+                    "span": {
+                        "offset": 445,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "BEEPER",
+                    "polygon": [
+                        {
+                            "x": 371,
+                            "y": 878
+                        },
+                        {
+                            "x": 416,
+                            "y": 878
+                        },
+                        {
+                            "x": 416,
+                            "y": 893
+                        },
+                        {
+                            "x": 372,
+                            "y": 893
+                        }
+                    ],
+                    "span": {
+                        "offset": 454,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NUMBER:",
+                    "polygon": [
+                        {
+                            "x": 419,
+                            "y": 878
+                        },
+                        {
+                            "x": 478,
+                            "y": 878
+                        },
+                        {
+                            "x": 478,
+                            "y": 893
+                        },
+                        {
+                            "x": 419,
+                            "y": 893
+                        }
+                    ],
+                    "span": {
+                        "offset": 461,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(201)",
+                    "polygon": [
+                        {
+                            "x": 494,
+                            "y": 878
+                        },
+                        {
+                            "x": 530,
+                            "y": 879
+                        },
+                        {
+                            "x": 530,
+                            "y": 891
+                        },
+                        {
+                            "x": 495,
+                            "y": 892
+                        }
+                    ],
+                    "span": {
+                        "offset": 469,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "698-1780",
+                    "polygon": [
+                        {
+                            "x": 535,
+                            "y": 879
+                        },
+                        {
+                            "x": 590,
+                            "y": 878
+                        },
+                        {
+                            "x": 590,
+                            "y": 891
+                        },
+                        {
+                            "x": 535,
+                            "y": 891
+                        }
+                    ],
+                    "span": {
+                        "offset": 475,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "92586242",
+                    "polygon": [
+                        {
+                            "x": 677,
+                            "y": 803
+                        },
+                        {
+                            "x": 677,
+                            "y": 869
+                        },
+                        {
+                            "x": 663,
+                            "y": 869
+                        },
+                        {
+                            "x": 663,
+                            "y": 803
+                        }
+                    ],
+                    "span": {
+                        "offset": 484,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "3046",
+                    "polygon": [
+                        {
+                            "x": 55,
+                            "y": 938
+                        },
+                        {
+                            "x": 71,
+                            "y": 938
+                        },
+                        {
+                            "x": 71,
+                            "y": 947
+                        },
+                        {
+                            "x": 55,
+                            "y": 947
+                        }
+                    ],
+                    "span": {
+                        "offset": 493,
+                        "length": 4
+                    },
+                    "confidence": 0
+                }
+            ],
+            "selection_marks": [],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 497
+                }
+            ],
+            "barcodes": [],
+            "formulas": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "role": null,
+            "content": "Newport pleasure!",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 74,
+                            "y": 83
+                        },
+                        {
+                            "x": 676,
+                            "y": 83
+                        },
+                        {
+                            "x": 676,
+                            "y": 165
+                        },
+                        {
+                            "x": 74,
+                            "y": 165
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 17
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SPECIAL EVENT INFORMATION SHEET",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 132,
+                            "y": 238
+                        },
+                        {
+                            "x": 623,
+                            "y": 238
+                        },
+                        {
+                            "x": 623,
+                            "y": 265
+                        },
+                        {
+                            "x": 132,
+                            "y": 265
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 18,
+                    "length": 31
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "GENERAL INFORMATION:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 338
+                        },
+                        {
+                            "x": 366,
+                            "y": 337
+                        },
+                        {
+                            "x": 366,
+                            "y": 358
+                        },
+                        {
+                            "x": 131,
+                            "y": 359
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 50,
+                    "length": 20
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "EVENT NAME:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 374
+                        },
+                        {
+                            "x": 216,
+                            "y": 374
+                        },
+                        {
+                            "x": 216,
+                            "y": 389
+                        },
+                        {
+                            "x": 131,
+                            "y": 390
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 71,
+                    "length": 11
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Upper Madison Avenue Festival",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 257,
+                            "y": 372
+                        },
+                        {
+                            "x": 458,
+                            "y": 372
+                        },
+                        {
+                            "x": 458,
+                            "y": 386
+                        },
+                        {
+                            "x": 257,
+                            "y": 387
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 83,
+                    "length": 29
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "EVENT LOCATION: _",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 403
+                        },
+                        {
+                            "x": 259,
+                            "y": 403
+                        },
+                        {
+                            "x": 259,
+                            "y": 420
+                        },
+                        {
+                            "x": 131,
+                            "y": 420
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 113,
+                    "length": 17
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "68th -86th Street, New York, NY",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 258,
+                            "y": 405
+                        },
+                        {
+                            "x": 472,
+                            "y": 405
+                        },
+                        {
+                            "x": 472,
+                            "y": 417
+                        },
+                        {
+                            "x": 258,
+                            "y": 417
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 131,
+                    "length": 31
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "EVENT DATES:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 433
+                        },
+                        {
+                            "x": 218,
+                            "y": 433
+                        },
+                        {
+                            "x": 218,
+                            "y": 449
+                        },
+                        {
+                            "x": 131,
+                            "y": 449
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 163,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "June 4, 1995",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 259,
+                            "y": 433
+                        },
+                        {
+                            "x": 341,
+                            "y": 432
+                        },
+                        {
+                            "x": 341,
+                            "y": 446
+                        },
+                        {
+                            "x": 259,
+                            "y": 446
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 176,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "HOURS:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 501
+                        },
+                        {
+                            "x": 205,
+                            "y": 501
+                        },
+                        {
+                            "x": 205,
+                            "y": 520
+                        },
+                        {
+                            "x": 131,
+                            "y": 520
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 189,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MONDAY-FRIDAY:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 536
+                        },
+                        {
+                            "x": 241,
+                            "y": 535
+                        },
+                        {
+                            "x": 241,
+                            "y": 551
+                        },
+                        {
+                            "x": 131,
+                            "y": 552
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 196,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SATURDAY-SUNDAY: _ 11am - 6pm",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 130,
+                            "y": 566
+                        },
+                        {
+                            "x": 343,
+                            "y": 566
+                        },
+                        {
+                            "x": 343,
+                            "y": 582
+                        },
+                        {
+                            "x": 130,
+                            "y": 582
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 211,
+                    "length": 29
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SPECIFICS: check applicable box(es):",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 633
+                        },
+                        {
+                            "x": 253,
+                            "y": 634
+                        },
+                        {
+                            "x": 253,
+                            "y": 673
+                        },
+                        {
+                            "x": 131,
+                            "y": 672
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 241,
+                    "length": 36
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "[X # OF BOOTH(S)",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 208,
+                            "y": 686
+                        },
+                        {
+                            "x": 319,
+                            "y": 686
+                        },
+                        {
+                            "x": 319,
+                            "y": 702
+                        },
+                        {
+                            "x": 208,
+                            "y": 702
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 278,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SIGNAGE",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 466,
+                            "y": 685
+                        },
+                        {
+                            "x": 522,
+                            "y": 685
+                        },
+                        {
+                            "x": 522,
+                            "y": 699
+                        },
+                        {
+                            "x": 466,
+                            "y": 699
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 295,
+                    "length": 7
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SAMPLING & PREMIUMS",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 223,
+                            "y": 714
+                        },
+                        {
+                            "x": 366,
+                            "y": 714
+                        },
+                        {
+                            "x": 366,
+                            "y": 731
+                        },
+                        {
+                            "x": 223,
+                            "y": 731
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 303,
+                    "length": 19
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MUSIC VAN",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 464,
+                            "y": 715
+                        },
+                        {
+                            "x": 536,
+                            "y": 715
+                        },
+                        {
+                            "x": 536,
+                            "y": 730
+                        },
+                        {
+                            "x": 464,
+                            "y": 730
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 323,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "X PREMIUMS ONLY",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 214,
+                            "y": 745
+                        },
+                        {
+                            "x": 325,
+                            "y": 745
+                        },
+                        {
+                            "x": 325,
+                            "y": 760
+                        },
+                        {
+                            "x": 214,
+                            "y": 760
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 333,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RACING CAR",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 466,
+                            "y": 744
+                        },
+                        {
+                            "x": 545,
+                            "y": 744
+                        },
+                        {
+                            "x": 545,
+                            "y": 760
+                        },
+                        {
+                            "x": 466,
+                            "y": 760
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 349,
+                    "length": 10
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SUPERVISOR INFORMATION:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 812
+                        },
+                        {
+                            "x": 393,
+                            "y": 811
+                        },
+                        {
+                            "x": 393,
+                            "y": 833
+                        },
+                        {
+                            "x": 131,
+                            "y": 834
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 360,
+                    "length": 23
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "NAME OF ALLWAYS SUPERVISOR: Jerome Curry",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 132,
+                            "y": 847
+                        },
+                        {
+                            "x": 441,
+                            "y": 848
+                        },
+                        {
+                            "x": 441,
+                            "y": 865
+                        },
+                        {
+                            "x": 132,
+                            "y": 864
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 384,
+                    "length": 40
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "PHONE NUMBER: (201) 923-9208",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 132,
+                            "y": 877
+                        },
+                        {
+                            "x": 349,
+                            "y": 877
+                        },
+                        {
+                            "x": 349,
+                            "y": 894
+                        },
+                        {
+                            "x": 132,
+                            "y": 894
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 425,
+                    "length": 28
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "BEEPER NUMBER:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 371,
+                            "y": 878
+                        },
+                        {
+                            "x": 477,
+                            "y": 878
+                        },
+                        {
+                            "x": 477,
+                            "y": 892
+                        },
+                        {
+                            "x": 371,
+                            "y": 892
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 454,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "(201) 698-1780",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 493,
+                            "y": 877
+                        },
+                        {
+                            "x": 591,
+                            "y": 877
+                        },
+                        {
+                            "x": 591,
+                            "y": 891
+                        },
+                        {
+                            "x": 493,
+                            "y": 891
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 469,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "92586242",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 662,
+                            "y": 801
+                        },
+                        {
+                            "x": 677,
+                            "y": 801
+                        },
+                        {
+                            "x": 677,
+                            "y": 870
+                        },
+                        {
+                            "x": 662,
+                            "y": 870
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 484,
+                    "length": 8
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "3046",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 52,
+                            "y": 938
+                        },
+                        {
+                            "x": 71,
+                            "y": 938
+                        },
+                        {
+                            "x": 71,
+                            "y": 947
+                        },
+                        {
+                            "x": 52,
+                            "y": 947
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 493,
+                    "length": 4
+                }
+            ]
+        }
+    ],
+    "tables": [],
+    "key_value_pairs": [],
+    "styles": [],
+    "documents": []
+}

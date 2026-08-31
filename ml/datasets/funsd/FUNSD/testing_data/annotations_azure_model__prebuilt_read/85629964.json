@@ -1,0 +1,4271 @@
+{
+    "api_version": "2023-07-31",
+    "model_id": "prebuilt-read",
+    "content": "(\n(\nCIGARETTE REPORT FORM\nYEAR:\nBRAND NAME:\nVAR. DESC:\nVARIETY UNIT SALES:\nNO. PER PACK:\n(SEE EXPLANATION)\nVARIETY DOLLAR SALES:\nCIG. LENGTH:\nFILTER LENGTH:\nFILTER TYPE: FLAVORING: OVERWRAP: PACK TYPE:\n1ST MANUFACT. DATE:\n1ST SALES DATE: LAST SOLD DATE:\nYEARLY SUMMARY:\nTAR:\nNICOTINE:\nCARBON MONO:\nADVERTISING EXPENDITURES (SEE EXPLANATION)\nCAT-A-EXPENSES :\nCAT-B-EXPENSES :\nCAT-D-EXPENSES:\nCAT-E-EXPENSES :\nCAT-G-EXPENSES :\nCAT-H-EXPENSES :\nCAT-J-EXPENSES:\nCAT-K-EXPENSES:\nCAT-M-EXPENSES : CAT-N-EXPENSES :\nTOTAL ADVERTISING EXPENDITURES:\nCAT-C-EXPENSES :\nCAT-F-EXPENSES:\nCAT-I-EXPENSES :\nCAT-L-EXPENSES:\n85629964",
+    "languages": [],
+    "pages": [
+        {
+            "page_number": 1,
+            "angle": 0,
+            "width": 777,
+            "height": 1000,
+            "unit": "pixel",
+            "lines": [
+                {
+                    "content": "(",
+                    "polygon": [
+                        {
+                            "x": 263,
+                            "y": 29
+                        },
+                        {
+                            "x": 277,
+                            "y": 28
+                        },
+                        {
+                            "x": 279,
+                            "y": 55
+                        },
+                        {
+                            "x": 264,
+                            "y": 56
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "(",
+                    "polygon": [
+                        {
+                            "x": 514,
+                            "y": 33
+                        },
+                        {
+                            "x": 530,
+                            "y": 33
+                        },
+                        {
+                            "x": 530,
+                            "y": 58
+                        },
+                        {
+                            "x": 515,
+                            "y": 58
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 2,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "CIGARETTE REPORT FORM",
+                    "polygon": [
+                        {
+                            "x": 311,
+                            "y": 100
+                        },
+                        {
+                            "x": 507,
+                            "y": 101
+                        },
+                        {
+                            "x": 507,
+                            "y": 118
+                        },
+                        {
+                            "x": 311,
+                            "y": 117
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 4,
+                            "length": 21
+                        }
+                    ]
+                },
+                {
+                    "content": "YEAR:",
+                    "polygon": [
+                        {
+                            "x": 113,
+                            "y": 145
+                        },
+                        {
+                            "x": 157,
+                            "y": 146
+                        },
+                        {
+                            "x": 157,
+                            "y": 160
+                        },
+                        {
+                            "x": 113,
+                            "y": 158
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 26,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "BRAND NAME:",
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 176
+                        },
+                        {
+                            "x": 212,
+                            "y": 177
+                        },
+                        {
+                            "x": 212,
+                            "y": 192
+                        },
+                        {
+                            "x": 112,
+                            "y": 190
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 32,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "VAR. DESC:",
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 206
+                        },
+                        {
+                            "x": 203,
+                            "y": 207
+                        },
+                        {
+                            "x": 203,
+                            "y": 221
+                        },
+                        {
+                            "x": 112,
+                            "y": 220
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 44,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "VARIETY UNIT SALES:",
+                    "polygon": [
+                        {
+                            "x": 111,
+                            "y": 236
+                        },
+                        {
+                            "x": 284,
+                            "y": 237
+                        },
+                        {
+                            "x": 284,
+                            "y": 253
+                        },
+                        {
+                            "x": 111,
+                            "y": 252
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 55,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "NO. PER PACK:",
+                    "polygon": [
+                        {
+                            "x": 511,
+                            "y": 147
+                        },
+                        {
+                            "x": 631,
+                            "y": 148
+                        },
+                        {
+                            "x": 631,
+                            "y": 166
+                        },
+                        {
+                            "x": 511,
+                            "y": 165
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 75,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "(SEE EXPLANATION)",
+                    "polygon": [
+                        {
+                            "x": 551,
+                            "y": 210
+                        },
+                        {
+                            "x": 703,
+                            "y": 211
+                        },
+                        {
+                            "x": 702,
+                            "y": 228
+                        },
+                        {
+                            "x": 551,
+                            "y": 226
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 89,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "VARIETY DOLLAR SALES:",
+                    "polygon": [
+                        {
+                            "x": 420,
+                            "y": 239
+                        },
+                        {
+                            "x": 612,
+                            "y": 240
+                        },
+                        {
+                            "x": 612,
+                            "y": 257
+                        },
+                        {
+                            "x": 420,
+                            "y": 255
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 107,
+                            "length": 21
+                        }
+                    ]
+                },
+                {
+                    "content": "CIG. LENGTH:",
+                    "polygon": [
+                        {
+                            "x": 111,
+                            "y": 265
+                        },
+                        {
+                            "x": 220,
+                            "y": 266
+                        },
+                        {
+                            "x": 220,
+                            "y": 282
+                        },
+                        {
+                            "x": 111,
+                            "y": 281
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 129,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "FILTER LENGTH:",
+                    "polygon": [
+                        {
+                            "x": 374,
+                            "y": 268
+                        },
+                        {
+                            "x": 502,
+                            "y": 269
+                        },
+                        {
+                            "x": 502,
+                            "y": 286
+                        },
+                        {
+                            "x": 374,
+                            "y": 284
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 142,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "FILTER TYPE:",
+                    "polygon": [
+                        {
+                            "x": 111,
+                            "y": 295
+                        },
+                        {
+                            "x": 221,
+                            "y": 296
+                        },
+                        {
+                            "x": 221,
+                            "y": 311
+                        },
+                        {
+                            "x": 111,
+                            "y": 311
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 157,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "FLAVORING:",
+                    "polygon": [
+                        {
+                            "x": 283,
+                            "y": 297
+                        },
+                        {
+                            "x": 375,
+                            "y": 297
+                        },
+                        {
+                            "x": 375,
+                            "y": 313
+                        },
+                        {
+                            "x": 283,
+                            "y": 313
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 170,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "OVERWRAP:",
+                    "polygon": [
+                        {
+                            "x": 420,
+                            "y": 299
+                        },
+                        {
+                            "x": 503,
+                            "y": 299
+                        },
+                        {
+                            "x": 503,
+                            "y": 315
+                        },
+                        {
+                            "x": 420,
+                            "y": 314
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 181,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "PACK TYPE:",
+                    "polygon": [
+                        {
+                            "x": 556,
+                            "y": 300
+                        },
+                        {
+                            "x": 648,
+                            "y": 301
+                        },
+                        {
+                            "x": 648,
+                            "y": 317
+                        },
+                        {
+                            "x": 556,
+                            "y": 316
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 191,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "1ST MANUFACT. DATE:",
+                    "polygon": [
+                        {
+                            "x": 111,
+                            "y": 325
+                        },
+                        {
+                            "x": 285,
+                            "y": 327
+                        },
+                        {
+                            "x": 285,
+                            "y": 343
+                        },
+                        {
+                            "x": 111,
+                            "y": 341
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 202,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "1ST SALES DATE:",
+                    "polygon": [
+                        {
+                            "x": 329,
+                            "y": 326
+                        },
+                        {
+                            "x": 467,
+                            "y": 328
+                        },
+                        {
+                            "x": 467,
+                            "y": 345
+                        },
+                        {
+                            "x": 329,
+                            "y": 343
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 222,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "LAST SOLD DATE:",
+                    "polygon": [
+                        {
+                            "x": 528,
+                            "y": 330
+                        },
+                        {
+                            "x": 667,
+                            "y": 331
+                        },
+                        {
+                            "x": 667,
+                            "y": 347
+                        },
+                        {
+                            "x": 528,
+                            "y": 345
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 238,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "YEARLY SUMMARY:",
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 356
+                        },
+                        {
+                            "x": 248,
+                            "y": 356
+                        },
+                        {
+                            "x": 248,
+                            "y": 372
+                        },
+                        {
+                            "x": 110,
+                            "y": 371
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 254,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "TAR:",
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 386
+                        },
+                        {
+                            "x": 147,
+                            "y": 387
+                        },
+                        {
+                            "x": 147,
+                            "y": 401
+                        },
+                        {
+                            "x": 110,
+                            "y": 400
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 270,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "NICOTINE:",
+                    "polygon": [
+                        {
+                            "x": 283,
+                            "y": 387
+                        },
+                        {
+                            "x": 366,
+                            "y": 387
+                        },
+                        {
+                            "x": 365,
+                            "y": 403
+                        },
+                        {
+                            "x": 283,
+                            "y": 403
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 275,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "CARBON MONO:",
+                    "polygon": [
+                        {
+                            "x": 556,
+                            "y": 390
+                        },
+                        {
+                            "x": 666,
+                            "y": 391
+                        },
+                        {
+                            "x": 666,
+                            "y": 407
+                        },
+                        {
+                            "x": 556,
+                            "y": 406
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 285,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "ADVERTISING EXPENDITURES (SEE EXPLANATION)",
+                    "polygon": [
+                        {
+                            "x": 213,
+                            "y": 492
+                        },
+                        {
+                            "x": 598,
+                            "y": 494
+                        },
+                        {
+                            "x": 597,
+                            "y": 512
+                        },
+                        {
+                            "x": 213,
+                            "y": 509
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 298,
+                            "length": 42
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-A-EXPENSES :",
+                    "polygon": [
+                        {
+                            "x": 109,
+                            "y": 523
+                        },
+                        {
+                            "x": 246,
+                            "y": 523
+                        },
+                        {
+                            "x": 246,
+                            "y": 539
+                        },
+                        {
+                            "x": 109,
+                            "y": 539
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 341,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-B-EXPENSES :",
+                    "polygon": [
+                        {
+                            "x": 310,
+                            "y": 524
+                        },
+                        {
+                            "x": 446,
+                            "y": 525
+                        },
+                        {
+                            "x": 446,
+                            "y": 540
+                        },
+                        {
+                            "x": 310,
+                            "y": 539
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 358,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-D-EXPENSES:",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 553
+                        },
+                        {
+                            "x": 246,
+                            "y": 554
+                        },
+                        {
+                            "x": 246,
+                            "y": 569
+                        },
+                        {
+                            "x": 108,
+                            "y": 568
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 375,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-E-EXPENSES :",
+                    "polygon": [
+                        {
+                            "x": 309,
+                            "y": 555
+                        },
+                        {
+                            "x": 446,
+                            "y": 556
+                        },
+                        {
+                            "x": 446,
+                            "y": 570
+                        },
+                        {
+                            "x": 309,
+                            "y": 569
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 391,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-G-EXPENSES :",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 583
+                        },
+                        {
+                            "x": 246,
+                            "y": 584
+                        },
+                        {
+                            "x": 246,
+                            "y": 599
+                        },
+                        {
+                            "x": 108,
+                            "y": 598
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 408,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-H-EXPENSES :",
+                    "polygon": [
+                        {
+                            "x": 309,
+                            "y": 585
+                        },
+                        {
+                            "x": 447,
+                            "y": 585
+                        },
+                        {
+                            "x": 447,
+                            "y": 601
+                        },
+                        {
+                            "x": 309,
+                            "y": 600
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 425,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-J-EXPENSES:",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 614
+                        },
+                        {
+                            "x": 246,
+                            "y": 614
+                        },
+                        {
+                            "x": 246,
+                            "y": 630
+                        },
+                        {
+                            "x": 108,
+                            "y": 630
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 442,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-K-EXPENSES:",
+                    "polygon": [
+                        {
+                            "x": 309,
+                            "y": 615
+                        },
+                        {
+                            "x": 445,
+                            "y": 616
+                        },
+                        {
+                            "x": 445,
+                            "y": 631
+                        },
+                        {
+                            "x": 309,
+                            "y": 630
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 458,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-M-EXPENSES :",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 644
+                        },
+                        {
+                            "x": 247,
+                            "y": 644
+                        },
+                        {
+                            "x": 247,
+                            "y": 660
+                        },
+                        {
+                            "x": 108,
+                            "y": 660
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 474,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-N-EXPENSES :",
+                    "polygon": [
+                        {
+                            "x": 310,
+                            "y": 646
+                        },
+                        {
+                            "x": 446,
+                            "y": 647
+                        },
+                        {
+                            "x": 446,
+                            "y": 661
+                        },
+                        {
+                            "x": 310,
+                            "y": 660
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 491,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "TOTAL ADVERTISING EXPENDITURES:",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 674
+                        },
+                        {
+                            "x": 392,
+                            "y": 675
+                        },
+                        {
+                            "x": 392,
+                            "y": 692
+                        },
+                        {
+                            "x": 108,
+                            "y": 690
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 508,
+                            "length": 31
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-C-EXPENSES :",
+                    "polygon": [
+                        {
+                            "x": 518,
+                            "y": 526
+                        },
+                        {
+                            "x": 656,
+                            "y": 527
+                        },
+                        {
+                            "x": 656,
+                            "y": 542
+                        },
+                        {
+                            "x": 518,
+                            "y": 542
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 540,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-F-EXPENSES:",
+                    "polygon": [
+                        {
+                            "x": 518,
+                            "y": 556
+                        },
+                        {
+                            "x": 656,
+                            "y": 558
+                        },
+                        {
+                            "x": 656,
+                            "y": 573
+                        },
+                        {
+                            "x": 518,
+                            "y": 571
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 557,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-I-EXPENSES :",
+                    "polygon": [
+                        {
+                            "x": 518,
+                            "y": 587
+                        },
+                        {
+                            "x": 656,
+                            "y": 587
+                        },
+                        {
+                            "x": 656,
+                            "y": 602
+                        },
+                        {
+                            "x": 518,
+                            "y": 601
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 573,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "CAT-L-EXPENSES:",
+                    "polygon": [
+                        {
+                            "x": 518,
+                            "y": 617
+                        },
+                        {
+                            "x": 656,
+                            "y": 618
+                        },
+                        {
+                            "x": 656,
+                            "y": 633
+                        },
+                        {
+                            "x": 518,
+                            "y": 632
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 590,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "85629964",
+                    "polygon": [
+                        {
+                            "x": 709,
+                            "y": 836
+                        },
+                        {
+                            "x": 707,
+                            "y": 931
+                        },
+                        {
+                            "x": 688,
+                            "y": 930
+                        },
+                        {
+                            "x": 689,
+                            "y": 835
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 606,
+                            "length": 8
+                        }
+                    ]
+                }
+            ],
+            "words": [
+                {
+                    "content": "(",
+                    "polygon": [
+                        {
+                            "x": 263,
+                            "y": 28
+                        },
+                        {
+                            "x": 276,
+                            "y": 28
+                        },
+                        {
+                            "x": 278,
+                            "y": 55
+                        },
+                        {
+                            "x": 264,
+                            "y": 56
+                        }
+                    ],
+                    "span": {
+                        "offset": 0,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(",
+                    "polygon": [
+                        {
+                            "x": 514,
+                            "y": 33
+                        },
+                        {
+                            "x": 527,
+                            "y": 33
+                        },
+                        {
+                            "x": 527,
+                            "y": 58
+                        },
+                        {
+                            "x": 514,
+                            "y": 58
+                        }
+                    ],
+                    "span": {
+                        "offset": 2,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CIGARETTE",
+                    "polygon": [
+                        {
+                            "x": 313,
+                            "y": 101
+                        },
+                        {
+                            "x": 395,
+                            "y": 100
+                        },
+                        {
+                            "x": 395,
+                            "y": 118
+                        },
+                        {
+                            "x": 313,
+                            "y": 118
+                        }
+                    ],
+                    "span": {
+                        "offset": 4,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "REPORT",
+                    "polygon": [
+                        {
+                            "x": 404,
+                            "y": 100
+                        },
+                        {
+                            "x": 460,
+                            "y": 101
+                        },
+                        {
+                            "x": 460,
+                            "y": 118
+                        },
+                        {
+                            "x": 404,
+                            "y": 118
+                        }
+                    ],
+                    "span": {
+                        "offset": 14,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FORM",
+                    "polygon": [
+                        {
+                            "x": 468,
+                            "y": 101
+                        },
+                        {
+                            "x": 504,
+                            "y": 102
+                        },
+                        {
+                            "x": 503,
+                            "y": 119
+                        },
+                        {
+                            "x": 468,
+                            "y": 118
+                        }
+                    ],
+                    "span": {
+                        "offset": 21,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "YEAR:",
+                    "polygon": [
+                        {
+                            "x": 114,
+                            "y": 145
+                        },
+                        {
+                            "x": 158,
+                            "y": 147
+                        },
+                        {
+                            "x": 157,
+                            "y": 161
+                        },
+                        {
+                            "x": 114,
+                            "y": 159
+                        }
+                    ],
+                    "span": {
+                        "offset": 26,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "BRAND",
+                    "polygon": [
+                        {
+                            "x": 113,
+                            "y": 177
+                        },
+                        {
+                            "x": 156,
+                            "y": 177
+                        },
+                        {
+                            "x": 156,
+                            "y": 191
+                        },
+                        {
+                            "x": 113,
+                            "y": 191
+                        }
+                    ],
+                    "span": {
+                        "offset": 32,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NAME:",
+                    "polygon": [
+                        {
+                            "x": 167,
+                            "y": 177
+                        },
+                        {
+                            "x": 212,
+                            "y": 177
+                        },
+                        {
+                            "x": 212,
+                            "y": 192
+                        },
+                        {
+                            "x": 167,
+                            "y": 192
+                        }
+                    ],
+                    "span": {
+                        "offset": 38,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "VAR.",
+                    "polygon": [
+                        {
+                            "x": 113,
+                            "y": 206
+                        },
+                        {
+                            "x": 148,
+                            "y": 207
+                        },
+                        {
+                            "x": 148,
+                            "y": 221
+                        },
+                        {
+                            "x": 113,
+                            "y": 221
+                        }
+                    ],
+                    "span": {
+                        "offset": 44,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DESC:",
+                    "polygon": [
+                        {
+                            "x": 158,
+                            "y": 207
+                        },
+                        {
+                            "x": 203,
+                            "y": 207
+                        },
+                        {
+                            "x": 203,
+                            "y": 222
+                        },
+                        {
+                            "x": 158,
+                            "y": 222
+                        }
+                    ],
+                    "span": {
+                        "offset": 49,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "VARIETY",
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 237
+                        },
+                        {
+                            "x": 176,
+                            "y": 237
+                        },
+                        {
+                            "x": 176,
+                            "y": 253
+                        },
+                        {
+                            "x": 113,
+                            "y": 252
+                        }
+                    ],
+                    "span": {
+                        "offset": 55,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "UNIT",
+                    "polygon": [
+                        {
+                            "x": 184,
+                            "y": 237
+                        },
+                        {
+                            "x": 222,
+                            "y": 237
+                        },
+                        {
+                            "x": 222,
+                            "y": 253
+                        },
+                        {
+                            "x": 185,
+                            "y": 253
+                        }
+                    ],
+                    "span": {
+                        "offset": 63,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SALES:",
+                    "polygon": [
+                        {
+                            "x": 231,
+                            "y": 237
+                        },
+                        {
+                            "x": 284,
+                            "y": 238
+                        },
+                        {
+                            "x": 284,
+                            "y": 254
+                        },
+                        {
+                            "x": 231,
+                            "y": 254
+                        }
+                    ],
+                    "span": {
+                        "offset": 68,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NO.",
+                    "polygon": [
+                        {
+                            "x": 512,
+                            "y": 147
+                        },
+                        {
+                            "x": 540,
+                            "y": 148
+                        },
+                        {
+                            "x": 540,
+                            "y": 165
+                        },
+                        {
+                            "x": 512,
+                            "y": 165
+                        }
+                    ],
+                    "span": {
+                        "offset": 75,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PER",
+                    "polygon": [
+                        {
+                            "x": 550,
+                            "y": 148
+                        },
+                        {
+                            "x": 577,
+                            "y": 149
+                        },
+                        {
+                            "x": 577,
+                            "y": 165
+                        },
+                        {
+                            "x": 550,
+                            "y": 165
+                        }
+                    ],
+                    "span": {
+                        "offset": 79,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PACK:",
+                    "polygon": [
+                        {
+                            "x": 586,
+                            "y": 149
+                        },
+                        {
+                            "x": 632,
+                            "y": 149
+                        },
+                        {
+                            "x": 632,
+                            "y": 166
+                        },
+                        {
+                            "x": 586,
+                            "y": 165
+                        }
+                    ],
+                    "span": {
+                        "offset": 83,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(SEE",
+                    "polygon": [
+                        {
+                            "x": 552,
+                            "y": 210
+                        },
+                        {
+                            "x": 584,
+                            "y": 210
+                        },
+                        {
+                            "x": 585,
+                            "y": 227
+                        },
+                        {
+                            "x": 552,
+                            "y": 226
+                        }
+                    ],
+                    "span": {
+                        "offset": 89,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "EXPLANATION)",
+                    "polygon": [
+                        {
+                            "x": 594,
+                            "y": 210
+                        },
+                        {
+                            "x": 702,
+                            "y": 212
+                        },
+                        {
+                            "x": 702,
+                            "y": 229
+                        },
+                        {
+                            "x": 594,
+                            "y": 227
+                        }
+                    ],
+                    "span": {
+                        "offset": 94,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "VARIETY",
+                    "polygon": [
+                        {
+                            "x": 421,
+                            "y": 240
+                        },
+                        {
+                            "x": 486,
+                            "y": 240
+                        },
+                        {
+                            "x": 486,
+                            "y": 256
+                        },
+                        {
+                            "x": 421,
+                            "y": 255
+                        }
+                    ],
+                    "span": {
+                        "offset": 107,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DOLLAR",
+                    "polygon": [
+                        {
+                            "x": 495,
+                            "y": 240
+                        },
+                        {
+                            "x": 548,
+                            "y": 240
+                        },
+                        {
+                            "x": 548,
+                            "y": 257
+                        },
+                        {
+                            "x": 495,
+                            "y": 257
+                        }
+                    ],
+                    "span": {
+                        "offset": 115,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SALES:",
+                    "polygon": [
+                        {
+                            "x": 559,
+                            "y": 240
+                        },
+                        {
+                            "x": 612,
+                            "y": 241
+                        },
+                        {
+                            "x": 612,
+                            "y": 257
+                        },
+                        {
+                            "x": 559,
+                            "y": 257
+                        }
+                    ],
+                    "span": {
+                        "offset": 122,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CIG.",
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 266
+                        },
+                        {
+                            "x": 148,
+                            "y": 266
+                        },
+                        {
+                            "x": 148,
+                            "y": 282
+                        },
+                        {
+                            "x": 112,
+                            "y": 282
+                        }
+                    ],
+                    "span": {
+                        "offset": 129,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "LENGTH:",
+                    "polygon": [
+                        {
+                            "x": 158,
+                            "y": 266
+                        },
+                        {
+                            "x": 221,
+                            "y": 267
+                        },
+                        {
+                            "x": 220,
+                            "y": 283
+                        },
+                        {
+                            "x": 158,
+                            "y": 282
+                        }
+                    ],
+                    "span": {
+                        "offset": 134,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FILTER",
+                    "polygon": [
+                        {
+                            "x": 376,
+                            "y": 268
+                        },
+                        {
+                            "x": 430,
+                            "y": 269
+                        },
+                        {
+                            "x": 430,
+                            "y": 285
+                        },
+                        {
+                            "x": 376,
+                            "y": 285
+                        }
+                    ],
+                    "span": {
+                        "offset": 142,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "LENGTH:",
+                    "polygon": [
+                        {
+                            "x": 440,
+                            "y": 269
+                        },
+                        {
+                            "x": 502,
+                            "y": 270
+                        },
+                        {
+                            "x": 502,
+                            "y": 286
+                        },
+                        {
+                            "x": 440,
+                            "y": 285
+                        }
+                    ],
+                    "span": {
+                        "offset": 149,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FILTER",
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 296
+                        },
+                        {
+                            "x": 166,
+                            "y": 296
+                        },
+                        {
+                            "x": 166,
+                            "y": 312
+                        },
+                        {
+                            "x": 112,
+                            "y": 312
+                        }
+                    ],
+                    "span": {
+                        "offset": 157,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TYPE:",
+                    "polygon": [
+                        {
+                            "x": 177,
+                            "y": 296
+                        },
+                        {
+                            "x": 221,
+                            "y": 296
+                        },
+                        {
+                            "x": 220,
+                            "y": 312
+                        },
+                        {
+                            "x": 177,
+                            "y": 312
+                        }
+                    ],
+                    "span": {
+                        "offset": 164,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FLAVORING:",
+                    "polygon": [
+                        {
+                            "x": 285,
+                            "y": 298
+                        },
+                        {
+                            "x": 376,
+                            "y": 298
+                        },
+                        {
+                            "x": 376,
+                            "y": 314
+                        },
+                        {
+                            "x": 285,
+                            "y": 313
+                        }
+                    ],
+                    "span": {
+                        "offset": 170,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "OVERWRAP:",
+                    "polygon": [
+                        {
+                            "x": 421,
+                            "y": 299
+                        },
+                        {
+                            "x": 503,
+                            "y": 300
+                        },
+                        {
+                            "x": 503,
+                            "y": 316
+                        },
+                        {
+                            "x": 421,
+                            "y": 315
+                        }
+                    ],
+                    "span": {
+                        "offset": 181,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PACK",
+                    "polygon": [
+                        {
+                            "x": 558,
+                            "y": 301
+                        },
+                        {
+                            "x": 593,
+                            "y": 301
+                        },
+                        {
+                            "x": 593,
+                            "y": 317
+                        },
+                        {
+                            "x": 559,
+                            "y": 316
+                        }
+                    ],
+                    "span": {
+                        "offset": 191,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TYPE:",
+                    "polygon": [
+                        {
+                            "x": 605,
+                            "y": 301
+                        },
+                        {
+                            "x": 648,
+                            "y": 302
+                        },
+                        {
+                            "x": 648,
+                            "y": 318
+                        },
+                        {
+                            "x": 605,
+                            "y": 317
+                        }
+                    ],
+                    "span": {
+                        "offset": 196,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1ST",
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 325
+                        },
+                        {
+                            "x": 140,
+                            "y": 326
+                        },
+                        {
+                            "x": 140,
+                            "y": 342
+                        },
+                        {
+                            "x": 112,
+                            "y": 342
+                        }
+                    ],
+                    "span": {
+                        "offset": 202,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MANUFACT.",
+                    "polygon": [
+                        {
+                            "x": 147,
+                            "y": 326
+                        },
+                        {
+                            "x": 230,
+                            "y": 327
+                        },
+                        {
+                            "x": 230,
+                            "y": 343
+                        },
+                        {
+                            "x": 147,
+                            "y": 342
+                        }
+                    ],
+                    "span": {
+                        "offset": 206,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DATE:",
+                    "polygon": [
+                        {
+                            "x": 239,
+                            "y": 327
+                        },
+                        {
+                            "x": 285,
+                            "y": 327
+                        },
+                        {
+                            "x": 285,
+                            "y": 343
+                        },
+                        {
+                            "x": 239,
+                            "y": 343
+                        }
+                    ],
+                    "span": {
+                        "offset": 216,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1ST",
+                    "polygon": [
+                        {
+                            "x": 331,
+                            "y": 327
+                        },
+                        {
+                            "x": 359,
+                            "y": 327
+                        },
+                        {
+                            "x": 359,
+                            "y": 344
+                        },
+                        {
+                            "x": 331,
+                            "y": 344
+                        }
+                    ],
+                    "span": {
+                        "offset": 222,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SALES",
+                    "polygon": [
+                        {
+                            "x": 367,
+                            "y": 327
+                        },
+                        {
+                            "x": 412,
+                            "y": 328
+                        },
+                        {
+                            "x": 412,
+                            "y": 345
+                        },
+                        {
+                            "x": 367,
+                            "y": 344
+                        }
+                    ],
+                    "span": {
+                        "offset": 226,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DATE:",
+                    "polygon": [
+                        {
+                            "x": 421,
+                            "y": 329
+                        },
+                        {
+                            "x": 466,
+                            "y": 329
+                        },
+                        {
+                            "x": 466,
+                            "y": 345
+                        },
+                        {
+                            "x": 421,
+                            "y": 345
+                        }
+                    ],
+                    "span": {
+                        "offset": 232,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "LAST",
+                    "polygon": [
+                        {
+                            "x": 531,
+                            "y": 330
+                        },
+                        {
+                            "x": 568,
+                            "y": 330
+                        },
+                        {
+                            "x": 568,
+                            "y": 346
+                        },
+                        {
+                            "x": 531,
+                            "y": 346
+                        }
+                    ],
+                    "span": {
+                        "offset": 238,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SOLD",
+                    "polygon": [
+                        {
+                            "x": 577,
+                            "y": 330
+                        },
+                        {
+                            "x": 612,
+                            "y": 331
+                        },
+                        {
+                            "x": 613,
+                            "y": 347
+                        },
+                        {
+                            "x": 577,
+                            "y": 346
+                        }
+                    ],
+                    "span": {
+                        "offset": 243,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DATE:",
+                    "polygon": [
+                        {
+                            "x": 622,
+                            "y": 331
+                        },
+                        {
+                            "x": 667,
+                            "y": 332
+                        },
+                        {
+                            "x": 667,
+                            "y": 347
+                        },
+                        {
+                            "x": 622,
+                            "y": 347
+                        }
+                    ],
+                    "span": {
+                        "offset": 248,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "YEARLY",
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 356
+                        },
+                        {
+                            "x": 166,
+                            "y": 357
+                        },
+                        {
+                            "x": 167,
+                            "y": 372
+                        },
+                        {
+                            "x": 112,
+                            "y": 372
+                        }
+                    ],
+                    "span": {
+                        "offset": 254,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SUMMARY:",
+                    "polygon": [
+                        {
+                            "x": 175,
+                            "y": 357
+                        },
+                        {
+                            "x": 248,
+                            "y": 357
+                        },
+                        {
+                            "x": 248,
+                            "y": 373
+                        },
+                        {
+                            "x": 176,
+                            "y": 372
+                        }
+                    ],
+                    "span": {
+                        "offset": 261,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TAR:",
+                    "polygon": [
+                        {
+                            "x": 113,
+                            "y": 386
+                        },
+                        {
+                            "x": 146,
+                            "y": 387
+                        },
+                        {
+                            "x": 146,
+                            "y": 401
+                        },
+                        {
+                            "x": 113,
+                            "y": 400
+                        }
+                    ],
+                    "span": {
+                        "offset": 270,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NICOTINE:",
+                    "polygon": [
+                        {
+                            "x": 283,
+                            "y": 387
+                        },
+                        {
+                            "x": 366,
+                            "y": 388
+                        },
+                        {
+                            "x": 366,
+                            "y": 404
+                        },
+                        {
+                            "x": 283,
+                            "y": 404
+                        }
+                    ],
+                    "span": {
+                        "offset": 275,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CARBON",
+                    "polygon": [
+                        {
+                            "x": 557,
+                            "y": 391
+                        },
+                        {
+                            "x": 611,
+                            "y": 391
+                        },
+                        {
+                            "x": 611,
+                            "y": 407
+                        },
+                        {
+                            "x": 557,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 285,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MONO:",
+                    "polygon": [
+                        {
+                            "x": 620,
+                            "y": 391
+                        },
+                        {
+                            "x": 666,
+                            "y": 392
+                        },
+                        {
+                            "x": 666,
+                            "y": 407
+                        },
+                        {
+                            "x": 620,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 292,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ADVERTISING",
+                    "polygon": [
+                        {
+                            "x": 214,
+                            "y": 492
+                        },
+                        {
+                            "x": 315,
+                            "y": 492
+                        },
+                        {
+                            "x": 315,
+                            "y": 509
+                        },
+                        {
+                            "x": 215,
+                            "y": 509
+                        }
+                    ],
+                    "span": {
+                        "offset": 298,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "EXPENDITURES",
+                    "polygon": [
+                        {
+                            "x": 325,
+                            "y": 493
+                        },
+                        {
+                            "x": 435,
+                            "y": 493
+                        },
+                        {
+                            "x": 434,
+                            "y": 510
+                        },
+                        {
+                            "x": 325,
+                            "y": 509
+                        }
+                    ],
+                    "span": {
+                        "offset": 310,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(SEE",
+                    "polygon": [
+                        {
+                            "x": 446,
+                            "y": 493
+                        },
+                        {
+                            "x": 479,
+                            "y": 494
+                        },
+                        {
+                            "x": 479,
+                            "y": 511
+                        },
+                        {
+                            "x": 446,
+                            "y": 511
+                        }
+                    ],
+                    "span": {
+                        "offset": 323,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "EXPLANATION)",
+                    "polygon": [
+                        {
+                            "x": 490,
+                            "y": 494
+                        },
+                        {
+                            "x": 597,
+                            "y": 496
+                        },
+                        {
+                            "x": 596,
+                            "y": 513
+                        },
+                        {
+                            "x": 489,
+                            "y": 511
+                        }
+                    ],
+                    "span": {
+                        "offset": 328,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-A-EXPENSES",
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 523
+                        },
+                        {
+                            "x": 237,
+                            "y": 524
+                        },
+                        {
+                            "x": 237,
+                            "y": 539
+                        },
+                        {
+                            "x": 110,
+                            "y": 540
+                        }
+                    ],
+                    "span": {
+                        "offset": 341,
+                        "length": 14
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        {
+                            "x": 240,
+                            "y": 524
+                        },
+                        {
+                            "x": 247,
+                            "y": 524
+                        },
+                        {
+                            "x": 246,
+                            "y": 539
+                        },
+                        {
+                            "x": 240,
+                            "y": 539
+                        }
+                    ],
+                    "span": {
+                        "offset": 356,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-B-EXPENSES",
+                    "polygon": [
+                        {
+                            "x": 311,
+                            "y": 524
+                        },
+                        {
+                            "x": 437,
+                            "y": 525
+                        },
+                        {
+                            "x": 437,
+                            "y": 541
+                        },
+                        {
+                            "x": 311,
+                            "y": 540
+                        }
+                    ],
+                    "span": {
+                        "offset": 358,
+                        "length": 14
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        {
+                            "x": 440,
+                            "y": 525
+                        },
+                        {
+                            "x": 447,
+                            "y": 525
+                        },
+                        {
+                            "x": 447,
+                            "y": 541
+                        },
+                        {
+                            "x": 440,
+                            "y": 541
+                        }
+                    ],
+                    "span": {
+                        "offset": 373,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-D-EXPENSES:",
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 554
+                        },
+                        {
+                            "x": 246,
+                            "y": 554
+                        },
+                        {
+                            "x": 246,
+                            "y": 570
+                        },
+                        {
+                            "x": 111,
+                            "y": 569
+                        }
+                    ],
+                    "span": {
+                        "offset": 375,
+                        "length": 15
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-E-EXPENSES",
+                    "polygon": [
+                        {
+                            "x": 311,
+                            "y": 555
+                        },
+                        {
+                            "x": 438,
+                            "y": 556
+                        },
+                        {
+                            "x": 437,
+                            "y": 571
+                        },
+                        {
+                            "x": 311,
+                            "y": 570
+                        }
+                    ],
+                    "span": {
+                        "offset": 391,
+                        "length": 14
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        {
+                            "x": 441,
+                            "y": 556
+                        },
+                        {
+                            "x": 446,
+                            "y": 556
+                        },
+                        {
+                            "x": 446,
+                            "y": 571
+                        },
+                        {
+                            "x": 440,
+                            "y": 571
+                        }
+                    ],
+                    "span": {
+                        "offset": 406,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-G-EXPENSES",
+                    "polygon": [
+                        {
+                            "x": 111,
+                            "y": 584
+                        },
+                        {
+                            "x": 237,
+                            "y": 585
+                        },
+                        {
+                            "x": 236,
+                            "y": 600
+                        },
+                        {
+                            "x": 111,
+                            "y": 599
+                        }
+                    ],
+                    "span": {
+                        "offset": 408,
+                        "length": 14
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        {
+                            "x": 240,
+                            "y": 585
+                        },
+                        {
+                            "x": 247,
+                            "y": 585
+                        },
+                        {
+                            "x": 246,
+                            "y": 600
+                        },
+                        {
+                            "x": 239,
+                            "y": 600
+                        }
+                    ],
+                    "span": {
+                        "offset": 423,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-H-EXPENSES",
+                    "polygon": [
+                        {
+                            "x": 311,
+                            "y": 586
+                        },
+                        {
+                            "x": 437,
+                            "y": 586
+                        },
+                        {
+                            "x": 437,
+                            "y": 601
+                        },
+                        {
+                            "x": 311,
+                            "y": 600
+                        }
+                    ],
+                    "span": {
+                        "offset": 425,
+                        "length": 14
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        {
+                            "x": 440,
+                            "y": 586
+                        },
+                        {
+                            "x": 447,
+                            "y": 586
+                        },
+                        {
+                            "x": 447,
+                            "y": 602
+                        },
+                        {
+                            "x": 440,
+                            "y": 601
+                        }
+                    ],
+                    "span": {
+                        "offset": 440,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-J-EXPENSES:",
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 615
+                        },
+                        {
+                            "x": 246,
+                            "y": 615
+                        },
+                        {
+                            "x": 246,
+                            "y": 630
+                        },
+                        {
+                            "x": 110,
+                            "y": 630
+                        }
+                    ],
+                    "span": {
+                        "offset": 442,
+                        "length": 15
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-K-EXPENSES:",
+                    "polygon": [
+                        {
+                            "x": 310,
+                            "y": 615
+                        },
+                        {
+                            "x": 445,
+                            "y": 617
+                        },
+                        {
+                            "x": 445,
+                            "y": 632
+                        },
+                        {
+                            "x": 310,
+                            "y": 631
+                        }
+                    ],
+                    "span": {
+                        "offset": 458,
+                        "length": 15
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-M-EXPENSES",
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 645
+                        },
+                        {
+                            "x": 237,
+                            "y": 645
+                        },
+                        {
+                            "x": 236,
+                            "y": 661
+                        },
+                        {
+                            "x": 110,
+                            "y": 661
+                        }
+                    ],
+                    "span": {
+                        "offset": 474,
+                        "length": 14
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        {
+                            "x": 240,
+                            "y": 645
+                        },
+                        {
+                            "x": 247,
+                            "y": 645
+                        },
+                        {
+                            "x": 247,
+                            "y": 661
+                        },
+                        {
+                            "x": 239,
+                            "y": 661
+                        }
+                    ],
+                    "span": {
+                        "offset": 489,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-N-EXPENSES",
+                    "polygon": [
+                        {
+                            "x": 311,
+                            "y": 646
+                        },
+                        {
+                            "x": 437,
+                            "y": 647
+                        },
+                        {
+                            "x": 437,
+                            "y": 662
+                        },
+                        {
+                            "x": 311,
+                            "y": 661
+                        }
+                    ],
+                    "span": {
+                        "offset": 491,
+                        "length": 14
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        {
+                            "x": 440,
+                            "y": 647
+                        },
+                        {
+                            "x": 446,
+                            "y": 647
+                        },
+                        {
+                            "x": 446,
+                            "y": 662
+                        },
+                        {
+                            "x": 440,
+                            "y": 662
+                        }
+                    ],
+                    "span": {
+                        "offset": 506,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TOTAL",
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 674
+                        },
+                        {
+                            "x": 155,
+                            "y": 675
+                        },
+                        {
+                            "x": 156,
+                            "y": 691
+                        },
+                        {
+                            "x": 112,
+                            "y": 691
+                        }
+                    ],
+                    "span": {
+                        "offset": 508,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ADVERTISING",
+                    "polygon": [
+                        {
+                            "x": 165,
+                            "y": 675
+                        },
+                        {
+                            "x": 264,
+                            "y": 675
+                        },
+                        {
+                            "x": 264,
+                            "y": 692
+                        },
+                        {
+                            "x": 165,
+                            "y": 691
+                        }
+                    ],
+                    "span": {
+                        "offset": 514,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "EXPENDITURES:",
+                    "polygon": [
+                        {
+                            "x": 275,
+                            "y": 676
+                        },
+                        {
+                            "x": 392,
+                            "y": 676
+                        },
+                        {
+                            "x": 392,
+                            "y": 692
+                        },
+                        {
+                            "x": 275,
+                            "y": 692
+                        }
+                    ],
+                    "span": {
+                        "offset": 526,
+                        "length": 13
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-C-EXPENSES",
+                    "polygon": [
+                        {
+                            "x": 521,
+                            "y": 527
+                        },
+                        {
+                            "x": 646,
+                            "y": 527
+                        },
+                        {
+                            "x": 646,
+                            "y": 543
+                        },
+                        {
+                            "x": 521,
+                            "y": 542
+                        }
+                    ],
+                    "span": {
+                        "offset": 540,
+                        "length": 14
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        {
+                            "x": 649,
+                            "y": 527
+                        },
+                        {
+                            "x": 656,
+                            "y": 528
+                        },
+                        {
+                            "x": 655,
+                            "y": 543
+                        },
+                        {
+                            "x": 649,
+                            "y": 543
+                        }
+                    ],
+                    "span": {
+                        "offset": 555,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-F-EXPENSES:",
+                    "polygon": [
+                        {
+                            "x": 520,
+                            "y": 557
+                        },
+                        {
+                            "x": 656,
+                            "y": 559
+                        },
+                        {
+                            "x": 656,
+                            "y": 574
+                        },
+                        {
+                            "x": 521,
+                            "y": 572
+                        }
+                    ],
+                    "span": {
+                        "offset": 557,
+                        "length": 15
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-I-EXPENSES",
+                    "polygon": [
+                        {
+                            "x": 520,
+                            "y": 587
+                        },
+                        {
+                            "x": 647,
+                            "y": 588
+                        },
+                        {
+                            "x": 647,
+                            "y": 603
+                        },
+                        {
+                            "x": 521,
+                            "y": 601
+                        }
+                    ],
+                    "span": {
+                        "offset": 573,
+                        "length": 14
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        {
+                            "x": 650,
+                            "y": 588
+                        },
+                        {
+                            "x": 656,
+                            "y": 588
+                        },
+                        {
+                            "x": 655,
+                            "y": 603
+                        },
+                        {
+                            "x": 650,
+                            "y": 603
+                        }
+                    ],
+                    "span": {
+                        "offset": 588,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAT-L-EXPENSES:",
+                    "polygon": [
+                        {
+                            "x": 520,
+                            "y": 617
+                        },
+                        {
+                            "x": 656,
+                            "y": 619
+                        },
+                        {
+                            "x": 656,
+                            "y": 634
+                        },
+                        {
+                            "x": 520,
+                            "y": 633
+                        }
+                    ],
+                    "span": {
+                        "offset": 590,
+                        "length": 15
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "85629964",
+                    "polygon": [
+                        {
+                            "x": 710,
+                            "y": 836
+                        },
+                        {
+                            "x": 707,
+                            "y": 927
+                        },
+                        {
+                            "x": 688,
+                            "y": 928
+                        },
+                        {
+                            "x": 689,
+                            "y": 836
+                        }
+                    ],
+                    "span": {
+                        "offset": 606,
+                        "length": 8
+                    },
+                    "confidence": 0
+                }
+            ],
+            "selection_marks": [],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 614
+                }
+            ],
+            "barcodes": [],
+            "formulas": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "role": null,
+            "content": "(",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 262,
+                            "y": 29
+                        },
+                        {
+                            "x": 277,
+                            "y": 28
+                        },
+                        {
+                            "x": 279,
+                            "y": 55
+                        },
+                        {
+                            "x": 264,
+                            "y": 56
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 1
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "(",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 514,
+                            "y": 33
+                        },
+                        {
+                            "x": 530,
+                            "y": 33
+                        },
+                        {
+                            "x": 530,
+                            "y": 58
+                        },
+                        {
+                            "x": 514,
+                            "y": 58
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 2,
+                    "length": 1
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CIGARETTE REPORT FORM",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 311,
+                            "y": 100
+                        },
+                        {
+                            "x": 507,
+                            "y": 101
+                        },
+                        {
+                            "x": 507,
+                            "y": 118
+                        },
+                        {
+                            "x": 311,
+                            "y": 117
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 4,
+                    "length": 21
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "YEAR:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 113,
+                            "y": 145
+                        },
+                        {
+                            "x": 157,
+                            "y": 146
+                        },
+                        {
+                            "x": 157,
+                            "y": 160
+                        },
+                        {
+                            "x": 113,
+                            "y": 159
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 26,
+                    "length": 5
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "BRAND NAME:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 176
+                        },
+                        {
+                            "x": 212,
+                            "y": 177
+                        },
+                        {
+                            "x": 212,
+                            "y": 192
+                        },
+                        {
+                            "x": 112,
+                            "y": 191
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 32,
+                    "length": 11
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "VAR. DESC:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 206
+                        },
+                        {
+                            "x": 203,
+                            "y": 207
+                        },
+                        {
+                            "x": 203,
+                            "y": 221
+                        },
+                        {
+                            "x": 112,
+                            "y": 220
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 44,
+                    "length": 10
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "VARIETY UNIT SALES:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 111,
+                            "y": 236
+                        },
+                        {
+                            "x": 284,
+                            "y": 237
+                        },
+                        {
+                            "x": 284,
+                            "y": 253
+                        },
+                        {
+                            "x": 111,
+                            "y": 252
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 55,
+                    "length": 19
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "NO. PER PACK:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 511,
+                            "y": 147
+                        },
+                        {
+                            "x": 631,
+                            "y": 148
+                        },
+                        {
+                            "x": 631,
+                            "y": 166
+                        },
+                        {
+                            "x": 511,
+                            "y": 165
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 75,
+                    "length": 13
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "(SEE EXPLANATION)",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 551,
+                            "y": 210
+                        },
+                        {
+                            "x": 703,
+                            "y": 211
+                        },
+                        {
+                            "x": 703,
+                            "y": 228
+                        },
+                        {
+                            "x": 551,
+                            "y": 227
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 89,
+                    "length": 17
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "VARIETY DOLLAR SALES:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 420,
+                            "y": 239
+                        },
+                        {
+                            "x": 612,
+                            "y": 240
+                        },
+                        {
+                            "x": 612,
+                            "y": 257
+                        },
+                        {
+                            "x": 420,
+                            "y": 256
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 107,
+                    "length": 21
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CIG. LENGTH:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 111,
+                            "y": 265
+                        },
+                        {
+                            "x": 220,
+                            "y": 266
+                        },
+                        {
+                            "x": 220,
+                            "y": 282
+                        },
+                        {
+                            "x": 111,
+                            "y": 281
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 129,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "FILTER LENGTH:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 374,
+                            "y": 268
+                        },
+                        {
+                            "x": 502,
+                            "y": 269
+                        },
+                        {
+                            "x": 502,
+                            "y": 286
+                        },
+                        {
+                            "x": 374,
+                            "y": 285
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 142,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "FILTER TYPE: FLAVORING: OVERWRAP: PACK TYPE:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 111,
+                            "y": 294
+                        },
+                        {
+                            "x": 648,
+                            "y": 300
+                        },
+                        {
+                            "x": 648,
+                            "y": 317
+                        },
+                        {
+                            "x": 111,
+                            "y": 311
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 157,
+                    "length": 44
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "1ST MANUFACT. DATE:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 111,
+                            "y": 325
+                        },
+                        {
+                            "x": 285,
+                            "y": 327
+                        },
+                        {
+                            "x": 285,
+                            "y": 343
+                        },
+                        {
+                            "x": 111,
+                            "y": 341
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 202,
+                    "length": 19
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "1ST SALES DATE: LAST SOLD DATE:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 329,
+                            "y": 326
+                        },
+                        {
+                            "x": 667,
+                            "y": 331
+                        },
+                        {
+                            "x": 667,
+                            "y": 348
+                        },
+                        {
+                            "x": 329,
+                            "y": 343
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 222,
+                    "length": 31
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "YEARLY SUMMARY:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 356
+                        },
+                        {
+                            "x": 248,
+                            "y": 356
+                        },
+                        {
+                            "x": 248,
+                            "y": 372
+                        },
+                        {
+                            "x": 110,
+                            "y": 372
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 254,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "TAR:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 386
+                        },
+                        {
+                            "x": 147,
+                            "y": 387
+                        },
+                        {
+                            "x": 147,
+                            "y": 401
+                        },
+                        {
+                            "x": 110,
+                            "y": 400
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 270,
+                    "length": 4
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "NICOTINE:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 283,
+                            "y": 387
+                        },
+                        {
+                            "x": 366,
+                            "y": 387
+                        },
+                        {
+                            "x": 366,
+                            "y": 403
+                        },
+                        {
+                            "x": 283,
+                            "y": 403
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 275,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CARBON MONO:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 556,
+                            "y": 390
+                        },
+                        {
+                            "x": 666,
+                            "y": 391
+                        },
+                        {
+                            "x": 666,
+                            "y": 407
+                        },
+                        {
+                            "x": 556,
+                            "y": 406
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 285,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "ADVERTISING EXPENDITURES (SEE EXPLANATION)",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 213,
+                            "y": 492
+                        },
+                        {
+                            "x": 598,
+                            "y": 494
+                        },
+                        {
+                            "x": 598,
+                            "y": 512
+                        },
+                        {
+                            "x": 213,
+                            "y": 510
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 298,
+                    "length": 42
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAT-A-EXPENSES :",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 109,
+                            "y": 523
+                        },
+                        {
+                            "x": 246,
+                            "y": 523
+                        },
+                        {
+                            "x": 246,
+                            "y": 539
+                        },
+                        {
+                            "x": 109,
+                            "y": 539
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 341,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAT-B-EXPENSES :",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 310,
+                            "y": 524
+                        },
+                        {
+                            "x": 446,
+                            "y": 525
+                        },
+                        {
+                            "x": 446,
+                            "y": 540
+                        },
+                        {
+                            "x": 310,
+                            "y": 539
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 358,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAT-D-EXPENSES:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 553
+                        },
+                        {
+                            "x": 246,
+                            "y": 554
+                        },
+                        {
+                            "x": 246,
+                            "y": 569
+                        },
+                        {
+                            "x": 108,
+                            "y": 568
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 375,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAT-E-EXPENSES :",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 309,
+                            "y": 555
+                        },
+                        {
+                            "x": 446,
+                            "y": 556
+                        },
+                        {
+                            "x": 446,
+                            "y": 570
+                        },
+                        {
+                            "x": 309,
+                            "y": 569
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 391,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAT-G-EXPENSES :",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 583
+                        },
+                        {
+                            "x": 246,
+                            "y": 584
+                        },
+                        {
+                            "x": 246,
+                            "y": 599
+                        },
+                        {
+                            "x": 108,
+                            "y": 598
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 408,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAT-H-EXPENSES :",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 309,
+                            "y": 585
+                        },
+                        {
+                            "x": 447,
+                            "y": 585
+                        },
+                        {
+                            "x": 447,
+                            "y": 601
+                        },
+                        {
+                            "x": 309,
+                            "y": 601
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 425,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAT-J-EXPENSES:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 614
+                        },
+                        {
+                            "x": 246,
+                            "y": 614
+                        },
+                        {
+                            "x": 246,
+                            "y": 630
+                        },
+                        {
+                            "x": 108,
+                            "y": 630
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 442,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAT-K-EXPENSES:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 309,
+                            "y": 615
+                        },
+                        {
+                            "x": 445,
+                            "y": 616
+                        },
+                        {
+                            "x": 445,
+                            "y": 631
+                        },
+                        {
+                            "x": 309,
+                            "y": 630
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 458,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAT-M-EXPENSES : CAT-N-EXPENSES :",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 644
+                        },
+                        {
+                            "x": 446,
+                            "y": 645
+                        },
+                        {
+                            "x": 446,
+                            "y": 661
+                        },
+                        {
+                            "x": 108,
+                            "y": 660
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 474,
+                    "length": 33
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "TOTAL ADVERTISING EXPENDITURES:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 674
+                        },
+                        {
+                            "x": 392,
+                            "y": 675
+                        },
+                        {
+                            "x": 392,
+                            "y": 692
+                        },
+                        {
+                            "x": 108,
+                            "y": 691
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 508,
+                    "length": 31
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAT-C-EXPENSES :",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 518,
+                            "y": 526
+                        },
+                        {
+                            "x": 656,
+                            "y": 526
+                        },
+                        {
+                            "x": 656,
+                            "y": 542
+                        },
+                        {
+                            "x": 518,
+                            "y": 542
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 540,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAT-F-EXPENSES:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 518,
+                            "y": 556
+                        },
+                        {
+                            "x": 656,
+                            "y": 558
+                        },
+                        {
+                            "x": 656,
+                            "y": 573
+                        },
+                        {
+                            "x": 518,
+                            "y": 571
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 557,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAT-I-EXPENSES :",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 518,
+                            "y": 587
+                        },
+                        {
+                            "x": 656,
+                            "y": 587
+                        },
+                        {
+                            "x": 656,
+                            "y": 602
+                        },
+                        {
+                            "x": 518,
+                            "y": 602
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 573,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAT-L-EXPENSES:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 518,
+                            "y": 617
+                        },
+                        {
+                            "x": 656,
+                            "y": 618
+                        },
+                        {
+                            "x": 656,
+                            "y": 633
+                        },
+                        {
+                            "x": 518,
+                            "y": 632
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 590,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "85629964",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 689,
+                            "y": 835
+                        },
+                        {
+                            "x": 709,
+                            "y": 835
+                        },
+                        {
+                            "x": 707,
+                            "y": 931
+                        },
+                        {
+                            "x": 687,
+                            "y": 931
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 606,
+                    "length": 8
+                }
+            ]
+        }
+    ],
+    "tables": [],
+    "key_value_pairs": [],
+    "styles": [],
+    "documents": []
+}

@@ -1,0 +1,5033 @@
+{
+    "api_version": "2023-07-31",
+    "model_id": "prebuilt-read",
+    "content": "CITY OF REIDSVILLE CHEMICAL MANAGEMENT PLAN 1993 INVENTORY CHEMICAL USAGE FACT SHEET\n1\nProcess Chemicals Used in Excess of 100 Pounds/Day, Water Treatment Chemicals, Cleaning Compounds\nFacility:\nThe American Tobacco Company\nPermit #:\n0001\nCHEMICAL DESCRIPTION\nPRODUCT (CHEMICAL) NAME:\nFuller G2315 DC\nDESCRIPTION: Liquid Adhesive\nPRODUCT CLASSIFICATION (Circle One): Organic Inorganic\nCHEMICAL FORMULA: Vinyl Acetate\nCAS#: 108-05-4\nPERCENT ACTIVES (Non-water):\n.5%\nMANUFACTURER:\nH. B. Fuller Company\nC\nPHONE #:\n612-481-3300\nMSDS ON FILE? (Circle One):\nYes\nCHEMICAL USAGE\n1993 ANNUAL USAGE (LBS.): 74880\n1993 AVG. MONTHLY USAGE (LBS.) 6240\nAPPLICATION (Circle One and Briefly Describe):\nProduction Process: label adhesive\nWater Treatment:\nHousekeeping/Cleaning:\nOther.\nNo\nATX02 0132045",
+    "languages": [],
+    "pages": [
+        {
+            "page_number": 1,
+            "angle": 0,
+            "width": 762,
+            "height": 1000,
+            "unit": "pixel",
+            "lines": [
+                {
+                    "content": "CITY OF REIDSVILLE CHEMICAL MANAGEMENT PLAN",
+                    "polygon": [
+                        {
+                            "x": 226,
+                            "y": 52
+                        },
+                        {
+                            "x": 593,
+                            "y": 52
+                        },
+                        {
+                            "x": 593,
+                            "y": 68
+                        },
+                        {
+                            "x": 226,
+                            "y": 69
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 43
+                        }
+                    ]
+                },
+                {
+                    "content": "1993 INVENTORY",
+                    "polygon": [
+                        {
+                            "x": 351,
+                            "y": 67
+                        },
+                        {
+                            "x": 466,
+                            "y": 67
+                        },
+                        {
+                            "x": 465,
+                            "y": 82
+                        },
+                        {
+                            "x": 351,
+                            "y": 82
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 44,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "CHEMICAL USAGE FACT SHEET",
+                    "polygon": [
+                        {
+                            "x": 299,
+                            "y": 81
+                        },
+                        {
+                            "x": 512,
+                            "y": 81
+                        },
+                        {
+                            "x": 512,
+                            "y": 97
+                        },
+                        {
+                            "x": 299,
+                            "y": 97
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 59,
+                            "length": 25
+                        }
+                    ]
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        {
+                            "x": 651,
+                            "y": 53
+                        },
+                        {
+                            "x": 660,
+                            "y": 53
+                        },
+                        {
+                            "x": 660,
+                            "y": 75
+                        },
+                        {
+                            "x": 651,
+                            "y": 75
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 85,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Process Chemicals Used in Excess of 100 Pounds/Day,",
+                    "polygon": [
+                        {
+                            "x": 250,
+                            "y": 111
+                        },
+                        {
+                            "x": 563,
+                            "y": 111
+                        },
+                        {
+                            "x": 563,
+                            "y": 128
+                        },
+                        {
+                            "x": 250,
+                            "y": 128
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 87,
+                            "length": 51
+                        }
+                    ]
+                },
+                {
+                    "content": "Water Treatment Chemicals, Cleaning Compounds",
+                    "polygon": [
+                        {
+                            "x": 260,
+                            "y": 126
+                        },
+                        {
+                            "x": 554,
+                            "y": 127
+                        },
+                        {
+                            "x": 554,
+                            "y": 144
+                        },
+                        {
+                            "x": 260,
+                            "y": 143
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 139,
+                            "length": 45
+                        }
+                    ]
+                },
+                {
+                    "content": "Facility:",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 157
+                        },
+                        {
+                            "x": 155,
+                            "y": 158
+                        },
+                        {
+                            "x": 155,
+                            "y": 172
+                        },
+                        {
+                            "x": 108,
+                            "y": 172
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 185,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "The American Tobacco Company",
+                    "polygon": [
+                        {
+                            "x": 162,
+                            "y": 176
+                        },
+                        {
+                            "x": 347,
+                            "y": 176
+                        },
+                        {
+                            "x": 347,
+                            "y": 193
+                        },
+                        {
+                            "x": 162,
+                            "y": 193
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 195,
+                            "length": 28
+                        }
+                    ]
+                },
+                {
+                    "content": "Permit #:",
+                    "polygon": [
+                        {
+                            "x": 540,
+                            "y": 156
+                        },
+                        {
+                            "x": 596,
+                            "y": 157
+                        },
+                        {
+                            "x": 596,
+                            "y": 172
+                        },
+                        {
+                            "x": 540,
+                            "y": 172
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 224,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "0001",
+                    "polygon": [
+                        {
+                            "x": 612,
+                            "y": 177
+                        },
+                        {
+                            "x": 640,
+                            "y": 176
+                        },
+                        {
+                            "x": 640,
+                            "y": 189
+                        },
+                        {
+                            "x": 612,
+                            "y": 188
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 234,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "CHEMICAL DESCRIPTION",
+                    "polygon": [
+                        {
+                            "x": 336,
+                            "y": 210
+                        },
+                        {
+                            "x": 473,
+                            "y": 210
+                        },
+                        {
+                            "x": 473,
+                            "y": 225
+                        },
+                        {
+                            "x": 336,
+                            "y": 225
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 239,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "PRODUCT (CHEMICAL) NAME:",
+                    "polygon": [
+                        {
+                            "x": 119,
+                            "y": 246
+                        },
+                        {
+                            "x": 276,
+                            "y": 246
+                        },
+                        {
+                            "x": 276,
+                            "y": 261
+                        },
+                        {
+                            "x": 119,
+                            "y": 261
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 260,
+                            "length": 24
+                        }
+                    ]
+                },
+                {
+                    "content": "Fuller G2315 DC",
+                    "polygon": [
+                        {
+                            "x": 294,
+                            "y": 253
+                        },
+                        {
+                            "x": 394,
+                            "y": 254
+                        },
+                        {
+                            "x": 394,
+                            "y": 269
+                        },
+                        {
+                            "x": 294,
+                            "y": 268
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 285,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "DESCRIPTION: Liquid Adhesive",
+                    "polygon": [
+                        {
+                            "x": 118,
+                            "y": 283
+                        },
+                        {
+                            "x": 298,
+                            "y": 285
+                        },
+                        {
+                            "x": 298,
+                            "y": 302
+                        },
+                        {
+                            "x": 118,
+                            "y": 298
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 301,
+                            "length": 28
+                        }
+                    ]
+                },
+                {
+                    "content": "PRODUCT CLASSIFICATION (Circle One):",
+                    "polygon": [
+                        {
+                            "x": 118,
+                            "y": 320
+                        },
+                        {
+                            "x": 320,
+                            "y": 320
+                        },
+                        {
+                            "x": 320,
+                            "y": 336
+                        },
+                        {
+                            "x": 118,
+                            "y": 335
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 330,
+                            "length": 36
+                        }
+                    ]
+                },
+                {
+                    "content": "Organic",
+                    "polygon": [
+                        {
+                            "x": 380,
+                            "y": 322
+                        },
+                        {
+                            "x": 417,
+                            "y": 322
+                        },
+                        {
+                            "x": 417,
+                            "y": 335
+                        },
+                        {
+                            "x": 380,
+                            "y": 335
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 367,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "Inorganic",
+                    "polygon": [
+                        {
+                            "x": 497,
+                            "y": 322
+                        },
+                        {
+                            "x": 542,
+                            "y": 322
+                        },
+                        {
+                            "x": 541,
+                            "y": 335
+                        },
+                        {
+                            "x": 497,
+                            "y": 335
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 375,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "CHEMICAL FORMULA:",
+                    "polygon": [
+                        {
+                            "x": 117,
+                            "y": 358
+                        },
+                        {
+                            "x": 234,
+                            "y": 359
+                        },
+                        {
+                            "x": 234,
+                            "y": 373
+                        },
+                        {
+                            "x": 117,
+                            "y": 371
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 385,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "Vinyl Acetate",
+                    "polygon": [
+                        {
+                            "x": 265,
+                            "y": 362
+                        },
+                        {
+                            "x": 354,
+                            "y": 363
+                        },
+                        {
+                            "x": 354,
+                            "y": 377
+                        },
+                        {
+                            "x": 265,
+                            "y": 376
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 403,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "CAS#:",
+                    "polygon": [
+                        {
+                            "x": 116,
+                            "y": 395
+                        },
+                        {
+                            "x": 148,
+                            "y": 395
+                        },
+                        {
+                            "x": 148,
+                            "y": 407
+                        },
+                        {
+                            "x": 116,
+                            "y": 407
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 417,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "108-05-4",
+                    "polygon": [
+                        {
+                            "x": 193,
+                            "y": 400
+                        },
+                        {
+                            "x": 248,
+                            "y": 400
+                        },
+                        {
+                            "x": 248,
+                            "y": 413
+                        },
+                        {
+                            "x": 193,
+                            "y": 412
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 423,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "PERCENT ACTIVES (Non-water):",
+                    "polygon": [
+                        {
+                            "x": 456,
+                            "y": 395
+                        },
+                        {
+                            "x": 616,
+                            "y": 395
+                        },
+                        {
+                            "x": 616,
+                            "y": 410
+                        },
+                        {
+                            "x": 456,
+                            "y": 409
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 432,
+                            "length": 28
+                        }
+                    ]
+                },
+                {
+                    "content": ".5%",
+                    "polygon": [
+                        {
+                            "x": 644,
+                            "y": 400
+                        },
+                        {
+                            "x": 663,
+                            "y": 401
+                        },
+                        {
+                            "x": 663,
+                            "y": 417
+                        },
+                        {
+                            "x": 644,
+                            "y": 418
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 461,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "MANUFACTURER:",
+                    "polygon": [
+                        {
+                            "x": 116,
+                            "y": 432
+                        },
+                        {
+                            "x": 208,
+                            "y": 432
+                        },
+                        {
+                            "x": 208,
+                            "y": 445
+                        },
+                        {
+                            "x": 116,
+                            "y": 444
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 465,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "H. B. Fuller Company",
+                    "polygon": [
+                        {
+                            "x": 237,
+                            "y": 438
+                        },
+                        {
+                            "x": 371,
+                            "y": 439
+                        },
+                        {
+                            "x": 371,
+                            "y": 455
+                        },
+                        {
+                            "x": 237,
+                            "y": 452
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 479,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "C",
+                    "polygon": [
+                        {
+                            "x": 625,
+                            "y": 393
+                        },
+                        {
+                            "x": 640,
+                            "y": 393
+                        },
+                        {
+                            "x": 640,
+                            "y": 419
+                        },
+                        {
+                            "x": 625,
+                            "y": 419
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 500,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "PHONE #:",
+                    "polygon": [
+                        {
+                            "x": 534,
+                            "y": 431
+                        },
+                        {
+                            "x": 585,
+                            "y": 431
+                        },
+                        {
+                            "x": 585,
+                            "y": 445
+                        },
+                        {
+                            "x": 534,
+                            "y": 445
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 502,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "612-481-3300",
+                    "polygon": [
+                        {
+                            "x": 579,
+                            "y": 439
+                        },
+                        {
+                            "x": 663,
+                            "y": 441
+                        },
+                        {
+                            "x": 663,
+                            "y": 456
+                        },
+                        {
+                            "x": 579,
+                            "y": 454
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 511,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "MSDS ON FILE? (Circle One):",
+                    "polygon": [
+                        {
+                            "x": 115,
+                            "y": 466
+                        },
+                        {
+                            "x": 256,
+                            "y": 468
+                        },
+                        {
+                            "x": 256,
+                            "y": 484
+                        },
+                        {
+                            "x": 115,
+                            "y": 482
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 524,
+                            "length": 27
+                        }
+                    ]
+                },
+                {
+                    "content": "Yes",
+                    "polygon": [
+                        {
+                            "x": 375,
+                            "y": 468
+                        },
+                        {
+                            "x": 396,
+                            "y": 468
+                        },
+                        {
+                            "x": 396,
+                            "y": 482
+                        },
+                        {
+                            "x": 375,
+                            "y": 483
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 552,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "CHEMICAL USAGE",
+                    "polygon": [
+                        {
+                            "x": 347,
+                            "y": 518
+                        },
+                        {
+                            "x": 447,
+                            "y": 518
+                        },
+                        {
+                            "x": 447,
+                            "y": 531
+                        },
+                        {
+                            "x": 347,
+                            "y": 531
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 556,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "1993 ANNUAL USAGE (LBS.):",
+                    "polygon": [
+                        {
+                            "x": 114,
+                            "y": 554
+                        },
+                        {
+                            "x": 259,
+                            "y": 554
+                        },
+                        {
+                            "x": 259,
+                            "y": 569
+                        },
+                        {
+                            "x": 114,
+                            "y": 568
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 571,
+                            "length": 25
+                        }
+                    ]
+                },
+                {
+                    "content": "74880",
+                    "polygon": [
+                        {
+                            "x": 294,
+                            "y": 570
+                        },
+                        {
+                            "x": 329,
+                            "y": 570
+                        },
+                        {
+                            "x": 329,
+                            "y": 582
+                        },
+                        {
+                            "x": 294,
+                            "y": 581
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 597,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "1993 AVG. MONTHLY USAGE (LBS.) 6240",
+                    "polygon": [
+                        {
+                            "x": 113,
+                            "y": 590
+                        },
+                        {
+                            "x": 336,
+                            "y": 592
+                        },
+                        {
+                            "x": 336,
+                            "y": 607
+                        },
+                        {
+                            "x": 113,
+                            "y": 605
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 603,
+                            "length": 35
+                        }
+                    ]
+                },
+                {
+                    "content": "APPLICATION (Circle One and Briefly Describe):",
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 628
+                        },
+                        {
+                            "x": 338,
+                            "y": 629
+                        },
+                        {
+                            "x": 338,
+                            "y": 645
+                        },
+                        {
+                            "x": 112,
+                            "y": 642
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 639,
+                            "length": 46
+                        }
+                    ]
+                },
+                {
+                    "content": "Production Process:",
+                    "polygon": [
+                        {
+                            "x": 136,
+                            "y": 654
+                        },
+                        {
+                            "x": 224,
+                            "y": 654
+                        },
+                        {
+                            "x": 224,
+                            "y": 667
+                        },
+                        {
+                            "x": 136,
+                            "y": 666
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 686,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "label adhesive",
+                    "polygon": [
+                        {
+                            "x": 288,
+                            "y": 648
+                        },
+                        {
+                            "x": 380,
+                            "y": 648
+                        },
+                        {
+                            "x": 380,
+                            "y": 662
+                        },
+                        {
+                            "x": 288,
+                            "y": 662
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 706,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "Water Treatment:",
+                    "polygon": [
+                        {
+                            "x": 135,
+                            "y": 690
+                        },
+                        {
+                            "x": 214,
+                            "y": 691
+                        },
+                        {
+                            "x": 214,
+                            "y": 704
+                        },
+                        {
+                            "x": 135,
+                            "y": 703
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 721,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "Housekeeping/Cleaning:",
+                    "polygon": [
+                        {
+                            "x": 135,
+                            "y": 727
+                        },
+                        {
+                            "x": 242,
+                            "y": 727
+                        },
+                        {
+                            "x": 242,
+                            "y": 742
+                        },
+                        {
+                            "x": 135,
+                            "y": 740
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 738,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "Other.",
+                    "polygon": [
+                        {
+                            "x": 134,
+                            "y": 764
+                        },
+                        {
+                            "x": 164,
+                            "y": 764
+                        },
+                        {
+                            "x": 164,
+                            "y": 776
+                        },
+                        {
+                            "x": 134,
+                            "y": 775
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 761,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "No",
+                    "polygon": [
+                        {
+                            "x": 493,
+                            "y": 470
+                        },
+                        {
+                            "x": 512,
+                            "y": 469
+                        },
+                        {
+                            "x": 512,
+                            "y": 482
+                        },
+                        {
+                            "x": 494,
+                            "y": 482
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 768,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "content": "ATX02 0132045",
+                    "polygon": [
+                        {
+                            "x": 524,
+                            "y": 873
+                        },
+                        {
+                            "x": 639,
+                            "y": 874
+                        },
+                        {
+                            "x": 639,
+                            "y": 891
+                        },
+                        {
+                            "x": 524,
+                            "y": 889
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 771,
+                            "length": 13
+                        }
+                    ]
+                }
+            ],
+            "words": [
+                {
+                    "content": "CITY",
+                    "polygon": [
+                        {
+                            "x": 227,
+                            "y": 53
+                        },
+                        {
+                            "x": 261,
+                            "y": 53
+                        },
+                        {
+                            "x": 261,
+                            "y": 70
+                        },
+                        {
+                            "x": 227,
+                            "y": 70
+                        }
+                    ],
+                    "span": {
+                        "offset": 0,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "OF",
+                    "polygon": [
+                        {
+                            "x": 265,
+                            "y": 53
+                        },
+                        {
+                            "x": 284,
+                            "y": 52
+                        },
+                        {
+                            "x": 284,
+                            "y": 70
+                        },
+                        {
+                            "x": 265,
+                            "y": 70
+                        }
+                    ],
+                    "span": {
+                        "offset": 5,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "REIDSVILLE",
+                    "polygon": [
+                        {
+                            "x": 288,
+                            "y": 52
+                        },
+                        {
+                            "x": 367,
+                            "y": 52
+                        },
+                        {
+                            "x": 367,
+                            "y": 69
+                        },
+                        {
+                            "x": 288,
+                            "y": 70
+                        }
+                    ],
+                    "span": {
+                        "offset": 8,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CHEMICAL",
+                    "polygon": [
+                        {
+                            "x": 373,
+                            "y": 52
+                        },
+                        {
+                            "x": 445,
+                            "y": 52
+                        },
+                        {
+                            "x": 445,
+                            "y": 69
+                        },
+                        {
+                            "x": 373,
+                            "y": 69
+                        }
+                    ],
+                    "span": {
+                        "offset": 19,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MANAGEMENT",
+                    "polygon": [
+                        {
+                            "x": 448,
+                            "y": 52
+                        },
+                        {
+                            "x": 550,
+                            "y": 52
+                        },
+                        {
+                            "x": 550,
+                            "y": 69
+                        },
+                        {
+                            "x": 448,
+                            "y": 69
+                        }
+                    ],
+                    "span": {
+                        "offset": 28,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PLAN",
+                    "polygon": [
+                        {
+                            "x": 554,
+                            "y": 52
+                        },
+                        {
+                            "x": 588,
+                            "y": 52
+                        },
+                        {
+                            "x": 588,
+                            "y": 69
+                        },
+                        {
+                            "x": 553,
+                            "y": 69
+                        }
+                    ],
+                    "span": {
+                        "offset": 39,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1993",
+                    "polygon": [
+                        {
+                            "x": 353,
+                            "y": 67
+                        },
+                        {
+                            "x": 380,
+                            "y": 67
+                        },
+                        {
+                            "x": 380,
+                            "y": 83
+                        },
+                        {
+                            "x": 353,
+                            "y": 83
+                        }
+                    ],
+                    "span": {
+                        "offset": 44,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "INVENTORY",
+                    "polygon": [
+                        {
+                            "x": 383,
+                            "y": 67
+                        },
+                        {
+                            "x": 462,
+                            "y": 67
+                        },
+                        {
+                            "x": 462,
+                            "y": 83
+                        },
+                        {
+                            "x": 383,
+                            "y": 83
+                        }
+                    ],
+                    "span": {
+                        "offset": 49,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CHEMICAL",
+                    "polygon": [
+                        {
+                            "x": 301,
+                            "y": 82
+                        },
+                        {
+                            "x": 373,
+                            "y": 82
+                        },
+                        {
+                            "x": 372,
+                            "y": 98
+                        },
+                        {
+                            "x": 301,
+                            "y": 98
+                        }
+                    ],
+                    "span": {
+                        "offset": 59,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "USAGE",
+                    "polygon": [
+                        {
+                            "x": 377,
+                            "y": 82
+                        },
+                        {
+                            "x": 421,
+                            "y": 82
+                        },
+                        {
+                            "x": 421,
+                            "y": 98
+                        },
+                        {
+                            "x": 377,
+                            "y": 98
+                        }
+                    ],
+                    "span": {
+                        "offset": 68,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FACT",
+                    "polygon": [
+                        {
+                            "x": 427,
+                            "y": 82
+                        },
+                        {
+                            "x": 463,
+                            "y": 82
+                        },
+                        {
+                            "x": 463,
+                            "y": 98
+                        },
+                        {
+                            "x": 426,
+                            "y": 98
+                        }
+                    ],
+                    "span": {
+                        "offset": 74,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SHEET",
+                    "polygon": [
+                        {
+                            "x": 466,
+                            "y": 82
+                        },
+                        {
+                            "x": 511,
+                            "y": 81
+                        },
+                        {
+                            "x": 510,
+                            "y": 97
+                        },
+                        {
+                            "x": 466,
+                            "y": 98
+                        }
+                    ],
+                    "span": {
+                        "offset": 79,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        {
+                            "x": 652,
+                            "y": 53
+                        },
+                        {
+                            "x": 660,
+                            "y": 53
+                        },
+                        {
+                            "x": 660,
+                            "y": 75
+                        },
+                        {
+                            "x": 652,
+                            "y": 75
+                        }
+                    ],
+                    "span": {
+                        "offset": 85,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Process",
+                    "polygon": [
+                        {
+                            "x": 253,
+                            "y": 112
+                        },
+                        {
+                            "x": 297,
+                            "y": 112
+                        },
+                        {
+                            "x": 297,
+                            "y": 128
+                        },
+                        {
+                            "x": 253,
+                            "y": 128
+                        }
+                    ],
+                    "span": {
+                        "offset": 87,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Chemicals",
+                    "polygon": [
+                        {
+                            "x": 300,
+                            "y": 112
+                        },
+                        {
+                            "x": 358,
+                            "y": 112
+                        },
+                        {
+                            "x": 358,
+                            "y": 128
+                        },
+                        {
+                            "x": 300,
+                            "y": 128
+                        }
+                    ],
+                    "span": {
+                        "offset": 95,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Used",
+                    "polygon": [
+                        {
+                            "x": 362,
+                            "y": 112
+                        },
+                        {
+                            "x": 389,
+                            "y": 112
+                        },
+                        {
+                            "x": 389,
+                            "y": 128
+                        },
+                        {
+                            "x": 362,
+                            "y": 128
+                        }
+                    ],
+                    "span": {
+                        "offset": 105,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "in",
+                    "polygon": [
+                        {
+                            "x": 392,
+                            "y": 112
+                        },
+                        {
+                            "x": 405,
+                            "y": 112
+                        },
+                        {
+                            "x": 405,
+                            "y": 128
+                        },
+                        {
+                            "x": 392,
+                            "y": 128
+                        }
+                    ],
+                    "span": {
+                        "offset": 110,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Excess",
+                    "polygon": [
+                        {
+                            "x": 408,
+                            "y": 112
+                        },
+                        {
+                            "x": 446,
+                            "y": 112
+                        },
+                        {
+                            "x": 446,
+                            "y": 129
+                        },
+                        {
+                            "x": 408,
+                            "y": 128
+                        }
+                    ],
+                    "span": {
+                        "offset": 113,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "of",
+                    "polygon": [
+                        {
+                            "x": 449,
+                            "y": 112
+                        },
+                        {
+                            "x": 462,
+                            "y": 112
+                        },
+                        {
+                            "x": 462,
+                            "y": 129
+                        },
+                        {
+                            "x": 449,
+                            "y": 129
+                        }
+                    ],
+                    "span": {
+                        "offset": 120,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "100",
+                    "polygon": [
+                        {
+                            "x": 465,
+                            "y": 112
+                        },
+                        {
+                            "x": 486,
+                            "y": 112
+                        },
+                        {
+                            "x": 486,
+                            "y": 129
+                        },
+                        {
+                            "x": 465,
+                            "y": 129
+                        }
+                    ],
+                    "span": {
+                        "offset": 123,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Pounds/Day,",
+                    "polygon": [
+                        {
+                            "x": 489,
+                            "y": 112
+                        },
+                        {
+                            "x": 564,
+                            "y": 112
+                        },
+                        {
+                            "x": 564,
+                            "y": 129
+                        },
+                        {
+                            "x": 489,
+                            "y": 129
+                        }
+                    ],
+                    "span": {
+                        "offset": 127,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Water",
+                    "polygon": [
+                        {
+                            "x": 260,
+                            "y": 127
+                        },
+                        {
+                            "x": 298,
+                            "y": 127
+                        },
+                        {
+                            "x": 299,
+                            "y": 144
+                        },
+                        {
+                            "x": 261,
+                            "y": 143
+                        }
+                    ],
+                    "span": {
+                        "offset": 139,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Treatment",
+                    "polygon": [
+                        {
+                            "x": 302,
+                            "y": 127
+                        },
+                        {
+                            "x": 361,
+                            "y": 127
+                        },
+                        {
+                            "x": 361,
+                            "y": 144
+                        },
+                        {
+                            "x": 302,
+                            "y": 144
+                        }
+                    ],
+                    "span": {
+                        "offset": 145,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Chemicals,",
+                    "polygon": [
+                        {
+                            "x": 364,
+                            "y": 127
+                        },
+                        {
+                            "x": 426,
+                            "y": 127
+                        },
+                        {
+                            "x": 427,
+                            "y": 145
+                        },
+                        {
+                            "x": 364,
+                            "y": 144
+                        }
+                    ],
+                    "span": {
+                        "offset": 155,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Cleaning",
+                    "polygon": [
+                        {
+                            "x": 430,
+                            "y": 127
+                        },
+                        {
+                            "x": 480,
+                            "y": 127
+                        },
+                        {
+                            "x": 481,
+                            "y": 145
+                        },
+                        {
+                            "x": 430,
+                            "y": 145
+                        }
+                    ],
+                    "span": {
+                        "offset": 166,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Compounds",
+                    "polygon": [
+                        {
+                            "x": 484,
+                            "y": 127
+                        },
+                        {
+                            "x": 554,
+                            "y": 127
+                        },
+                        {
+                            "x": 555,
+                            "y": 144
+                        },
+                        {
+                            "x": 484,
+                            "y": 145
+                        }
+                    ],
+                    "span": {
+                        "offset": 175,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Facility:",
+                    "polygon": [
+                        {
+                            "x": 110,
+                            "y": 158
+                        },
+                        {
+                            "x": 155,
+                            "y": 158
+                        },
+                        {
+                            "x": 155,
+                            "y": 173
+                        },
+                        {
+                            "x": 110,
+                            "y": 172
+                        }
+                    ],
+                    "span": {
+                        "offset": 185,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "The",
+                    "polygon": [
+                        {
+                            "x": 163,
+                            "y": 178
+                        },
+                        {
+                            "x": 184,
+                            "y": 177
+                        },
+                        {
+                            "x": 184,
+                            "y": 192
+                        },
+                        {
+                            "x": 163,
+                            "y": 192
+                        }
+                    ],
+                    "span": {
+                        "offset": 195,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "American",
+                    "polygon": [
+                        {
+                            "x": 188,
+                            "y": 177
+                        },
+                        {
+                            "x": 242,
+                            "y": 176
+                        },
+                        {
+                            "x": 242,
+                            "y": 192
+                        },
+                        {
+                            "x": 189,
+                            "y": 192
+                        }
+                    ],
+                    "span": {
+                        "offset": 199,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Tobacco",
+                    "polygon": [
+                        {
+                            "x": 248,
+                            "y": 176
+                        },
+                        {
+                            "x": 295,
+                            "y": 176
+                        },
+                        {
+                            "x": 295,
+                            "y": 193
+                        },
+                        {
+                            "x": 248,
+                            "y": 192
+                        }
+                    ],
+                    "span": {
+                        "offset": 208,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Company",
+                    "polygon": [
+                        {
+                            "x": 299,
+                            "y": 176
+                        },
+                        {
+                            "x": 347,
+                            "y": 177
+                        },
+                        {
+                            "x": 346,
+                            "y": 194
+                        },
+                        {
+                            "x": 299,
+                            "y": 193
+                        }
+                    ],
+                    "span": {
+                        "offset": 216,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Permit",
+                    "polygon": [
+                        {
+                            "x": 542,
+                            "y": 157
+                        },
+                        {
+                            "x": 579,
+                            "y": 157
+                        },
+                        {
+                            "x": 579,
+                            "y": 172
+                        },
+                        {
+                            "x": 542,
+                            "y": 172
+                        }
+                    ],
+                    "span": {
+                        "offset": 224,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "#:",
+                    "polygon": [
+                        {
+                            "x": 582,
+                            "y": 157
+                        },
+                        {
+                            "x": 595,
+                            "y": 157
+                        },
+                        {
+                            "x": 596,
+                            "y": 173
+                        },
+                        {
+                            "x": 582,
+                            "y": 172
+                        }
+                    ],
+                    "span": {
+                        "offset": 231,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "0001",
+                    "polygon": [
+                        {
+                            "x": 613,
+                            "y": 176
+                        },
+                        {
+                            "x": 640,
+                            "y": 176
+                        },
+                        {
+                            "x": 640,
+                            "y": 189
+                        },
+                        {
+                            "x": 613,
+                            "y": 189
+                        }
+                    ],
+                    "span": {
+                        "offset": 234,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CHEMICAL",
+                    "polygon": [
+                        {
+                            "x": 337,
+                            "y": 211
+                        },
+                        {
+                            "x": 395,
+                            "y": 211
+                        },
+                        {
+                            "x": 395,
+                            "y": 225
+                        },
+                        {
+                            "x": 337,
+                            "y": 225
+                        }
+                    ],
+                    "span": {
+                        "offset": 239,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DESCRIPTION",
+                    "polygon": [
+                        {
+                            "x": 398,
+                            "y": 211
+                        },
+                        {
+                            "x": 469,
+                            "y": 210
+                        },
+                        {
+                            "x": 470,
+                            "y": 225
+                        },
+                        {
+                            "x": 398,
+                            "y": 225
+                        }
+                    ],
+                    "span": {
+                        "offset": 248,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PRODUCT",
+                    "polygon": [
+                        {
+                            "x": 121,
+                            "y": 246
+                        },
+                        {
+                            "x": 169,
+                            "y": 246
+                        },
+                        {
+                            "x": 170,
+                            "y": 261
+                        },
+                        {
+                            "x": 121,
+                            "y": 261
+                        }
+                    ],
+                    "span": {
+                        "offset": 260,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(CHEMICAL)",
+                    "polygon": [
+                        {
+                            "x": 172,
+                            "y": 246
+                        },
+                        {
+                            "x": 236,
+                            "y": 246
+                        },
+                        {
+                            "x": 236,
+                            "y": 262
+                        },
+                        {
+                            "x": 173,
+                            "y": 261
+                        }
+                    ],
+                    "span": {
+                        "offset": 268,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NAME:",
+                    "polygon": [
+                        {
+                            "x": 239,
+                            "y": 246
+                        },
+                        {
+                            "x": 276,
+                            "y": 246
+                        },
+                        {
+                            "x": 276,
+                            "y": 262
+                        },
+                        {
+                            "x": 239,
+                            "y": 262
+                        }
+                    ],
+                    "span": {
+                        "offset": 279,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Fuller",
+                    "polygon": [
+                        {
+                            "x": 296,
+                            "y": 253
+                        },
+                        {
+                            "x": 336,
+                            "y": 254
+                        },
+                        {
+                            "x": 336,
+                            "y": 269
+                        },
+                        {
+                            "x": 296,
+                            "y": 269
+                        }
+                    ],
+                    "span": {
+                        "offset": 285,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "G2315",
+                    "polygon": [
+                        {
+                            "x": 341,
+                            "y": 254
+                        },
+                        {
+                            "x": 374,
+                            "y": 255
+                        },
+                        {
+                            "x": 374,
+                            "y": 269
+                        },
+                        {
+                            "x": 341,
+                            "y": 269
+                        }
+                    ],
+                    "span": {
+                        "offset": 292,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DC",
+                    "polygon": [
+                        {
+                            "x": 379,
+                            "y": 255
+                        },
+                        {
+                            "x": 394,
+                            "y": 255
+                        },
+                        {
+                            "x": 394,
+                            "y": 269
+                        },
+                        {
+                            "x": 379,
+                            "y": 269
+                        }
+                    ],
+                    "span": {
+                        "offset": 298,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DESCRIPTION:",
+                    "polygon": [
+                        {
+                            "x": 120,
+                            "y": 283
+                        },
+                        {
+                            "x": 194,
+                            "y": 284
+                        },
+                        {
+                            "x": 194,
+                            "y": 301
+                        },
+                        {
+                            "x": 120,
+                            "y": 298
+                        }
+                    ],
+                    "span": {
+                        "offset": 301,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Liquid",
+                    "polygon": [
+                        {
+                            "x": 197,
+                            "y": 284
+                        },
+                        {
+                            "x": 238,
+                            "y": 284
+                        },
+                        {
+                            "x": 239,
+                            "y": 301
+                        },
+                        {
+                            "x": 198,
+                            "y": 301
+                        }
+                    ],
+                    "span": {
+                        "offset": 314,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Adhesive",
+                    "polygon": [
+                        {
+                            "x": 242,
+                            "y": 284
+                        },
+                        {
+                            "x": 297,
+                            "y": 285
+                        },
+                        {
+                            "x": 298,
+                            "y": 302
+                        },
+                        {
+                            "x": 243,
+                            "y": 301
+                        }
+                    ],
+                    "span": {
+                        "offset": 321,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PRODUCT",
+                    "polygon": [
+                        {
+                            "x": 119,
+                            "y": 321
+                        },
+                        {
+                            "x": 169,
+                            "y": 320
+                        },
+                        {
+                            "x": 169,
+                            "y": 336
+                        },
+                        {
+                            "x": 119,
+                            "y": 335
+                        }
+                    ],
+                    "span": {
+                        "offset": 330,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CLASSIFICATION",
+                    "polygon": [
+                        {
+                            "x": 172,
+                            "y": 320
+                        },
+                        {
+                            "x": 258,
+                            "y": 321
+                        },
+                        {
+                            "x": 258,
+                            "y": 337
+                        },
+                        {
+                            "x": 172,
+                            "y": 336
+                        }
+                    ],
+                    "span": {
+                        "offset": 338,
+                        "length": 14
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(Circle",
+                    "polygon": [
+                        {
+                            "x": 261,
+                            "y": 321
+                        },
+                        {
+                            "x": 292,
+                            "y": 321
+                        },
+                        {
+                            "x": 292,
+                            "y": 337
+                        },
+                        {
+                            "x": 261,
+                            "y": 337
+                        }
+                    ],
+                    "span": {
+                        "offset": 353,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "One):",
+                    "polygon": [
+                        {
+                            "x": 295,
+                            "y": 321
+                        },
+                        {
+                            "x": 320,
+                            "y": 322
+                        },
+                        {
+                            "x": 320,
+                            "y": 337
+                        },
+                        {
+                            "x": 295,
+                            "y": 337
+                        }
+                    ],
+                    "span": {
+                        "offset": 361,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Organic",
+                    "polygon": [
+                        {
+                            "x": 381,
+                            "y": 323
+                        },
+                        {
+                            "x": 416,
+                            "y": 322
+                        },
+                        {
+                            "x": 416,
+                            "y": 336
+                        },
+                        {
+                            "x": 381,
+                            "y": 335
+                        }
+                    ],
+                    "span": {
+                        "offset": 367,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Inorganic",
+                    "polygon": [
+                        {
+                            "x": 498,
+                            "y": 323
+                        },
+                        {
+                            "x": 541,
+                            "y": 323
+                        },
+                        {
+                            "x": 541,
+                            "y": 336
+                        },
+                        {
+                            "x": 498,
+                            "y": 335
+                        }
+                    ],
+                    "span": {
+                        "offset": 375,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CHEMICAL",
+                    "polygon": [
+                        {
+                            "x": 119,
+                            "y": 358
+                        },
+                        {
+                            "x": 173,
+                            "y": 359
+                        },
+                        {
+                            "x": 173,
+                            "y": 372
+                        },
+                        {
+                            "x": 120,
+                            "y": 372
+                        }
+                    ],
+                    "span": {
+                        "offset": 385,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FORMULA:",
+                    "polygon": [
+                        {
+                            "x": 177,
+                            "y": 359
+                        },
+                        {
+                            "x": 234,
+                            "y": 360
+                        },
+                        {
+                            "x": 234,
+                            "y": 373
+                        },
+                        {
+                            "x": 177,
+                            "y": 372
+                        }
+                    ],
+                    "span": {
+                        "offset": 394,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Vinyl",
+                    "polygon": [
+                        {
+                            "x": 267,
+                            "y": 363
+                        },
+                        {
+                            "x": 302,
+                            "y": 363
+                        },
+                        {
+                            "x": 302,
+                            "y": 377
+                        },
+                        {
+                            "x": 268,
+                            "y": 377
+                        }
+                    ],
+                    "span": {
+                        "offset": 403,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Acetate",
+                    "polygon": [
+                        {
+                            "x": 306,
+                            "y": 363
+                        },
+                        {
+                            "x": 353,
+                            "y": 364
+                        },
+                        {
+                            "x": 353,
+                            "y": 377
+                        },
+                        {
+                            "x": 307,
+                            "y": 377
+                        }
+                    ],
+                    "span": {
+                        "offset": 409,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CAS#:",
+                    "polygon": [
+                        {
+                            "x": 119,
+                            "y": 395
+                        },
+                        {
+                            "x": 148,
+                            "y": 395
+                        },
+                        {
+                            "x": 148,
+                            "y": 407
+                        },
+                        {
+                            "x": 119,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 417,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "108-05-4",
+                    "polygon": [
+                        {
+                            "x": 196,
+                            "y": 401
+                        },
+                        {
+                            "x": 248,
+                            "y": 400
+                        },
+                        {
+                            "x": 248,
+                            "y": 413
+                        },
+                        {
+                            "x": 196,
+                            "y": 412
+                        }
+                    ],
+                    "span": {
+                        "offset": 423,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PERCENT",
+                    "polygon": [
+                        {
+                            "x": 457,
+                            "y": 395
+                        },
+                        {
+                            "x": 505,
+                            "y": 395
+                        },
+                        {
+                            "x": 505,
+                            "y": 410
+                        },
+                        {
+                            "x": 457,
+                            "y": 410
+                        }
+                    ],
+                    "span": {
+                        "offset": 432,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ACTIVES",
+                    "polygon": [
+                        {
+                            "x": 508,
+                            "y": 395
+                        },
+                        {
+                            "x": 553,
+                            "y": 396
+                        },
+                        {
+                            "x": 553,
+                            "y": 410
+                        },
+                        {
+                            "x": 508,
+                            "y": 410
+                        }
+                    ],
+                    "span": {
+                        "offset": 440,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(Non-water):",
+                    "polygon": [
+                        {
+                            "x": 556,
+                            "y": 396
+                        },
+                        {
+                            "x": 616,
+                            "y": 396
+                        },
+                        {
+                            "x": 616,
+                            "y": 411
+                        },
+                        {
+                            "x": 556,
+                            "y": 410
+                        }
+                    ],
+                    "span": {
+                        "offset": 448,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ".5%",
+                    "polygon": [
+                        {
+                            "x": 644,
+                            "y": 400
+                        },
+                        {
+                            "x": 662,
+                            "y": 400
+                        },
+                        {
+                            "x": 662,
+                            "y": 418
+                        },
+                        {
+                            "x": 644,
+                            "y": 418
+                        }
+                    ],
+                    "span": {
+                        "offset": 461,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MANUFACTURER:",
+                    "polygon": [
+                        {
+                            "x": 117,
+                            "y": 432
+                        },
+                        {
+                            "x": 208,
+                            "y": 432
+                        },
+                        {
+                            "x": 208,
+                            "y": 445
+                        },
+                        {
+                            "x": 117,
+                            "y": 445
+                        }
+                    ],
+                    "span": {
+                        "offset": 465,
+                        "length": 13
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "H.",
+                    "polygon": [
+                        {
+                            "x": 238,
+                            "y": 438
+                        },
+                        {
+                            "x": 254,
+                            "y": 439
+                        },
+                        {
+                            "x": 254,
+                            "y": 453
+                        },
+                        {
+                            "x": 238,
+                            "y": 452
+                        }
+                    ],
+                    "span": {
+                        "offset": 479,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "B.",
+                    "polygon": [
+                        {
+                            "x": 259,
+                            "y": 439
+                        },
+                        {
+                            "x": 273,
+                            "y": 439
+                        },
+                        {
+                            "x": 273,
+                            "y": 453
+                        },
+                        {
+                            "x": 259,
+                            "y": 453
+                        }
+                    ],
+                    "span": {
+                        "offset": 482,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Fuller",
+                    "polygon": [
+                        {
+                            "x": 279,
+                            "y": 439
+                        },
+                        {
+                            "x": 319,
+                            "y": 440
+                        },
+                        {
+                            "x": 319,
+                            "y": 454
+                        },
+                        {
+                            "x": 279,
+                            "y": 453
+                        }
+                    ],
+                    "span": {
+                        "offset": 485,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Company",
+                    "polygon": [
+                        {
+                            "x": 324,
+                            "y": 440
+                        },
+                        {
+                            "x": 370,
+                            "y": 440
+                        },
+                        {
+                            "x": 370,
+                            "y": 456
+                        },
+                        {
+                            "x": 324,
+                            "y": 454
+                        }
+                    ],
+                    "span": {
+                        "offset": 492,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "C",
+                    "polygon": [
+                        {
+                            "x": 626,
+                            "y": 393
+                        },
+                        {
+                            "x": 639,
+                            "y": 393
+                        },
+                        {
+                            "x": 639,
+                            "y": 419
+                        },
+                        {
+                            "x": 626,
+                            "y": 419
+                        }
+                    ],
+                    "span": {
+                        "offset": 500,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PHONE",
+                    "polygon": [
+                        {
+                            "x": 536,
+                            "y": 432
+                        },
+                        {
+                            "x": 572,
+                            "y": 432
+                        },
+                        {
+                            "x": 572,
+                            "y": 445
+                        },
+                        {
+                            "x": 536,
+                            "y": 446
+                        }
+                    ],
+                    "span": {
+                        "offset": 502,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "#:",
+                    "polygon": [
+                        {
+                            "x": 575,
+                            "y": 432
+                        },
+                        {
+                            "x": 586,
+                            "y": 432
+                        },
+                        {
+                            "x": 586,
+                            "y": 445
+                        },
+                        {
+                            "x": 575,
+                            "y": 445
+                        }
+                    ],
+                    "span": {
+                        "offset": 508,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "612-481-3300",
+                    "polygon": [
+                        {
+                            "x": 584,
+                            "y": 440
+                        },
+                        {
+                            "x": 663,
+                            "y": 442
+                        },
+                        {
+                            "x": 663,
+                            "y": 456
+                        },
+                        {
+                            "x": 584,
+                            "y": 454
+                        }
+                    ],
+                    "span": {
+                        "offset": 511,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MSDS",
+                    "polygon": [
+                        {
+                            "x": 115,
+                            "y": 467
+                        },
+                        {
+                            "x": 145,
+                            "y": 468
+                        },
+                        {
+                            "x": 145,
+                            "y": 483
+                        },
+                        {
+                            "x": 115,
+                            "y": 483
+                        }
+                    ],
+                    "span": {
+                        "offset": 524,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ON",
+                    "polygon": [
+                        {
+                            "x": 148,
+                            "y": 468
+                        },
+                        {
+                            "x": 163,
+                            "y": 468
+                        },
+                        {
+                            "x": 163,
+                            "y": 483
+                        },
+                        {
+                            "x": 148,
+                            "y": 483
+                        }
+                    ],
+                    "span": {
+                        "offset": 529,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FILE?",
+                    "polygon": [
+                        {
+                            "x": 166,
+                            "y": 468
+                        },
+                        {
+                            "x": 193,
+                            "y": 469
+                        },
+                        {
+                            "x": 193,
+                            "y": 483
+                        },
+                        {
+                            "x": 166,
+                            "y": 483
+                        }
+                    ],
+                    "span": {
+                        "offset": 532,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(Circle",
+                    "polygon": [
+                        {
+                            "x": 196,
+                            "y": 469
+                        },
+                        {
+                            "x": 228,
+                            "y": 469
+                        },
+                        {
+                            "x": 228,
+                            "y": 484
+                        },
+                        {
+                            "x": 196,
+                            "y": 483
+                        }
+                    ],
+                    "span": {
+                        "offset": 538,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "One):",
+                    "polygon": [
+                        {
+                            "x": 231,
+                            "y": 469
+                        },
+                        {
+                            "x": 256,
+                            "y": 469
+                        },
+                        {
+                            "x": 256,
+                            "y": 484
+                        },
+                        {
+                            "x": 231,
+                            "y": 484
+                        }
+                    ],
+                    "span": {
+                        "offset": 546,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Yes",
+                    "polygon": [
+                        {
+                            "x": 378,
+                            "y": 468
+                        },
+                        {
+                            "x": 396,
+                            "y": 468
+                        },
+                        {
+                            "x": 396,
+                            "y": 482
+                        },
+                        {
+                            "x": 379,
+                            "y": 483
+                        }
+                    ],
+                    "span": {
+                        "offset": 552,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CHEMICAL",
+                    "polygon": [
+                        {
+                            "x": 348,
+                            "y": 519
+                        },
+                        {
+                            "x": 405,
+                            "y": 519
+                        },
+                        {
+                            "x": 405,
+                            "y": 532
+                        },
+                        {
+                            "x": 348,
+                            "y": 532
+                        }
+                    ],
+                    "span": {
+                        "offset": 556,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "USAGE",
+                    "polygon": [
+                        {
+                            "x": 409,
+                            "y": 519
+                        },
+                        {
+                            "x": 445,
+                            "y": 519
+                        },
+                        {
+                            "x": 445,
+                            "y": 532
+                        },
+                        {
+                            "x": 409,
+                            "y": 532
+                        }
+                    ],
+                    "span": {
+                        "offset": 565,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1993",
+                    "polygon": [
+                        {
+                            "x": 114,
+                            "y": 555
+                        },
+                        {
+                            "x": 136,
+                            "y": 554
+                        },
+                        {
+                            "x": 136,
+                            "y": 569
+                        },
+                        {
+                            "x": 114,
+                            "y": 568
+                        }
+                    ],
+                    "span": {
+                        "offset": 571,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ANNUAL",
+                    "polygon": [
+                        {
+                            "x": 139,
+                            "y": 554
+                        },
+                        {
+                            "x": 183,
+                            "y": 554
+                        },
+                        {
+                            "x": 183,
+                            "y": 569
+                        },
+                        {
+                            "x": 139,
+                            "y": 569
+                        }
+                    ],
+                    "span": {
+                        "offset": 576,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "USAGE",
+                    "polygon": [
+                        {
+                            "x": 186,
+                            "y": 554
+                        },
+                        {
+                            "x": 222,
+                            "y": 554
+                        },
+                        {
+                            "x": 222,
+                            "y": 570
+                        },
+                        {
+                            "x": 186,
+                            "y": 569
+                        }
+                    ],
+                    "span": {
+                        "offset": 583,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(LBS.):",
+                    "polygon": [
+                        {
+                            "x": 225,
+                            "y": 555
+                        },
+                        {
+                            "x": 260,
+                            "y": 555
+                        },
+                        {
+                            "x": 260,
+                            "y": 570
+                        },
+                        {
+                            "x": 225,
+                            "y": 570
+                        }
+                    ],
+                    "span": {
+                        "offset": 589,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "74880",
+                    "polygon": [
+                        {
+                            "x": 297,
+                            "y": 570
+                        },
+                        {
+                            "x": 328,
+                            "y": 570
+                        },
+                        {
+                            "x": 328,
+                            "y": 582
+                        },
+                        {
+                            "x": 297,
+                            "y": 582
+                        }
+                    ],
+                    "span": {
+                        "offset": 597,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1993",
+                    "polygon": [
+                        {
+                            "x": 114,
+                            "y": 592
+                        },
+                        {
+                            "x": 135,
+                            "y": 591
+                        },
+                        {
+                            "x": 135,
+                            "y": 605
+                        },
+                        {
+                            "x": 114,
+                            "y": 605
+                        }
+                    ],
+                    "span": {
+                        "offset": 603,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "AVG.",
+                    "polygon": [
+                        {
+                            "x": 137,
+                            "y": 591
+                        },
+                        {
+                            "x": 163,
+                            "y": 591
+                        },
+                        {
+                            "x": 163,
+                            "y": 606
+                        },
+                        {
+                            "x": 138,
+                            "y": 605
+                        }
+                    ],
+                    "span": {
+                        "offset": 608,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MONTHLY",
+                    "polygon": [
+                        {
+                            "x": 165,
+                            "y": 591
+                        },
+                        {
+                            "x": 220,
+                            "y": 591
+                        },
+                        {
+                            "x": 220,
+                            "y": 606
+                        },
+                        {
+                            "x": 166,
+                            "y": 606
+                        }
+                    ],
+                    "span": {
+                        "offset": 613,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "USAGE",
+                    "polygon": [
+                        {
+                            "x": 222,
+                            "y": 591
+                        },
+                        {
+                            "x": 258,
+                            "y": 591
+                        },
+                        {
+                            "x": 258,
+                            "y": 607
+                        },
+                        {
+                            "x": 223,
+                            "y": 606
+                        }
+                    ],
+                    "span": {
+                        "offset": 621,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(LBS.)",
+                    "polygon": [
+                        {
+                            "x": 261,
+                            "y": 592
+                        },
+                        {
+                            "x": 295,
+                            "y": 592
+                        },
+                        {
+                            "x": 295,
+                            "y": 607
+                        },
+                        {
+                            "x": 261,
+                            "y": 607
+                        }
+                    ],
+                    "span": {
+                        "offset": 627,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "6240",
+                    "polygon": [
+                        {
+                            "x": 308,
+                            "y": 593
+                        },
+                        {
+                            "x": 335,
+                            "y": 594
+                        },
+                        {
+                            "x": 335,
+                            "y": 608
+                        },
+                        {
+                            "x": 308,
+                            "y": 608
+                        }
+                    ],
+                    "span": {
+                        "offset": 634,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "APPLICATION",
+                    "polygon": [
+                        {
+                            "x": 113,
+                            "y": 629
+                        },
+                        {
+                            "x": 181,
+                            "y": 629
+                        },
+                        {
+                            "x": 181,
+                            "y": 643
+                        },
+                        {
+                            "x": 114,
+                            "y": 643
+                        }
+                    ],
+                    "span": {
+                        "offset": 639,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(Circle",
+                    "polygon": [
+                        {
+                            "x": 184,
+                            "y": 629
+                        },
+                        {
+                            "x": 215,
+                            "y": 629
+                        },
+                        {
+                            "x": 215,
+                            "y": 644
+                        },
+                        {
+                            "x": 184,
+                            "y": 643
+                        }
+                    ],
+                    "span": {
+                        "offset": 651,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "One",
+                    "polygon": [
+                        {
+                            "x": 218,
+                            "y": 629
+                        },
+                        {
+                            "x": 235,
+                            "y": 629
+                        },
+                        {
+                            "x": 235,
+                            "y": 644
+                        },
+                        {
+                            "x": 218,
+                            "y": 644
+                        }
+                    ],
+                    "span": {
+                        "offset": 659,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "and",
+                    "polygon": [
+                        {
+                            "x": 238,
+                            "y": 629
+                        },
+                        {
+                            "x": 254,
+                            "y": 629
+                        },
+                        {
+                            "x": 255,
+                            "y": 644
+                        },
+                        {
+                            "x": 238,
+                            "y": 644
+                        }
+                    ],
+                    "span": {
+                        "offset": 663,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Briefly",
+                    "polygon": [
+                        {
+                            "x": 257,
+                            "y": 629
+                        },
+                        {
+                            "x": 287,
+                            "y": 630
+                        },
+                        {
+                            "x": 288,
+                            "y": 645
+                        },
+                        {
+                            "x": 258,
+                            "y": 644
+                        }
+                    ],
+                    "span": {
+                        "offset": 667,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Describe):",
+                    "polygon": [
+                        {
+                            "x": 290,
+                            "y": 630
+                        },
+                        {
+                            "x": 338,
+                            "y": 631
+                        },
+                        {
+                            "x": 338,
+                            "y": 645
+                        },
+                        {
+                            "x": 291,
+                            "y": 645
+                        }
+                    ],
+                    "span": {
+                        "offset": 675,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Production",
+                    "polygon": [
+                        {
+                            "x": 138,
+                            "y": 654
+                        },
+                        {
+                            "x": 184,
+                            "y": 655
+                        },
+                        {
+                            "x": 185,
+                            "y": 667
+                        },
+                        {
+                            "x": 138,
+                            "y": 667
+                        }
+                    ],
+                    "span": {
+                        "offset": 686,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Process:",
+                    "polygon": [
+                        {
+                            "x": 187,
+                            "y": 655
+                        },
+                        {
+                            "x": 224,
+                            "y": 656
+                        },
+                        {
+                            "x": 224,
+                            "y": 666
+                        },
+                        {
+                            "x": 188,
+                            "y": 667
+                        }
+                    ],
+                    "span": {
+                        "offset": 697,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "label",
+                    "polygon": [
+                        {
+                            "x": 289,
+                            "y": 649
+                        },
+                        {
+                            "x": 321,
+                            "y": 649
+                        },
+                        {
+                            "x": 321,
+                            "y": 662
+                        },
+                        {
+                            "x": 289,
+                            "y": 662
+                        }
+                    ],
+                    "span": {
+                        "offset": 706,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "adhesive",
+                    "polygon": [
+                        {
+                            "x": 327,
+                            "y": 649
+                        },
+                        {
+                            "x": 379,
+                            "y": 649
+                        },
+                        {
+                            "x": 379,
+                            "y": 663
+                        },
+                        {
+                            "x": 327,
+                            "y": 662
+                        }
+                    ],
+                    "span": {
+                        "offset": 712,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Water",
+                    "polygon": [
+                        {
+                            "x": 137,
+                            "y": 690
+                        },
+                        {
+                            "x": 164,
+                            "y": 691
+                        },
+                        {
+                            "x": 164,
+                            "y": 703
+                        },
+                        {
+                            "x": 137,
+                            "y": 703
+                        }
+                    ],
+                    "span": {
+                        "offset": 721,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Treatment:",
+                    "polygon": [
+                        {
+                            "x": 166,
+                            "y": 691
+                        },
+                        {
+                            "x": 214,
+                            "y": 692
+                        },
+                        {
+                            "x": 214,
+                            "y": 704
+                        },
+                        {
+                            "x": 167,
+                            "y": 703
+                        }
+                    ],
+                    "span": {
+                        "offset": 727,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Housekeeping/Cleaning:",
+                    "polygon": [
+                        {
+                            "x": 136,
+                            "y": 727
+                        },
+                        {
+                            "x": 242,
+                            "y": 728
+                        },
+                        {
+                            "x": 242,
+                            "y": 743
+                        },
+                        {
+                            "x": 136,
+                            "y": 740
+                        }
+                    ],
+                    "span": {
+                        "offset": 738,
+                        "length": 22
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Other.",
+                    "polygon": [
+                        {
+                            "x": 136,
+                            "y": 764
+                        },
+                        {
+                            "x": 164,
+                            "y": 764
+                        },
+                        {
+                            "x": 163,
+                            "y": 776
+                        },
+                        {
+                            "x": 136,
+                            "y": 776
+                        }
+                    ],
+                    "span": {
+                        "offset": 761,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "No",
+                    "polygon": [
+                        {
+                            "x": 494,
+                            "y": 469
+                        },
+                        {
+                            "x": 510,
+                            "y": 469
+                        },
+                        {
+                            "x": 510,
+                            "y": 482
+                        },
+                        {
+                            "x": 494,
+                            "y": 482
+                        }
+                    ],
+                    "span": {
+                        "offset": 768,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ATX02",
+                    "polygon": [
+                        {
+                            "x": 527,
+                            "y": 873
+                        },
+                        {
+                            "x": 570,
+                            "y": 874
+                        },
+                        {
+                            "x": 570,
+                            "y": 890
+                        },
+                        {
+                            "x": 527,
+                            "y": 890
+                        }
+                    ],
+                    "span": {
+                        "offset": 771,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "0132045",
+                    "polygon": [
+                        {
+                            "x": 577,
+                            "y": 874
+                        },
+                        {
+                            "x": 637,
+                            "y": 875
+                        },
+                        {
+                            "x": 637,
+                            "y": 891
+                        },
+                        {
+                            "x": 577,
+                            "y": 890
+                        }
+                    ],
+                    "span": {
+                        "offset": 777,
+                        "length": 7
+                    },
+                    "confidence": 0
+                }
+            ],
+            "selection_marks": [],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 784
+                }
+            ],
+            "barcodes": [],
+            "formulas": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "role": null,
+            "content": "CITY OF REIDSVILLE CHEMICAL MANAGEMENT PLAN 1993 INVENTORY CHEMICAL USAGE FACT SHEET",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 226,
+                            "y": 52
+                        },
+                        {
+                            "x": 593,
+                            "y": 52
+                        },
+                        {
+                            "x": 593,
+                            "y": 97
+                        },
+                        {
+                            "x": 226,
+                            "y": 97
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 84
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "1",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 651,
+                            "y": 53
+                        },
+                        {
+                            "x": 660,
+                            "y": 53
+                        },
+                        {
+                            "x": 660,
+                            "y": 75
+                        },
+                        {
+                            "x": 651,
+                            "y": 75
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 85,
+                    "length": 1
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Process Chemicals Used in Excess of 100 Pounds/Day, Water Treatment Chemicals, Cleaning Compounds",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 250,
+                            "y": 111
+                        },
+                        {
+                            "x": 563,
+                            "y": 111
+                        },
+                        {
+                            "x": 563,
+                            "y": 144
+                        },
+                        {
+                            "x": 250,
+                            "y": 144
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 87,
+                    "length": 97
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Facility:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 157
+                        },
+                        {
+                            "x": 155,
+                            "y": 158
+                        },
+                        {
+                            "x": 155,
+                            "y": 172
+                        },
+                        {
+                            "x": 108,
+                            "y": 172
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 185,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "The American Tobacco Company",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 162,
+                            "y": 176
+                        },
+                        {
+                            "x": 347,
+                            "y": 176
+                        },
+                        {
+                            "x": 347,
+                            "y": 193
+                        },
+                        {
+                            "x": 162,
+                            "y": 193
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 195,
+                    "length": 28
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Permit #:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 540,
+                            "y": 156
+                        },
+                        {
+                            "x": 596,
+                            "y": 157
+                        },
+                        {
+                            "x": 596,
+                            "y": 172
+                        },
+                        {
+                            "x": 540,
+                            "y": 172
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 224,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "0001",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 612,
+                            "y": 177
+                        },
+                        {
+                            "x": 640,
+                            "y": 176
+                        },
+                        {
+                            "x": 640,
+                            "y": 189
+                        },
+                        {
+                            "x": 612,
+                            "y": 188
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 234,
+                    "length": 4
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CHEMICAL DESCRIPTION",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 336,
+                            "y": 210
+                        },
+                        {
+                            "x": 473,
+                            "y": 210
+                        },
+                        {
+                            "x": 473,
+                            "y": 225
+                        },
+                        {
+                            "x": 336,
+                            "y": 225
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 239,
+                    "length": 20
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "PRODUCT (CHEMICAL) NAME:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 119,
+                            "y": 246
+                        },
+                        {
+                            "x": 276,
+                            "y": 246
+                        },
+                        {
+                            "x": 276,
+                            "y": 261
+                        },
+                        {
+                            "x": 119,
+                            "y": 261
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 260,
+                    "length": 24
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Fuller G2315 DC",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 294,
+                            "y": 253
+                        },
+                        {
+                            "x": 394,
+                            "y": 254
+                        },
+                        {
+                            "x": 394,
+                            "y": 269
+                        },
+                        {
+                            "x": 294,
+                            "y": 268
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 285,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "DESCRIPTION: Liquid Adhesive",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 118,
+                            "y": 283
+                        },
+                        {
+                            "x": 298,
+                            "y": 285
+                        },
+                        {
+                            "x": 298,
+                            "y": 302
+                        },
+                        {
+                            "x": 118,
+                            "y": 300
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 301,
+                    "length": 28
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "PRODUCT CLASSIFICATION (Circle One): Organic Inorganic",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 118,
+                            "y": 319
+                        },
+                        {
+                            "x": 542,
+                            "y": 321
+                        },
+                        {
+                            "x": 542,
+                            "y": 337
+                        },
+                        {
+                            "x": 118,
+                            "y": 335
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 330,
+                    "length": 54
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CHEMICAL FORMULA: Vinyl Acetate",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 117,
+                            "y": 355
+                        },
+                        {
+                            "x": 354,
+                            "y": 363
+                        },
+                        {
+                            "x": 354,
+                            "y": 379
+                        },
+                        {
+                            "x": 117,
+                            "y": 371
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 385,
+                    "length": 31
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CAS#: 108-05-4",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 116,
+                            "y": 393
+                        },
+                        {
+                            "x": 249,
+                            "y": 400
+                        },
+                        {
+                            "x": 248,
+                            "y": 415
+                        },
+                        {
+                            "x": 115,
+                            "y": 408
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 417,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "PERCENT ACTIVES (Non-water):",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 456,
+                            "y": 395
+                        },
+                        {
+                            "x": 616,
+                            "y": 395
+                        },
+                        {
+                            "x": 616,
+                            "y": 410
+                        },
+                        {
+                            "x": 456,
+                            "y": 409
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 432,
+                    "length": 28
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": ".5%",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 644,
+                            "y": 400
+                        },
+                        {
+                            "x": 663,
+                            "y": 401
+                        },
+                        {
+                            "x": 663,
+                            "y": 417
+                        },
+                        {
+                            "x": 644,
+                            "y": 418
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 461,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MANUFACTURER:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 116,
+                            "y": 432
+                        },
+                        {
+                            "x": 208,
+                            "y": 432
+                        },
+                        {
+                            "x": 208,
+                            "y": 445
+                        },
+                        {
+                            "x": 116,
+                            "y": 444
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 465,
+                    "length": 13
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "H. B. Fuller Company",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 237,
+                            "y": 438
+                        },
+                        {
+                            "x": 371,
+                            "y": 439
+                        },
+                        {
+                            "x": 371,
+                            "y": 455
+                        },
+                        {
+                            "x": 237,
+                            "y": 452
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 479,
+                    "length": 20
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "C",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 625,
+                            "y": 393
+                        },
+                        {
+                            "x": 640,
+                            "y": 393
+                        },
+                        {
+                            "x": 640,
+                            "y": 419
+                        },
+                        {
+                            "x": 625,
+                            "y": 419
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 500,
+                    "length": 1
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "PHONE #:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 534,
+                            "y": 431
+                        },
+                        {
+                            "x": 585,
+                            "y": 431
+                        },
+                        {
+                            "x": 585,
+                            "y": 445
+                        },
+                        {
+                            "x": 534,
+                            "y": 445
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 502,
+                    "length": 8
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "612-481-3300",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 579,
+                            "y": 439
+                        },
+                        {
+                            "x": 663,
+                            "y": 441
+                        },
+                        {
+                            "x": 663,
+                            "y": 456
+                        },
+                        {
+                            "x": 579,
+                            "y": 454
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 511,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MSDS ON FILE? (Circle One):",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 115,
+                            "y": 466
+                        },
+                        {
+                            "x": 256,
+                            "y": 468
+                        },
+                        {
+                            "x": 256,
+                            "y": 484
+                        },
+                        {
+                            "x": 115,
+                            "y": 482
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 524,
+                    "length": 27
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Yes",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 375,
+                            "y": 468
+                        },
+                        {
+                            "x": 396,
+                            "y": 468
+                        },
+                        {
+                            "x": 396,
+                            "y": 483
+                        },
+                        {
+                            "x": 375,
+                            "y": 483
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 552,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CHEMICAL USAGE",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 347,
+                            "y": 518
+                        },
+                        {
+                            "x": 447,
+                            "y": 518
+                        },
+                        {
+                            "x": 447,
+                            "y": 531
+                        },
+                        {
+                            "x": 347,
+                            "y": 531
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 556,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "1993 ANNUAL USAGE (LBS.): 74880",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 115,
+                            "y": 544
+                        },
+                        {
+                            "x": 331,
+                            "y": 559
+                        },
+                        {
+                            "x": 329,
+                            "y": 584
+                        },
+                        {
+                            "x": 113,
+                            "y": 568
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 571,
+                    "length": 31
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "1993 AVG. MONTHLY USAGE (LBS.) 6240",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 113,
+                            "y": 590
+                        },
+                        {
+                            "x": 336,
+                            "y": 592
+                        },
+                        {
+                            "x": 336,
+                            "y": 607
+                        },
+                        {
+                            "x": 113,
+                            "y": 605
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 603,
+                    "length": 35
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "APPLICATION (Circle One and Briefly Describe):",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 628
+                        },
+                        {
+                            "x": 338,
+                            "y": 629
+                        },
+                        {
+                            "x": 338,
+                            "y": 645
+                        },
+                        {
+                            "x": 112,
+                            "y": 644
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 639,
+                    "length": 46
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Production Process: label adhesive",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 136,
+                            "y": 653
+                        },
+                        {
+                            "x": 380,
+                            "y": 645
+                        },
+                        {
+                            "x": 380,
+                            "y": 662
+                        },
+                        {
+                            "x": 136,
+                            "y": 670
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 686,
+                    "length": 34
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Water Treatment:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 135,
+                            "y": 690
+                        },
+                        {
+                            "x": 214,
+                            "y": 691
+                        },
+                        {
+                            "x": 214,
+                            "y": 704
+                        },
+                        {
+                            "x": 135,
+                            "y": 703
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 721,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Housekeeping/Cleaning:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 135,
+                            "y": 727
+                        },
+                        {
+                            "x": 242,
+                            "y": 727
+                        },
+                        {
+                            "x": 242,
+                            "y": 742
+                        },
+                        {
+                            "x": 135,
+                            "y": 742
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 738,
+                    "length": 22
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Other.",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 134,
+                            "y": 764
+                        },
+                        {
+                            "x": 164,
+                            "y": 764
+                        },
+                        {
+                            "x": 164,
+                            "y": 776
+                        },
+                        {
+                            "x": 134,
+                            "y": 776
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 761,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "No",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 493,
+                            "y": 470
+                        },
+                        {
+                            "x": 512,
+                            "y": 469
+                        },
+                        {
+                            "x": 513,
+                            "y": 482
+                        },
+                        {
+                            "x": 494,
+                            "y": 483
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 768,
+                    "length": 2
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "ATX02 0132045",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 524,
+                            "y": 873
+                        },
+                        {
+                            "x": 639,
+                            "y": 874
+                        },
+                        {
+                            "x": 639,
+                            "y": 891
+                        },
+                        {
+                            "x": 524,
+                            "y": 890
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 771,
+                    "length": 13
+                }
+            ]
+        }
+    ],
+    "tables": [],
+    "key_value_pairs": [],
+    "styles": [
+        {
+            "is_handwritten": true,
+            "similar_font_family": null,
+            "font_style": null,
+            "font_weight": null,
+            "color": null,
+            "background_color": null,
+            "spans": [
+                {
+                    "offset": 85,
+                    "length": 1
+                },
+                {
+                    "offset": 500,
+                    "length": 1
+                }
+            ],
+            "confidence": 1
+        }
+    ],
+    "documents": []
+}

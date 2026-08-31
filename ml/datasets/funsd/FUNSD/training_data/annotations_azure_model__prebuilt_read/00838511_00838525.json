@@ -1,0 +1,2766 @@
+{
+    "api_version": "2023-07-31",
+    "model_id": "prebuilt-read",
+    "content": "DECISION TREE ESTIMATION OF TOXIC RISK\nNAME\nPaul Schickedantz, Jack Reid\nDATE\n12-4-80\nCOMPOUND NAME\n2-Hydroxycyclododecanone\nSTRUCTURE\nOH\n0\nESTIMATED TOXICITY CLASS\nII\nLORILLARD COMPOUND:CODE NUMBER\nA41\nCOMMENTS\nThis carbocyclic keto alcohol was placed in estimated toxicity class II due to the direct attachment of the ketone to the cyclic nucleus.\n00838511\nLORILLARD RESEARCH CENTER:\nFORM 1 (5 80)",
+    "languages": [],
+    "pages": [
+        {
+            "page_number": 1,
+            "angle": null,
+            "width": 773,
+            "height": 1000,
+            "unit": "pixel",
+            "lines": [
+                {
+                    "content": "DECISION TREE ESTIMATION OF TOXIC RISK",
+                    "polygon": [
+                        {
+                            "x": 209,
+                            "y": 76
+                        },
+                        {
+                            "x": 578,
+                            "y": 75
+                        },
+                        {
+                            "x": 578,
+                            "y": 95
+                        },
+                        {
+                            "x": 209,
+                            "y": 96
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 38
+                        }
+                    ]
+                },
+                {
+                    "content": "NAME",
+                    "polygon": [
+                        {
+                            "x": 74,
+                            "y": 104
+                        },
+                        {
+                            "x": 99,
+                            "y": 104
+                        },
+                        {
+                            "x": 100,
+                            "y": 114
+                        },
+                        {
+                            "x": 74,
+                            "y": 114
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 39,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "Paul Schickedantz, Jack Reid",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 109
+                        },
+                        {
+                            "x": 319,
+                            "y": 108
+                        },
+                        {
+                            "x": 319,
+                            "y": 123
+                        },
+                        {
+                            "x": 107,
+                            "y": 124
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 44,
+                            "length": 28
+                        }
+                    ]
+                },
+                {
+                    "content": "DATE",
+                    "polygon": [
+                        {
+                            "x": 510,
+                            "y": 103
+                        },
+                        {
+                            "x": 535,
+                            "y": 103
+                        },
+                        {
+                            "x": 535,
+                            "y": 113
+                        },
+                        {
+                            "x": 510,
+                            "y": 114
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 73,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "12-4-80",
+                    "polygon": [
+                        {
+                            "x": 558,
+                            "y": 107
+                        },
+                        {
+                            "x": 612,
+                            "y": 107
+                        },
+                        {
+                            "x": 612,
+                            "y": 121
+                        },
+                        {
+                            "x": 558,
+                            "y": 121
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 78,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "COMPOUND NAME",
+                    "polygon": [
+                        {
+                            "x": 73,
+                            "y": 130
+                        },
+                        {
+                            "x": 147,
+                            "y": 130
+                        },
+                        {
+                            "x": 147,
+                            "y": 141
+                        },
+                        {
+                            "x": 73,
+                            "y": 141
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 86,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "2-Hydroxycyclododecanone",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 152
+                        },
+                        {
+                            "x": 290,
+                            "y": 152
+                        },
+                        {
+                            "x": 290,
+                            "y": 167
+                        },
+                        {
+                            "x": 107,
+                            "y": 167
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 100,
+                            "length": 24
+                        }
+                    ]
+                },
+                {
+                    "content": "STRUCTURE",
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 187
+                        },
+                        {
+                            "x": 123,
+                            "y": 187
+                        },
+                        {
+                            "x": 123,
+                            "y": 197
+                        },
+                        {
+                            "x": 75,
+                            "y": 197
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 125,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "OH",
+                    "polygon": [
+                        {
+                            "x": 190,
+                            "y": 233
+                        },
+                        {
+                            "x": 210,
+                            "y": 233
+                        },
+                        {
+                            "x": 209,
+                            "y": 245
+                        },
+                        {
+                            "x": 189,
+                            "y": 244
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 135,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "content": "0",
+                    "polygon": [
+                        {
+                            "x": 191,
+                            "y": 260
+                        },
+                        {
+                            "x": 200,
+                            "y": 261
+                        },
+                        {
+                            "x": 199,
+                            "y": 271
+                        },
+                        {
+                            "x": 191,
+                            "y": 270
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 138,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "ESTIMATED TOXICITY CLASS",
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 325
+                        },
+                        {
+                            "x": 185,
+                            "y": 324
+                        },
+                        {
+                            "x": 185,
+                            "y": 334
+                        },
+                        {
+                            "x": 75,
+                            "y": 335
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 140,
+                            "length": 24
+                        }
+                    ]
+                },
+                {
+                    "content": "II",
+                    "polygon": [
+                        {
+                            "x": 206,
+                            "y": 329
+                        },
+                        {
+                            "x": 219,
+                            "y": 329
+                        },
+                        {
+                            "x": 219,
+                            "y": 341
+                        },
+                        {
+                            "x": 206,
+                            "y": 341
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 165,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "content": "LORILLARD COMPOUND:CODE NUMBER",
+                    "polygon": [
+                        {
+                            "x": 398,
+                            "y": 323
+                        },
+                        {
+                            "x": 555,
+                            "y": 323
+                        },
+                        {
+                            "x": 555,
+                            "y": 334
+                        },
+                        {
+                            "x": 398,
+                            "y": 334
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 168,
+                            "length": 30
+                        }
+                    ]
+                },
+                {
+                    "content": "A41",
+                    "polygon": [
+                        {
+                            "x": 460,
+                            "y": 336
+                        },
+                        {
+                            "x": 483,
+                            "y": 336
+                        },
+                        {
+                            "x": 484,
+                            "y": 347
+                        },
+                        {
+                            "x": 460,
+                            "y": 347
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 199,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "COMMENTS",
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 351
+                        },
+                        {
+                            "x": 122,
+                            "y": 351
+                        },
+                        {
+                            "x": 122,
+                            "y": 361
+                        },
+                        {
+                            "x": 75,
+                            "y": 361
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 203,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "This carbocyclic keto alcohol was placed in estimated toxicity class II",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 377
+                        },
+                        {
+                            "x": 646,
+                            "y": 376
+                        },
+                        {
+                            "x": 646,
+                            "y": 392
+                        },
+                        {
+                            "x": 107,
+                            "y": 393
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 212,
+                            "length": 71
+                        }
+                    ]
+                },
+                {
+                    "content": "due to the direct attachment of the ketone to the cyclic nucleus.",
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 391
+                        },
+                        {
+                            "x": 597,
+                            "y": 391
+                        },
+                        {
+                            "x": 597,
+                            "y": 406
+                        },
+                        {
+                            "x": 106,
+                            "y": 407
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 284,
+                            "length": 65
+                        }
+                    ]
+                },
+                {
+                    "content": "00838511",
+                    "polygon": [
+                        {
+                            "x": 697,
+                            "y": 801
+                        },
+                        {
+                            "x": 695,
+                            "y": 889
+                        },
+                        {
+                            "x": 676,
+                            "y": 889
+                        },
+                        {
+                            "x": 677,
+                            "y": 801
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 350,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "LORILLARD RESEARCH CENTER:",
+                    "polygon": [
+                        {
+                            "x": 76,
+                            "y": 900
+                        },
+                        {
+                            "x": 201,
+                            "y": 900
+                        },
+                        {
+                            "x": 201,
+                            "y": 911
+                        },
+                        {
+                            "x": 76,
+                            "y": 911
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 359,
+                            "length": 26
+                        }
+                    ]
+                },
+                {
+                    "content": "FORM 1 (5 80)",
+                    "polygon": [
+                        {
+                            "x": 663,
+                            "y": 899
+                        },
+                        {
+                            "x": 720,
+                            "y": 900
+                        },
+                        {
+                            "x": 720,
+                            "y": 910
+                        },
+                        {
+                            "x": 663,
+                            "y": 909
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 386,
+                            "length": 13
+                        }
+                    ]
+                }
+            ],
+            "words": [
+                {
+                    "content": "DECISION",
+                    "polygon": [
+                        {
+                            "x": 211,
+                            "y": 78
+                        },
+                        {
+                            "x": 287,
+                            "y": 77
+                        },
+                        {
+                            "x": 287,
+                            "y": 96
+                        },
+                        {
+                            "x": 211,
+                            "y": 96
+                        }
+                    ],
+                    "span": {
+                        "offset": 0,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TREE",
+                    "polygon": [
+                        {
+                            "x": 299,
+                            "y": 76
+                        },
+                        {
+                            "x": 338,
+                            "y": 76
+                        },
+                        {
+                            "x": 338,
+                            "y": 96
+                        },
+                        {
+                            "x": 299,
+                            "y": 96
+                        }
+                    ],
+                    "span": {
+                        "offset": 9,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ESTIMATION",
+                    "polygon": [
+                        {
+                            "x": 342,
+                            "y": 76
+                        },
+                        {
+                            "x": 442,
+                            "y": 76
+                        },
+                        {
+                            "x": 442,
+                            "y": 96
+                        },
+                        {
+                            "x": 342,
+                            "y": 96
+                        }
+                    ],
+                    "span": {
+                        "offset": 14,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "OF",
+                    "polygon": [
+                        {
+                            "x": 453,
+                            "y": 76
+                        },
+                        {
+                            "x": 477,
+                            "y": 76
+                        },
+                        {
+                            "x": 477,
+                            "y": 96
+                        },
+                        {
+                            "x": 453,
+                            "y": 96
+                        }
+                    ],
+                    "span": {
+                        "offset": 25,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TOXIC",
+                    "polygon": [
+                        {
+                            "x": 483,
+                            "y": 76
+                        },
+                        {
+                            "x": 534,
+                            "y": 76
+                        },
+                        {
+                            "x": 534,
+                            "y": 96
+                        },
+                        {
+                            "x": 483,
+                            "y": 96
+                        }
+                    ],
+                    "span": {
+                        "offset": 28,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RISK",
+                    "polygon": [
+                        {
+                            "x": 540,
+                            "y": 77
+                        },
+                        {
+                            "x": 575,
+                            "y": 77
+                        },
+                        {
+                            "x": 575,
+                            "y": 96
+                        },
+                        {
+                            "x": 540,
+                            "y": 96
+                        }
+                    ],
+                    "span": {
+                        "offset": 34,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NAME",
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 104
+                        },
+                        {
+                            "x": 99,
+                            "y": 104
+                        },
+                        {
+                            "x": 99,
+                            "y": 114
+                        },
+                        {
+                            "x": 75,
+                            "y": 114
+                        }
+                    ],
+                    "span": {
+                        "offset": 39,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Paul",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 110
+                        },
+                        {
+                            "x": 138,
+                            "y": 110
+                        },
+                        {
+                            "x": 138,
+                            "y": 124
+                        },
+                        {
+                            "x": 107,
+                            "y": 124
+                        }
+                    ],
+                    "span": {
+                        "offset": 44,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Schickedantz,",
+                    "polygon": [
+                        {
+                            "x": 145,
+                            "y": 110
+                        },
+                        {
+                            "x": 244,
+                            "y": 109
+                        },
+                        {
+                            "x": 244,
+                            "y": 125
+                        },
+                        {
+                            "x": 145,
+                            "y": 124
+                        }
+                    ],
+                    "span": {
+                        "offset": 49,
+                        "length": 13
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Jack",
+                    "polygon": [
+                        {
+                            "x": 250,
+                            "y": 109
+                        },
+                        {
+                            "x": 280,
+                            "y": 108
+                        },
+                        {
+                            "x": 280,
+                            "y": 124
+                        },
+                        {
+                            "x": 250,
+                            "y": 125
+                        }
+                    ],
+                    "span": {
+                        "offset": 63,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Reid",
+                    "polygon": [
+                        {
+                            "x": 287,
+                            "y": 108
+                        },
+                        {
+                            "x": 318,
+                            "y": 108
+                        },
+                        {
+                            "x": 318,
+                            "y": 124
+                        },
+                        {
+                            "x": 287,
+                            "y": 124
+                        }
+                    ],
+                    "span": {
+                        "offset": 68,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DATE",
+                    "polygon": [
+                        {
+                            "x": 513,
+                            "y": 103
+                        },
+                        {
+                            "x": 535,
+                            "y": 103
+                        },
+                        {
+                            "x": 535,
+                            "y": 113
+                        },
+                        {
+                            "x": 513,
+                            "y": 114
+                        }
+                    ],
+                    "span": {
+                        "offset": 73,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "12-4-80",
+                    "polygon": [
+                        {
+                            "x": 559,
+                            "y": 107
+                        },
+                        {
+                            "x": 612,
+                            "y": 107
+                        },
+                        {
+                            "x": 612,
+                            "y": 122
+                        },
+                        {
+                            "x": 559,
+                            "y": 121
+                        }
+                    ],
+                    "span": {
+                        "offset": 78,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "COMPOUND",
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 131
+                        },
+                        {
+                            "x": 121,
+                            "y": 131
+                        },
+                        {
+                            "x": 121,
+                            "y": 142
+                        },
+                        {
+                            "x": 75,
+                            "y": 142
+                        }
+                    ],
+                    "span": {
+                        "offset": 86,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NAME",
+                    "polygon": [
+                        {
+                            "x": 123,
+                            "y": 131
+                        },
+                        {
+                            "x": 147,
+                            "y": 131
+                        },
+                        {
+                            "x": 147,
+                            "y": 142
+                        },
+                        {
+                            "x": 123,
+                            "y": 142
+                        }
+                    ],
+                    "span": {
+                        "offset": 95,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "2-Hydroxycyclododecanone",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 153
+                        },
+                        {
+                            "x": 288,
+                            "y": 152
+                        },
+                        {
+                            "x": 288,
+                            "y": 167
+                        },
+                        {
+                            "x": 108,
+                            "y": 167
+                        }
+                    ],
+                    "span": {
+                        "offset": 100,
+                        "length": 24
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "STRUCTURE",
+                    "polygon": [
+                        {
+                            "x": 76,
+                            "y": 187
+                        },
+                        {
+                            "x": 122,
+                            "y": 187
+                        },
+                        {
+                            "x": 122,
+                            "y": 197
+                        },
+                        {
+                            "x": 76,
+                            "y": 197
+                        }
+                    ],
+                    "span": {
+                        "offset": 125,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "OH",
+                    "polygon": [
+                        {
+                            "x": 192,
+                            "y": 233
+                        },
+                        {
+                            "x": 208,
+                            "y": 233
+                        },
+                        {
+                            "x": 208,
+                            "y": 245
+                        },
+                        {
+                            "x": 192,
+                            "y": 245
+                        }
+                    ],
+                    "span": {
+                        "offset": 135,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "0",
+                    "polygon": [
+                        {
+                            "x": 194,
+                            "y": 260
+                        },
+                        {
+                            "x": 199,
+                            "y": 261
+                        },
+                        {
+                            "x": 198,
+                            "y": 271
+                        },
+                        {
+                            "x": 193,
+                            "y": 270
+                        }
+                    ],
+                    "span": {
+                        "offset": 138,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ESTIMATED",
+                    "polygon": [
+                        {
+                            "x": 76,
+                            "y": 325
+                        },
+                        {
+                            "x": 119,
+                            "y": 325
+                        },
+                        {
+                            "x": 119,
+                            "y": 335
+                        },
+                        {
+                            "x": 76,
+                            "y": 336
+                        }
+                    ],
+                    "span": {
+                        "offset": 140,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TOXICITY",
+                    "polygon": [
+                        {
+                            "x": 122,
+                            "y": 325
+                        },
+                        {
+                            "x": 157,
+                            "y": 324
+                        },
+                        {
+                            "x": 157,
+                            "y": 335
+                        },
+                        {
+                            "x": 122,
+                            "y": 335
+                        }
+                    ],
+                    "span": {
+                        "offset": 150,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CLASS",
+                    "polygon": [
+                        {
+                            "x": 159,
+                            "y": 324
+                        },
+                        {
+                            "x": 185,
+                            "y": 324
+                        },
+                        {
+                            "x": 185,
+                            "y": 334
+                        },
+                        {
+                            "x": 159,
+                            "y": 334
+                        }
+                    ],
+                    "span": {
+                        "offset": 159,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "II",
+                    "polygon": [
+                        {
+                            "x": 207,
+                            "y": 329
+                        },
+                        {
+                            "x": 219,
+                            "y": 329
+                        },
+                        {
+                            "x": 219,
+                            "y": 341
+                        },
+                        {
+                            "x": 207,
+                            "y": 341
+                        }
+                    ],
+                    "span": {
+                        "offset": 165,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "LORILLARD",
+                    "polygon": [
+                        {
+                            "x": 399,
+                            "y": 324
+                        },
+                        {
+                            "x": 442,
+                            "y": 324
+                        },
+                        {
+                            "x": 442,
+                            "y": 334
+                        },
+                        {
+                            "x": 399,
+                            "y": 334
+                        }
+                    ],
+                    "span": {
+                        "offset": 168,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "COMPOUND:CODE",
+                    "polygon": [
+                        {
+                            "x": 445,
+                            "y": 324
+                        },
+                        {
+                            "x": 517,
+                            "y": 324
+                        },
+                        {
+                            "x": 518,
+                            "y": 334
+                        },
+                        {
+                            "x": 446,
+                            "y": 334
+                        }
+                    ],
+                    "span": {
+                        "offset": 178,
+                        "length": 13
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NUMBER",
+                    "polygon": [
+                        {
+                            "x": 519,
+                            "y": 324
+                        },
+                        {
+                            "x": 553,
+                            "y": 324
+                        },
+                        {
+                            "x": 554,
+                            "y": 334
+                        },
+                        {
+                            "x": 520,
+                            "y": 334
+                        }
+                    ],
+                    "span": {
+                        "offset": 192,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "A41",
+                    "polygon": [
+                        {
+                            "x": 463,
+                            "y": 336
+                        },
+                        {
+                            "x": 483,
+                            "y": 336
+                        },
+                        {
+                            "x": 483,
+                            "y": 347
+                        },
+                        {
+                            "x": 463,
+                            "y": 347
+                        }
+                    ],
+                    "span": {
+                        "offset": 199,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "COMMENTS",
+                    "polygon": [
+                        {
+                            "x": 76,
+                            "y": 351
+                        },
+                        {
+                            "x": 121,
+                            "y": 352
+                        },
+                        {
+                            "x": 121,
+                            "y": 362
+                        },
+                        {
+                            "x": 76,
+                            "y": 362
+                        }
+                    ],
+                    "span": {
+                        "offset": 203,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "This",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 378
+                        },
+                        {
+                            "x": 138,
+                            "y": 378
+                        },
+                        {
+                            "x": 138,
+                            "y": 393
+                        },
+                        {
+                            "x": 108,
+                            "y": 393
+                        }
+                    ],
+                    "span": {
+                        "offset": 212,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "carbocyclic",
+                    "polygon": [
+                        {
+                            "x": 145,
+                            "y": 378
+                        },
+                        {
+                            "x": 229,
+                            "y": 378
+                        },
+                        {
+                            "x": 229,
+                            "y": 393
+                        },
+                        {
+                            "x": 145,
+                            "y": 393
+                        }
+                    ],
+                    "span": {
+                        "offset": 217,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "keto",
+                    "polygon": [
+                        {
+                            "x": 235,
+                            "y": 378
+                        },
+                        {
+                            "x": 266,
+                            "y": 378
+                        },
+                        {
+                            "x": 266,
+                            "y": 393
+                        },
+                        {
+                            "x": 235,
+                            "y": 393
+                        }
+                    ],
+                    "span": {
+                        "offset": 229,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "alcohol",
+                    "polygon": [
+                        {
+                            "x": 273,
+                            "y": 378
+                        },
+                        {
+                            "x": 327,
+                            "y": 377
+                        },
+                        {
+                            "x": 327,
+                            "y": 393
+                        },
+                        {
+                            "x": 273,
+                            "y": 393
+                        }
+                    ],
+                    "span": {
+                        "offset": 234,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "was",
+                    "polygon": [
+                        {
+                            "x": 332,
+                            "y": 377
+                        },
+                        {
+                            "x": 357,
+                            "y": 377
+                        },
+                        {
+                            "x": 357,
+                            "y": 393
+                        },
+                        {
+                            "x": 333,
+                            "y": 393
+                        }
+                    ],
+                    "span": {
+                        "offset": 242,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "placed",
+                    "polygon": [
+                        {
+                            "x": 363,
+                            "y": 377
+                        },
+                        {
+                            "x": 409,
+                            "y": 377
+                        },
+                        {
+                            "x": 409,
+                            "y": 393
+                        },
+                        {
+                            "x": 363,
+                            "y": 393
+                        }
+                    ],
+                    "span": {
+                        "offset": 246,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "in",
+                    "polygon": [
+                        {
+                            "x": 417,
+                            "y": 377
+                        },
+                        {
+                            "x": 432,
+                            "y": 377
+                        },
+                        {
+                            "x": 432,
+                            "y": 393
+                        },
+                        {
+                            "x": 418,
+                            "y": 393
+                        }
+                    ],
+                    "span": {
+                        "offset": 253,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "estimated",
+                    "polygon": [
+                        {
+                            "x": 439,
+                            "y": 377
+                        },
+                        {
+                            "x": 507,
+                            "y": 377
+                        },
+                        {
+                            "x": 508,
+                            "y": 393
+                        },
+                        {
+                            "x": 439,
+                            "y": 393
+                        }
+                    ],
+                    "span": {
+                        "offset": 256,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "toxicity",
+                    "polygon": [
+                        {
+                            "x": 515,
+                            "y": 377
+                        },
+                        {
+                            "x": 576,
+                            "y": 377
+                        },
+                        {
+                            "x": 576,
+                            "y": 392
+                        },
+                        {
+                            "x": 515,
+                            "y": 393
+                        }
+                    ],
+                    "span": {
+                        "offset": 266,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "class",
+                    "polygon": [
+                        {
+                            "x": 583,
+                            "y": 377
+                        },
+                        {
+                            "x": 621,
+                            "y": 377
+                        },
+                        {
+                            "x": 621,
+                            "y": 392
+                        },
+                        {
+                            "x": 583,
+                            "y": 392
+                        }
+                    ],
+                    "span": {
+                        "offset": 275,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "II",
+                    "polygon": [
+                        {
+                            "x": 629,
+                            "y": 377
+                        },
+                        {
+                            "x": 644,
+                            "y": 377
+                        },
+                        {
+                            "x": 645,
+                            "y": 392
+                        },
+                        {
+                            "x": 630,
+                            "y": 392
+                        }
+                    ],
+                    "span": {
+                        "offset": 281,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "due",
+                    "polygon": [
+                        {
+                            "x": 108,
+                            "y": 392
+                        },
+                        {
+                            "x": 131,
+                            "y": 392
+                        },
+                        {
+                            "x": 131,
+                            "y": 407
+                        },
+                        {
+                            "x": 108,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 284,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "to",
+                    "polygon": [
+                        {
+                            "x": 138,
+                            "y": 392
+                        },
+                        {
+                            "x": 153,
+                            "y": 392
+                        },
+                        {
+                            "x": 153,
+                            "y": 407
+                        },
+                        {
+                            "x": 138,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 288,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        {
+                            "x": 160,
+                            "y": 392
+                        },
+                        {
+                            "x": 184,
+                            "y": 392
+                        },
+                        {
+                            "x": 184,
+                            "y": 407
+                        },
+                        {
+                            "x": 160,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 291,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "direct",
+                    "polygon": [
+                        {
+                            "x": 190,
+                            "y": 392
+                        },
+                        {
+                            "x": 237,
+                            "y": 392
+                        },
+                        {
+                            "x": 237,
+                            "y": 407
+                        },
+                        {
+                            "x": 190,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 295,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "attachment",
+                    "polygon": [
+                        {
+                            "x": 243,
+                            "y": 392
+                        },
+                        {
+                            "x": 319,
+                            "y": 392
+                        },
+                        {
+                            "x": 319,
+                            "y": 407
+                        },
+                        {
+                            "x": 243,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 302,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "of",
+                    "polygon": [
+                        {
+                            "x": 325,
+                            "y": 392
+                        },
+                        {
+                            "x": 342,
+                            "y": 391
+                        },
+                        {
+                            "x": 342,
+                            "y": 407
+                        },
+                        {
+                            "x": 325,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 313,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        {
+                            "x": 348,
+                            "y": 391
+                        },
+                        {
+                            "x": 372,
+                            "y": 391
+                        },
+                        {
+                            "x": 372,
+                            "y": 407
+                        },
+                        {
+                            "x": 349,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 316,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ketone",
+                    "polygon": [
+                        {
+                            "x": 378,
+                            "y": 391
+                        },
+                        {
+                            "x": 425,
+                            "y": 391
+                        },
+                        {
+                            "x": 425,
+                            "y": 407
+                        },
+                        {
+                            "x": 378,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 320,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "to",
+                    "polygon": [
+                        {
+                            "x": 432,
+                            "y": 391
+                        },
+                        {
+                            "x": 447,
+                            "y": 391
+                        },
+                        {
+                            "x": 447,
+                            "y": 407
+                        },
+                        {
+                            "x": 432,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 327,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        {
+                            "x": 454,
+                            "y": 391
+                        },
+                        {
+                            "x": 477,
+                            "y": 391
+                        },
+                        {
+                            "x": 478,
+                            "y": 407
+                        },
+                        {
+                            "x": 454,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 330,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "cyclic",
+                    "polygon": [
+                        {
+                            "x": 485,
+                            "y": 391
+                        },
+                        {
+                            "x": 530,
+                            "y": 391
+                        },
+                        {
+                            "x": 531,
+                            "y": 407
+                        },
+                        {
+                            "x": 485,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 334,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "nucleus.",
+                    "polygon": [
+                        {
+                            "x": 536,
+                            "y": 391
+                        },
+                        {
+                            "x": 597,
+                            "y": 392
+                        },
+                        {
+                            "x": 597,
+                            "y": 406
+                        },
+                        {
+                            "x": 537,
+                            "y": 407
+                        }
+                    ],
+                    "span": {
+                        "offset": 341,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "00838511",
+                    "polygon": [
+                        {
+                            "x": 697,
+                            "y": 802
+                        },
+                        {
+                            "x": 695,
+                            "y": 888
+                        },
+                        {
+                            "x": 676,
+                            "y": 888
+                        },
+                        {
+                            "x": 677,
+                            "y": 802
+                        }
+                    ],
+                    "span": {
+                        "offset": 350,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "LORILLARD",
+                    "polygon": [
+                        {
+                            "x": 77,
+                            "y": 901
+                        },
+                        {
+                            "x": 119,
+                            "y": 901
+                        },
+                        {
+                            "x": 119,
+                            "y": 912
+                        },
+                        {
+                            "x": 77,
+                            "y": 911
+                        }
+                    ],
+                    "span": {
+                        "offset": 359,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RESEARCH",
+                    "polygon": [
+                        {
+                            "x": 122,
+                            "y": 901
+                        },
+                        {
+                            "x": 164,
+                            "y": 901
+                        },
+                        {
+                            "x": 164,
+                            "y": 912
+                        },
+                        {
+                            "x": 122,
+                            "y": 912
+                        }
+                    ],
+                    "span": {
+                        "offset": 369,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CENTER:",
+                    "polygon": [
+                        {
+                            "x": 167,
+                            "y": 901
+                        },
+                        {
+                            "x": 201,
+                            "y": 901
+                        },
+                        {
+                            "x": 201,
+                            "y": 912
+                        },
+                        {
+                            "x": 167,
+                            "y": 912
+                        }
+                    ],
+                    "span": {
+                        "offset": 378,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FORM",
+                    "polygon": [
+                        {
+                            "x": 664,
+                            "y": 900
+                        },
+                        {
+                            "x": 685,
+                            "y": 900
+                        },
+                        {
+                            "x": 685,
+                            "y": 910
+                        },
+                        {
+                            "x": 664,
+                            "y": 910
+                        }
+                    ],
+                    "span": {
+                        "offset": 386,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        {
+                            "x": 691,
+                            "y": 900
+                        },
+                        {
+                            "x": 695,
+                            "y": 900
+                        },
+                        {
+                            "x": 695,
+                            "y": 910
+                        },
+                        {
+                            "x": 691,
+                            "y": 910
+                        }
+                    ],
+                    "span": {
+                        "offset": 391,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(5",
+                    "polygon": [
+                        {
+                            "x": 697,
+                            "y": 900
+                        },
+                        {
+                            "x": 705,
+                            "y": 900
+                        },
+                        {
+                            "x": 705,
+                            "y": 910
+                        },
+                        {
+                            "x": 697,
+                            "y": 910
+                        }
+                    ],
+                    "span": {
+                        "offset": 393,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "80)",
+                    "polygon": [
+                        {
+                            "x": 707,
+                            "y": 900
+                        },
+                        {
+                            "x": 721,
+                            "y": 901
+                        },
+                        {
+                            "x": 720,
+                            "y": 910
+                        },
+                        {
+                            "x": 707,
+                            "y": 910
+                        }
+                    ],
+                    "span": {
+                        "offset": 396,
+                        "length": 3
+                    },
+                    "confidence": 0
+                }
+            ],
+            "selection_marks": [],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 399
+                }
+            ],
+            "barcodes": [],
+            "formulas": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "role": null,
+            "content": "DECISION TREE ESTIMATION OF TOXIC RISK",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 209,
+                            "y": 76
+                        },
+                        {
+                            "x": 578,
+                            "y": 75
+                        },
+                        {
+                            "x": 578,
+                            "y": 95
+                        },
+                        {
+                            "x": 209,
+                            "y": 96
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 38
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "NAME",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 74,
+                            "y": 104
+                        },
+                        {
+                            "x": 99,
+                            "y": 104
+                        },
+                        {
+                            "x": 100,
+                            "y": 114
+                        },
+                        {
+                            "x": 74,
+                            "y": 114
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 39,
+                    "length": 4
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Paul Schickedantz, Jack Reid",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 109
+                        },
+                        {
+                            "x": 319,
+                            "y": 108
+                        },
+                        {
+                            "x": 319,
+                            "y": 123
+                        },
+                        {
+                            "x": 107,
+                            "y": 124
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 44,
+                    "length": 28
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "DATE",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 510,
+                            "y": 103
+                        },
+                        {
+                            "x": 535,
+                            "y": 103
+                        },
+                        {
+                            "x": 535,
+                            "y": 113
+                        },
+                        {
+                            "x": 510,
+                            "y": 114
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 73,
+                    "length": 4
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "12-4-80",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 558,
+                            "y": 107
+                        },
+                        {
+                            "x": 612,
+                            "y": 107
+                        },
+                        {
+                            "x": 612,
+                            "y": 121
+                        },
+                        {
+                            "x": 558,
+                            "y": 121
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 78,
+                    "length": 7
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "COMPOUND NAME",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 73,
+                            "y": 130
+                        },
+                        {
+                            "x": 147,
+                            "y": 130
+                        },
+                        {
+                            "x": 147,
+                            "y": 141
+                        },
+                        {
+                            "x": 73,
+                            "y": 141
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 86,
+                    "length": 13
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "2-Hydroxycyclododecanone",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 152
+                        },
+                        {
+                            "x": 290,
+                            "y": 152
+                        },
+                        {
+                            "x": 290,
+                            "y": 167
+                        },
+                        {
+                            "x": 107,
+                            "y": 167
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 100,
+                    "length": 24
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "STRUCTURE",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 187
+                        },
+                        {
+                            "x": 123,
+                            "y": 187
+                        },
+                        {
+                            "x": 123,
+                            "y": 197
+                        },
+                        {
+                            "x": 75,
+                            "y": 197
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 125,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "OH",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 190,
+                            "y": 232
+                        },
+                        {
+                            "x": 210,
+                            "y": 233
+                        },
+                        {
+                            "x": 209,
+                            "y": 245
+                        },
+                        {
+                            "x": 189,
+                            "y": 244
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 135,
+                    "length": 2
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "0",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 191,
+                            "y": 260
+                        },
+                        {
+                            "x": 200,
+                            "y": 261
+                        },
+                        {
+                            "x": 199,
+                            "y": 271
+                        },
+                        {
+                            "x": 190,
+                            "y": 270
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 138,
+                    "length": 1
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "ESTIMATED TOXICITY CLASS",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 325
+                        },
+                        {
+                            "x": 185,
+                            "y": 324
+                        },
+                        {
+                            "x": 185,
+                            "y": 334
+                        },
+                        {
+                            "x": 75,
+                            "y": 335
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 140,
+                    "length": 24
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "II",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 206,
+                            "y": 329
+                        },
+                        {
+                            "x": 219,
+                            "y": 329
+                        },
+                        {
+                            "x": 219,
+                            "y": 341
+                        },
+                        {
+                            "x": 206,
+                            "y": 341
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 165,
+                    "length": 2
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "LORILLARD COMPOUND:CODE NUMBER",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 398,
+                            "y": 323
+                        },
+                        {
+                            "x": 555,
+                            "y": 323
+                        },
+                        {
+                            "x": 555,
+                            "y": 334
+                        },
+                        {
+                            "x": 398,
+                            "y": 334
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 168,
+                    "length": 30
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "A41",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 460,
+                            "y": 336
+                        },
+                        {
+                            "x": 483,
+                            "y": 336
+                        },
+                        {
+                            "x": 484,
+                            "y": 347
+                        },
+                        {
+                            "x": 460,
+                            "y": 347
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 199,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "COMMENTS",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 351
+                        },
+                        {
+                            "x": 122,
+                            "y": 351
+                        },
+                        {
+                            "x": 122,
+                            "y": 361
+                        },
+                        {
+                            "x": 75,
+                            "y": 361
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 203,
+                    "length": 8
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "This carbocyclic keto alcohol was placed in estimated toxicity class II due to the direct attachment of the ketone to the cyclic nucleus.",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 377
+                        },
+                        {
+                            "x": 646,
+                            "y": 376
+                        },
+                        {
+                            "x": 646,
+                            "y": 406
+                        },
+                        {
+                            "x": 106,
+                            "y": 407
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 212,
+                    "length": 137
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "00838511",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 677,
+                            "y": 801
+                        },
+                        {
+                            "x": 697,
+                            "y": 801
+                        },
+                        {
+                            "x": 696,
+                            "y": 889
+                        },
+                        {
+                            "x": 676,
+                            "y": 889
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 350,
+                    "length": 8
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "LORILLARD RESEARCH CENTER:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 76,
+                            "y": 900
+                        },
+                        {
+                            "x": 201,
+                            "y": 900
+                        },
+                        {
+                            "x": 201,
+                            "y": 911
+                        },
+                        {
+                            "x": 76,
+                            "y": 911
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 359,
+                    "length": 26
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "FORM 1 (5 80)",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 663,
+                            "y": 899
+                        },
+                        {
+                            "x": 720,
+                            "y": 900
+                        },
+                        {
+                            "x": 720,
+                            "y": 910
+                        },
+                        {
+                            "x": 663,
+                            "y": 909
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 386,
+                    "length": 13
+                }
+            ]
+        }
+    ],
+    "tables": [],
+    "key_value_pairs": [],
+    "styles": [
+        {
+            "is_handwritten": true,
+            "similar_font_family": null,
+            "font_style": null,
+            "font_weight": null,
+            "color": null,
+            "background_color": null,
+            "spans": [
+                {
+                    "offset": 73,
+                    "length": 4
+                }
+            ],
+            "confidence": 0
+        },
+        {
+            "is_handwritten": true,
+            "similar_font_family": null,
+            "font_style": null,
+            "font_weight": null,
+            "color": null,
+            "background_color": null,
+            "spans": [
+                {
+                    "offset": 138,
+                    "length": 1
+                }
+            ],
+            "confidence": 0
+        }
+    ],
+    "documents": []
+}

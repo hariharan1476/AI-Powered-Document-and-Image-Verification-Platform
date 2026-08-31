@@ -1,0 +1,3879 @@
+{
+    "api_version": "2023-07-31",
+    "model_id": "prebuilt-read",
+    "content": "MARDEN - KANE. INC. 666 FIFTH AVE. . NEW YORK. N. Y. 10103 (212) 582-6600\nTRAVEL INFORMATION SHEET\nThis information will be used by Marden-Kane in making travel arrangements for your round-trip to Los Angeles, California.\nFinalist Name:\nHome Address:\nHome Telephone:\nBusiness Telephone:\nName of Guest:\nRelationship to Finalist:\nMajor Airport Nearest your home:\nDistance from your home to airport:\nDo you prefer airline seats in smoking or non-smoking section:\nAny special dietary meal you and/or your guest would prefer -\nRETURN TO:\nMarden-Kane, Inc.\n666 Fifth Avenue\nNew York, N.Y. 10103\nAttention: Ms. L. Sobel",
+    "languages": [],
+    "pages": [
+        {
+            "page_number": 1,
+            "angle": 0,
+            "width": 762,
+            "height": 1000,
+            "unit": "pixel",
+            "lines": [
+                {
+                    "content": "MARDEN - KANE. INC.",
+                    "polygon": [
+                        {
+                            "x": 203,
+                            "y": 53
+                        },
+                        {
+                            "x": 506,
+                            "y": 48
+                        },
+                        {
+                            "x": 506,
+                            "y": 67
+                        },
+                        {
+                            "x": 204,
+                            "y": 72
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "666 FIFTH AVE. . NEW YORK. N. Y. 10103",
+                    "polygon": [
+                        {
+                            "x": 203,
+                            "y": 83
+                        },
+                        {
+                            "x": 400,
+                            "y": 80
+                        },
+                        {
+                            "x": 400,
+                            "y": 94
+                        },
+                        {
+                            "x": 204,
+                            "y": 97
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 20,
+                            "length": 38
+                        }
+                    ]
+                },
+                {
+                    "content": "(212) 582-6600",
+                    "polygon": [
+                        {
+                            "x": 425,
+                            "y": 80
+                        },
+                        {
+                            "x": 505,
+                            "y": 79
+                        },
+                        {
+                            "x": 506,
+                            "y": 92
+                        },
+                        {
+                            "x": 425,
+                            "y": 93
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 59,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "TRAVEL INFORMATION SHEET",
+                    "polygon": [
+                        {
+                            "x": 266,
+                            "y": 164
+                        },
+                        {
+                            "x": 443,
+                            "y": 162
+                        },
+                        {
+                            "x": 444,
+                            "y": 177
+                        },
+                        {
+                            "x": 267,
+                            "y": 180
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 74,
+                            "length": 24
+                        }
+                    ]
+                },
+                {
+                    "content": "This information will be used by Marden-Kane in making travel arrangements for",
+                    "polygon": [
+                        {
+                            "x": 74,
+                            "y": 209
+                        },
+                        {
+                            "x": 636,
+                            "y": 201
+                        },
+                        {
+                            "x": 636,
+                            "y": 218
+                        },
+                        {
+                            "x": 74,
+                            "y": 227
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 99,
+                            "length": 78
+                        }
+                    ]
+                },
+                {
+                    "content": "your round-trip to Los Angeles, California.",
+                    "polygon": [
+                        {
+                            "x": 73,
+                            "y": 225
+                        },
+                        {
+                            "x": 386,
+                            "y": 219
+                        },
+                        {
+                            "x": 386,
+                            "y": 236
+                        },
+                        {
+                            "x": 73,
+                            "y": 242
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 178,
+                            "length": 43
+                        }
+                    ]
+                },
+                {
+                    "content": "Finalist Name:",
+                    "polygon": [
+                        {
+                            "x": 74,
+                            "y": 260
+                        },
+                        {
+                            "x": 176,
+                            "y": 259
+                        },
+                        {
+                            "x": 176,
+                            "y": 275
+                        },
+                        {
+                            "x": 74,
+                            "y": 276
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 222,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "Home Address:",
+                    "polygon": [
+                        {
+                            "x": 74,
+                            "y": 303
+                        },
+                        {
+                            "x": 171,
+                            "y": 303
+                        },
+                        {
+                            "x": 171,
+                            "y": 318
+                        },
+                        {
+                            "x": 74,
+                            "y": 319
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 237,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "Home Telephone:",
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 346
+                        },
+                        {
+                            "x": 185,
+                            "y": 345
+                        },
+                        {
+                            "x": 185,
+                            "y": 361
+                        },
+                        {
+                            "x": 75,
+                            "y": 362
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 251,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "Business Telephone:",
+                    "polygon": [
+                        {
+                            "x": 76,
+                            "y": 389
+                        },
+                        {
+                            "x": 214,
+                            "y": 388
+                        },
+                        {
+                            "x": 215,
+                            "y": 405
+                        },
+                        {
+                            "x": 77,
+                            "y": 406
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 267,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "Name of Guest:",
+                    "polygon": [
+                        {
+                            "x": 76,
+                            "y": 433
+                        },
+                        {
+                            "x": 182,
+                            "y": 431
+                        },
+                        {
+                            "x": 182,
+                            "y": 446
+                        },
+                        {
+                            "x": 76,
+                            "y": 448
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 287,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "Relationship to Finalist:",
+                    "polygon": [
+                        {
+                            "x": 77,
+                            "y": 473
+                        },
+                        {
+                            "x": 259,
+                            "y": 471
+                        },
+                        {
+                            "x": 260,
+                            "y": 488
+                        },
+                        {
+                            "x": 77,
+                            "y": 490
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 302,
+                            "length": 25
+                        }
+                    ]
+                },
+                {
+                    "content": "Major Airport Nearest",
+                    "polygon": [
+                        {
+                            "x": 77,
+                            "y": 516
+                        },
+                        {
+                            "x": 233,
+                            "y": 513
+                        },
+                        {
+                            "x": 233,
+                            "y": 530
+                        },
+                        {
+                            "x": 78,
+                            "y": 533
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 328,
+                            "length": 21
+                        }
+                    ]
+                },
+                {
+                    "content": "your home:",
+                    "polygon": [
+                        {
+                            "x": 77,
+                            "y": 533
+                        },
+                        {
+                            "x": 152,
+                            "y": 531
+                        },
+                        {
+                            "x": 152,
+                            "y": 545
+                        },
+                        {
+                            "x": 77,
+                            "y": 547
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 350,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "Distance from your",
+                    "polygon": [
+                        {
+                            "x": 77,
+                            "y": 573
+                        },
+                        {
+                            "x": 212,
+                            "y": 572
+                        },
+                        {
+                            "x": 212,
+                            "y": 587
+                        },
+                        {
+                            "x": 77,
+                            "y": 589
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 361,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "home to airport:",
+                    "polygon": [
+                        {
+                            "x": 77,
+                            "y": 588
+                        },
+                        {
+                            "x": 197,
+                            "y": 586
+                        },
+                        {
+                            "x": 197,
+                            "y": 601
+                        },
+                        {
+                            "x": 77,
+                            "y": 603
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 380,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "Do you prefer airline",
+                    "polygon": [
+                        {
+                            "x": 78,
+                            "y": 630
+                        },
+                        {
+                            "x": 234,
+                            "y": 626
+                        },
+                        {
+                            "x": 235,
+                            "y": 643
+                        },
+                        {
+                            "x": 78,
+                            "y": 646
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 397,
+                            "length": 21
+                        }
+                    ]
+                },
+                {
+                    "content": "seats in smoking or",
+                    "polygon": [
+                        {
+                            "x": 79,
+                            "y": 644
+                        },
+                        {
+                            "x": 221,
+                            "y": 643
+                        },
+                        {
+                            "x": 221,
+                            "y": 658
+                        },
+                        {
+                            "x": 80,
+                            "y": 659
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 419,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "non-smoking section:",
+                    "polygon": [
+                        {
+                            "x": 79,
+                            "y": 658
+                        },
+                        {
+                            "x": 226,
+                            "y": 657
+                        },
+                        {
+                            "x": 226,
+                            "y": 672
+                        },
+                        {
+                            "x": 79,
+                            "y": 674
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 439,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "Any special dietary",
+                    "polygon": [
+                        {
+                            "x": 78,
+                            "y": 712
+                        },
+                        {
+                            "x": 245,
+                            "y": 709
+                        },
+                        {
+                            "x": 245,
+                            "y": 725
+                        },
+                        {
+                            "x": 78,
+                            "y": 728
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 460,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "meal you and/or your",
+                    "polygon": [
+                        {
+                            "x": 79,
+                            "y": 727
+                        },
+                        {
+                            "x": 254,
+                            "y": 725
+                        },
+                        {
+                            "x": 255,
+                            "y": 739
+                        },
+                        {
+                            "x": 79,
+                            "y": 741
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 480,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "guest would prefer -",
+                    "polygon": [
+                        {
+                            "x": 79,
+                            "y": 742
+                        },
+                        {
+                            "x": 252,
+                            "y": 739
+                        },
+                        {
+                            "x": 252,
+                            "y": 752
+                        },
+                        {
+                            "x": 79,
+                            "y": 756
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 501,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "RETURN TO:",
+                    "polygon": [
+                        {
+                            "x": 79,
+                            "y": 817
+                        },
+                        {
+                            "x": 165,
+                            "y": 816
+                        },
+                        {
+                            "x": 166,
+                            "y": 829
+                        },
+                        {
+                            "x": 79,
+                            "y": 830
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 522,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "Marden-Kane, Inc.",
+                    "polygon": [
+                        {
+                            "x": 181,
+                            "y": 814
+                        },
+                        {
+                            "x": 331,
+                            "y": 814
+                        },
+                        {
+                            "x": 331,
+                            "y": 828
+                        },
+                        {
+                            "x": 182,
+                            "y": 829
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 533,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "666 Fifth Avenue",
+                    "polygon": [
+                        {
+                            "x": 182,
+                            "y": 829
+                        },
+                        {
+                            "x": 326,
+                            "y": 829
+                        },
+                        {
+                            "x": 326,
+                            "y": 842
+                        },
+                        {
+                            "x": 182,
+                            "y": 843
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 551,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "New York, N.Y. 10103",
+                    "polygon": [
+                        {
+                            "x": 181,
+                            "y": 843
+                        },
+                        {
+                            "x": 357,
+                            "y": 840
+                        },
+                        {
+                            "x": 357,
+                            "y": 855
+                        },
+                        {
+                            "x": 182,
+                            "y": 858
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 568,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "Attention: Ms. L. Sobel",
+                    "polygon": [
+                        {
+                            "x": 181,
+                            "y": 857
+                        },
+                        {
+                            "x": 384,
+                            "y": 854
+                        },
+                        {
+                            "x": 384,
+                            "y": 868
+                        },
+                        {
+                            "x": 181,
+                            "y": 872
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 589,
+                            "length": 23
+                        }
+                    ]
+                }
+            ],
+            "words": [
+                {
+                    "content": "MARDEN",
+                    "polygon": [
+                        {
+                            "x": 204,
+                            "y": 54
+                        },
+                        {
+                            "x": 318,
+                            "y": 51
+                        },
+                        {
+                            "x": 318,
+                            "y": 71
+                        },
+                        {
+                            "x": 204,
+                            "y": 73
+                        }
+                    ],
+                    "span": {
+                        "offset": 0,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        {
+                            "x": 332,
+                            "y": 51
+                        },
+                        {
+                            "x": 342,
+                            "y": 51
+                        },
+                        {
+                            "x": 342,
+                            "y": 71
+                        },
+                        {
+                            "x": 332,
+                            "y": 71
+                        }
+                    ],
+                    "span": {
+                        "offset": 7,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "KANE.",
+                    "polygon": [
+                        {
+                            "x": 350,
+                            "y": 51
+                        },
+                        {
+                            "x": 433,
+                            "y": 50
+                        },
+                        {
+                            "x": 433,
+                            "y": 69
+                        },
+                        {
+                            "x": 350,
+                            "y": 70
+                        }
+                    ],
+                    "span": {
+                        "offset": 9,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "INC.",
+                    "polygon": [
+                        {
+                            "x": 447,
+                            "y": 49
+                        },
+                        {
+                            "x": 506,
+                            "y": 49
+                        },
+                        {
+                            "x": 505,
+                            "y": 68
+                        },
+                        {
+                            "x": 447,
+                            "y": 69
+                        }
+                    ],
+                    "span": {
+                        "offset": 15,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "666",
+                    "polygon": [
+                        {
+                            "x": 205,
+                            "y": 84
+                        },
+                        {
+                            "x": 224,
+                            "y": 84
+                        },
+                        {
+                            "x": 225,
+                            "y": 97
+                        },
+                        {
+                            "x": 205,
+                            "y": 97
+                        }
+                    ],
+                    "span": {
+                        "offset": 20,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FIFTH",
+                    "polygon": [
+                        {
+                            "x": 227,
+                            "y": 84
+                        },
+                        {
+                            "x": 255,
+                            "y": 84
+                        },
+                        {
+                            "x": 256,
+                            "y": 96
+                        },
+                        {
+                            "x": 227,
+                            "y": 97
+                        }
+                    ],
+                    "span": {
+                        "offset": 24,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "AVE.",
+                    "polygon": [
+                        {
+                            "x": 260,
+                            "y": 83
+                        },
+                        {
+                            "x": 278,
+                            "y": 83
+                        },
+                        {
+                            "x": 279,
+                            "y": 96
+                        },
+                        {
+                            "x": 260,
+                            "y": 96
+                        }
+                    ],
+                    "span": {
+                        "offset": 30,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ".",
+                    "polygon": [
+                        {
+                            "x": 281,
+                            "y": 83
+                        },
+                        {
+                            "x": 285,
+                            "y": 83
+                        },
+                        {
+                            "x": 286,
+                            "y": 96
+                        },
+                        {
+                            "x": 281,
+                            "y": 96
+                        }
+                    ],
+                    "span": {
+                        "offset": 35,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NEW",
+                    "polygon": [
+                        {
+                            "x": 288,
+                            "y": 83
+                        },
+                        {
+                            "x": 308,
+                            "y": 83
+                        },
+                        {
+                            "x": 309,
+                            "y": 95
+                        },
+                        {
+                            "x": 288,
+                            "y": 96
+                        }
+                    ],
+                    "span": {
+                        "offset": 37,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "YORK.",
+                    "polygon": [
+                        {
+                            "x": 314,
+                            "y": 83
+                        },
+                        {
+                            "x": 343,
+                            "y": 82
+                        },
+                        {
+                            "x": 343,
+                            "y": 95
+                        },
+                        {
+                            "x": 315,
+                            "y": 95
+                        }
+                    ],
+                    "span": {
+                        "offset": 41,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "N.",
+                    "polygon": [
+                        {
+                            "x": 345,
+                            "y": 82
+                        },
+                        {
+                            "x": 357,
+                            "y": 82
+                        },
+                        {
+                            "x": 357,
+                            "y": 95
+                        },
+                        {
+                            "x": 346,
+                            "y": 95
+                        }
+                    ],
+                    "span": {
+                        "offset": 47,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Y.",
+                    "polygon": [
+                        {
+                            "x": 359,
+                            "y": 82
+                        },
+                        {
+                            "x": 367,
+                            "y": 82
+                        },
+                        {
+                            "x": 367,
+                            "y": 95
+                        },
+                        {
+                            "x": 360,
+                            "y": 95
+                        }
+                    ],
+                    "span": {
+                        "offset": 50,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "10103",
+                    "polygon": [
+                        {
+                            "x": 369,
+                            "y": 82
+                        },
+                        {
+                            "x": 398,
+                            "y": 81
+                        },
+                        {
+                            "x": 398,
+                            "y": 95
+                        },
+                        {
+                            "x": 370,
+                            "y": 95
+                        }
+                    ],
+                    "span": {
+                        "offset": 53,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(212)",
+                    "polygon": [
+                        {
+                            "x": 426,
+                            "y": 81
+                        },
+                        {
+                            "x": 451,
+                            "y": 81
+                        },
+                        {
+                            "x": 451,
+                            "y": 93
+                        },
+                        {
+                            "x": 426,
+                            "y": 94
+                        }
+                    ],
+                    "span": {
+                        "offset": 59,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "582-6600",
+                    "polygon": [
+                        {
+                            "x": 454,
+                            "y": 81
+                        },
+                        {
+                            "x": 505,
+                            "y": 80
+                        },
+                        {
+                            "x": 505,
+                            "y": 93
+                        },
+                        {
+                            "x": 454,
+                            "y": 93
+                        }
+                    ],
+                    "span": {
+                        "offset": 65,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TRAVEL",
+                    "polygon": [
+                        {
+                            "x": 270,
+                            "y": 166
+                        },
+                        {
+                            "x": 313,
+                            "y": 164
+                        },
+                        {
+                            "x": 313,
+                            "y": 179
+                        },
+                        {
+                            "x": 270,
+                            "y": 181
+                        }
+                    ],
+                    "span": {
+                        "offset": 74,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "INFORMATION",
+                    "polygon": [
+                        {
+                            "x": 321,
+                            "y": 164
+                        },
+                        {
+                            "x": 398,
+                            "y": 163
+                        },
+                        {
+                            "x": 398,
+                            "y": 178
+                        },
+                        {
+                            "x": 321,
+                            "y": 179
+                        }
+                    ],
+                    "span": {
+                        "offset": 81,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SHEET",
+                    "polygon": [
+                        {
+                            "x": 405,
+                            "y": 162
+                        },
+                        {
+                            "x": 442,
+                            "y": 162
+                        },
+                        {
+                            "x": 442,
+                            "y": 178
+                        },
+                        {
+                            "x": 405,
+                            "y": 178
+                        }
+                    ],
+                    "span": {
+                        "offset": 93,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "This",
+                    "polygon": [
+                        {
+                            "x": 76,
+                            "y": 211
+                        },
+                        {
+                            "x": 106,
+                            "y": 210
+                        },
+                        {
+                            "x": 106,
+                            "y": 227
+                        },
+                        {
+                            "x": 77,
+                            "y": 227
+                        }
+                    ],
+                    "span": {
+                        "offset": 99,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "information",
+                    "polygon": [
+                        {
+                            "x": 111,
+                            "y": 210
+                        },
+                        {
+                            "x": 192,
+                            "y": 209
+                        },
+                        {
+                            "x": 192,
+                            "y": 225
+                        },
+                        {
+                            "x": 112,
+                            "y": 226
+                        }
+                    ],
+                    "span": {
+                        "offset": 104,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "will",
+                    "polygon": [
+                        {
+                            "x": 196,
+                            "y": 208
+                        },
+                        {
+                            "x": 229,
+                            "y": 208
+                        },
+                        {
+                            "x": 229,
+                            "y": 225
+                        },
+                        {
+                            "x": 197,
+                            "y": 225
+                        }
+                    ],
+                    "span": {
+                        "offset": 116,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "be",
+                    "polygon": [
+                        {
+                            "x": 232,
+                            "y": 208
+                        },
+                        {
+                            "x": 249,
+                            "y": 208
+                        },
+                        {
+                            "x": 250,
+                            "y": 225
+                        },
+                        {
+                            "x": 233,
+                            "y": 225
+                        }
+                    ],
+                    "span": {
+                        "offset": 121,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "used",
+                    "polygon": [
+                        {
+                            "x": 254,
+                            "y": 207
+                        },
+                        {
+                            "x": 285,
+                            "y": 207
+                        },
+                        {
+                            "x": 286,
+                            "y": 224
+                        },
+                        {
+                            "x": 254,
+                            "y": 225
+                        }
+                    ],
+                    "span": {
+                        "offset": 124,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "by",
+                    "polygon": [
+                        {
+                            "x": 290,
+                            "y": 207
+                        },
+                        {
+                            "x": 308,
+                            "y": 207
+                        },
+                        {
+                            "x": 308,
+                            "y": 224
+                        },
+                        {
+                            "x": 290,
+                            "y": 224
+                        }
+                    ],
+                    "span": {
+                        "offset": 129,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Marden-Kane",
+                    "polygon": [
+                        {
+                            "x": 311,
+                            "y": 207
+                        },
+                        {
+                            "x": 393,
+                            "y": 205
+                        },
+                        {
+                            "x": 393,
+                            "y": 223
+                        },
+                        {
+                            "x": 312,
+                            "y": 224
+                        }
+                    ],
+                    "span": {
+                        "offset": 132,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "in",
+                    "polygon": [
+                        {
+                            "x": 399,
+                            "y": 205
+                        },
+                        {
+                            "x": 414,
+                            "y": 205
+                        },
+                        {
+                            "x": 415,
+                            "y": 222
+                        },
+                        {
+                            "x": 399,
+                            "y": 223
+                        }
+                    ],
+                    "span": {
+                        "offset": 144,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "making",
+                    "polygon": [
+                        {
+                            "x": 418,
+                            "y": 205
+                        },
+                        {
+                            "x": 464,
+                            "y": 204
+                        },
+                        {
+                            "x": 465,
+                            "y": 222
+                        },
+                        {
+                            "x": 418,
+                            "y": 222
+                        }
+                    ],
+                    "span": {
+                        "offset": 147,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "travel",
+                    "polygon": [
+                        {
+                            "x": 469,
+                            "y": 204
+                        },
+                        {
+                            "x": 515,
+                            "y": 203
+                        },
+                        {
+                            "x": 515,
+                            "y": 221
+                        },
+                        {
+                            "x": 469,
+                            "y": 222
+                        }
+                    ],
+                    "span": {
+                        "offset": 154,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "arrangements",
+                    "polygon": [
+                        {
+                            "x": 518,
+                            "y": 203
+                        },
+                        {
+                            "x": 608,
+                            "y": 202
+                        },
+                        {
+                            "x": 608,
+                            "y": 220
+                        },
+                        {
+                            "x": 519,
+                            "y": 221
+                        }
+                    ],
+                    "span": {
+                        "offset": 161,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "for",
+                    "polygon": [
+                        {
+                            "x": 613,
+                            "y": 202
+                        },
+                        {
+                            "x": 636,
+                            "y": 201
+                        },
+                        {
+                            "x": 636,
+                            "y": 219
+                        },
+                        {
+                            "x": 614,
+                            "y": 220
+                        }
+                    ],
+                    "span": {
+                        "offset": 174,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "your",
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 227
+                        },
+                        {
+                            "x": 105,
+                            "y": 226
+                        },
+                        {
+                            "x": 106,
+                            "y": 242
+                        },
+                        {
+                            "x": 76,
+                            "y": 242
+                        }
+                    ],
+                    "span": {
+                        "offset": 178,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "round-trip",
+                    "polygon": [
+                        {
+                            "x": 111,
+                            "y": 226
+                        },
+                        {
+                            "x": 184,
+                            "y": 224
+                        },
+                        {
+                            "x": 185,
+                            "y": 240
+                        },
+                        {
+                            "x": 111,
+                            "y": 242
+                        }
+                    ],
+                    "span": {
+                        "offset": 183,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "to",
+                    "polygon": [
+                        {
+                            "x": 191,
+                            "y": 224
+                        },
+                        {
+                            "x": 206,
+                            "y": 224
+                        },
+                        {
+                            "x": 207,
+                            "y": 240
+                        },
+                        {
+                            "x": 191,
+                            "y": 240
+                        }
+                    ],
+                    "span": {
+                        "offset": 194,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Los",
+                    "polygon": [
+                        {
+                            "x": 211,
+                            "y": 223
+                        },
+                        {
+                            "x": 235,
+                            "y": 223
+                        },
+                        {
+                            "x": 236,
+                            "y": 240
+                        },
+                        {
+                            "x": 212,
+                            "y": 240
+                        }
+                    ],
+                    "span": {
+                        "offset": 197,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Angeles,",
+                    "polygon": [
+                        {
+                            "x": 241,
+                            "y": 223
+                        },
+                        {
+                            "x": 301,
+                            "y": 222
+                        },
+                        {
+                            "x": 302,
+                            "y": 238
+                        },
+                        {
+                            "x": 241,
+                            "y": 239
+                        }
+                    ],
+                    "span": {
+                        "offset": 201,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "California.",
+                    "polygon": [
+                        {
+                            "x": 306,
+                            "y": 221
+                        },
+                        {
+                            "x": 386,
+                            "y": 220
+                        },
+                        {
+                            "x": 386,
+                            "y": 237
+                        },
+                        {
+                            "x": 306,
+                            "y": 238
+                        }
+                    ],
+                    "span": {
+                        "offset": 210,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Finalist",
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 261
+                        },
+                        {
+                            "x": 134,
+                            "y": 261
+                        },
+                        {
+                            "x": 134,
+                            "y": 276
+                        },
+                        {
+                            "x": 76,
+                            "y": 277
+                        }
+                    ],
+                    "span": {
+                        "offset": 222,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Name:",
+                    "polygon": [
+                        {
+                            "x": 139,
+                            "y": 261
+                        },
+                        {
+                            "x": 177,
+                            "y": 260
+                        },
+                        {
+                            "x": 177,
+                            "y": 276
+                        },
+                        {
+                            "x": 139,
+                            "y": 276
+                        }
+                    ],
+                    "span": {
+                        "offset": 231,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Home",
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 304
+                        },
+                        {
+                            "x": 106,
+                            "y": 304
+                        },
+                        {
+                            "x": 106,
+                            "y": 319
+                        },
+                        {
+                            "x": 76,
+                            "y": 320
+                        }
+                    ],
+                    "span": {
+                        "offset": 237,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Address:",
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 304
+                        },
+                        {
+                            "x": 171,
+                            "y": 303
+                        },
+                        {
+                            "x": 171,
+                            "y": 319
+                        },
+                        {
+                            "x": 112,
+                            "y": 319
+                        }
+                    ],
+                    "span": {
+                        "offset": 242,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Home",
+                    "polygon": [
+                        {
+                            "x": 76,
+                            "y": 347
+                        },
+                        {
+                            "x": 106,
+                            "y": 347
+                        },
+                        {
+                            "x": 107,
+                            "y": 362
+                        },
+                        {
+                            "x": 77,
+                            "y": 363
+                        }
+                    ],
+                    "span": {
+                        "offset": 251,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Telephone:",
+                    "polygon": [
+                        {
+                            "x": 113,
+                            "y": 347
+                        },
+                        {
+                            "x": 185,
+                            "y": 346
+                        },
+                        {
+                            "x": 185,
+                            "y": 362
+                        },
+                        {
+                            "x": 113,
+                            "y": 362
+                        }
+                    ],
+                    "span": {
+                        "offset": 256,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Business",
+                    "polygon": [
+                        {
+                            "x": 77,
+                            "y": 390
+                        },
+                        {
+                            "x": 136,
+                            "y": 389
+                        },
+                        {
+                            "x": 136,
+                            "y": 406
+                        },
+                        {
+                            "x": 77,
+                            "y": 406
+                        }
+                    ],
+                    "span": {
+                        "offset": 267,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Telephone:",
+                    "polygon": [
+                        {
+                            "x": 143,
+                            "y": 389
+                        },
+                        {
+                            "x": 214,
+                            "y": 388
+                        },
+                        {
+                            "x": 215,
+                            "y": 406
+                        },
+                        {
+                            "x": 143,
+                            "y": 406
+                        }
+                    ],
+                    "span": {
+                        "offset": 276,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Name",
+                    "polygon": [
+                        {
+                            "x": 77,
+                            "y": 434
+                        },
+                        {
+                            "x": 107,
+                            "y": 433
+                        },
+                        {
+                            "x": 107,
+                            "y": 448
+                        },
+                        {
+                            "x": 77,
+                            "y": 448
+                        }
+                    ],
+                    "span": {
+                        "offset": 287,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "of",
+                    "polygon": [
+                        {
+                            "x": 113,
+                            "y": 433
+                        },
+                        {
+                            "x": 130,
+                            "y": 432
+                        },
+                        {
+                            "x": 130,
+                            "y": 447
+                        },
+                        {
+                            "x": 113,
+                            "y": 448
+                        }
+                    ],
+                    "span": {
+                        "offset": 292,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Guest:",
+                    "polygon": [
+                        {
+                            "x": 135,
+                            "y": 432
+                        },
+                        {
+                            "x": 181,
+                            "y": 432
+                        },
+                        {
+                            "x": 181,
+                            "y": 447
+                        },
+                        {
+                            "x": 135,
+                            "y": 447
+                        }
+                    ],
+                    "span": {
+                        "offset": 295,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Relationship",
+                    "polygon": [
+                        {
+                            "x": 78,
+                            "y": 475
+                        },
+                        {
+                            "x": 165,
+                            "y": 473
+                        },
+                        {
+                            "x": 165,
+                            "y": 490
+                        },
+                        {
+                            "x": 79,
+                            "y": 490
+                        }
+                    ],
+                    "span": {
+                        "offset": 302,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "to",
+                    "polygon": [
+                        {
+                            "x": 171,
+                            "y": 473
+                        },
+                        {
+                            "x": 187,
+                            "y": 472
+                        },
+                        {
+                            "x": 187,
+                            "y": 490
+                        },
+                        {
+                            "x": 172,
+                            "y": 490
+                        }
+                    ],
+                    "span": {
+                        "offset": 315,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Finalist:",
+                    "polygon": [
+                        {
+                            "x": 194,
+                            "y": 472
+                        },
+                        {
+                            "x": 259,
+                            "y": 471
+                        },
+                        {
+                            "x": 260,
+                            "y": 489
+                        },
+                        {
+                            "x": 194,
+                            "y": 490
+                        }
+                    ],
+                    "span": {
+                        "offset": 318,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Major",
+                    "polygon": [
+                        {
+                            "x": 78,
+                            "y": 517
+                        },
+                        {
+                            "x": 116,
+                            "y": 517
+                        },
+                        {
+                            "x": 116,
+                            "y": 533
+                        },
+                        {
+                            "x": 78,
+                            "y": 533
+                        }
+                    ],
+                    "span": {
+                        "offset": 328,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Airport",
+                    "polygon": [
+                        {
+                            "x": 121,
+                            "y": 516
+                        },
+                        {
+                            "x": 174,
+                            "y": 515
+                        },
+                        {
+                            "x": 174,
+                            "y": 532
+                        },
+                        {
+                            "x": 122,
+                            "y": 532
+                        }
+                    ],
+                    "span": {
+                        "offset": 334,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Nearest",
+                    "polygon": [
+                        {
+                            "x": 178,
+                            "y": 515
+                        },
+                        {
+                            "x": 232,
+                            "y": 514
+                        },
+                        {
+                            "x": 233,
+                            "y": 531
+                        },
+                        {
+                            "x": 178,
+                            "y": 532
+                        }
+                    ],
+                    "span": {
+                        "offset": 342,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "your",
+                    "polygon": [
+                        {
+                            "x": 79,
+                            "y": 534
+                        },
+                        {
+                            "x": 109,
+                            "y": 533
+                        },
+                        {
+                            "x": 109,
+                            "y": 547
+                        },
+                        {
+                            "x": 80,
+                            "y": 548
+                        }
+                    ],
+                    "span": {
+                        "offset": 350,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "home:",
+                    "polygon": [
+                        {
+                            "x": 114,
+                            "y": 532
+                        },
+                        {
+                            "x": 152,
+                            "y": 532
+                        },
+                        {
+                            "x": 152,
+                            "y": 546
+                        },
+                        {
+                            "x": 115,
+                            "y": 547
+                        }
+                    ],
+                    "span": {
+                        "offset": 355,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Distance",
+                    "polygon": [
+                        {
+                            "x": 79,
+                            "y": 573
+                        },
+                        {
+                            "x": 138,
+                            "y": 573
+                        },
+                        {
+                            "x": 138,
+                            "y": 588
+                        },
+                        {
+                            "x": 79,
+                            "y": 589
+                        }
+                    ],
+                    "span": {
+                        "offset": 361,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "from",
+                    "polygon": [
+                        {
+                            "x": 145,
+                            "y": 573
+                        },
+                        {
+                            "x": 172,
+                            "y": 573
+                        },
+                        {
+                            "x": 172,
+                            "y": 588
+                        },
+                        {
+                            "x": 145,
+                            "y": 588
+                        }
+                    ],
+                    "span": {
+                        "offset": 370,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "your",
+                    "polygon": [
+                        {
+                            "x": 180,
+                            "y": 573
+                        },
+                        {
+                            "x": 211,
+                            "y": 572
+                        },
+                        {
+                            "x": 211,
+                            "y": 588
+                        },
+                        {
+                            "x": 180,
+                            "y": 588
+                        }
+                    ],
+                    "span": {
+                        "offset": 375,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "home",
+                    "polygon": [
+                        {
+                            "x": 79,
+                            "y": 588
+                        },
+                        {
+                            "x": 109,
+                            "y": 588
+                        },
+                        {
+                            "x": 109,
+                            "y": 603
+                        },
+                        {
+                            "x": 80,
+                            "y": 604
+                        }
+                    ],
+                    "span": {
+                        "offset": 380,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "to",
+                    "polygon": [
+                        {
+                            "x": 116,
+                            "y": 588
+                        },
+                        {
+                            "x": 130,
+                            "y": 588
+                        },
+                        {
+                            "x": 130,
+                            "y": 603
+                        },
+                        {
+                            "x": 116,
+                            "y": 603
+                        }
+                    ],
+                    "span": {
+                        "offset": 385,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "airport:",
+                    "polygon": [
+                        {
+                            "x": 137,
+                            "y": 588
+                        },
+                        {
+                            "x": 197,
+                            "y": 587
+                        },
+                        {
+                            "x": 197,
+                            "y": 602
+                        },
+                        {
+                            "x": 137,
+                            "y": 603
+                        }
+                    ],
+                    "span": {
+                        "offset": 388,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Do",
+                    "polygon": [
+                        {
+                            "x": 79,
+                            "y": 631
+                        },
+                        {
+                            "x": 95,
+                            "y": 631
+                        },
+                        {
+                            "x": 95,
+                            "y": 646
+                        },
+                        {
+                            "x": 80,
+                            "y": 647
+                        }
+                    ],
+                    "span": {
+                        "offset": 397,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "you",
+                    "polygon": [
+                        {
+                            "x": 101,
+                            "y": 630
+                        },
+                        {
+                            "x": 124,
+                            "y": 630
+                        },
+                        {
+                            "x": 124,
+                            "y": 645
+                        },
+                        {
+                            "x": 101,
+                            "y": 646
+                        }
+                    ],
+                    "span": {
+                        "offset": 400,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "prefer",
+                    "polygon": [
+                        {
+                            "x": 129,
+                            "y": 630
+                        },
+                        {
+                            "x": 175,
+                            "y": 629
+                        },
+                        {
+                            "x": 175,
+                            "y": 645
+                        },
+                        {
+                            "x": 129,
+                            "y": 645
+                        }
+                    ],
+                    "span": {
+                        "offset": 404,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "airline",
+                    "polygon": [
+                        {
+                            "x": 180,
+                            "y": 629
+                        },
+                        {
+                            "x": 233,
+                            "y": 627
+                        },
+                        {
+                            "x": 233,
+                            "y": 644
+                        },
+                        {
+                            "x": 180,
+                            "y": 644
+                        }
+                    ],
+                    "span": {
+                        "offset": 411,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "seats",
+                    "polygon": [
+                        {
+                            "x": 81,
+                            "y": 645
+                        },
+                        {
+                            "x": 117,
+                            "y": 645
+                        },
+                        {
+                            "x": 117,
+                            "y": 659
+                        },
+                        {
+                            "x": 81,
+                            "y": 660
+                        }
+                    ],
+                    "span": {
+                        "offset": 419,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "in",
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 645
+                        },
+                        {
+                            "x": 137,
+                            "y": 644
+                        },
+                        {
+                            "x": 138,
+                            "y": 659
+                        },
+                        {
+                            "x": 124,
+                            "y": 659
+                        }
+                    ],
+                    "span": {
+                        "offset": 425,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "smoking",
+                    "polygon": [
+                        {
+                            "x": 145,
+                            "y": 644
+                        },
+                        {
+                            "x": 196,
+                            "y": 644
+                        },
+                        {
+                            "x": 196,
+                            "y": 658
+                        },
+                        {
+                            "x": 146,
+                            "y": 659
+                        }
+                    ],
+                    "span": {
+                        "offset": 428,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "or",
+                    "polygon": [
+                        {
+                            "x": 202,
+                            "y": 643
+                        },
+                        {
+                            "x": 219,
+                            "y": 643
+                        },
+                        {
+                            "x": 220,
+                            "y": 658
+                        },
+                        {
+                            "x": 203,
+                            "y": 658
+                        }
+                    ],
+                    "span": {
+                        "offset": 436,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "non-smoking",
+                    "polygon": [
+                        {
+                            "x": 80,
+                            "y": 660
+                        },
+                        {
+                            "x": 160,
+                            "y": 658
+                        },
+                        {
+                            "x": 160,
+                            "y": 673
+                        },
+                        {
+                            "x": 80,
+                            "y": 674
+                        }
+                    ],
+                    "span": {
+                        "offset": 439,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "section:",
+                    "polygon": [
+                        {
+                            "x": 167,
+                            "y": 658
+                        },
+                        {
+                            "x": 226,
+                            "y": 657
+                        },
+                        {
+                            "x": 226,
+                            "y": 673
+                        },
+                        {
+                            "x": 167,
+                            "y": 673
+                        }
+                    ],
+                    "span": {
+                        "offset": 451,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Any",
+                    "polygon": [
+                        {
+                            "x": 79,
+                            "y": 713
+                        },
+                        {
+                            "x": 106,
+                            "y": 713
+                        },
+                        {
+                            "x": 106,
+                            "y": 728
+                        },
+                        {
+                            "x": 80,
+                            "y": 729
+                        }
+                    ],
+                    "span": {
+                        "offset": 460,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "special",
+                    "polygon": [
+                        {
+                            "x": 114,
+                            "y": 712
+                        },
+                        {
+                            "x": 175,
+                            "y": 711
+                        },
+                        {
+                            "x": 175,
+                            "y": 727
+                        },
+                        {
+                            "x": 114,
+                            "y": 728
+                        }
+                    ],
+                    "span": {
+                        "offset": 464,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "dietary",
+                    "polygon": [
+                        {
+                            "x": 183,
+                            "y": 711
+                        },
+                        {
+                            "x": 244,
+                            "y": 710
+                        },
+                        {
+                            "x": 244,
+                            "y": 726
+                        },
+                        {
+                            "x": 183,
+                            "y": 727
+                        }
+                    ],
+                    "span": {
+                        "offset": 472,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "meal",
+                    "polygon": [
+                        {
+                            "x": 80,
+                            "y": 728
+                        },
+                        {
+                            "x": 114,
+                            "y": 727
+                        },
+                        {
+                            "x": 115,
+                            "y": 742
+                        },
+                        {
+                            "x": 80,
+                            "y": 742
+                        }
+                    ],
+                    "span": {
+                        "offset": 480,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "you",
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 727
+                        },
+                        {
+                            "x": 148,
+                            "y": 727
+                        },
+                        {
+                            "x": 148,
+                            "y": 741
+                        },
+                        {
+                            "x": 124,
+                            "y": 741
+                        }
+                    ],
+                    "span": {
+                        "offset": 485,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "and/or",
+                    "polygon": [
+                        {
+                            "x": 158,
+                            "y": 727
+                        },
+                        {
+                            "x": 209,
+                            "y": 726
+                        },
+                        {
+                            "x": 210,
+                            "y": 740
+                        },
+                        {
+                            "x": 158,
+                            "y": 741
+                        }
+                    ],
+                    "span": {
+                        "offset": 489,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "your",
+                    "polygon": [
+                        {
+                            "x": 219,
+                            "y": 726
+                        },
+                        {
+                            "x": 253,
+                            "y": 725
+                        },
+                        {
+                            "x": 253,
+                            "y": 739
+                        },
+                        {
+                            "x": 220,
+                            "y": 740
+                        }
+                    ],
+                    "span": {
+                        "offset": 496,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "guest",
+                    "polygon": [
+                        {
+                            "x": 80,
+                            "y": 742
+                        },
+                        {
+                            "x": 122,
+                            "y": 741
+                        },
+                        {
+                            "x": 123,
+                            "y": 756
+                        },
+                        {
+                            "x": 81,
+                            "y": 756
+                        }
+                    ],
+                    "span": {
+                        "offset": 501,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "would",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 741
+                        },
+                        {
+                            "x": 175,
+                            "y": 741
+                        },
+                        {
+                            "x": 175,
+                            "y": 755
+                        },
+                        {
+                            "x": 132,
+                            "y": 755
+                        }
+                    ],
+                    "span": {
+                        "offset": 507,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "prefer",
+                    "polygon": [
+                        {
+                            "x": 184,
+                            "y": 740
+                        },
+                        {
+                            "x": 236,
+                            "y": 740
+                        },
+                        {
+                            "x": 236,
+                            "y": 753
+                        },
+                        {
+                            "x": 184,
+                            "y": 754
+                        }
+                    ],
+                    "span": {
+                        "offset": 513,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        {
+                            "x": 245,
+                            "y": 740
+                        },
+                        {
+                            "x": 252,
+                            "y": 739
+                        },
+                        {
+                            "x": 252,
+                            "y": 752
+                        },
+                        {
+                            "x": 245,
+                            "y": 753
+                        }
+                    ],
+                    "span": {
+                        "offset": 520,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RETURN",
+                    "polygon": [
+                        {
+                            "x": 81,
+                            "y": 818
+                        },
+                        {
+                            "x": 129,
+                            "y": 817
+                        },
+                        {
+                            "x": 129,
+                            "y": 830
+                        },
+                        {
+                            "x": 81,
+                            "y": 830
+                        }
+                    ],
+                    "span": {
+                        "offset": 522,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TO:",
+                    "polygon": [
+                        {
+                            "x": 142,
+                            "y": 817
+                        },
+                        {
+                            "x": 166,
+                            "y": 816
+                        },
+                        {
+                            "x": 166,
+                            "y": 830
+                        },
+                        {
+                            "x": 142,
+                            "y": 830
+                        }
+                    ],
+                    "span": {
+                        "offset": 529,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Marden-Kane,",
+                    "polygon": [
+                        {
+                            "x": 182,
+                            "y": 815
+                        },
+                        {
+                            "x": 288,
+                            "y": 815
+                        },
+                        {
+                            "x": 288,
+                            "y": 828
+                        },
+                        {
+                            "x": 182,
+                            "y": 829
+                        }
+                    ],
+                    "span": {
+                        "offset": 533,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Inc.",
+                    "polygon": [
+                        {
+                            "x": 298,
+                            "y": 815
+                        },
+                        {
+                            "x": 331,
+                            "y": 814
+                        },
+                        {
+                            "x": 331,
+                            "y": 828
+                        },
+                        {
+                            "x": 298,
+                            "y": 828
+                        }
+                    ],
+                    "span": {
+                        "offset": 546,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "666",
+                    "polygon": [
+                        {
+                            "x": 183,
+                            "y": 830
+                        },
+                        {
+                            "x": 208,
+                            "y": 830
+                        },
+                        {
+                            "x": 209,
+                            "y": 843
+                        },
+                        {
+                            "x": 184,
+                            "y": 843
+                        }
+                    ],
+                    "span": {
+                        "offset": 551,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Fifth",
+                    "polygon": [
+                        {
+                            "x": 219,
+                            "y": 829
+                        },
+                        {
+                            "x": 260,
+                            "y": 829
+                        },
+                        {
+                            "x": 260,
+                            "y": 842
+                        },
+                        {
+                            "x": 219,
+                            "y": 843
+                        }
+                    ],
+                    "span": {
+                        "offset": 555,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Avenue",
+                    "polygon": [
+                        {
+                            "x": 271,
+                            "y": 829
+                        },
+                        {
+                            "x": 322,
+                            "y": 829
+                        },
+                        {
+                            "x": 321,
+                            "y": 842
+                        },
+                        {
+                            "x": 271,
+                            "y": 842
+                        }
+                    ],
+                    "span": {
+                        "offset": 561,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "New",
+                    "polygon": [
+                        {
+                            "x": 183,
+                            "y": 844
+                        },
+                        {
+                            "x": 208,
+                            "y": 844
+                        },
+                        {
+                            "x": 208,
+                            "y": 857
+                        },
+                        {
+                            "x": 183,
+                            "y": 858
+                        }
+                    ],
+                    "span": {
+                        "offset": 568,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "York,",
+                    "polygon": [
+                        {
+                            "x": 220,
+                            "y": 844
+                        },
+                        {
+                            "x": 261,
+                            "y": 843
+                        },
+                        {
+                            "x": 261,
+                            "y": 857
+                        },
+                        {
+                            "x": 220,
+                            "y": 857
+                        }
+                    ],
+                    "span": {
+                        "offset": 572,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "N.Y.",
+                    "polygon": [
+                        {
+                            "x": 270,
+                            "y": 843
+                        },
+                        {
+                            "x": 304,
+                            "y": 842
+                        },
+                        {
+                            "x": 305,
+                            "y": 856
+                        },
+                        {
+                            "x": 270,
+                            "y": 856
+                        }
+                    ],
+                    "span": {
+                        "offset": 578,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "10103",
+                    "polygon": [
+                        {
+                            "x": 314,
+                            "y": 842
+                        },
+                        {
+                            "x": 357,
+                            "y": 841
+                        },
+                        {
+                            "x": 357,
+                            "y": 855
+                        },
+                        {
+                            "x": 315,
+                            "y": 856
+                        }
+                    ],
+                    "span": {
+                        "offset": 583,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Attention:",
+                    "polygon": [
+                        {
+                            "x": 183,
+                            "y": 858
+                        },
+                        {
+                            "x": 271,
+                            "y": 857
+                        },
+                        {
+                            "x": 272,
+                            "y": 871
+                        },
+                        {
+                            "x": 184,
+                            "y": 873
+                        }
+                    ],
+                    "span": {
+                        "offset": 589,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Ms.",
+                    "polygon": [
+                        {
+                            "x": 278,
+                            "y": 857
+                        },
+                        {
+                            "x": 305,
+                            "y": 857
+                        },
+                        {
+                            "x": 306,
+                            "y": 871
+                        },
+                        {
+                            "x": 279,
+                            "y": 871
+                        }
+                    ],
+                    "span": {
+                        "offset": 600,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "L.",
+                    "polygon": [
+                        {
+                            "x": 314,
+                            "y": 856
+                        },
+                        {
+                            "x": 331,
+                            "y": 856
+                        },
+                        {
+                            "x": 332,
+                            "y": 870
+                        },
+                        {
+                            "x": 315,
+                            "y": 870
+                        }
+                    ],
+                    "span": {
+                        "offset": 604,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Sobel",
+                    "polygon": [
+                        {
+                            "x": 341,
+                            "y": 856
+                        },
+                        {
+                            "x": 383,
+                            "y": 854
+                        },
+                        {
+                            "x": 384,
+                            "y": 869
+                        },
+                        {
+                            "x": 342,
+                            "y": 870
+                        }
+                    ],
+                    "span": {
+                        "offset": 607,
+                        "length": 5
+                    },
+                    "confidence": 0
+                }
+            ],
+            "selection_marks": [],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 612
+                }
+            ],
+            "barcodes": [],
+            "formulas": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "role": null,
+            "content": "MARDEN - KANE. INC. 666 FIFTH AVE. . NEW YORK. N. Y. 10103 (212) 582-6600",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 203,
+                            "y": 53
+                        },
+                        {
+                            "x": 506,
+                            "y": 48
+                        },
+                        {
+                            "x": 507,
+                            "y": 92
+                        },
+                        {
+                            "x": 203,
+                            "y": 97
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 73
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "TRAVEL INFORMATION SHEET",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 266,
+                            "y": 164
+                        },
+                        {
+                            "x": 444,
+                            "y": 161
+                        },
+                        {
+                            "x": 444,
+                            "y": 177
+                        },
+                        {
+                            "x": 266,
+                            "y": 180
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 74,
+                    "length": 24
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "This information will be used by Marden-Kane in making travel arrangements for your round-trip to Los Angeles, California.",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 73,
+                            "y": 209
+                        },
+                        {
+                            "x": 636,
+                            "y": 201
+                        },
+                        {
+                            "x": 636,
+                            "y": 234
+                        },
+                        {
+                            "x": 73,
+                            "y": 242
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 99,
+                    "length": 122
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Finalist Name:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 74,
+                            "y": 260
+                        },
+                        {
+                            "x": 176,
+                            "y": 259
+                        },
+                        {
+                            "x": 176,
+                            "y": 275
+                        },
+                        {
+                            "x": 74,
+                            "y": 276
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 222,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Home Address:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 74,
+                            "y": 303
+                        },
+                        {
+                            "x": 171,
+                            "y": 303
+                        },
+                        {
+                            "x": 171,
+                            "y": 319
+                        },
+                        {
+                            "x": 74,
+                            "y": 319
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 237,
+                    "length": 13
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Home Telephone:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 346
+                        },
+                        {
+                            "x": 185,
+                            "y": 345
+                        },
+                        {
+                            "x": 185,
+                            "y": 361
+                        },
+                        {
+                            "x": 75,
+                            "y": 362
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 251,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Business Telephone:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 76,
+                            "y": 389
+                        },
+                        {
+                            "x": 215,
+                            "y": 388
+                        },
+                        {
+                            "x": 215,
+                            "y": 405
+                        },
+                        {
+                            "x": 76,
+                            "y": 406
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 267,
+                    "length": 19
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Name of Guest:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 76,
+                            "y": 433
+                        },
+                        {
+                            "x": 182,
+                            "y": 431
+                        },
+                        {
+                            "x": 182,
+                            "y": 446
+                        },
+                        {
+                            "x": 76,
+                            "y": 448
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 287,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Relationship to Finalist:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 77,
+                            "y": 473
+                        },
+                        {
+                            "x": 260,
+                            "y": 471
+                        },
+                        {
+                            "x": 260,
+                            "y": 488
+                        },
+                        {
+                            "x": 77,
+                            "y": 490
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 302,
+                    "length": 25
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Major Airport Nearest your home:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 76,
+                            "y": 516
+                        },
+                        {
+                            "x": 233,
+                            "y": 513
+                        },
+                        {
+                            "x": 234,
+                            "y": 544
+                        },
+                        {
+                            "x": 77,
+                            "y": 547
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 328,
+                    "length": 32
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Distance from your home to airport:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 77,
+                            "y": 573
+                        },
+                        {
+                            "x": 212,
+                            "y": 572
+                        },
+                        {
+                            "x": 212,
+                            "y": 602
+                        },
+                        {
+                            "x": 77,
+                            "y": 603
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 361,
+                    "length": 35
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Do you prefer airline seats in smoking or non-smoking section:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 78,
+                            "y": 630
+                        },
+                        {
+                            "x": 235,
+                            "y": 626
+                        },
+                        {
+                            "x": 236,
+                            "y": 672
+                        },
+                        {
+                            "x": 79,
+                            "y": 676
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 397,
+                    "length": 62
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Any special dietary meal you and/or your guest would prefer -",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 78,
+                            "y": 712
+                        },
+                        {
+                            "x": 254,
+                            "y": 708
+                        },
+                        {
+                            "x": 255,
+                            "y": 752
+                        },
+                        {
+                            "x": 79,
+                            "y": 756
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 460,
+                    "length": 61
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RETURN TO:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 79,
+                            "y": 817
+                        },
+                        {
+                            "x": 165,
+                            "y": 816
+                        },
+                        {
+                            "x": 166,
+                            "y": 829
+                        },
+                        {
+                            "x": 79,
+                            "y": 830
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 522,
+                    "length": 10
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Marden-Kane, Inc.",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 181,
+                            "y": 814
+                        },
+                        {
+                            "x": 331,
+                            "y": 814
+                        },
+                        {
+                            "x": 331,
+                            "y": 828
+                        },
+                        {
+                            "x": 182,
+                            "y": 829
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 533,
+                    "length": 17
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "666 Fifth Avenue",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 182,
+                            "y": 829
+                        },
+                        {
+                            "x": 326,
+                            "y": 829
+                        },
+                        {
+                            "x": 326,
+                            "y": 842
+                        },
+                        {
+                            "x": 182,
+                            "y": 843
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 551,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "New York, N.Y. 10103",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 181,
+                            "y": 843
+                        },
+                        {
+                            "x": 357,
+                            "y": 840
+                        },
+                        {
+                            "x": 357,
+                            "y": 855
+                        },
+                        {
+                            "x": 182,
+                            "y": 858
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 568,
+                    "length": 20
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Attention: Ms. L. Sobel",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 181,
+                            "y": 857
+                        },
+                        {
+                            "x": 384,
+                            "y": 854
+                        },
+                        {
+                            "x": 384,
+                            "y": 868
+                        },
+                        {
+                            "x": 181,
+                            "y": 872
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 589,
+                    "length": 23
+                }
+            ]
+        }
+    ],
+    "tables": [],
+    "key_value_pairs": [],
+    "styles": [],
+    "documents": []
+}

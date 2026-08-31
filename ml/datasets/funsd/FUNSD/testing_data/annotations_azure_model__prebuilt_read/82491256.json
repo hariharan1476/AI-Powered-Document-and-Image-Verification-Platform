@@ -1,0 +1,3363 @@
+{
+    "api_version": "2023-07-31",
+    "model_id": "prebuilt-read",
+    "content": "CASE NAME:\nCOURT:\nSan Francisco Superior Court - No. 996378\nLORILLARD\nENTITIES:\nLorillard Tobacco Company\nDATE FILED:\nJuly 23, 1998\nDATE SERVED:\nAugust 3, 1998\nCASE TYPE:\nAsbestos\nPLAINTIFF'S\nCOUNSEL:\nWartnick, Chaber, Harowitz, Smith& Tigerman\nMadelyn J. Chaber\n101 California Street, Suite 2200\nSan Francisco, California 94111\n415/986-5566\nLORILLARD COUNSEL:\nJUDGE:\nTRIAL DATE:\nCASE FORM\nWanda G. Robinson and Carroll Robinson v. Raybestos-Manhattan, et al.\n82491256\n94624999",
+    "languages": [],
+    "pages": [
+        {
+            "page_number": 1,
+            "angle": null,
+            "width": 754,
+            "height": 1000,
+            "unit": "pixel",
+            "lines": [
+                {
+                    "content": "CASE NAME:",
+                    "polygon": [
+                        {
+                            "x": 105,
+                            "y": 168
+                        },
+                        {
+                            "x": 183,
+                            "y": 168
+                        },
+                        {
+                            "x": 183,
+                            "y": 180
+                        },
+                        {
+                            "x": 105,
+                            "y": 180
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "COURT:",
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 195
+                        },
+                        {
+                            "x": 155,
+                            "y": 195
+                        },
+                        {
+                            "x": 155,
+                            "y": 207
+                        },
+                        {
+                            "x": 104,
+                            "y": 207
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 11,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "San Francisco Superior Court - No. 996378",
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 194
+                        },
+                        {
+                            "x": 452,
+                            "y": 193
+                        },
+                        {
+                            "x": 452,
+                            "y": 208
+                        },
+                        {
+                            "x": 233,
+                            "y": 209
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 18,
+                            "length": 41
+                        }
+                    ]
+                },
+                {
+                    "content": "LORILLARD",
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 224
+                        },
+                        {
+                            "x": 180,
+                            "y": 224
+                        },
+                        {
+                            "x": 180,
+                            "y": 237
+                        },
+                        {
+                            "x": 104,
+                            "y": 237
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 60,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "ENTITIES:",
+                    "polygon": [
+                        {
+                            "x": 105,
+                            "y": 238
+                        },
+                        {
+                            "x": 168,
+                            "y": 238
+                        },
+                        {
+                            "x": 168,
+                            "y": 251
+                        },
+                        {
+                            "x": 105,
+                            "y": 251
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 70,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "Lorillard Tobacco Company",
+                    "polygon": [
+                        {
+                            "x": 231,
+                            "y": 237
+                        },
+                        {
+                            "x": 379,
+                            "y": 237
+                        },
+                        {
+                            "x": 379,
+                            "y": 253
+                        },
+                        {
+                            "x": 231,
+                            "y": 252
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 80,
+                            "length": 25
+                        }
+                    ]
+                },
+                {
+                    "content": "DATE FILED:",
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 264
+                        },
+                        {
+                            "x": 184,
+                            "y": 264
+                        },
+                        {
+                            "x": 184,
+                            "y": 278
+                        },
+                        {
+                            "x": 104,
+                            "y": 278
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 106,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "July 23, 1998",
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 264
+                        },
+                        {
+                            "x": 302,
+                            "y": 264
+                        },
+                        {
+                            "x": 302,
+                            "y": 278
+                        },
+                        {
+                            "x": 233,
+                            "y": 279
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 118,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "DATE SERVED:",
+                    "polygon": [
+                        {
+                            "x": 105,
+                            "y": 295
+                        },
+                        {
+                            "x": 196,
+                            "y": 295
+                        },
+                        {
+                            "x": 196,
+                            "y": 308
+                        },
+                        {
+                            "x": 105,
+                            "y": 308
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 132,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "August 3, 1998",
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 295
+                        },
+                        {
+                            "x": 310,
+                            "y": 294
+                        },
+                        {
+                            "x": 310,
+                            "y": 308
+                        },
+                        {
+                            "x": 233,
+                            "y": 308
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 145,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "CASE TYPE:",
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 322
+                        },
+                        {
+                            "x": 178,
+                            "y": 322
+                        },
+                        {
+                            "x": 178,
+                            "y": 335
+                        },
+                        {
+                            "x": 104,
+                            "y": 335
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 160,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "Asbestos",
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 323
+                        },
+                        {
+                            "x": 279,
+                            "y": 323
+                        },
+                        {
+                            "x": 279,
+                            "y": 334
+                        },
+                        {
+                            "x": 233,
+                            "y": 334
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 171,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "PLAINTIFF'S",
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 349
+                        },
+                        {
+                            "x": 182,
+                            "y": 350
+                        },
+                        {
+                            "x": 182,
+                            "y": 363
+                        },
+                        {
+                            "x": 104,
+                            "y": 362
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 180,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "COUNSEL:",
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 362
+                        },
+                        {
+                            "x": 169,
+                            "y": 363
+                        },
+                        {
+                            "x": 169,
+                            "y": 376
+                        },
+                        {
+                            "x": 104,
+                            "y": 375
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 192,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "Wartnick, Chaber, Harowitz, Smith& Tigerman",
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 362
+                        },
+                        {
+                            "x": 479,
+                            "y": 362
+                        },
+                        {
+                            "x": 479,
+                            "y": 377
+                        },
+                        {
+                            "x": 233,
+                            "y": 376
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 201,
+                            "length": 43
+                        }
+                    ]
+                },
+                {
+                    "content": "Madelyn J. Chaber",
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 376
+                        },
+                        {
+                            "x": 332,
+                            "y": 376
+                        },
+                        {
+                            "x": 332,
+                            "y": 389
+                        },
+                        {
+                            "x": 233,
+                            "y": 389
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 245,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "101 California Street, Suite 2200",
+                    "polygon": [
+                        {
+                            "x": 232,
+                            "y": 388
+                        },
+                        {
+                            "x": 397,
+                            "y": 388
+                        },
+                        {
+                            "x": 397,
+                            "y": 403
+                        },
+                        {
+                            "x": 232,
+                            "y": 403
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 263,
+                            "length": 33
+                        }
+                    ]
+                },
+                {
+                    "content": "San Francisco, California 94111",
+                    "polygon": [
+                        {
+                            "x": 232,
+                            "y": 402
+                        },
+                        {
+                            "x": 399,
+                            "y": 402
+                        },
+                        {
+                            "x": 399,
+                            "y": 416
+                        },
+                        {
+                            "x": 232,
+                            "y": 417
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 297,
+                            "length": 31
+                        }
+                    ]
+                },
+                {
+                    "content": "415/986-5566",
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 416
+                        },
+                        {
+                            "x": 302,
+                            "y": 416
+                        },
+                        {
+                            "x": 302,
+                            "y": 430
+                        },
+                        {
+                            "x": 233,
+                            "y": 430
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 329,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "LORILLARD",
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 443
+                        },
+                        {
+                            "x": 180,
+                            "y": 443
+                        },
+                        {
+                            "x": 180,
+                            "y": 456
+                        },
+                        {
+                            "x": 104,
+                            "y": 456
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 342,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "COUNSEL:",
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 457
+                        },
+                        {
+                            "x": 169,
+                            "y": 457
+                        },
+                        {
+                            "x": 169,
+                            "y": 470
+                        },
+                        {
+                            "x": 104,
+                            "y": 470
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 352,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "JUDGE:",
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 485
+                        },
+                        {
+                            "x": 152,
+                            "y": 485
+                        },
+                        {
+                            "x": 151,
+                            "y": 498
+                        },
+                        {
+                            "x": 104,
+                            "y": 497
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 361,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "TRIAL DATE:",
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 511
+                        },
+                        {
+                            "x": 185,
+                            "y": 511
+                        },
+                        {
+                            "x": 185,
+                            "y": 524
+                        },
+                        {
+                            "x": 104,
+                            "y": 524
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 368,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "CASE FORM",
+                    "polygon": [
+                        {
+                            "x": 325,
+                            "y": 139
+                        },
+                        {
+                            "x": 399,
+                            "y": 139
+                        },
+                        {
+                            "x": 399,
+                            "y": 154
+                        },
+                        {
+                            "x": 325,
+                            "y": 154
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 380,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "Wanda G. Robinson and Carroll Robinson v. Raybestos-Manhattan, et al.",
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 165
+                        },
+                        {
+                            "x": 609,
+                            "y": 165
+                        },
+                        {
+                            "x": 609,
+                            "y": 181
+                        },
+                        {
+                            "x": 233,
+                            "y": 181
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 390,
+                            "length": 69
+                        }
+                    ]
+                },
+                {
+                    "content": "82491256",
+                    "polygon": [
+                        {
+                            "x": 613,
+                            "y": 777
+                        },
+                        {
+                            "x": 608,
+                            "y": 883
+                        },
+                        {
+                            "x": 586,
+                            "y": 882
+                        },
+                        {
+                            "x": 591,
+                            "y": 777
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 460,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "94624999",
+                    "polygon": [
+                        {
+                            "x": 654,
+                            "y": 793
+                        },
+                        {
+                            "x": 649,
+                            "y": 876
+                        },
+                        {
+                            "x": 630,
+                            "y": 875
+                        },
+                        {
+                            "x": 635,
+                            "y": 792
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 469,
+                            "length": 8
+                        }
+                    ]
+                }
+            ],
+            "words": [
+                {
+                    "content": "CASE",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 168
+                        },
+                        {
+                            "x": 137,
+                            "y": 168
+                        },
+                        {
+                            "x": 137,
+                            "y": 181
+                        },
+                        {
+                            "x": 107,
+                            "y": 181
+                        }
+                    ],
+                    "span": {
+                        "offset": 0,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NAME:",
+                    "polygon": [
+                        {
+                            "x": 141,
+                            "y": 168
+                        },
+                        {
+                            "x": 183,
+                            "y": 168
+                        },
+                        {
+                            "x": 183,
+                            "y": 181
+                        },
+                        {
+                            "x": 141,
+                            "y": 181
+                        }
+                    ],
+                    "span": {
+                        "offset": 5,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "COURT:",
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 196
+                        },
+                        {
+                            "x": 155,
+                            "y": 195
+                        },
+                        {
+                            "x": 155,
+                            "y": 208
+                        },
+                        {
+                            "x": 107,
+                            "y": 208
+                        }
+                    ],
+                    "span": {
+                        "offset": 11,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "San",
+                    "polygon": [
+                        {
+                            "x": 234,
+                            "y": 195
+                        },
+                        {
+                            "x": 253,
+                            "y": 195
+                        },
+                        {
+                            "x": 254,
+                            "y": 209
+                        },
+                        {
+                            "x": 235,
+                            "y": 209
+                        }
+                    ],
+                    "span": {
+                        "offset": 18,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Francisco",
+                    "polygon": [
+                        {
+                            "x": 256,
+                            "y": 195
+                        },
+                        {
+                            "x": 305,
+                            "y": 195
+                        },
+                        {
+                            "x": 305,
+                            "y": 209
+                        },
+                        {
+                            "x": 257,
+                            "y": 209
+                        }
+                    ],
+                    "span": {
+                        "offset": 22,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Superior",
+                    "polygon": [
+                        {
+                            "x": 308,
+                            "y": 195
+                        },
+                        {
+                            "x": 353,
+                            "y": 194
+                        },
+                        {
+                            "x": 353,
+                            "y": 209
+                        },
+                        {
+                            "x": 308,
+                            "y": 209
+                        }
+                    ],
+                    "span": {
+                        "offset": 32,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Court",
+                    "polygon": [
+                        {
+                            "x": 355,
+                            "y": 194
+                        },
+                        {
+                            "x": 384,
+                            "y": 194
+                        },
+                        {
+                            "x": 384,
+                            "y": 209
+                        },
+                        {
+                            "x": 355,
+                            "y": 209
+                        }
+                    ],
+                    "span": {
+                        "offset": 41,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        {
+                            "x": 387,
+                            "y": 194
+                        },
+                        {
+                            "x": 392,
+                            "y": 194
+                        },
+                        {
+                            "x": 391,
+                            "y": 209
+                        },
+                        {
+                            "x": 387,
+                            "y": 209
+                        }
+                    ],
+                    "span": {
+                        "offset": 47,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "No.",
+                    "polygon": [
+                        {
+                            "x": 395,
+                            "y": 194
+                        },
+                        {
+                            "x": 413,
+                            "y": 194
+                        },
+                        {
+                            "x": 412,
+                            "y": 209
+                        },
+                        {
+                            "x": 394,
+                            "y": 209
+                        }
+                    ],
+                    "span": {
+                        "offset": 49,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "996378",
+                    "polygon": [
+                        {
+                            "x": 416,
+                            "y": 194
+                        },
+                        {
+                            "x": 453,
+                            "y": 193
+                        },
+                        {
+                            "x": 452,
+                            "y": 209
+                        },
+                        {
+                            "x": 415,
+                            "y": 209
+                        }
+                    ],
+                    "span": {
+                        "offset": 53,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "LORILLARD",
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 225
+                        },
+                        {
+                            "x": 177,
+                            "y": 225
+                        },
+                        {
+                            "x": 177,
+                            "y": 238
+                        },
+                        {
+                            "x": 107,
+                            "y": 237
+                        }
+                    ],
+                    "span": {
+                        "offset": 60,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ENTITIES:",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 239
+                        },
+                        {
+                            "x": 168,
+                            "y": 239
+                        },
+                        {
+                            "x": 168,
+                            "y": 251
+                        },
+                        {
+                            "x": 107,
+                            "y": 252
+                        }
+                    ],
+                    "span": {
+                        "offset": 70,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Lorillard",
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 237
+                        },
+                        {
+                            "x": 281,
+                            "y": 237
+                        },
+                        {
+                            "x": 281,
+                            "y": 253
+                        },
+                        {
+                            "x": 234,
+                            "y": 253
+                        }
+                    ],
+                    "span": {
+                        "offset": 80,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Tobacco",
+                    "polygon": [
+                        {
+                            "x": 284,
+                            "y": 237
+                        },
+                        {
+                            "x": 326,
+                            "y": 238
+                        },
+                        {
+                            "x": 326,
+                            "y": 253
+                        },
+                        {
+                            "x": 284,
+                            "y": 253
+                        }
+                    ],
+                    "span": {
+                        "offset": 90,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Company",
+                    "polygon": [
+                        {
+                            "x": 329,
+                            "y": 238
+                        },
+                        {
+                            "x": 379,
+                            "y": 238
+                        },
+                        {
+                            "x": 379,
+                            "y": 254
+                        },
+                        {
+                            "x": 329,
+                            "y": 253
+                        }
+                    ],
+                    "span": {
+                        "offset": 98,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DATE",
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 265
+                        },
+                        {
+                            "x": 138,
+                            "y": 265
+                        },
+                        {
+                            "x": 139,
+                            "y": 279
+                        },
+                        {
+                            "x": 106,
+                            "y": 279
+                        }
+                    ],
+                    "span": {
+                        "offset": 106,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FILED:",
+                    "polygon": [
+                        {
+                            "x": 143,
+                            "y": 265
+                        },
+                        {
+                            "x": 184,
+                            "y": 266
+                        },
+                        {
+                            "x": 184,
+                            "y": 278
+                        },
+                        {
+                            "x": 143,
+                            "y": 279
+                        }
+                    ],
+                    "span": {
+                        "offset": 111,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "July",
+                    "polygon": [
+                        {
+                            "x": 234,
+                            "y": 265
+                        },
+                        {
+                            "x": 256,
+                            "y": 265
+                        },
+                        {
+                            "x": 256,
+                            "y": 279
+                        },
+                        {
+                            "x": 234,
+                            "y": 279
+                        }
+                    ],
+                    "span": {
+                        "offset": 118,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "23,",
+                    "polygon": [
+                        {
+                            "x": 259,
+                            "y": 265
+                        },
+                        {
+                            "x": 274,
+                            "y": 265
+                        },
+                        {
+                            "x": 274,
+                            "y": 279
+                        },
+                        {
+                            "x": 259,
+                            "y": 279
+                        }
+                    ],
+                    "span": {
+                        "offset": 123,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1998",
+                    "polygon": [
+                        {
+                            "x": 277,
+                            "y": 265
+                        },
+                        {
+                            "x": 301,
+                            "y": 264
+                        },
+                        {
+                            "x": 302,
+                            "y": 279
+                        },
+                        {
+                            "x": 277,
+                            "y": 279
+                        }
+                    ],
+                    "span": {
+                        "offset": 127,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DATE",
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 295
+                        },
+                        {
+                            "x": 138,
+                            "y": 295
+                        },
+                        {
+                            "x": 138,
+                            "y": 308
+                        },
+                        {
+                            "x": 106,
+                            "y": 308
+                        }
+                    ],
+                    "span": {
+                        "offset": 132,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SERVED:",
+                    "polygon": [
+                        {
+                            "x": 143,
+                            "y": 295
+                        },
+                        {
+                            "x": 196,
+                            "y": 295
+                        },
+                        {
+                            "x": 196,
+                            "y": 309
+                        },
+                        {
+                            "x": 143,
+                            "y": 308
+                        }
+                    ],
+                    "span": {
+                        "offset": 137,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "August",
+                    "polygon": [
+                        {
+                            "x": 234,
+                            "y": 296
+                        },
+                        {
+                            "x": 270,
+                            "y": 295
+                        },
+                        {
+                            "x": 270,
+                            "y": 309
+                        },
+                        {
+                            "x": 234,
+                            "y": 309
+                        }
+                    ],
+                    "span": {
+                        "offset": 145,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "3,",
+                    "polygon": [
+                        {
+                            "x": 273,
+                            "y": 295
+                        },
+                        {
+                            "x": 283,
+                            "y": 295
+                        },
+                        {
+                            "x": 283,
+                            "y": 309
+                        },
+                        {
+                            "x": 273,
+                            "y": 309
+                        }
+                    ],
+                    "span": {
+                        "offset": 152,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1998",
+                    "polygon": [
+                        {
+                            "x": 285,
+                            "y": 294
+                        },
+                        {
+                            "x": 311,
+                            "y": 294
+                        },
+                        {
+                            "x": 311,
+                            "y": 308
+                        },
+                        {
+                            "x": 285,
+                            "y": 309
+                        }
+                    ],
+                    "span": {
+                        "offset": 155,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CASE",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 323
+                        },
+                        {
+                            "x": 137,
+                            "y": 323
+                        },
+                        {
+                            "x": 137,
+                            "y": 335
+                        },
+                        {
+                            "x": 107,
+                            "y": 336
+                        }
+                    ],
+                    "span": {
+                        "offset": 160,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TYPE:",
+                    "polygon": [
+                        {
+                            "x": 142,
+                            "y": 323
+                        },
+                        {
+                            "x": 178,
+                            "y": 323
+                        },
+                        {
+                            "x": 178,
+                            "y": 335
+                        },
+                        {
+                            "x": 142,
+                            "y": 335
+                        }
+                    ],
+                    "span": {
+                        "offset": 165,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Asbestos",
+                    "polygon": [
+                        {
+                            "x": 234,
+                            "y": 323
+                        },
+                        {
+                            "x": 279,
+                            "y": 323
+                        },
+                        {
+                            "x": 279,
+                            "y": 335
+                        },
+                        {
+                            "x": 234,
+                            "y": 335
+                        }
+                    ],
+                    "span": {
+                        "offset": 171,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PLAINTIFF'S",
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 350
+                        },
+                        {
+                            "x": 181,
+                            "y": 350
+                        },
+                        {
+                            "x": 181,
+                            "y": 364
+                        },
+                        {
+                            "x": 106,
+                            "y": 362
+                        }
+                    ],
+                    "span": {
+                        "offset": 180,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "COUNSEL:",
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 363
+                        },
+                        {
+                            "x": 170,
+                            "y": 363
+                        },
+                        {
+                            "x": 170,
+                            "y": 376
+                        },
+                        {
+                            "x": 106,
+                            "y": 376
+                        }
+                    ],
+                    "span": {
+                        "offset": 192,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Wartnick,",
+                    "polygon": [
+                        {
+                            "x": 234,
+                            "y": 362
+                        },
+                        {
+                            "x": 286,
+                            "y": 362
+                        },
+                        {
+                            "x": 286,
+                            "y": 376
+                        },
+                        {
+                            "x": 234,
+                            "y": 376
+                        }
+                    ],
+                    "span": {
+                        "offset": 201,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Chaber,",
+                    "polygon": [
+                        {
+                            "x": 288,
+                            "y": 362
+                        },
+                        {
+                            "x": 329,
+                            "y": 362
+                        },
+                        {
+                            "x": 329,
+                            "y": 377
+                        },
+                        {
+                            "x": 289,
+                            "y": 376
+                        }
+                    ],
+                    "span": {
+                        "offset": 211,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Harowitz,",
+                    "polygon": [
+                        {
+                            "x": 332,
+                            "y": 362
+                        },
+                        {
+                            "x": 382,
+                            "y": 362
+                        },
+                        {
+                            "x": 382,
+                            "y": 377
+                        },
+                        {
+                            "x": 332,
+                            "y": 377
+                        }
+                    ],
+                    "span": {
+                        "offset": 219,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Smith&",
+                    "polygon": [
+                        {
+                            "x": 385,
+                            "y": 362
+                        },
+                        {
+                            "x": 423,
+                            "y": 362
+                        },
+                        {
+                            "x": 423,
+                            "y": 377
+                        },
+                        {
+                            "x": 385,
+                            "y": 377
+                        }
+                    ],
+                    "span": {
+                        "offset": 229,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Tigerman",
+                    "polygon": [
+                        {
+                            "x": 429,
+                            "y": 362
+                        },
+                        {
+                            "x": 478,
+                            "y": 362
+                        },
+                        {
+                            "x": 478,
+                            "y": 378
+                        },
+                        {
+                            "x": 429,
+                            "y": 378
+                        }
+                    ],
+                    "span": {
+                        "offset": 236,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Madelyn",
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 376
+                        },
+                        {
+                            "x": 278,
+                            "y": 376
+                        },
+                        {
+                            "x": 278,
+                            "y": 389
+                        },
+                        {
+                            "x": 233,
+                            "y": 389
+                        }
+                    ],
+                    "span": {
+                        "offset": 245,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "J.",
+                    "polygon": [
+                        {
+                            "x": 282,
+                            "y": 376
+                        },
+                        {
+                            "x": 291,
+                            "y": 376
+                        },
+                        {
+                            "x": 291,
+                            "y": 389
+                        },
+                        {
+                            "x": 282,
+                            "y": 389
+                        }
+                    ],
+                    "span": {
+                        "offset": 253,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Chaber",
+                    "polygon": [
+                        {
+                            "x": 294,
+                            "y": 376
+                        },
+                        {
+                            "x": 332,
+                            "y": 376
+                        },
+                        {
+                            "x": 332,
+                            "y": 390
+                        },
+                        {
+                            "x": 294,
+                            "y": 389
+                        }
+                    ],
+                    "span": {
+                        "offset": 256,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "101",
+                    "polygon": [
+                        {
+                            "x": 234,
+                            "y": 389
+                        },
+                        {
+                            "x": 252,
+                            "y": 389
+                        },
+                        {
+                            "x": 253,
+                            "y": 403
+                        },
+                        {
+                            "x": 234,
+                            "y": 403
+                        }
+                    ],
+                    "span": {
+                        "offset": 263,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "California",
+                    "polygon": [
+                        {
+                            "x": 255,
+                            "y": 389
+                        },
+                        {
+                            "x": 306,
+                            "y": 389
+                        },
+                        {
+                            "x": 306,
+                            "y": 403
+                        },
+                        {
+                            "x": 255,
+                            "y": 403
+                        }
+                    ],
+                    "span": {
+                        "offset": 267,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Street,",
+                    "polygon": [
+                        {
+                            "x": 309,
+                            "y": 389
+                        },
+                        {
+                            "x": 342,
+                            "y": 389
+                        },
+                        {
+                            "x": 342,
+                            "y": 403
+                        },
+                        {
+                            "x": 309,
+                            "y": 403
+                        }
+                    ],
+                    "span": {
+                        "offset": 278,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Suite",
+                    "polygon": [
+                        {
+                            "x": 345,
+                            "y": 389
+                        },
+                        {
+                            "x": 371,
+                            "y": 389
+                        },
+                        {
+                            "x": 371,
+                            "y": 403
+                        },
+                        {
+                            "x": 345,
+                            "y": 403
+                        }
+                    ],
+                    "span": {
+                        "offset": 286,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "2200",
+                    "polygon": [
+                        {
+                            "x": 374,
+                            "y": 389
+                        },
+                        {
+                            "x": 398,
+                            "y": 389
+                        },
+                        {
+                            "x": 398,
+                            "y": 403
+                        },
+                        {
+                            "x": 374,
+                            "y": 403
+                        }
+                    ],
+                    "span": {
+                        "offset": 292,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "San",
+                    "polygon": [
+                        {
+                            "x": 234,
+                            "y": 403
+                        },
+                        {
+                            "x": 253,
+                            "y": 403
+                        },
+                        {
+                            "x": 253,
+                            "y": 417
+                        },
+                        {
+                            "x": 234,
+                            "y": 417
+                        }
+                    ],
+                    "span": {
+                        "offset": 297,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Francisco,",
+                    "polygon": [
+                        {
+                            "x": 256,
+                            "y": 403
+                        },
+                        {
+                            "x": 308,
+                            "y": 403
+                        },
+                        {
+                            "x": 308,
+                            "y": 417
+                        },
+                        {
+                            "x": 256,
+                            "y": 417
+                        }
+                    ],
+                    "span": {
+                        "offset": 301,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "California",
+                    "polygon": [
+                        {
+                            "x": 310,
+                            "y": 403
+                        },
+                        {
+                            "x": 364,
+                            "y": 403
+                        },
+                        {
+                            "x": 364,
+                            "y": 417
+                        },
+                        {
+                            "x": 311,
+                            "y": 417
+                        }
+                    ],
+                    "span": {
+                        "offset": 312,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "94111",
+                    "polygon": [
+                        {
+                            "x": 368,
+                            "y": 403
+                        },
+                        {
+                            "x": 399,
+                            "y": 403
+                        },
+                        {
+                            "x": 399,
+                            "y": 416
+                        },
+                        {
+                            "x": 368,
+                            "y": 417
+                        }
+                    ],
+                    "span": {
+                        "offset": 323,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "415/986-5566",
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 416
+                        },
+                        {
+                            "x": 302,
+                            "y": 416
+                        },
+                        {
+                            "x": 302,
+                            "y": 430
+                        },
+                        {
+                            "x": 233,
+                            "y": 430
+                        }
+                    ],
+                    "span": {
+                        "offset": 329,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "LORILLARD",
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 443
+                        },
+                        {
+                            "x": 177,
+                            "y": 443
+                        },
+                        {
+                            "x": 177,
+                            "y": 457
+                        },
+                        {
+                            "x": 106,
+                            "y": 457
+                        }
+                    ],
+                    "span": {
+                        "offset": 342,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "COUNSEL:",
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 458
+                        },
+                        {
+                            "x": 169,
+                            "y": 458
+                        },
+                        {
+                            "x": 169,
+                            "y": 471
+                        },
+                        {
+                            "x": 106,
+                            "y": 470
+                        }
+                    ],
+                    "span": {
+                        "offset": 352,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "JUDGE:",
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 486
+                        },
+                        {
+                            "x": 151,
+                            "y": 485
+                        },
+                        {
+                            "x": 152,
+                            "y": 499
+                        },
+                        {
+                            "x": 106,
+                            "y": 497
+                        }
+                    ],
+                    "span": {
+                        "offset": 361,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TRIAL",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 512
+                        },
+                        {
+                            "x": 142,
+                            "y": 512
+                        },
+                        {
+                            "x": 143,
+                            "y": 525
+                        },
+                        {
+                            "x": 108,
+                            "y": 524
+                        }
+                    ],
+                    "span": {
+                        "offset": 368,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DATE:",
+                    "polygon": [
+                        {
+                            "x": 147,
+                            "y": 512
+                        },
+                        {
+                            "x": 185,
+                            "y": 512
+                        },
+                        {
+                            "x": 185,
+                            "y": 525
+                        },
+                        {
+                            "x": 147,
+                            "y": 525
+                        }
+                    ],
+                    "span": {
+                        "offset": 374,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CASE",
+                    "polygon": [
+                        {
+                            "x": 326,
+                            "y": 141
+                        },
+                        {
+                            "x": 357,
+                            "y": 141
+                        },
+                        {
+                            "x": 357,
+                            "y": 154
+                        },
+                        {
+                            "x": 326,
+                            "y": 154
+                        }
+                    ],
+                    "span": {
+                        "offset": 380,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FORM",
+                    "polygon": [
+                        {
+                            "x": 360,
+                            "y": 140
+                        },
+                        {
+                            "x": 392,
+                            "y": 140
+                        },
+                        {
+                            "x": 392,
+                            "y": 155
+                        },
+                        {
+                            "x": 360,
+                            "y": 154
+                        }
+                    ],
+                    "span": {
+                        "offset": 385,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Wanda",
+                    "polygon": [
+                        {
+                            "x": 234,
+                            "y": 167
+                        },
+                        {
+                            "x": 271,
+                            "y": 167
+                        },
+                        {
+                            "x": 272,
+                            "y": 181
+                        },
+                        {
+                            "x": 235,
+                            "y": 181
+                        }
+                    ],
+                    "span": {
+                        "offset": 390,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "G.",
+                    "polygon": [
+                        {
+                            "x": 274,
+                            "y": 167
+                        },
+                        {
+                            "x": 285,
+                            "y": 167
+                        },
+                        {
+                            "x": 286,
+                            "y": 181
+                        },
+                        {
+                            "x": 274,
+                            "y": 181
+                        }
+                    ],
+                    "span": {
+                        "offset": 396,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Robinson",
+                    "polygon": [
+                        {
+                            "x": 288,
+                            "y": 167
+                        },
+                        {
+                            "x": 336,
+                            "y": 167
+                        },
+                        {
+                            "x": 336,
+                            "y": 181
+                        },
+                        {
+                            "x": 289,
+                            "y": 181
+                        }
+                    ],
+                    "span": {
+                        "offset": 399,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "and",
+                    "polygon": [
+                        {
+                            "x": 339,
+                            "y": 167
+                        },
+                        {
+                            "x": 359,
+                            "y": 167
+                        },
+                        {
+                            "x": 359,
+                            "y": 181
+                        },
+                        {
+                            "x": 339,
+                            "y": 181
+                        }
+                    ],
+                    "span": {
+                        "offset": 408,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Carroll",
+                    "polygon": [
+                        {
+                            "x": 361,
+                            "y": 167
+                        },
+                        {
+                            "x": 399,
+                            "y": 167
+                        },
+                        {
+                            "x": 399,
+                            "y": 181
+                        },
+                        {
+                            "x": 362,
+                            "y": 181
+                        }
+                    ],
+                    "span": {
+                        "offset": 412,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Robinson",
+                    "polygon": [
+                        {
+                            "x": 401,
+                            "y": 167
+                        },
+                        {
+                            "x": 449,
+                            "y": 167
+                        },
+                        {
+                            "x": 449,
+                            "y": 181
+                        },
+                        {
+                            "x": 402,
+                            "y": 181
+                        }
+                    ],
+                    "span": {
+                        "offset": 420,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "v.",
+                    "polygon": [
+                        {
+                            "x": 452,
+                            "y": 167
+                        },
+                        {
+                            "x": 460,
+                            "y": 167
+                        },
+                        {
+                            "x": 460,
+                            "y": 181
+                        },
+                        {
+                            "x": 452,
+                            "y": 181
+                        }
+                    ],
+                    "span": {
+                        "offset": 429,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Raybestos-Manhattan,",
+                    "polygon": [
+                        {
+                            "x": 463,
+                            "y": 167
+                        },
+                        {
+                            "x": 578,
+                            "y": 166
+                        },
+                        {
+                            "x": 578,
+                            "y": 181
+                        },
+                        {
+                            "x": 463,
+                            "y": 181
+                        }
+                    ],
+                    "span": {
+                        "offset": 432,
+                        "length": 20
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "et",
+                    "polygon": [
+                        {
+                            "x": 581,
+                            "y": 166
+                        },
+                        {
+                            "x": 591,
+                            "y": 166
+                        },
+                        {
+                            "x": 591,
+                            "y": 181
+                        },
+                        {
+                            "x": 581,
+                            "y": 181
+                        }
+                    ],
+                    "span": {
+                        "offset": 453,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "al.",
+                    "polygon": [
+                        {
+                            "x": 594,
+                            "y": 166
+                        },
+                        {
+                            "x": 610,
+                            "y": 166
+                        },
+                        {
+                            "x": 610,
+                            "y": 181
+                        },
+                        {
+                            "x": 594,
+                            "y": 181
+                        }
+                    ],
+                    "span": {
+                        "offset": 456,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "82491256",
+                    "polygon": [
+                        {
+                            "x": 613,
+                            "y": 778
+                        },
+                        {
+                            "x": 608,
+                            "y": 881
+                        },
+                        {
+                            "x": 587,
+                            "y": 881
+                        },
+                        {
+                            "x": 591,
+                            "y": 777
+                        }
+                    ],
+                    "span": {
+                        "offset": 460,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "94624999",
+                    "polygon": [
+                        {
+                            "x": 654,
+                            "y": 793
+                        },
+                        {
+                            "x": 649,
+                            "y": 874
+                        },
+                        {
+                            "x": 631,
+                            "y": 873
+                        },
+                        {
+                            "x": 636,
+                            "y": 792
+                        }
+                    ],
+                    "span": {
+                        "offset": 469,
+                        "length": 8
+                    },
+                    "confidence": 0
+                }
+            ],
+            "selection_marks": [],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 477
+                }
+            ],
+            "barcodes": [],
+            "formulas": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "role": null,
+            "content": "CASE NAME:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 105,
+                            "y": 168
+                        },
+                        {
+                            "x": 183,
+                            "y": 168
+                        },
+                        {
+                            "x": 183,
+                            "y": 180
+                        },
+                        {
+                            "x": 105,
+                            "y": 180
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 10
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "COURT:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 195
+                        },
+                        {
+                            "x": 155,
+                            "y": 195
+                        },
+                        {
+                            "x": 155,
+                            "y": 207
+                        },
+                        {
+                            "x": 104,
+                            "y": 207
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 11,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "San Francisco Superior Court - No. 996378",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 194
+                        },
+                        {
+                            "x": 452,
+                            "y": 193
+                        },
+                        {
+                            "x": 452,
+                            "y": 208
+                        },
+                        {
+                            "x": 233,
+                            "y": 209
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 18,
+                    "length": 41
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "LORILLARD",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 224
+                        },
+                        {
+                            "x": 180,
+                            "y": 224
+                        },
+                        {
+                            "x": 180,
+                            "y": 237
+                        },
+                        {
+                            "x": 104,
+                            "y": 237
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 60,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "ENTITIES:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 105,
+                            "y": 238
+                        },
+                        {
+                            "x": 168,
+                            "y": 238
+                        },
+                        {
+                            "x": 168,
+                            "y": 251
+                        },
+                        {
+                            "x": 105,
+                            "y": 251
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 70,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Lorillard Tobacco Company",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 231,
+                            "y": 237
+                        },
+                        {
+                            "x": 379,
+                            "y": 237
+                        },
+                        {
+                            "x": 379,
+                            "y": 253
+                        },
+                        {
+                            "x": 231,
+                            "y": 252
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 80,
+                    "length": 25
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "DATE FILED:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 264
+                        },
+                        {
+                            "x": 184,
+                            "y": 264
+                        },
+                        {
+                            "x": 184,
+                            "y": 278
+                        },
+                        {
+                            "x": 104,
+                            "y": 278
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 106,
+                    "length": 11
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "July 23, 1998",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 264
+                        },
+                        {
+                            "x": 302,
+                            "y": 264
+                        },
+                        {
+                            "x": 302,
+                            "y": 278
+                        },
+                        {
+                            "x": 233,
+                            "y": 279
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 118,
+                    "length": 13
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "DATE SERVED:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 105,
+                            "y": 295
+                        },
+                        {
+                            "x": 196,
+                            "y": 295
+                        },
+                        {
+                            "x": 196,
+                            "y": 308
+                        },
+                        {
+                            "x": 105,
+                            "y": 308
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 132,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "August 3, 1998",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 295
+                        },
+                        {
+                            "x": 310,
+                            "y": 294
+                        },
+                        {
+                            "x": 310,
+                            "y": 308
+                        },
+                        {
+                            "x": 233,
+                            "y": 308
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 145,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CASE TYPE:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 322
+                        },
+                        {
+                            "x": 178,
+                            "y": 322
+                        },
+                        {
+                            "x": 178,
+                            "y": 335
+                        },
+                        {
+                            "x": 104,
+                            "y": 335
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 160,
+                    "length": 10
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Asbestos",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 323
+                        },
+                        {
+                            "x": 279,
+                            "y": 323
+                        },
+                        {
+                            "x": 279,
+                            "y": 334
+                        },
+                        {
+                            "x": 233,
+                            "y": 334
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 171,
+                    "length": 8
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "PLAINTIFF'S",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 349
+                        },
+                        {
+                            "x": 182,
+                            "y": 350
+                        },
+                        {
+                            "x": 182,
+                            "y": 363
+                        },
+                        {
+                            "x": 104,
+                            "y": 362
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 180,
+                    "length": 11
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "COUNSEL:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 362
+                        },
+                        {
+                            "x": 169,
+                            "y": 363
+                        },
+                        {
+                            "x": 169,
+                            "y": 376
+                        },
+                        {
+                            "x": 104,
+                            "y": 375
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 192,
+                    "length": 8
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Wartnick, Chaber, Harowitz, Smith& Tigerman",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 362
+                        },
+                        {
+                            "x": 479,
+                            "y": 362
+                        },
+                        {
+                            "x": 479,
+                            "y": 377
+                        },
+                        {
+                            "x": 233,
+                            "y": 376
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 201,
+                    "length": 43
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Madelyn J. Chaber",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 376
+                        },
+                        {
+                            "x": 332,
+                            "y": 376
+                        },
+                        {
+                            "x": 332,
+                            "y": 389
+                        },
+                        {
+                            "x": 233,
+                            "y": 389
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 245,
+                    "length": 17
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "101 California Street, Suite 2200",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 232,
+                            "y": 388
+                        },
+                        {
+                            "x": 397,
+                            "y": 388
+                        },
+                        {
+                            "x": 397,
+                            "y": 403
+                        },
+                        {
+                            "x": 232,
+                            "y": 403
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 263,
+                    "length": 33
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "San Francisco, California 94111",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 232,
+                            "y": 402
+                        },
+                        {
+                            "x": 399,
+                            "y": 402
+                        },
+                        {
+                            "x": 399,
+                            "y": 416
+                        },
+                        {
+                            "x": 232,
+                            "y": 417
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 297,
+                    "length": 31
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "415/986-5566",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 416
+                        },
+                        {
+                            "x": 302,
+                            "y": 416
+                        },
+                        {
+                            "x": 302,
+                            "y": 430
+                        },
+                        {
+                            "x": 233,
+                            "y": 430
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 329,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "LORILLARD COUNSEL:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 443
+                        },
+                        {
+                            "x": 180,
+                            "y": 443
+                        },
+                        {
+                            "x": 180,
+                            "y": 470
+                        },
+                        {
+                            "x": 104,
+                            "y": 470
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 342,
+                    "length": 18
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "JUDGE:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 485
+                        },
+                        {
+                            "x": 152,
+                            "y": 485
+                        },
+                        {
+                            "x": 152,
+                            "y": 498
+                        },
+                        {
+                            "x": 104,
+                            "y": 498
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 361,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "TRIAL DATE:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 511
+                        },
+                        {
+                            "x": 185,
+                            "y": 511
+                        },
+                        {
+                            "x": 185,
+                            "y": 524
+                        },
+                        {
+                            "x": 104,
+                            "y": 524
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 368,
+                    "length": 11
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CASE FORM",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 325,
+                            "y": 139
+                        },
+                        {
+                            "x": 399,
+                            "y": 139
+                        },
+                        {
+                            "x": 399,
+                            "y": 154
+                        },
+                        {
+                            "x": 325,
+                            "y": 154
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 380,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Wanda G. Robinson and Carroll Robinson v. Raybestos-Manhattan, et al.",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 233,
+                            "y": 165
+                        },
+                        {
+                            "x": 609,
+                            "y": 165
+                        },
+                        {
+                            "x": 609,
+                            "y": 181
+                        },
+                        {
+                            "x": 233,
+                            "y": 181
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 390,
+                    "length": 69
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "82491256",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 591,
+                            "y": 776
+                        },
+                        {
+                            "x": 613,
+                            "y": 777
+                        },
+                        {
+                            "x": 608,
+                            "y": 883
+                        },
+                        {
+                            "x": 586,
+                            "y": 882
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 460,
+                    "length": 8
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "94624999",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 635,
+                            "y": 792
+                        },
+                        {
+                            "x": 654,
+                            "y": 793
+                        },
+                        {
+                            "x": 649,
+                            "y": 876
+                        },
+                        {
+                            "x": 630,
+                            "y": 875
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 469,
+                    "length": 8
+                }
+            ]
+        }
+    ],
+    "tables": [],
+    "key_value_pairs": [],
+    "styles": [],
+    "documents": []
+}

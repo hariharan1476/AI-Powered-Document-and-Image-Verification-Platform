@@ -1,0 +1,3667 @@
+{
+    "api_version": "2023-07-31",
+    "model_id": "prebuilt-read",
+    "content": "TEST ARTICLE RECEIPT\nTA #:\nTO7281A\nSPONSOR'S NAME:\nLorillard\nTEST ARTICLE IDENTIFICATION: : B220\nLOT #:\n012590\nCONDITION OF SHIPMENT! GOOD\nBROKEN\nSHIPPED VIA:\nDirect Express\nPHYSICAL DESCRIPTION: Clear brown liquid\nNO. OF CONTAINERS: one\nGROSS WEIGHT: Not provided\nLEAFED\nNET WEIGHT (if provided) : 100 g\nEXPIRATION DATE: Not \"ravided\nSPECIAL HANDLING REQUIREMENTS: Store refrigerated in dark:\nRECEIVED BY:\nSTUDY DIRECTOR/DEPARTMENT: Ray - David\nDATE:\n03/01/90\nSIGNATURE OF DEPARTMENT CONSIGNEE: Harold Jane\nDATE: 03/02/90\n87137840",
+    "languages": [],
+    "pages": [
+        {
+            "page_number": 1,
+            "angle": 0,
+            "width": 767,
+            "height": 1000,
+            "unit": "pixel",
+            "lines": [
+                {
+                    "content": "TEST ARTICLE RECEIPT",
+                    "polygon": [
+                        {
+                            "x": 349,
+                            "y": 103
+                        },
+                        {
+                            "x": 500,
+                            "y": 101
+                        },
+                        {
+                            "x": 500,
+                            "y": 118
+                        },
+                        {
+                            "x": 349,
+                            "y": 120
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "TA #:",
+                    "polygon": [
+                        {
+                            "x": 136,
+                            "y": 152
+                        },
+                        {
+                            "x": 179,
+                            "y": 151
+                        },
+                        {
+                            "x": 180,
+                            "y": 167
+                        },
+                        {
+                            "x": 137,
+                            "y": 168
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 21,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "TO7281A",
+                    "polygon": [
+                        {
+                            "x": 201,
+                            "y": 147
+                        },
+                        {
+                            "x": 256,
+                            "y": 147
+                        },
+                        {
+                            "x": 256,
+                            "y": 162
+                        },
+                        {
+                            "x": 201,
+                            "y": 162
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 27,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "SPONSOR'S NAME:",
+                    "polygon": [
+                        {
+                            "x": 136,
+                            "y": 195
+                        },
+                        {
+                            "x": 253,
+                            "y": 193
+                        },
+                        {
+                            "x": 253,
+                            "y": 210
+                        },
+                        {
+                            "x": 136,
+                            "y": 212
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 35,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "Lorillard",
+                    "polygon": [
+                        {
+                            "x": 271,
+                            "y": 190
+                        },
+                        {
+                            "x": 339,
+                            "y": 188
+                        },
+                        {
+                            "x": 339,
+                            "y": 204
+                        },
+                        {
+                            "x": 271,
+                            "y": 206
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 51,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "TEST ARTICLE IDENTIFICATION: : B220",
+                    "polygon": [
+                        {
+                            "x": 136,
+                            "y": 239
+                        },
+                        {
+                            "x": 390,
+                            "y": 234
+                        },
+                        {
+                            "x": 390,
+                            "y": 251
+                        },
+                        {
+                            "x": 136,
+                            "y": 256
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 61,
+                            "length": 35
+                        }
+                    ]
+                },
+                {
+                    "content": "LOT #:",
+                    "polygon": [
+                        {
+                            "x": 134,
+                            "y": 283
+                        },
+                        {
+                            "x": 178,
+                            "y": 282
+                        },
+                        {
+                            "x": 179,
+                            "y": 296
+                        },
+                        {
+                            "x": 135,
+                            "y": 297
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 97,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "012590",
+                    "polygon": [
+                        {
+                            "x": 192,
+                            "y": 277
+                        },
+                        {
+                            "x": 241,
+                            "y": 277
+                        },
+                        {
+                            "x": 242,
+                            "y": 291
+                        },
+                        {
+                            "x": 193,
+                            "y": 292
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 104,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "CONDITION OF SHIPMENT! GOOD",
+                    "polygon": [
+                        {
+                            "x": 349,
+                            "y": 278
+                        },
+                        {
+                            "x": 572,
+                            "y": 276
+                        },
+                        {
+                            "x": 573,
+                            "y": 293
+                        },
+                        {
+                            "x": 349,
+                            "y": 296
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 111,
+                            "length": 27
+                        }
+                    ]
+                },
+                {
+                    "content": "BROKEN",
+                    "polygon": [
+                        {
+                            "x": 582,
+                            "y": 277
+                        },
+                        {
+                            "x": 634,
+                            "y": 277
+                        },
+                        {
+                            "x": 634,
+                            "y": 292
+                        },
+                        {
+                            "x": 582,
+                            "y": 293
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 139,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "SHIPPED VIA:",
+                    "polygon": [
+                        {
+                            "x": 134,
+                            "y": 326
+                        },
+                        {
+                            "x": 226,
+                            "y": 325
+                        },
+                        {
+                            "x": 227,
+                            "y": 341
+                        },
+                        {
+                            "x": 134,
+                            "y": 342
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 146,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "Direct Express",
+                    "polygon": [
+                        {
+                            "x": 236,
+                            "y": 326
+                        },
+                        {
+                            "x": 351,
+                            "y": 324
+                        },
+                        {
+                            "x": 351,
+                            "y": 337
+                        },
+                        {
+                            "x": 236,
+                            "y": 340
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 159,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "PHYSICAL DESCRIPTION: Clear brown liquid",
+                    "polygon": [
+                        {
+                            "x": 133,
+                            "y": 370
+                        },
+                        {
+                            "x": 435,
+                            "y": 362
+                        },
+                        {
+                            "x": 435,
+                            "y": 377
+                        },
+                        {
+                            "x": 133,
+                            "y": 386
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 174,
+                            "length": 40
+                        }
+                    ]
+                },
+                {
+                    "content": "NO. OF CONTAINERS:",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 413
+                        },
+                        {
+                            "x": 267,
+                            "y": 411
+                        },
+                        {
+                            "x": 268,
+                            "y": 427
+                        },
+                        {
+                            "x": 131,
+                            "y": 429
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 215,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "one",
+                    "polygon": [
+                        {
+                            "x": 303,
+                            "y": 410
+                        },
+                        {
+                            "x": 323,
+                            "y": 411
+                        },
+                        {
+                            "x": 323,
+                            "y": 423
+                        },
+                        {
+                            "x": 303,
+                            "y": 423
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 234,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "GROSS WEIGHT: Not provided",
+                    "polygon": [
+                        {
+                            "x": 130,
+                            "y": 457
+                        },
+                        {
+                            "x": 340,
+                            "y": 453
+                        },
+                        {
+                            "x": 340,
+                            "y": 467
+                        },
+                        {
+                            "x": 131,
+                            "y": 472
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 238,
+                            "length": 26
+                        }
+                    ]
+                },
+                {
+                    "content": "LEAFED",
+                    "polygon": [
+                        {
+                            "x": 657,
+                            "y": 277
+                        },
+                        {
+                            "x": 707,
+                            "y": 277
+                        },
+                        {
+                            "x": 707,
+                            "y": 291
+                        },
+                        {
+                            "x": 657,
+                            "y": 291
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 265,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "NET WEIGHT (if provided) : 100 g",
+                    "polygon": [
+                        {
+                            "x": 409,
+                            "y": 451
+                        },
+                        {
+                            "x": 640,
+                            "y": 448
+                        },
+                        {
+                            "x": 641,
+                            "y": 467
+                        },
+                        {
+                            "x": 409,
+                            "y": 470
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 272,
+                            "length": 32
+                        }
+                    ]
+                },
+                {
+                    "content": "EXPIRATION DATE: Not \"ravided",
+                    "polygon": [
+                        {
+                            "x": 130,
+                            "y": 501
+                        },
+                        {
+                            "x": 356,
+                            "y": 495
+                        },
+                        {
+                            "x": 357,
+                            "y": 510
+                        },
+                        {
+                            "x": 130,
+                            "y": 518
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 305,
+                            "length": 29
+                        }
+                    ]
+                },
+                {
+                    "content": "SPECIAL HANDLING REQUIREMENTS: Store refrigerated in dark:",
+                    "polygon": [
+                        {
+                            "x": 129,
+                            "y": 544
+                        },
+                        {
+                            "x": 565,
+                            "y": 533
+                        },
+                        {
+                            "x": 565,
+                            "y": 549
+                        },
+                        {
+                            "x": 129,
+                            "y": 561
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 335,
+                            "length": 58
+                        }
+                    ]
+                },
+                {
+                    "content": "RECEIVED BY:",
+                    "polygon": [
+                        {
+                            "x": 126,
+                            "y": 629
+                        },
+                        {
+                            "x": 222,
+                            "y": 627
+                        },
+                        {
+                            "x": 222,
+                            "y": 645
+                        },
+                        {
+                            "x": 126,
+                            "y": 647
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 394,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "STUDY DIRECTOR/DEPARTMENT:",
+                    "polygon": [
+                        {
+                            "x": 125,
+                            "y": 673
+                        },
+                        {
+                            "x": 324,
+                            "y": 670
+                        },
+                        {
+                            "x": 324,
+                            "y": 688
+                        },
+                        {
+                            "x": 125,
+                            "y": 691
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 407,
+                            "length": 26
+                        }
+                    ]
+                },
+                {
+                    "content": "Ray - David",
+                    "polygon": [
+                        {
+                            "x": 348,
+                            "y": 669
+                        },
+                        {
+                            "x": 422,
+                            "y": 668
+                        },
+                        {
+                            "x": 423,
+                            "y": 682
+                        },
+                        {
+                            "x": 348,
+                            "y": 683
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 434,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "DATE:",
+                    "polygon": [
+                        {
+                            "x": 472,
+                            "y": 626
+                        },
+                        {
+                            "x": 512,
+                            "y": 626
+                        },
+                        {
+                            "x": 512,
+                            "y": 640
+                        },
+                        {
+                            "x": 472,
+                            "y": 640
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 446,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "03/01/90",
+                    "polygon": [
+                        {
+                            "x": 563,
+                            "y": 620
+                        },
+                        {
+                            "x": 625,
+                            "y": 620
+                        },
+                        {
+                            "x": 626,
+                            "y": 634
+                        },
+                        {
+                            "x": 564,
+                            "y": 635
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 452,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "SIGNATURE OF DEPARTMENT CONSIGNEE:",
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 716
+                        },
+                        {
+                            "x": 380,
+                            "y": 712
+                        },
+                        {
+                            "x": 380,
+                            "y": 730
+                        },
+                        {
+                            "x": 125,
+                            "y": 734
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 461,
+                            "length": 34
+                        }
+                    ]
+                },
+                {
+                    "content": "Harold Jane",
+                    "polygon": [
+                        {
+                            "x": 386,
+                            "y": 706
+                        },
+                        {
+                            "x": 557,
+                            "y": 704
+                        },
+                        {
+                            "x": 557,
+                            "y": 733
+                        },
+                        {
+                            "x": 387,
+                            "y": 735
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 496,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "DATE: 03/02/90",
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 754
+                        },
+                        {
+                            "x": 279,
+                            "y": 750
+                        },
+                        {
+                            "x": 279,
+                            "y": 776
+                        },
+                        {
+                            "x": 125,
+                            "y": 777
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 508,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "87137840",
+                    "polygon": [
+                        {
+                            "x": 694,
+                            "y": 801
+                        },
+                        {
+                            "x": 690,
+                            "y": 890
+                        },
+                        {
+                            "x": 670,
+                            "y": 889
+                        },
+                        {
+                            "x": 674,
+                            "y": 800
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 523,
+                            "length": 8
+                        }
+                    ]
+                }
+            ],
+            "words": [
+                {
+                    "content": "TEST",
+                    "polygon": [
+                        {
+                            "x": 353,
+                            "y": 104
+                        },
+                        {
+                            "x": 384,
+                            "y": 104
+                        },
+                        {
+                            "x": 384,
+                            "y": 120
+                        },
+                        {
+                            "x": 354,
+                            "y": 121
+                        }
+                    ],
+                    "span": {
+                        "offset": 0,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ARTICLE",
+                    "polygon": [
+                        {
+                            "x": 388,
+                            "y": 103
+                        },
+                        {
+                            "x": 441,
+                            "y": 102
+                        },
+                        {
+                            "x": 441,
+                            "y": 119
+                        },
+                        {
+                            "x": 388,
+                            "y": 120
+                        }
+                    ],
+                    "span": {
+                        "offset": 5,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RECEIPT",
+                    "polygon": [
+                        {
+                            "x": 445,
+                            "y": 102
+                        },
+                        {
+                            "x": 499,
+                            "y": 102
+                        },
+                        {
+                            "x": 499,
+                            "y": 118
+                        },
+                        {
+                            "x": 445,
+                            "y": 119
+                        }
+                    ],
+                    "span": {
+                        "offset": 13,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TA",
+                    "polygon": [
+                        {
+                            "x": 141,
+                            "y": 152
+                        },
+                        {
+                            "x": 157,
+                            "y": 152
+                        },
+                        {
+                            "x": 157,
+                            "y": 168
+                        },
+                        {
+                            "x": 141,
+                            "y": 168
+                        }
+                    ],
+                    "span": {
+                        "offset": 21,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "#:",
+                    "polygon": [
+                        {
+                            "x": 163,
+                            "y": 151
+                        },
+                        {
+                            "x": 179,
+                            "y": 151
+                        },
+                        {
+                            "x": 180,
+                            "y": 167
+                        },
+                        {
+                            "x": 163,
+                            "y": 167
+                        }
+                    ],
+                    "span": {
+                        "offset": 24,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TO7281A",
+                    "polygon": [
+                        {
+                            "x": 204,
+                            "y": 148
+                        },
+                        {
+                            "x": 254,
+                            "y": 148
+                        },
+                        {
+                            "x": 254,
+                            "y": 162
+                        },
+                        {
+                            "x": 205,
+                            "y": 162
+                        }
+                    ],
+                    "span": {
+                        "offset": 27,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SPONSOR'S",
+                    "polygon": [
+                        {
+                            "x": 138,
+                            "y": 196
+                        },
+                        {
+                            "x": 207,
+                            "y": 194
+                        },
+                        {
+                            "x": 208,
+                            "y": 211
+                        },
+                        {
+                            "x": 139,
+                            "y": 213
+                        }
+                    ],
+                    "span": {
+                        "offset": 35,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NAME:",
+                    "polygon": [
+                        {
+                            "x": 212,
+                            "y": 194
+                        },
+                        {
+                            "x": 253,
+                            "y": 194
+                        },
+                        {
+                            "x": 253,
+                            "y": 210
+                        },
+                        {
+                            "x": 212,
+                            "y": 211
+                        }
+                    ],
+                    "span": {
+                        "offset": 45,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Lorillard",
+                    "polygon": [
+                        {
+                            "x": 272,
+                            "y": 191
+                        },
+                        {
+                            "x": 338,
+                            "y": 189
+                        },
+                        {
+                            "x": 338,
+                            "y": 205
+                        },
+                        {
+                            "x": 273,
+                            "y": 205
+                        }
+                    ],
+                    "span": {
+                        "offset": 51,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TEST",
+                    "polygon": [
+                        {
+                            "x": 138,
+                            "y": 239
+                        },
+                        {
+                            "x": 170,
+                            "y": 239
+                        },
+                        {
+                            "x": 170,
+                            "y": 255
+                        },
+                        {
+                            "x": 139,
+                            "y": 255
+                        }
+                    ],
+                    "span": {
+                        "offset": 61,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ARTICLE",
+                    "polygon": [
+                        {
+                            "x": 174,
+                            "y": 238
+                        },
+                        {
+                            "x": 228,
+                            "y": 237
+                        },
+                        {
+                            "x": 228,
+                            "y": 255
+                        },
+                        {
+                            "x": 175,
+                            "y": 255
+                        }
+                    ],
+                    "span": {
+                        "offset": 66,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "IDENTIFICATION:",
+                    "polygon": [
+                        {
+                            "x": 236,
+                            "y": 237
+                        },
+                        {
+                            "x": 343,
+                            "y": 236
+                        },
+                        {
+                            "x": 343,
+                            "y": 252
+                        },
+                        {
+                            "x": 236,
+                            "y": 255
+                        }
+                    ],
+                    "span": {
+                        "offset": 74,
+                        "length": 15
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        {
+                            "x": 346,
+                            "y": 236
+                        },
+                        {
+                            "x": 356,
+                            "y": 235
+                        },
+                        {
+                            "x": 356,
+                            "y": 251
+                        },
+                        {
+                            "x": 346,
+                            "y": 252
+                        }
+                    ],
+                    "span": {
+                        "offset": 90,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "B220",
+                    "polygon": [
+                        {
+                            "x": 359,
+                            "y": 235
+                        },
+                        {
+                            "x": 390,
+                            "y": 235
+                        },
+                        {
+                            "x": 390,
+                            "y": 250
+                        },
+                        {
+                            "x": 359,
+                            "y": 251
+                        }
+                    ],
+                    "span": {
+                        "offset": 92,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "LOT",
+                    "polygon": [
+                        {
+                            "x": 137,
+                            "y": 283
+                        },
+                        {
+                            "x": 160,
+                            "y": 282
+                        },
+                        {
+                            "x": 161,
+                            "y": 296
+                        },
+                        {
+                            "x": 137,
+                            "y": 297
+                        }
+                    ],
+                    "span": {
+                        "offset": 97,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "#:",
+                    "polygon": [
+                        {
+                            "x": 168,
+                            "y": 282
+                        },
+                        {
+                            "x": 178,
+                            "y": 282
+                        },
+                        {
+                            "x": 179,
+                            "y": 296
+                        },
+                        {
+                            "x": 168,
+                            "y": 296
+                        }
+                    ],
+                    "span": {
+                        "offset": 101,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "012590",
+                    "polygon": [
+                        {
+                            "x": 195,
+                            "y": 278
+                        },
+                        {
+                            "x": 239,
+                            "y": 277
+                        },
+                        {
+                            "x": 239,
+                            "y": 292
+                        },
+                        {
+                            "x": 195,
+                            "y": 292
+                        }
+                    ],
+                    "span": {
+                        "offset": 104,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CONDITION",
+                    "polygon": [
+                        {
+                            "x": 351,
+                            "y": 280
+                        },
+                        {
+                            "x": 417,
+                            "y": 279
+                        },
+                        {
+                            "x": 417,
+                            "y": 296
+                        },
+                        {
+                            "x": 351,
+                            "y": 295
+                        }
+                    ],
+                    "span": {
+                        "offset": 111,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "OF",
+                    "polygon": [
+                        {
+                            "x": 422,
+                            "y": 278
+                        },
+                        {
+                            "x": 439,
+                            "y": 278
+                        },
+                        {
+                            "x": 439,
+                            "y": 295
+                        },
+                        {
+                            "x": 422,
+                            "y": 296
+                        }
+                    ],
+                    "span": {
+                        "offset": 121,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SHIPMENT!",
+                    "polygon": [
+                        {
+                            "x": 444,
+                            "y": 278
+                        },
+                        {
+                            "x": 512,
+                            "y": 277
+                        },
+                        {
+                            "x": 512,
+                            "y": 295
+                        },
+                        {
+                            "x": 445,
+                            "y": 295
+                        }
+                    ],
+                    "span": {
+                        "offset": 124,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "GOOD",
+                    "polygon": [
+                        {
+                            "x": 524,
+                            "y": 277
+                        },
+                        {
+                            "x": 555,
+                            "y": 277
+                        },
+                        {
+                            "x": 555,
+                            "y": 294
+                        },
+                        {
+                            "x": 524,
+                            "y": 295
+                        }
+                    ],
+                    "span": {
+                        "offset": 134,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "BROKEN",
+                    "polygon": [
+                        {
+                            "x": 585,
+                            "y": 278
+                        },
+                        {
+                            "x": 630,
+                            "y": 277
+                        },
+                        {
+                            "x": 630,
+                            "y": 293
+                        },
+                        {
+                            "x": 585,
+                            "y": 293
+                        }
+                    ],
+                    "span": {
+                        "offset": 139,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SHIPPED",
+                    "polygon": [
+                        {
+                            "x": 135,
+                            "y": 327
+                        },
+                        {
+                            "x": 189,
+                            "y": 325
+                        },
+                        {
+                            "x": 189,
+                            "y": 342
+                        },
+                        {
+                            "x": 136,
+                            "y": 342
+                        }
+                    ],
+                    "span": {
+                        "offset": 146,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "VIA:",
+                    "polygon": [
+                        {
+                            "x": 194,
+                            "y": 325
+                        },
+                        {
+                            "x": 226,
+                            "y": 325
+                        },
+                        {
+                            "x": 226,
+                            "y": 341
+                        },
+                        {
+                            "x": 195,
+                            "y": 342
+                        }
+                    ],
+                    "span": {
+                        "offset": 154,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Direct",
+                    "polygon": [
+                        {
+                            "x": 251,
+                            "y": 326
+                        },
+                        {
+                            "x": 294,
+                            "y": 326
+                        },
+                        {
+                            "x": 294,
+                            "y": 339
+                        },
+                        {
+                            "x": 251,
+                            "y": 340
+                        }
+                    ],
+                    "span": {
+                        "offset": 159,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Express",
+                    "polygon": [
+                        {
+                            "x": 300,
+                            "y": 325
+                        },
+                        {
+                            "x": 351,
+                            "y": 325
+                        },
+                        {
+                            "x": 351,
+                            "y": 338
+                        },
+                        {
+                            "x": 301,
+                            "y": 339
+                        }
+                    ],
+                    "span": {
+                        "offset": 166,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PHYSICAL",
+                    "polygon": [
+                        {
+                            "x": 134,
+                            "y": 370
+                        },
+                        {
+                            "x": 194,
+                            "y": 369
+                        },
+                        {
+                            "x": 195,
+                            "y": 384
+                        },
+                        {
+                            "x": 134,
+                            "y": 386
+                        }
+                    ],
+                    "span": {
+                        "offset": 174,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DESCRIPTION:",
+                    "polygon": [
+                        {
+                            "x": 201,
+                            "y": 368
+                        },
+                        {
+                            "x": 293,
+                            "y": 366
+                        },
+                        {
+                            "x": 293,
+                            "y": 381
+                        },
+                        {
+                            "x": 201,
+                            "y": 384
+                        }
+                    ],
+                    "span": {
+                        "offset": 183,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Clear",
+                    "polygon": [
+                        {
+                            "x": 302,
+                            "y": 366
+                        },
+                        {
+                            "x": 339,
+                            "y": 365
+                        },
+                        {
+                            "x": 339,
+                            "y": 380
+                        },
+                        {
+                            "x": 302,
+                            "y": 381
+                        }
+                    ],
+                    "span": {
+                        "offset": 196,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "brown",
+                    "polygon": [
+                        {
+                            "x": 344,
+                            "y": 364
+                        },
+                        {
+                            "x": 381,
+                            "y": 363
+                        },
+                        {
+                            "x": 381,
+                            "y": 379
+                        },
+                        {
+                            "x": 344,
+                            "y": 380
+                        }
+                    ],
+                    "span": {
+                        "offset": 202,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "liquid",
+                    "polygon": [
+                        {
+                            "x": 388,
+                            "y": 363
+                        },
+                        {
+                            "x": 431,
+                            "y": 362
+                        },
+                        {
+                            "x": 431,
+                            "y": 378
+                        },
+                        {
+                            "x": 388,
+                            "y": 379
+                        }
+                    ],
+                    "span": {
+                        "offset": 208,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NO.",
+                    "polygon": [
+                        {
+                            "x": 132,
+                            "y": 414
+                        },
+                        {
+                            "x": 156,
+                            "y": 413
+                        },
+                        {
+                            "x": 156,
+                            "y": 429
+                        },
+                        {
+                            "x": 132,
+                            "y": 430
+                        }
+                    ],
+                    "span": {
+                        "offset": 215,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "OF",
+                    "polygon": [
+                        {
+                            "x": 163,
+                            "y": 413
+                        },
+                        {
+                            "x": 179,
+                            "y": 413
+                        },
+                        {
+                            "x": 179,
+                            "y": 429
+                        },
+                        {
+                            "x": 163,
+                            "y": 429
+                        }
+                    ],
+                    "span": {
+                        "offset": 219,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CONTAINERS:",
+                    "polygon": [
+                        {
+                            "x": 185,
+                            "y": 413
+                        },
+                        {
+                            "x": 267,
+                            "y": 412
+                        },
+                        {
+                            "x": 267,
+                            "y": 428
+                        },
+                        {
+                            "x": 185,
+                            "y": 429
+                        }
+                    ],
+                    "span": {
+                        "offset": 222,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "one",
+                    "polygon": [
+                        {
+                            "x": 303,
+                            "y": 410
+                        },
+                        {
+                            "x": 323,
+                            "y": 410
+                        },
+                        {
+                            "x": 322,
+                            "y": 423
+                        },
+                        {
+                            "x": 303,
+                            "y": 422
+                        }
+                    ],
+                    "span": {
+                        "offset": 234,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "GROSS",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 458
+                        },
+                        {
+                            "x": 171,
+                            "y": 457
+                        },
+                        {
+                            "x": 172,
+                            "y": 472
+                        },
+                        {
+                            "x": 132,
+                            "y": 473
+                        }
+                    ],
+                    "span": {
+                        "offset": 238,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "WEIGHT:",
+                    "polygon": [
+                        {
+                            "x": 177,
+                            "y": 457
+                        },
+                        {
+                            "x": 233,
+                            "y": 455
+                        },
+                        {
+                            "x": 233,
+                            "y": 471
+                        },
+                        {
+                            "x": 177,
+                            "y": 472
+                        }
+                    ],
+                    "span": {
+                        "offset": 244,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Not",
+                    "polygon": [
+                        {
+                            "x": 252,
+                            "y": 455
+                        },
+                        {
+                            "x": 274,
+                            "y": 455
+                        },
+                        {
+                            "x": 274,
+                            "y": 469
+                        },
+                        {
+                            "x": 252,
+                            "y": 470
+                        }
+                    ],
+                    "span": {
+                        "offset": 252,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "provided",
+                    "polygon": [
+                        {
+                            "x": 283,
+                            "y": 454
+                        },
+                        {
+                            "x": 337,
+                            "y": 453
+                        },
+                        {
+                            "x": 337,
+                            "y": 467
+                        },
+                        {
+                            "x": 283,
+                            "y": 469
+                        }
+                    ],
+                    "span": {
+                        "offset": 256,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "LEAFED",
+                    "polygon": [
+                        {
+                            "x": 659,
+                            "y": 278
+                        },
+                        {
+                            "x": 705,
+                            "y": 278
+                        },
+                        {
+                            "x": 705,
+                            "y": 292
+                        },
+                        {
+                            "x": 660,
+                            "y": 291
+                        }
+                    ],
+                    "span": {
+                        "offset": 265,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "NET",
+                    "polygon": [
+                        {
+                            "x": 411,
+                            "y": 453
+                        },
+                        {
+                            "x": 436,
+                            "y": 452
+                        },
+                        {
+                            "x": 436,
+                            "y": 469
+                        },
+                        {
+                            "x": 411,
+                            "y": 468
+                        }
+                    ],
+                    "span": {
+                        "offset": 272,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "WEIGHT",
+                    "polygon": [
+                        {
+                            "x": 439,
+                            "y": 452
+                        },
+                        {
+                            "x": 487,
+                            "y": 451
+                        },
+                        {
+                            "x": 487,
+                            "y": 470
+                        },
+                        {
+                            "x": 439,
+                            "y": 469
+                        }
+                    ],
+                    "span": {
+                        "offset": 276,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(if",
+                    "polygon": [
+                        {
+                            "x": 492,
+                            "y": 451
+                        },
+                        {
+                            "x": 516,
+                            "y": 450
+                        },
+                        {
+                            "x": 516,
+                            "y": 470
+                        },
+                        {
+                            "x": 492,
+                            "y": 470
+                        }
+                    ],
+                    "span": {
+                        "offset": 283,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "provided)",
+                    "polygon": [
+                        {
+                            "x": 519,
+                            "y": 450
+                        },
+                        {
+                            "x": 585,
+                            "y": 449
+                        },
+                        {
+                            "x": 585,
+                            "y": 468
+                        },
+                        {
+                            "x": 519,
+                            "y": 470
+                        }
+                    ],
+                    "span": {
+                        "offset": 287,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        {
+                            "x": 588,
+                            "y": 449
+                        },
+                        {
+                            "x": 597,
+                            "y": 449
+                        },
+                        {
+                            "x": 597,
+                            "y": 467
+                        },
+                        {
+                            "x": 589,
+                            "y": 468
+                        }
+                    ],
+                    "span": {
+                        "offset": 297,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "100",
+                    "polygon": [
+                        {
+                            "x": 600,
+                            "y": 449
+                        },
+                        {
+                            "x": 624,
+                            "y": 448
+                        },
+                        {
+                            "x": 624,
+                            "y": 466
+                        },
+                        {
+                            "x": 601,
+                            "y": 467
+                        }
+                    ],
+                    "span": {
+                        "offset": 299,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "g",
+                    "polygon": [
+                        {
+                            "x": 629,
+                            "y": 448
+                        },
+                        {
+                            "x": 638,
+                            "y": 448
+                        },
+                        {
+                            "x": 639,
+                            "y": 465
+                        },
+                        {
+                            "x": 629,
+                            "y": 466
+                        }
+                    ],
+                    "span": {
+                        "offset": 303,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "EXPIRATION",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 501
+                        },
+                        {
+                            "x": 206,
+                            "y": 499
+                        },
+                        {
+                            "x": 206,
+                            "y": 515
+                        },
+                        {
+                            "x": 131,
+                            "y": 519
+                        }
+                    ],
+                    "span": {
+                        "offset": 305,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DATE:",
+                    "polygon": [
+                        {
+                            "x": 214,
+                            "y": 499
+                        },
+                        {
+                            "x": 253,
+                            "y": 498
+                        },
+                        {
+                            "x": 253,
+                            "y": 513
+                        },
+                        {
+                            "x": 214,
+                            "y": 515
+                        }
+                    ],
+                    "span": {
+                        "offset": 316,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Not",
+                    "polygon": [
+                        {
+                            "x": 263,
+                            "y": 498
+                        },
+                        {
+                            "x": 288,
+                            "y": 497
+                        },
+                        {
+                            "x": 288,
+                            "y": 511
+                        },
+                        {
+                            "x": 263,
+                            "y": 512
+                        }
+                    ],
+                    "span": {
+                        "offset": 322,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "\"ravided",
+                    "polygon": [
+                        {
+                            "x": 293,
+                            "y": 497
+                        },
+                        {
+                            "x": 352,
+                            "y": 496
+                        },
+                        {
+                            "x": 352,
+                            "y": 509
+                        },
+                        {
+                            "x": 293,
+                            "y": 511
+                        }
+                    ],
+                    "span": {
+                        "offset": 326,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SPECIAL",
+                    "polygon": [
+                        {
+                            "x": 130,
+                            "y": 544
+                        },
+                        {
+                            "x": 184,
+                            "y": 543
+                        },
+                        {
+                            "x": 184,
+                            "y": 560
+                        },
+                        {
+                            "x": 130,
+                            "y": 562
+                        }
+                    ],
+                    "span": {
+                        "offset": 335,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "HANDLING",
+                    "polygon": [
+                        {
+                            "x": 189,
+                            "y": 543
+                        },
+                        {
+                            "x": 251,
+                            "y": 541
+                        },
+                        {
+                            "x": 251,
+                            "y": 558
+                        },
+                        {
+                            "x": 189,
+                            "y": 560
+                        }
+                    ],
+                    "span": {
+                        "offset": 343,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "REQUIREMENTS:",
+                    "polygon": [
+                        {
+                            "x": 256,
+                            "y": 541
+                        },
+                        {
+                            "x": 355,
+                            "y": 538
+                        },
+                        {
+                            "x": 355,
+                            "y": 555
+                        },
+                        {
+                            "x": 257,
+                            "y": 558
+                        }
+                    ],
+                    "span": {
+                        "offset": 352,
+                        "length": 13
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Store",
+                    "polygon": [
+                        {
+                            "x": 371,
+                            "y": 538
+                        },
+                        {
+                            "x": 409,
+                            "y": 537
+                        },
+                        {
+                            "x": 409,
+                            "y": 553
+                        },
+                        {
+                            "x": 371,
+                            "y": 554
+                        }
+                    ],
+                    "span": {
+                        "offset": 366,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "refrigerated",
+                    "polygon": [
+                        {
+                            "x": 415,
+                            "y": 537
+                        },
+                        {
+                            "x": 501,
+                            "y": 535
+                        },
+                        {
+                            "x": 501,
+                            "y": 551
+                        },
+                        {
+                            "x": 415,
+                            "y": 553
+                        }
+                    ],
+                    "span": {
+                        "offset": 372,
+                        "length": 12
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "in",
+                    "polygon": [
+                        {
+                            "x": 507,
+                            "y": 535
+                        },
+                        {
+                            "x": 522,
+                            "y": 535
+                        },
+                        {
+                            "x": 522,
+                            "y": 550
+                        },
+                        {
+                            "x": 507,
+                            "y": 550
+                        }
+                    ],
+                    "span": {
+                        "offset": 385,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "dark:",
+                    "polygon": [
+                        {
+                            "x": 529,
+                            "y": 535
+                        },
+                        {
+                            "x": 565,
+                            "y": 534
+                        },
+                        {
+                            "x": 565,
+                            "y": 549
+                        },
+                        {
+                            "x": 529,
+                            "y": 550
+                        }
+                    ],
+                    "span": {
+                        "offset": 388,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RECEIVED",
+                    "polygon": [
+                        {
+                            "x": 127,
+                            "y": 631
+                        },
+                        {
+                            "x": 191,
+                            "y": 629
+                        },
+                        {
+                            "x": 191,
+                            "y": 646
+                        },
+                        {
+                            "x": 128,
+                            "y": 647
+                        }
+                    ],
+                    "span": {
+                        "offset": 394,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "BY:",
+                    "polygon": [
+                        {
+                            "x": 196,
+                            "y": 629
+                        },
+                        {
+                            "x": 221,
+                            "y": 627
+                        },
+                        {
+                            "x": 221,
+                            "y": 646
+                        },
+                        {
+                            "x": 196,
+                            "y": 646
+                        }
+                    ],
+                    "span": {
+                        "offset": 403,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "STUDY",
+                    "polygon": [
+                        {
+                            "x": 126,
+                            "y": 674
+                        },
+                        {
+                            "x": 168,
+                            "y": 674
+                        },
+                        {
+                            "x": 168,
+                            "y": 690
+                        },
+                        {
+                            "x": 127,
+                            "y": 691
+                        }
+                    ],
+                    "span": {
+                        "offset": 407,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DIRECTOR/DEPARTMENT:",
+                    "polygon": [
+                        {
+                            "x": 172,
+                            "y": 674
+                        },
+                        {
+                            "x": 324,
+                            "y": 671
+                        },
+                        {
+                            "x": 324,
+                            "y": 689
+                        },
+                        {
+                            "x": 173,
+                            "y": 690
+                        }
+                    ],
+                    "span": {
+                        "offset": 413,
+                        "length": 20
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Ray",
+                    "polygon": [
+                        {
+                            "x": 351,
+                            "y": 669
+                        },
+                        {
+                            "x": 370,
+                            "y": 669
+                        },
+                        {
+                            "x": 371,
+                            "y": 683
+                        },
+                        {
+                            "x": 352,
+                            "y": 684
+                        }
+                    ],
+                    "span": {
+                        "offset": 434,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        {
+                            "x": 373,
+                            "y": 669
+                        },
+                        {
+                            "x": 376,
+                            "y": 669
+                        },
+                        {
+                            "x": 377,
+                            "y": 683
+                        },
+                        {
+                            "x": 373,
+                            "y": 683
+                        }
+                    ],
+                    "span": {
+                        "offset": 438,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "David",
+                    "polygon": [
+                        {
+                            "x": 379,
+                            "y": 669
+                        },
+                        {
+                            "x": 416,
+                            "y": 668
+                        },
+                        {
+                            "x": 417,
+                            "y": 683
+                        },
+                        {
+                            "x": 380,
+                            "y": 683
+                        }
+                    ],
+                    "span": {
+                        "offset": 440,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DATE:",
+                    "polygon": [
+                        {
+                            "x": 474,
+                            "y": 626
+                        },
+                        {
+                            "x": 511,
+                            "y": 626
+                        },
+                        {
+                            "x": 511,
+                            "y": 640
+                        },
+                        {
+                            "x": 474,
+                            "y": 640
+                        }
+                    ],
+                    "span": {
+                        "offset": 446,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "03/01/90",
+                    "polygon": [
+                        {
+                            "x": 564,
+                            "y": 621
+                        },
+                        {
+                            "x": 623,
+                            "y": 620
+                        },
+                        {
+                            "x": 623,
+                            "y": 635
+                        },
+                        {
+                            "x": 565,
+                            "y": 636
+                        }
+                    ],
+                    "span": {
+                        "offset": 452,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SIGNATURE",
+                    "polygon": [
+                        {
+                            "x": 126,
+                            "y": 718
+                        },
+                        {
+                            "x": 194,
+                            "y": 716
+                        },
+                        {
+                            "x": 195,
+                            "y": 734
+                        },
+                        {
+                            "x": 127,
+                            "y": 734
+                        }
+                    ],
+                    "span": {
+                        "offset": 461,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "OF",
+                    "polygon": [
+                        {
+                            "x": 200,
+                            "y": 716
+                        },
+                        {
+                            "x": 218,
+                            "y": 715
+                        },
+                        {
+                            "x": 218,
+                            "y": 733
+                        },
+                        {
+                            "x": 201,
+                            "y": 734
+                        }
+                    ],
+                    "span": {
+                        "offset": 471,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DEPARTMENT",
+                    "polygon": [
+                        {
+                            "x": 222,
+                            "y": 715
+                        },
+                        {
+                            "x": 300,
+                            "y": 714
+                        },
+                        {
+                            "x": 301,
+                            "y": 732
+                        },
+                        {
+                            "x": 223,
+                            "y": 733
+                        }
+                    ],
+                    "span": {
+                        "offset": 474,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CONSIGNEE:",
+                    "polygon": [
+                        {
+                            "x": 305,
+                            "y": 714
+                        },
+                        {
+                            "x": 379,
+                            "y": 713
+                        },
+                        {
+                            "x": 380,
+                            "y": 730
+                        },
+                        {
+                            "x": 305,
+                            "y": 732
+                        }
+                    ],
+                    "span": {
+                        "offset": 485,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Harold",
+                    "polygon": [
+                        {
+                            "x": 399,
+                            "y": 708
+                        },
+                        {
+                            "x": 480,
+                            "y": 706
+                        },
+                        {
+                            "x": 481,
+                            "y": 733
+                        },
+                        {
+                            "x": 401,
+                            "y": 735
+                        }
+                    ],
+                    "span": {
+                        "offset": 496,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Jane",
+                    "polygon": [
+                        {
+                            "x": 490,
+                            "y": 706
+                        },
+                        {
+                            "x": 555,
+                            "y": 704
+                        },
+                        {
+                            "x": 555,
+                            "y": 734
+                        },
+                        {
+                            "x": 491,
+                            "y": 733
+                        }
+                    ],
+                    "span": {
+                        "offset": 503,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DATE:",
+                    "polygon": [
+                        {
+                            "x": 125,
+                            "y": 760
+                        },
+                        {
+                            "x": 169,
+                            "y": 756
+                        },
+                        {
+                            "x": 169,
+                            "y": 776
+                        },
+                        {
+                            "x": 125,
+                            "y": 776
+                        }
+                    ],
+                    "span": {
+                        "offset": 508,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "03/02/90",
+                    "polygon": [
+                        {
+                            "x": 188,
+                            "y": 755
+                        },
+                        {
+                            "x": 278,
+                            "y": 750
+                        },
+                        {
+                            "x": 278,
+                            "y": 777
+                        },
+                        {
+                            "x": 188,
+                            "y": 776
+                        }
+                    ],
+                    "span": {
+                        "offset": 514,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "87137840",
+                    "polygon": [
+                        {
+                            "x": 694,
+                            "y": 802
+                        },
+                        {
+                            "x": 690,
+                            "y": 889
+                        },
+                        {
+                            "x": 670,
+                            "y": 888
+                        },
+                        {
+                            "x": 674,
+                            "y": 802
+                        }
+                    ],
+                    "span": {
+                        "offset": 523,
+                        "length": 8
+                    },
+                    "confidence": 0
+                }
+            ],
+            "selection_marks": [],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 531
+                }
+            ],
+            "barcodes": [],
+            "formulas": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "role": null,
+            "content": "TEST ARTICLE RECEIPT",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 349,
+                            "y": 103
+                        },
+                        {
+                            "x": 500,
+                            "y": 101
+                        },
+                        {
+                            "x": 500,
+                            "y": 118
+                        },
+                        {
+                            "x": 349,
+                            "y": 120
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 20
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "TA #:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 136,
+                            "y": 152
+                        },
+                        {
+                            "x": 179,
+                            "y": 151
+                        },
+                        {
+                            "x": 180,
+                            "y": 167
+                        },
+                        {
+                            "x": 137,
+                            "y": 168
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 21,
+                    "length": 5
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "TO7281A",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 201,
+                            "y": 147
+                        },
+                        {
+                            "x": 256,
+                            "y": 147
+                        },
+                        {
+                            "x": 256,
+                            "y": 162
+                        },
+                        {
+                            "x": 201,
+                            "y": 162
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 27,
+                    "length": 7
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SPONSOR'S NAME:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 136,
+                            "y": 195
+                        },
+                        {
+                            "x": 253,
+                            "y": 193
+                        },
+                        {
+                            "x": 253,
+                            "y": 210
+                        },
+                        {
+                            "x": 136,
+                            "y": 212
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 35,
+                    "length": 15
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Lorillard",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 271,
+                            "y": 190
+                        },
+                        {
+                            "x": 339,
+                            "y": 188
+                        },
+                        {
+                            "x": 339,
+                            "y": 204
+                        },
+                        {
+                            "x": 271,
+                            "y": 206
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 51,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "TEST ARTICLE IDENTIFICATION: : B220",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 136,
+                            "y": 239
+                        },
+                        {
+                            "x": 390,
+                            "y": 234
+                        },
+                        {
+                            "x": 390,
+                            "y": 251
+                        },
+                        {
+                            "x": 136,
+                            "y": 256
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 61,
+                    "length": 35
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "LOT #:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 134,
+                            "y": 283
+                        },
+                        {
+                            "x": 178,
+                            "y": 282
+                        },
+                        {
+                            "x": 179,
+                            "y": 296
+                        },
+                        {
+                            "x": 135,
+                            "y": 297
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 97,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "012590",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 192,
+                            "y": 277
+                        },
+                        {
+                            "x": 241,
+                            "y": 277
+                        },
+                        {
+                            "x": 242,
+                            "y": 291
+                        },
+                        {
+                            "x": 193,
+                            "y": 292
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 104,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CONDITION OF SHIPMENT! GOOD",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 349,
+                            "y": 278
+                        },
+                        {
+                            "x": 572,
+                            "y": 276
+                        },
+                        {
+                            "x": 573,
+                            "y": 293
+                        },
+                        {
+                            "x": 349,
+                            "y": 296
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 111,
+                    "length": 27
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "BROKEN",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 582,
+                            "y": 277
+                        },
+                        {
+                            "x": 634,
+                            "y": 277
+                        },
+                        {
+                            "x": 634,
+                            "y": 292
+                        },
+                        {
+                            "x": 582,
+                            "y": 293
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 139,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SHIPPED VIA:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 134,
+                            "y": 326
+                        },
+                        {
+                            "x": 226,
+                            "y": 325
+                        },
+                        {
+                            "x": 227,
+                            "y": 341
+                        },
+                        {
+                            "x": 134,
+                            "y": 342
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 146,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Direct Express",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 236,
+                            "y": 326
+                        },
+                        {
+                            "x": 351,
+                            "y": 324
+                        },
+                        {
+                            "x": 351,
+                            "y": 337
+                        },
+                        {
+                            "x": 236,
+                            "y": 340
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 159,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "PHYSICAL DESCRIPTION: Clear brown liquid",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 133,
+                            "y": 370
+                        },
+                        {
+                            "x": 435,
+                            "y": 362
+                        },
+                        {
+                            "x": 435,
+                            "y": 378
+                        },
+                        {
+                            "x": 133,
+                            "y": 386
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 174,
+                    "length": 40
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "NO. OF CONTAINERS: one",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 413
+                        },
+                        {
+                            "x": 323,
+                            "y": 410
+                        },
+                        {
+                            "x": 323,
+                            "y": 426
+                        },
+                        {
+                            "x": 131,
+                            "y": 429
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 215,
+                    "length": 22
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "GROSS WEIGHT: Not provided",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 130,
+                            "y": 457
+                        },
+                        {
+                            "x": 340,
+                            "y": 453
+                        },
+                        {
+                            "x": 340,
+                            "y": 468
+                        },
+                        {
+                            "x": 130,
+                            "y": 472
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 238,
+                    "length": 26
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "LEAFED",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 657,
+                            "y": 277
+                        },
+                        {
+                            "x": 707,
+                            "y": 277
+                        },
+                        {
+                            "x": 707,
+                            "y": 291
+                        },
+                        {
+                            "x": 657,
+                            "y": 291
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 265,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "NET WEIGHT (if provided) : 100 g",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 409,
+                            "y": 451
+                        },
+                        {
+                            "x": 641,
+                            "y": 448
+                        },
+                        {
+                            "x": 641,
+                            "y": 467
+                        },
+                        {
+                            "x": 409,
+                            "y": 470
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 272,
+                    "length": 32
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "EXPIRATION DATE: Not \"ravided",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 129,
+                            "y": 501
+                        },
+                        {
+                            "x": 356,
+                            "y": 493
+                        },
+                        {
+                            "x": 357,
+                            "y": 510
+                        },
+                        {
+                            "x": 130,
+                            "y": 518
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 305,
+                    "length": 29
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SPECIAL HANDLING REQUIREMENTS: Store refrigerated in dark:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 129,
+                            "y": 544
+                        },
+                        {
+                            "x": 565,
+                            "y": 533
+                        },
+                        {
+                            "x": 565,
+                            "y": 550
+                        },
+                        {
+                            "x": 129,
+                            "y": 561
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 335,
+                    "length": 58
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RECEIVED BY:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 126,
+                            "y": 629
+                        },
+                        {
+                            "x": 222,
+                            "y": 627
+                        },
+                        {
+                            "x": 222,
+                            "y": 645
+                        },
+                        {
+                            "x": 126,
+                            "y": 647
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 394,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "STUDY DIRECTOR/DEPARTMENT: Ray - David",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 125,
+                            "y": 673
+                        },
+                        {
+                            "x": 423,
+                            "y": 668
+                        },
+                        {
+                            "x": 423,
+                            "y": 686
+                        },
+                        {
+                            "x": 125,
+                            "y": 692
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 407,
+                    "length": 38
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "DATE:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 472,
+                            "y": 626
+                        },
+                        {
+                            "x": 512,
+                            "y": 626
+                        },
+                        {
+                            "x": 512,
+                            "y": 640
+                        },
+                        {
+                            "x": 472,
+                            "y": 640
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 446,
+                    "length": 5
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "03/01/90",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 563,
+                            "y": 620
+                        },
+                        {
+                            "x": 625,
+                            "y": 620
+                        },
+                        {
+                            "x": 626,
+                            "y": 634
+                        },
+                        {
+                            "x": 564,
+                            "y": 635
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 452,
+                    "length": 8
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SIGNATURE OF DEPARTMENT CONSIGNEE: Harold Jane",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 709
+                        },
+                        {
+                            "x": 557,
+                            "y": 704
+                        },
+                        {
+                            "x": 557,
+                            "y": 733
+                        },
+                        {
+                            "x": 124,
+                            "y": 738
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 461,
+                    "length": 46
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "DATE: 03/02/90",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 124,
+                            "y": 754
+                        },
+                        {
+                            "x": 279,
+                            "y": 750
+                        },
+                        {
+                            "x": 280,
+                            "y": 776
+                        },
+                        {
+                            "x": 125,
+                            "y": 780
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 508,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "87137840",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 674,
+                            "y": 800
+                        },
+                        {
+                            "x": 694,
+                            "y": 801
+                        },
+                        {
+                            "x": 690,
+                            "y": 890
+                        },
+                        {
+                            "x": 670,
+                            "y": 889
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 523,
+                    "length": 8
+                }
+            ]
+        }
+    ],
+    "tables": [],
+    "key_value_pairs": [],
+    "styles": [
+        {
+            "is_handwritten": true,
+            "similar_font_family": null,
+            "font_style": null,
+            "font_weight": null,
+            "color": null,
+            "background_color": null,
+            "spans": [
+                {
+                    "offset": 496,
+                    "length": 26
+                }
+            ],
+            "confidence": 1
+        }
+    ],
+    "documents": []
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "text": "Certificate of Achievement Congratulations HARIHARAN K for successfully completing Introduction to Soft Skills Start Date: 03 Feb 2024 End Date: 03 Feb 2024 Cert ID: 66790-25861",
+        "entities": [
+            {
+                "start": 35,
+                "end": 48,
+                "label": "PERSON"
+            },
+            {
+                "start": 71,
+                "end": 94,
+                "label": "COURSE"
+            },
+            {
+                "start": 108,
+                "end": 119,
+                "label": "DATE"
+            },
+            {
+                "start": 132,
+                "end": 143,
+                "label": "DATE"
+            },
+            {
+                "start": 153,
+                "end": 165,
+                "label": "CERTIFICATE_ID"
+            }
+        ]
+    }
+]

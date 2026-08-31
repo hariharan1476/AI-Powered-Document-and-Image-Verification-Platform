@@ -1,0 +1,4980 @@
+{
+    "api_version": "2023-07-31",
+    "model_id": "prebuilt-read",
+    "content": "JAN 19 '96 05:27PM: AB RESEARCH ASSOC.\nP.1/16\nAB Research Associates, Inc.\nTO:\nMARY MAZZA\nFROM:\nPam Churchill\nDATE:\nJAN 19. 1995\nTELECOPIER TRANSMITTAL COVER SHEET\n+\nRevisions\nPAGES:\n(Including this cover sheet)\nRE:\nCIGARETTE QUESTIONNAIRE\nHere is yet another version of the questionnaire. Please note that the last 2 pages are the alternate versions that we discussed. Take a look at the alternate Q9 to try to get at the intensity issue, and maybe we can improve on it from here.\nBy the way, we received 13 more signature cards today and sent the cigarettes out. We are now up to 74 respondents who have been sent cigarettes. Hopefully we will get a lot of callbacks this weekend.\nTalk to you Monday. Thanks\n92298125\n41 Kennsia Avenue. Danburv. CT 06810 Phone 203 794-0323 Fax 203 748-6304",
+    "languages": [],
+    "pages": [
+        {
+            "page_number": 1,
+            "angle": 0,
+            "width": 754,
+            "height": 1000,
+            "unit": "pixel",
+            "lines": [
+                {
+                    "content": "JAN 19 '96 05:27PM: AB RESEARCH ASSOC.",
+                    "polygon": [
+                        {
+                            "x": 86,
+                            "y": 82
+                        },
+                        {
+                            "x": 336,
+                            "y": 81
+                        },
+                        {
+                            "x": 336,
+                            "y": 98
+                        },
+                        {
+                            "x": 86,
+                            "y": 99
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 38
+                        }
+                    ]
+                },
+                {
+                    "content": "P.1/16",
+                    "polygon": [
+                        {
+                            "x": 597,
+                            "y": 80
+                        },
+                        {
+                            "x": 641,
+                            "y": 80
+                        },
+                        {
+                            "x": 641,
+                            "y": 93
+                        },
+                        {
+                            "x": 597,
+                            "y": 93
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 39,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "AB Research Associates, Inc.",
+                    "polygon": [
+                        {
+                            "x": 70,
+                            "y": 116
+                        },
+                        {
+                            "x": 350,
+                            "y": 114
+                        },
+                        {
+                            "x": 351,
+                            "y": 142
+                        },
+                        {
+                            "x": 70,
+                            "y": 146
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 46,
+                            "length": 28
+                        }
+                    ]
+                },
+                {
+                    "content": "TO:",
+                    "polygon": [
+                        {
+                            "x": 95,
+                            "y": 225
+                        },
+                        {
+                            "x": 122,
+                            "y": 225
+                        },
+                        {
+                            "x": 122,
+                            "y": 241
+                        },
+                        {
+                            "x": 95,
+                            "y": 240
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 75,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "MARY MAZZA",
+                    "polygon": [
+                        {
+                            "x": 175,
+                            "y": 223
+                        },
+                        {
+                            "x": 269,
+                            "y": 221
+                        },
+                        {
+                            "x": 269,
+                            "y": 238
+                        },
+                        {
+                            "x": 175,
+                            "y": 240
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 79,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "FROM:",
+                    "polygon": [
+                        {
+                            "x": 95,
+                            "y": 256
+                        },
+                        {
+                            "x": 142,
+                            "y": 256
+                        },
+                        {
+                            "x": 142,
+                            "y": 272
+                        },
+                        {
+                            "x": 95,
+                            "y": 272
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 90,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Pam Churchill",
+                    "polygon": [
+                        {
+                            "x": 176,
+                            "y": 255
+                        },
+                        {
+                            "x": 264,
+                            "y": 254
+                        },
+                        {
+                            "x": 264,
+                            "y": 270
+                        },
+                        {
+                            "x": 177,
+                            "y": 271
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 96,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "DATE:",
+                    "polygon": [
+                        {
+                            "x": 95,
+                            "y": 288
+                        },
+                        {
+                            "x": 137,
+                            "y": 288
+                        },
+                        {
+                            "x": 137,
+                            "y": 303
+                        },
+                        {
+                            "x": 95,
+                            "y": 303
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 110,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "JAN 19. 1995",
+                    "polygon": [
+                        {
+                            "x": 177,
+                            "y": 287
+                        },
+                        {
+                            "x": 265,
+                            "y": 285
+                        },
+                        {
+                            "x": 266,
+                            "y": 300
+                        },
+                        {
+                            "x": 178,
+                            "y": 303
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 116,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "TELECOPIER TRANSMITTAL COVER SHEET",
+                    "polygon": [
+                        {
+                            "x": 214,
+                            "y": 189
+                        },
+                        {
+                            "x": 508,
+                            "y": 186
+                        },
+                        {
+                            "x": 509,
+                            "y": 204
+                        },
+                        {
+                            "x": 214,
+                            "y": 208
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 129,
+                            "length": 34
+                        }
+                    ]
+                },
+                {
+                    "content": "+",
+                    "polygon": [
+                        {
+                            "x": 543,
+                            "y": 210
+                        },
+                        {
+                            "x": 558,
+                            "y": 208
+                        },
+                        {
+                            "x": 561,
+                            "y": 234
+                        },
+                        {
+                            "x": 546,
+                            "y": 236
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 164,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Revisions",
+                    "polygon": [
+                        {
+                            "x": 538,
+                            "y": 261
+                        },
+                        {
+                            "x": 652,
+                            "y": 233
+                        },
+                        {
+                            "x": 662,
+                            "y": 269
+                        },
+                        {
+                            "x": 545,
+                            "y": 297
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 166,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "PAGES:",
+                    "polygon": [
+                        {
+                            "x": 97,
+                            "y": 316
+                        },
+                        {
+                            "x": 147,
+                            "y": 314
+                        },
+                        {
+                            "x": 148,
+                            "y": 338
+                        },
+                        {
+                            "x": 97,
+                            "y": 338
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 176,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "(Including this cover sheet)",
+                    "polygon": [
+                        {
+                            "x": 302,
+                            "y": 315
+                        },
+                        {
+                            "x": 470,
+                            "y": 312
+                        },
+                        {
+                            "x": 470,
+                            "y": 332
+                        },
+                        {
+                            "x": 302,
+                            "y": 334
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 183,
+                            "length": 28
+                        }
+                    ]
+                },
+                {
+                    "content": "RE:",
+                    "polygon": [
+                        {
+                            "x": 97,
+                            "y": 352
+                        },
+                        {
+                            "x": 121,
+                            "y": 352
+                        },
+                        {
+                            "x": 121,
+                            "y": 366
+                        },
+                        {
+                            "x": 98,
+                            "y": 366
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 212,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "CIGARETTE QUESTIONNAIRE",
+                    "polygon": [
+                        {
+                            "x": 187,
+                            "y": 348
+                        },
+                        {
+                            "x": 384,
+                            "y": 345
+                        },
+                        {
+                            "x": 385,
+                            "y": 364
+                        },
+                        {
+                            "x": 187,
+                            "y": 367
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 216,
+                            "length": 23
+                        }
+                    ]
+                },
+                {
+                    "content": "Here is yet another version of the questionnaire. Please note that the last 2 pages are",
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 430
+                        },
+                        {
+                            "x": 635,
+                            "y": 422
+                        },
+                        {
+                            "x": 635,
+                            "y": 439
+                        },
+                        {
+                            "x": 99,
+                            "y": 449
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 240,
+                            "length": 87
+                        }
+                    ]
+                },
+                {
+                    "content": "the alternate versions that we discussed. Take a look at the alternate Q9 to try to get at",
+                    "polygon": [
+                        {
+                            "x": 98,
+                            "y": 447
+                        },
+                        {
+                            "x": 635,
+                            "y": 438
+                        },
+                        {
+                            "x": 636,
+                            "y": 455
+                        },
+                        {
+                            "x": 98,
+                            "y": 464
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 328,
+                            "length": 90
+                        }
+                    ]
+                },
+                {
+                    "content": "the intensity issue, and maybe we can improve on it from here.",
+                    "polygon": [
+                        {
+                            "x": 98,
+                            "y": 463
+                        },
+                        {
+                            "x": 487,
+                            "y": 456
+                        },
+                        {
+                            "x": 488,
+                            "y": 473
+                        },
+                        {
+                            "x": 98,
+                            "y": 480
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 419,
+                            "length": 62
+                        }
+                    ]
+                },
+                {
+                    "content": "By the way, we received 13 more signature cards today and sent the cigarettes out. We",
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 494
+                        },
+                        {
+                            "x": 636,
+                            "y": 484
+                        },
+                        {
+                            "x": 636,
+                            "y": 503
+                        },
+                        {
+                            "x": 99,
+                            "y": 513
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 482,
+                            "length": 85
+                        }
+                    ]
+                },
+                {
+                    "content": "are now up to 74 respondents who have been sent cigarettes. Hopefully we will get a lot",
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 510
+                        },
+                        {
+                            "x": 637,
+                            "y": 501
+                        },
+                        {
+                            "x": 637,
+                            "y": 519
+                        },
+                        {
+                            "x": 99,
+                            "y": 528
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 568,
+                            "length": 87
+                        }
+                    ]
+                },
+                {
+                    "content": "of callbacks this weekend.",
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 526
+                        },
+                        {
+                            "x": 265,
+                            "y": 523
+                        },
+                        {
+                            "x": 265,
+                            "y": 541
+                        },
+                        {
+                            "x": 99,
+                            "y": 544
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 656,
+                            "length": 26
+                        }
+                    ]
+                },
+                {
+                    "content": "Talk to you Monday. Thanks",
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 558
+                        },
+                        {
+                            "x": 285,
+                            "y": 554
+                        },
+                        {
+                            "x": 285,
+                            "y": 573
+                        },
+                        {
+                            "x": 99,
+                            "y": 576
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 683,
+                            "length": 26
+                        }
+                    ]
+                },
+                {
+                    "content": "92298125",
+                    "polygon": [
+                        {
+                            "x": 644,
+                            "y": 809
+                        },
+                        {
+                            "x": 644,
+                            "y": 879
+                        },
+                        {
+                            "x": 628,
+                            "y": 879
+                        },
+                        {
+                            "x": 628,
+                            "y": 809
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 710,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "41 Kennsia Avenue. Danburv. CT 06810 Phone 203 794-0323 Fax 203 748-6304",
+                    "polygon": [
+                        {
+                            "x": 116,
+                            "y": 937
+                        },
+                        {
+                            "x": 623,
+                            "y": 933
+                        },
+                        {
+                            "x": 623,
+                            "y": 950
+                        },
+                        {
+                            "x": 116,
+                            "y": 956
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 719,
+                            "length": 72
+                        }
+                    ]
+                }
+            ],
+            "words": [
+                {
+                    "content": "JAN",
+                    "polygon": [
+                        {
+                            "x": 88,
+                            "y": 83
+                        },
+                        {
+                            "x": 108,
+                            "y": 83
+                        },
+                        {
+                            "x": 108,
+                            "y": 99
+                        },
+                        {
+                            "x": 88,
+                            "y": 99
+                        }
+                    ],
+                    "span": {
+                        "offset": 0,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "19",
+                    "polygon": [
+                        {
+                            "x": 114,
+                            "y": 83
+                        },
+                        {
+                            "x": 129,
+                            "y": 83
+                        },
+                        {
+                            "x": 129,
+                            "y": 99
+                        },
+                        {
+                            "x": 115,
+                            "y": 99
+                        }
+                    ],
+                    "span": {
+                        "offset": 4,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "'96",
+                    "polygon": [
+                        {
+                            "x": 134,
+                            "y": 83
+                        },
+                        {
+                            "x": 155,
+                            "y": 83
+                        },
+                        {
+                            "x": 155,
+                            "y": 99
+                        },
+                        {
+                            "x": 134,
+                            "y": 99
+                        }
+                    ],
+                    "span": {
+                        "offset": 7,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "05:27PM:",
+                    "polygon": [
+                        {
+                            "x": 166,
+                            "y": 83
+                        },
+                        {
+                            "x": 215,
+                            "y": 83
+                        },
+                        {
+                            "x": 215,
+                            "y": 98
+                        },
+                        {
+                            "x": 166,
+                            "y": 99
+                        }
+                    ],
+                    "span": {
+                        "offset": 11,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "AB",
+                    "polygon": [
+                        {
+                            "x": 218,
+                            "y": 83
+                        },
+                        {
+                            "x": 233,
+                            "y": 83
+                        },
+                        {
+                            "x": 233,
+                            "y": 98
+                        },
+                        {
+                            "x": 218,
+                            "y": 98
+                        }
+                    ],
+                    "span": {
+                        "offset": 20,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RESEARCH",
+                    "polygon": [
+                        {
+                            "x": 237,
+                            "y": 83
+                        },
+                        {
+                            "x": 290,
+                            "y": 82
+                        },
+                        {
+                            "x": 290,
+                            "y": 98
+                        },
+                        {
+                            "x": 237,
+                            "y": 98
+                        }
+                    ],
+                    "span": {
+                        "offset": 23,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "ASSOC.",
+                    "polygon": [
+                        {
+                            "x": 296,
+                            "y": 82
+                        },
+                        {
+                            "x": 336,
+                            "y": 81
+                        },
+                        {
+                            "x": 336,
+                            "y": 99
+                        },
+                        {
+                            "x": 296,
+                            "y": 98
+                        }
+                    ],
+                    "span": {
+                        "offset": 32,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "P.1/16",
+                    "polygon": [
+                        {
+                            "x": 599,
+                            "y": 82
+                        },
+                        {
+                            "x": 638,
+                            "y": 81
+                        },
+                        {
+                            "x": 639,
+                            "y": 94
+                        },
+                        {
+                            "x": 599,
+                            "y": 94
+                        }
+                    ],
+                    "span": {
+                        "offset": 39,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "AB",
+                    "polygon": [
+                        {
+                            "x": 75,
+                            "y": 116
+                        },
+                        {
+                            "x": 105,
+                            "y": 116
+                        },
+                        {
+                            "x": 105,
+                            "y": 145
+                        },
+                        {
+                            "x": 75,
+                            "y": 146
+                        }
+                    ],
+                    "span": {
+                        "offset": 46,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Research",
+                    "polygon": [
+                        {
+                            "x": 112,
+                            "y": 116
+                        },
+                        {
+                            "x": 203,
+                            "y": 115
+                        },
+                        {
+                            "x": 203,
+                            "y": 143
+                        },
+                        {
+                            "x": 112,
+                            "y": 145
+                        }
+                    ],
+                    "span": {
+                        "offset": 49,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Associates,",
+                    "polygon": [
+                        {
+                            "x": 209,
+                            "y": 115
+                        },
+                        {
+                            "x": 309,
+                            "y": 115
+                        },
+                        {
+                            "x": 309,
+                            "y": 142
+                        },
+                        {
+                            "x": 209,
+                            "y": 143
+                        }
+                    ],
+                    "span": {
+                        "offset": 58,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Inc.",
+                    "polygon": [
+                        {
+                            "x": 314,
+                            "y": 114
+                        },
+                        {
+                            "x": 350,
+                            "y": 114
+                        },
+                        {
+                            "x": 350,
+                            "y": 142
+                        },
+                        {
+                            "x": 315,
+                            "y": 142
+                        }
+                    ],
+                    "span": {
+                        "offset": 70,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TO:",
+                    "polygon": [
+                        {
+                            "x": 97,
+                            "y": 225
+                        },
+                        {
+                            "x": 122,
+                            "y": 225
+                        },
+                        {
+                            "x": 121,
+                            "y": 241
+                        },
+                        {
+                            "x": 97,
+                            "y": 241
+                        }
+                    ],
+                    "span": {
+                        "offset": 75,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MARY",
+                    "polygon": [
+                        {
+                            "x": 177,
+                            "y": 224
+                        },
+                        {
+                            "x": 217,
+                            "y": 223
+                        },
+                        {
+                            "x": 217,
+                            "y": 240
+                        },
+                        {
+                            "x": 178,
+                            "y": 241
+                        }
+                    ],
+                    "span": {
+                        "offset": 79,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MAZZA",
+                    "polygon": [
+                        {
+                            "x": 220,
+                            "y": 223
+                        },
+                        {
+                            "x": 268,
+                            "y": 222
+                        },
+                        {
+                            "x": 268,
+                            "y": 238
+                        },
+                        {
+                            "x": 221,
+                            "y": 240
+                        }
+                    ],
+                    "span": {
+                        "offset": 84,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "FROM:",
+                    "polygon": [
+                        {
+                            "x": 96,
+                            "y": 257
+                        },
+                        {
+                            "x": 142,
+                            "y": 257
+                        },
+                        {
+                            "x": 142,
+                            "y": 272
+                        },
+                        {
+                            "x": 97,
+                            "y": 272
+                        }
+                    ],
+                    "span": {
+                        "offset": 90,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Pam",
+                    "polygon": [
+                        {
+                            "x": 178,
+                            "y": 256
+                        },
+                        {
+                            "x": 203,
+                            "y": 256
+                        },
+                        {
+                            "x": 203,
+                            "y": 271
+                        },
+                        {
+                            "x": 179,
+                            "y": 272
+                        }
+                    ],
+                    "span": {
+                        "offset": 96,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Churchill",
+                    "polygon": [
+                        {
+                            "x": 211,
+                            "y": 255
+                        },
+                        {
+                            "x": 264,
+                            "y": 254
+                        },
+                        {
+                            "x": 264,
+                            "y": 271
+                        },
+                        {
+                            "x": 212,
+                            "y": 271
+                        }
+                    ],
+                    "span": {
+                        "offset": 100,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "DATE:",
+                    "polygon": [
+                        {
+                            "x": 97,
+                            "y": 288
+                        },
+                        {
+                            "x": 137,
+                            "y": 288
+                        },
+                        {
+                            "x": 137,
+                            "y": 303
+                        },
+                        {
+                            "x": 97,
+                            "y": 303
+                        }
+                    ],
+                    "span": {
+                        "offset": 110,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "JAN",
+                    "polygon": [
+                        {
+                            "x": 180,
+                            "y": 288
+                        },
+                        {
+                            "x": 203,
+                            "y": 287
+                        },
+                        {
+                            "x": 203,
+                            "y": 303
+                        },
+                        {
+                            "x": 180,
+                            "y": 304
+                        }
+                    ],
+                    "span": {
+                        "offset": 116,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "19.",
+                    "polygon": [
+                        {
+                            "x": 211,
+                            "y": 286
+                        },
+                        {
+                            "x": 231,
+                            "y": 286
+                        },
+                        {
+                            "x": 232,
+                            "y": 302
+                        },
+                        {
+                            "x": 212,
+                            "y": 303
+                        }
+                    ],
+                    "span": {
+                        "offset": 120,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "1995",
+                    "polygon": [
+                        {
+                            "x": 234,
+                            "y": 286
+                        },
+                        {
+                            "x": 264,
+                            "y": 285
+                        },
+                        {
+                            "x": 264,
+                            "y": 301
+                        },
+                        {
+                            "x": 235,
+                            "y": 302
+                        }
+                    ],
+                    "span": {
+                        "offset": 124,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TELECOPIER",
+                    "polygon": [
+                        {
+                            "x": 217,
+                            "y": 191
+                        },
+                        {
+                            "x": 304,
+                            "y": 189
+                        },
+                        {
+                            "x": 304,
+                            "y": 208
+                        },
+                        {
+                            "x": 217,
+                            "y": 209
+                        }
+                    ],
+                    "span": {
+                        "offset": 129,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "TRANSMITTAL",
+                    "polygon": [
+                        {
+                            "x": 309,
+                            "y": 189
+                        },
+                        {
+                            "x": 404,
+                            "y": 187
+                        },
+                        {
+                            "x": 405,
+                            "y": 206
+                        },
+                        {
+                            "x": 309,
+                            "y": 208
+                        }
+                    ],
+                    "span": {
+                        "offset": 140,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "COVER",
+                    "polygon": [
+                        {
+                            "x": 408,
+                            "y": 187
+                        },
+                        {
+                            "x": 457,
+                            "y": 187
+                        },
+                        {
+                            "x": 457,
+                            "y": 205
+                        },
+                        {
+                            "x": 408,
+                            "y": 206
+                        }
+                    ],
+                    "span": {
+                        "offset": 152,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "SHEET",
+                    "polygon": [
+                        {
+                            "x": 462,
+                            "y": 186
+                        },
+                        {
+                            "x": 509,
+                            "y": 186
+                        },
+                        {
+                            "x": 509,
+                            "y": 204
+                        },
+                        {
+                            "x": 462,
+                            "y": 205
+                        }
+                    ],
+                    "span": {
+                        "offset": 158,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "+",
+                    "polygon": [
+                        {
+                            "x": 547,
+                            "y": 209
+                        },
+                        {
+                            "x": 556,
+                            "y": 208
+                        },
+                        {
+                            "x": 560,
+                            "y": 234
+                        },
+                        {
+                            "x": 550,
+                            "y": 235
+                        }
+                    ],
+                    "span": {
+                        "offset": 164,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Revisions",
+                    "polygon": [
+                        {
+                            "x": 540,
+                            "y": 261
+                        },
+                        {
+                            "x": 654,
+                            "y": 233
+                        },
+                        {
+                            "x": 662,
+                            "y": 269
+                        },
+                        {
+                            "x": 546,
+                            "y": 297
+                        }
+                    ],
+                    "span": {
+                        "offset": 166,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PAGES:",
+                    "polygon": [
+                        {
+                            "x": 97,
+                            "y": 315
+                        },
+                        {
+                            "x": 146,
+                            "y": 314
+                        },
+                        {
+                            "x": 147,
+                            "y": 338
+                        },
+                        {
+                            "x": 97,
+                            "y": 339
+                        }
+                    ],
+                    "span": {
+                        "offset": 176,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "(Including",
+                    "polygon": [
+                        {
+                            "x": 302,
+                            "y": 316
+                        },
+                        {
+                            "x": 361,
+                            "y": 315
+                        },
+                        {
+                            "x": 362,
+                            "y": 333
+                        },
+                        {
+                            "x": 303,
+                            "y": 334
+                        }
+                    ],
+                    "span": {
+                        "offset": 183,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "this",
+                    "polygon": [
+                        {
+                            "x": 365,
+                            "y": 315
+                        },
+                        {
+                            "x": 387,
+                            "y": 314
+                        },
+                        {
+                            "x": 388,
+                            "y": 333
+                        },
+                        {
+                            "x": 365,
+                            "y": 333
+                        }
+                    ],
+                    "span": {
+                        "offset": 194,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "cover",
+                    "polygon": [
+                        {
+                            "x": 391,
+                            "y": 314
+                        },
+                        {
+                            "x": 425,
+                            "y": 313
+                        },
+                        {
+                            "x": 426,
+                            "y": 333
+                        },
+                        {
+                            "x": 391,
+                            "y": 333
+                        }
+                    ],
+                    "span": {
+                        "offset": 199,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "sheet)",
+                    "polygon": [
+                        {
+                            "x": 429,
+                            "y": 313
+                        },
+                        {
+                            "x": 470,
+                            "y": 313
+                        },
+                        {
+                            "x": 470,
+                            "y": 333
+                        },
+                        {
+                            "x": 429,
+                            "y": 333
+                        }
+                    ],
+                    "span": {
+                        "offset": 205,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RE:",
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 352
+                        },
+                        {
+                            "x": 120,
+                            "y": 352
+                        },
+                        {
+                            "x": 120,
+                            "y": 366
+                        },
+                        {
+                            "x": 99,
+                            "y": 366
+                        }
+                    ],
+                    "span": {
+                        "offset": 212,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CIGARETTE",
+                    "polygon": [
+                        {
+                            "x": 190,
+                            "y": 349
+                        },
+                        {
+                            "x": 266,
+                            "y": 348
+                        },
+                        {
+                            "x": 266,
+                            "y": 366
+                        },
+                        {
+                            "x": 190,
+                            "y": 367
+                        }
+                    ],
+                    "span": {
+                        "offset": 216,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "QUESTIONNAIRE",
+                    "polygon": [
+                        {
+                            "x": 269,
+                            "y": 348
+                        },
+                        {
+                            "x": 378,
+                            "y": 346
+                        },
+                        {
+                            "x": 378,
+                            "y": 364
+                        },
+                        {
+                            "x": 270,
+                            "y": 366
+                        }
+                    ],
+                    "span": {
+                        "offset": 226,
+                        "length": 13
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Here",
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 432
+                        },
+                        {
+                            "x": 128,
+                            "y": 431
+                        },
+                        {
+                            "x": 128,
+                            "y": 449
+                        },
+                        {
+                            "x": 100,
+                            "y": 449
+                        }
+                    ],
+                    "span": {
+                        "offset": 240,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "is",
+                    "polygon": [
+                        {
+                            "x": 131,
+                            "y": 431
+                        },
+                        {
+                            "x": 143,
+                            "y": 431
+                        },
+                        {
+                            "x": 144,
+                            "y": 449
+                        },
+                        {
+                            "x": 132,
+                            "y": 449
+                        }
+                    ],
+                    "span": {
+                        "offset": 245,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "yet",
+                    "polygon": [
+                        {
+                            "x": 147,
+                            "y": 431
+                        },
+                        {
+                            "x": 167,
+                            "y": 430
+                        },
+                        {
+                            "x": 167,
+                            "y": 448
+                        },
+                        {
+                            "x": 147,
+                            "y": 449
+                        }
+                    ],
+                    "span": {
+                        "offset": 248,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "another",
+                    "polygon": [
+                        {
+                            "x": 171,
+                            "y": 430
+                        },
+                        {
+                            "x": 218,
+                            "y": 429
+                        },
+                        {
+                            "x": 219,
+                            "y": 447
+                        },
+                        {
+                            "x": 171,
+                            "y": 448
+                        }
+                    ],
+                    "span": {
+                        "offset": 252,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "version",
+                    "polygon": [
+                        {
+                            "x": 222,
+                            "y": 429
+                        },
+                        {
+                            "x": 267,
+                            "y": 428
+                        },
+                        {
+                            "x": 268,
+                            "y": 447
+                        },
+                        {
+                            "x": 222,
+                            "y": 447
+                        }
+                    ],
+                    "span": {
+                        "offset": 260,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "of",
+                    "polygon": [
+                        {
+                            "x": 271,
+                            "y": 428
+                        },
+                        {
+                            "x": 283,
+                            "y": 428
+                        },
+                        {
+                            "x": 283,
+                            "y": 446
+                        },
+                        {
+                            "x": 271,
+                            "y": 447
+                        }
+                    ],
+                    "span": {
+                        "offset": 268,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        {
+                            "x": 286,
+                            "y": 428
+                        },
+                        {
+                            "x": 307,
+                            "y": 427
+                        },
+                        {
+                            "x": 307,
+                            "y": 446
+                        },
+                        {
+                            "x": 287,
+                            "y": 446
+                        }
+                    ],
+                    "span": {
+                        "offset": 271,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "questionnaire.",
+                    "polygon": [
+                        {
+                            "x": 310,
+                            "y": 427
+                        },
+                        {
+                            "x": 399,
+                            "y": 426
+                        },
+                        {
+                            "x": 399,
+                            "y": 444
+                        },
+                        {
+                            "x": 311,
+                            "y": 446
+                        }
+                    ],
+                    "span": {
+                        "offset": 275,
+                        "length": 14
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Please",
+                    "polygon": [
+                        {
+                            "x": 403,
+                            "y": 426
+                        },
+                        {
+                            "x": 444,
+                            "y": 425
+                        },
+                        {
+                            "x": 444,
+                            "y": 443
+                        },
+                        {
+                            "x": 404,
+                            "y": 444
+                        }
+                    ],
+                    "span": {
+                        "offset": 290,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "note",
+                    "polygon": [
+                        {
+                            "x": 448,
+                            "y": 425
+                        },
+                        {
+                            "x": 475,
+                            "y": 425
+                        },
+                        {
+                            "x": 475,
+                            "y": 443
+                        },
+                        {
+                            "x": 448,
+                            "y": 443
+                        }
+                    ],
+                    "span": {
+                        "offset": 297,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "that",
+                    "polygon": [
+                        {
+                            "x": 479,
+                            "y": 424
+                        },
+                        {
+                            "x": 503,
+                            "y": 424
+                        },
+                        {
+                            "x": 503,
+                            "y": 442
+                        },
+                        {
+                            "x": 479,
+                            "y": 443
+                        }
+                    ],
+                    "span": {
+                        "offset": 302,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        {
+                            "x": 506,
+                            "y": 424
+                        },
+                        {
+                            "x": 525,
+                            "y": 424
+                        },
+                        {
+                            "x": 526,
+                            "y": 442
+                        },
+                        {
+                            "x": 506,
+                            "y": 442
+                        }
+                    ],
+                    "span": {
+                        "offset": 307,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "last",
+                    "polygon": [
+                        {
+                            "x": 529,
+                            "y": 424
+                        },
+                        {
+                            "x": 554,
+                            "y": 423
+                        },
+                        {
+                            "x": 554,
+                            "y": 442
+                        },
+                        {
+                            "x": 529,
+                            "y": 442
+                        }
+                    ],
+                    "span": {
+                        "offset": 311,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "2",
+                    "polygon": [
+                        {
+                            "x": 557,
+                            "y": 423
+                        },
+                        {
+                            "x": 565,
+                            "y": 423
+                        },
+                        {
+                            "x": 565,
+                            "y": 441
+                        },
+                        {
+                            "x": 558,
+                            "y": 442
+                        }
+                    ],
+                    "span": {
+                        "offset": 316,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "pages",
+                    "polygon": [
+                        {
+                            "x": 568,
+                            "y": 423
+                        },
+                        {
+                            "x": 609,
+                            "y": 423
+                        },
+                        {
+                            "x": 609,
+                            "y": 441
+                        },
+                        {
+                            "x": 569,
+                            "y": 441
+                        }
+                    ],
+                    "span": {
+                        "offset": 318,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "are",
+                    "polygon": [
+                        {
+                            "x": 612,
+                            "y": 423
+                        },
+                        {
+                            "x": 634,
+                            "y": 422
+                        },
+                        {
+                            "x": 634,
+                            "y": 440
+                        },
+                        {
+                            "x": 613,
+                            "y": 441
+                        }
+                    ],
+                    "span": {
+                        "offset": 324,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 448
+                        },
+                        {
+                            "x": 119,
+                            "y": 447
+                        },
+                        {
+                            "x": 119,
+                            "y": 464
+                        },
+                        {
+                            "x": 99,
+                            "y": 465
+                        }
+                    ],
+                    "span": {
+                        "offset": 328,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "alternate",
+                    "polygon": [
+                        {
+                            "x": 122,
+                            "y": 447
+                        },
+                        {
+                            "x": 176,
+                            "y": 446
+                        },
+                        {
+                            "x": 176,
+                            "y": 463
+                        },
+                        {
+                            "x": 122,
+                            "y": 464
+                        }
+                    ],
+                    "span": {
+                        "offset": 332,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "versions",
+                    "polygon": [
+                        {
+                            "x": 179,
+                            "y": 446
+                        },
+                        {
+                            "x": 230,
+                            "y": 445
+                        },
+                        {
+                            "x": 231,
+                            "y": 463
+                        },
+                        {
+                            "x": 179,
+                            "y": 463
+                        }
+                    ],
+                    "span": {
+                        "offset": 342,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "that",
+                    "polygon": [
+                        {
+                            "x": 234,
+                            "y": 445
+                        },
+                        {
+                            "x": 257,
+                            "y": 445
+                        },
+                        {
+                            "x": 258,
+                            "y": 462
+                        },
+                        {
+                            "x": 234,
+                            "y": 462
+                        }
+                    ],
+                    "span": {
+                        "offset": 351,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "we",
+                    "polygon": [
+                        {
+                            "x": 261,
+                            "y": 445
+                        },
+                        {
+                            "x": 279,
+                            "y": 444
+                        },
+                        {
+                            "x": 279,
+                            "y": 462
+                        },
+                        {
+                            "x": 261,
+                            "y": 462
+                        }
+                    ],
+                    "span": {
+                        "offset": 356,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "discussed.",
+                    "polygon": [
+                        {
+                            "x": 283,
+                            "y": 444
+                        },
+                        {
+                            "x": 351,
+                            "y": 443
+                        },
+                        {
+                            "x": 351,
+                            "y": 461
+                        },
+                        {
+                            "x": 283,
+                            "y": 462
+                        }
+                    ],
+                    "span": {
+                        "offset": 359,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Take",
+                    "polygon": [
+                        {
+                            "x": 355,
+                            "y": 443
+                        },
+                        {
+                            "x": 385,
+                            "y": 442
+                        },
+                        {
+                            "x": 385,
+                            "y": 460
+                        },
+                        {
+                            "x": 356,
+                            "y": 460
+                        }
+                    ],
+                    "span": {
+                        "offset": 370,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "a",
+                    "polygon": [
+                        {
+                            "x": 388,
+                            "y": 442
+                        },
+                        {
+                            "x": 394,
+                            "y": 442
+                        },
+                        {
+                            "x": 394,
+                            "y": 460
+                        },
+                        {
+                            "x": 389,
+                            "y": 460
+                        }
+                    ],
+                    "span": {
+                        "offset": 375,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "look",
+                    "polygon": [
+                        {
+                            "x": 397,
+                            "y": 442
+                        },
+                        {
+                            "x": 426,
+                            "y": 442
+                        },
+                        {
+                            "x": 426,
+                            "y": 459
+                        },
+                        {
+                            "x": 398,
+                            "y": 460
+                        }
+                    ],
+                    "span": {
+                        "offset": 377,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "at",
+                    "polygon": [
+                        {
+                            "x": 429,
+                            "y": 442
+                        },
+                        {
+                            "x": 440,
+                            "y": 441
+                        },
+                        {
+                            "x": 440,
+                            "y": 459
+                        },
+                        {
+                            "x": 430,
+                            "y": 459
+                        }
+                    ],
+                    "span": {
+                        "offset": 382,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        {
+                            "x": 443,
+                            "y": 441
+                        },
+                        {
+                            "x": 463,
+                            "y": 441
+                        },
+                        {
+                            "x": 464,
+                            "y": 459
+                        },
+                        {
+                            "x": 443,
+                            "y": 459
+                        }
+                    ],
+                    "span": {
+                        "offset": 385,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "alternate",
+                    "polygon": [
+                        {
+                            "x": 467,
+                            "y": 441
+                        },
+                        {
+                            "x": 520,
+                            "y": 440
+                        },
+                        {
+                            "x": 521,
+                            "y": 458
+                        },
+                        {
+                            "x": 467,
+                            "y": 459
+                        }
+                    ],
+                    "span": {
+                        "offset": 389,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Q9",
+                    "polygon": [
+                        {
+                            "x": 524,
+                            "y": 440
+                        },
+                        {
+                            "x": 542,
+                            "y": 440
+                        },
+                        {
+                            "x": 542,
+                            "y": 457
+                        },
+                        {
+                            "x": 524,
+                            "y": 458
+                        }
+                    ],
+                    "span": {
+                        "offset": 399,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "to",
+                    "polygon": [
+                        {
+                            "x": 545,
+                            "y": 440
+                        },
+                        {
+                            "x": 558,
+                            "y": 440
+                        },
+                        {
+                            "x": 558,
+                            "y": 457
+                        },
+                        {
+                            "x": 546,
+                            "y": 457
+                        }
+                    ],
+                    "span": {
+                        "offset": 402,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "try",
+                    "polygon": [
+                        {
+                            "x": 561,
+                            "y": 440
+                        },
+                        {
+                            "x": 577,
+                            "y": 439
+                        },
+                        {
+                            "x": 578,
+                            "y": 457
+                        },
+                        {
+                            "x": 562,
+                            "y": 457
+                        }
+                    ],
+                    "span": {
+                        "offset": 405,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "to",
+                    "polygon": [
+                        {
+                            "x": 581,
+                            "y": 439
+                        },
+                        {
+                            "x": 594,
+                            "y": 439
+                        },
+                        {
+                            "x": 595,
+                            "y": 456
+                        },
+                        {
+                            "x": 581,
+                            "y": 457
+                        }
+                    ],
+                    "span": {
+                        "offset": 409,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "get",
+                    "polygon": [
+                        {
+                            "x": 598,
+                            "y": 439
+                        },
+                        {
+                            "x": 618,
+                            "y": 439
+                        },
+                        {
+                            "x": 619,
+                            "y": 456
+                        },
+                        {
+                            "x": 598,
+                            "y": 456
+                        }
+                    ],
+                    "span": {
+                        "offset": 412,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "at",
+                    "polygon": [
+                        {
+                            "x": 622,
+                            "y": 439
+                        },
+                        {
+                            "x": 635,
+                            "y": 439
+                        },
+                        {
+                            "x": 636,
+                            "y": 456
+                        },
+                        {
+                            "x": 622,
+                            "y": 456
+                        }
+                    ],
+                    "span": {
+                        "offset": 416,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 464
+                        },
+                        {
+                            "x": 118,
+                            "y": 463
+                        },
+                        {
+                            "x": 118,
+                            "y": 480
+                        },
+                        {
+                            "x": 99,
+                            "y": 480
+                        }
+                    ],
+                    "span": {
+                        "offset": 419,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "intensity",
+                    "polygon": [
+                        {
+                            "x": 121,
+                            "y": 463
+                        },
+                        {
+                            "x": 172,
+                            "y": 462
+                        },
+                        {
+                            "x": 173,
+                            "y": 480
+                        },
+                        {
+                            "x": 122,
+                            "y": 480
+                        }
+                    ],
+                    "span": {
+                        "offset": 423,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "issue,",
+                    "polygon": [
+                        {
+                            "x": 176,
+                            "y": 462
+                        },
+                        {
+                            "x": 215,
+                            "y": 461
+                        },
+                        {
+                            "x": 216,
+                            "y": 479
+                        },
+                        {
+                            "x": 177,
+                            "y": 480
+                        }
+                    ],
+                    "span": {
+                        "offset": 433,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "and",
+                    "polygon": [
+                        {
+                            "x": 218,
+                            "y": 461
+                        },
+                        {
+                            "x": 241,
+                            "y": 461
+                        },
+                        {
+                            "x": 242,
+                            "y": 479
+                        },
+                        {
+                            "x": 219,
+                            "y": 479
+                        }
+                    ],
+                    "span": {
+                        "offset": 440,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "maybe",
+                    "polygon": [
+                        {
+                            "x": 244,
+                            "y": 461
+                        },
+                        {
+                            "x": 287,
+                            "y": 460
+                        },
+                        {
+                            "x": 288,
+                            "y": 478
+                        },
+                        {
+                            "x": 245,
+                            "y": 479
+                        }
+                    ],
+                    "span": {
+                        "offset": 444,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "we",
+                    "polygon": [
+                        {
+                            "x": 290,
+                            "y": 460
+                        },
+                        {
+                            "x": 310,
+                            "y": 460
+                        },
+                        {
+                            "x": 310,
+                            "y": 478
+                        },
+                        {
+                            "x": 291,
+                            "y": 478
+                        }
+                    ],
+                    "span": {
+                        "offset": 450,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "can",
+                    "polygon": [
+                        {
+                            "x": 313,
+                            "y": 459
+                        },
+                        {
+                            "x": 335,
+                            "y": 459
+                        },
+                        {
+                            "x": 336,
+                            "y": 477
+                        },
+                        {
+                            "x": 314,
+                            "y": 477
+                        }
+                    ],
+                    "span": {
+                        "offset": 453,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "improve",
+                    "polygon": [
+                        {
+                            "x": 338,
+                            "y": 459
+                        },
+                        {
+                            "x": 388,
+                            "y": 458
+                        },
+                        {
+                            "x": 389,
+                            "y": 476
+                        },
+                        {
+                            "x": 339,
+                            "y": 477
+                        }
+                    ],
+                    "span": {
+                        "offset": 457,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "on",
+                    "polygon": [
+                        {
+                            "x": 392,
+                            "y": 458
+                        },
+                        {
+                            "x": 407,
+                            "y": 458
+                        },
+                        {
+                            "x": 408,
+                            "y": 475
+                        },
+                        {
+                            "x": 393,
+                            "y": 476
+                        }
+                    ],
+                    "span": {
+                        "offset": 465,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "it",
+                    "polygon": [
+                        {
+                            "x": 410,
+                            "y": 458
+                        },
+                        {
+                            "x": 418,
+                            "y": 458
+                        },
+                        {
+                            "x": 419,
+                            "y": 475
+                        },
+                        {
+                            "x": 411,
+                            "y": 475
+                        }
+                    ],
+                    "span": {
+                        "offset": 468,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "from",
+                    "polygon": [
+                        {
+                            "x": 422,
+                            "y": 458
+                        },
+                        {
+                            "x": 447,
+                            "y": 457
+                        },
+                        {
+                            "x": 448,
+                            "y": 474
+                        },
+                        {
+                            "x": 422,
+                            "y": 475
+                        }
+                    ],
+                    "span": {
+                        "offset": 471,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "here.",
+                    "polygon": [
+                        {
+                            "x": 454,
+                            "y": 457
+                        },
+                        {
+                            "x": 487,
+                            "y": 456
+                        },
+                        {
+                            "x": 488,
+                            "y": 473
+                        },
+                        {
+                            "x": 454,
+                            "y": 474
+                        }
+                    ],
+                    "span": {
+                        "offset": 476,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "By",
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 495
+                        },
+                        {
+                            "x": 115,
+                            "y": 494
+                        },
+                        {
+                            "x": 116,
+                            "y": 514
+                        },
+                        {
+                            "x": 100,
+                            "y": 514
+                        }
+                    ],
+                    "span": {
+                        "offset": 482,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        {
+                            "x": 119,
+                            "y": 494
+                        },
+                        {
+                            "x": 138,
+                            "y": 494
+                        },
+                        {
+                            "x": 139,
+                            "y": 513
+                        },
+                        {
+                            "x": 120,
+                            "y": 513
+                        }
+                    ],
+                    "span": {
+                        "offset": 485,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "way,",
+                    "polygon": [
+                        {
+                            "x": 142,
+                            "y": 494
+                        },
+                        {
+                            "x": 170,
+                            "y": 493
+                        },
+                        {
+                            "x": 171,
+                            "y": 512
+                        },
+                        {
+                            "x": 142,
+                            "y": 513
+                        }
+                    ],
+                    "span": {
+                        "offset": 489,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "we",
+                    "polygon": [
+                        {
+                            "x": 174,
+                            "y": 493
+                        },
+                        {
+                            "x": 192,
+                            "y": 493
+                        },
+                        {
+                            "x": 192,
+                            "y": 512
+                        },
+                        {
+                            "x": 175,
+                            "y": 512
+                        }
+                    ],
+                    "span": {
+                        "offset": 494,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "received",
+                    "polygon": [
+                        {
+                            "x": 195,
+                            "y": 493
+                        },
+                        {
+                            "x": 249,
+                            "y": 492
+                        },
+                        {
+                            "x": 250,
+                            "y": 511
+                        },
+                        {
+                            "x": 196,
+                            "y": 512
+                        }
+                    ],
+                    "span": {
+                        "offset": 497,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "13",
+                    "polygon": [
+                        {
+                            "x": 253,
+                            "y": 492
+                        },
+                        {
+                            "x": 265,
+                            "y": 491
+                        },
+                        {
+                            "x": 266,
+                            "y": 510
+                        },
+                        {
+                            "x": 254,
+                            "y": 511
+                        }
+                    ],
+                    "span": {
+                        "offset": 506,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "more",
+                    "polygon": [
+                        {
+                            "x": 269,
+                            "y": 491
+                        },
+                        {
+                            "x": 302,
+                            "y": 491
+                        },
+                        {
+                            "x": 302,
+                            "y": 510
+                        },
+                        {
+                            "x": 270,
+                            "y": 510
+                        }
+                    ],
+                    "span": {
+                        "offset": 509,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "signature",
+                    "polygon": [
+                        {
+                            "x": 306,
+                            "y": 491
+                        },
+                        {
+                            "x": 361,
+                            "y": 490
+                        },
+                        {
+                            "x": 361,
+                            "y": 509
+                        },
+                        {
+                            "x": 306,
+                            "y": 510
+                        }
+                    ],
+                    "span": {
+                        "offset": 514,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "cards",
+                    "polygon": [
+                        {
+                            "x": 364,
+                            "y": 489
+                        },
+                        {
+                            "x": 397,
+                            "y": 489
+                        },
+                        {
+                            "x": 398,
+                            "y": 508
+                        },
+                        {
+                            "x": 365,
+                            "y": 509
+                        }
+                    ],
+                    "span": {
+                        "offset": 524,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "today",
+                    "polygon": [
+                        {
+                            "x": 401,
+                            "y": 489
+                        },
+                        {
+                            "x": 436,
+                            "y": 488
+                        },
+                        {
+                            "x": 436,
+                            "y": 507
+                        },
+                        {
+                            "x": 401,
+                            "y": 508
+                        }
+                    ],
+                    "span": {
+                        "offset": 530,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "and",
+                    "polygon": [
+                        {
+                            "x": 440,
+                            "y": 488
+                        },
+                        {
+                            "x": 462,
+                            "y": 488
+                        },
+                        {
+                            "x": 463,
+                            "y": 507
+                        },
+                        {
+                            "x": 440,
+                            "y": 507
+                        }
+                    ],
+                    "span": {
+                        "offset": 536,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "sent",
+                    "polygon": [
+                        {
+                            "x": 466,
+                            "y": 488
+                        },
+                        {
+                            "x": 490,
+                            "y": 487
+                        },
+                        {
+                            "x": 490,
+                            "y": 506
+                        },
+                        {
+                            "x": 466,
+                            "y": 507
+                        }
+                    ],
+                    "span": {
+                        "offset": 540,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        {
+                            "x": 493,
+                            "y": 487
+                        },
+                        {
+                            "x": 513,
+                            "y": 487
+                        },
+                        {
+                            "x": 514,
+                            "y": 506
+                        },
+                        {
+                            "x": 494,
+                            "y": 506
+                        }
+                    ],
+                    "span": {
+                        "offset": 545,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "cigarettes",
+                    "polygon": [
+                        {
+                            "x": 517,
+                            "y": 487
+                        },
+                        {
+                            "x": 577,
+                            "y": 486
+                        },
+                        {
+                            "x": 578,
+                            "y": 505
+                        },
+                        {
+                            "x": 518,
+                            "y": 506
+                        }
+                    ],
+                    "span": {
+                        "offset": 549,
+                        "length": 10
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "out.",
+                    "polygon": [
+                        {
+                            "x": 581,
+                            "y": 486
+                        },
+                        {
+                            "x": 609,
+                            "y": 485
+                        },
+                        {
+                            "x": 609,
+                            "y": 504
+                        },
+                        {
+                            "x": 581,
+                            "y": 505
+                        }
+                    ],
+                    "span": {
+                        "offset": 560,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "We",
+                    "polygon": [
+                        {
+                            "x": 612,
+                            "y": 485
+                        },
+                        {
+                            "x": 636,
+                            "y": 485
+                        },
+                        {
+                            "x": 637,
+                            "y": 504
+                        },
+                        {
+                            "x": 613,
+                            "y": 504
+                        }
+                    ],
+                    "span": {
+                        "offset": 565,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "are",
+                    "polygon": [
+                        {
+                            "x": 101,
+                            "y": 512
+                        },
+                        {
+                            "x": 118,
+                            "y": 511
+                        },
+                        {
+                            "x": 119,
+                            "y": 528
+                        },
+                        {
+                            "x": 101,
+                            "y": 528
+                        }
+                    ],
+                    "span": {
+                        "offset": 568,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "now",
+                    "polygon": [
+                        {
+                            "x": 122,
+                            "y": 511
+                        },
+                        {
+                            "x": 148,
+                            "y": 511
+                        },
+                        {
+                            "x": 149,
+                            "y": 528
+                        },
+                        {
+                            "x": 123,
+                            "y": 528
+                        }
+                    ],
+                    "span": {
+                        "offset": 572,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "up",
+                    "polygon": [
+                        {
+                            "x": 153,
+                            "y": 511
+                        },
+                        {
+                            "x": 168,
+                            "y": 510
+                        },
+                        {
+                            "x": 169,
+                            "y": 527
+                        },
+                        {
+                            "x": 154,
+                            "y": 528
+                        }
+                    ],
+                    "span": {
+                        "offset": 576,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "to",
+                    "polygon": [
+                        {
+                            "x": 172,
+                            "y": 510
+                        },
+                        {
+                            "x": 186,
+                            "y": 510
+                        },
+                        {
+                            "x": 187,
+                            "y": 527
+                        },
+                        {
+                            "x": 172,
+                            "y": 527
+                        }
+                    ],
+                    "span": {
+                        "offset": 579,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "74",
+                    "polygon": [
+                        {
+                            "x": 190,
+                            "y": 510
+                        },
+                        {
+                            "x": 203,
+                            "y": 509
+                        },
+                        {
+                            "x": 203,
+                            "y": 527
+                        },
+                        {
+                            "x": 190,
+                            "y": 527
+                        }
+                    ],
+                    "span": {
+                        "offset": 582,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "respondents",
+                    "polygon": [
+                        {
+                            "x": 206,
+                            "y": 509
+                        },
+                        {
+                            "x": 283,
+                            "y": 508
+                        },
+                        {
+                            "x": 284,
+                            "y": 526
+                        },
+                        {
+                            "x": 207,
+                            "y": 527
+                        }
+                    ],
+                    "span": {
+                        "offset": 585,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "who",
+                    "polygon": [
+                        {
+                            "x": 287,
+                            "y": 508
+                        },
+                        {
+                            "x": 312,
+                            "y": 507
+                        },
+                        {
+                            "x": 312,
+                            "y": 525
+                        },
+                        {
+                            "x": 288,
+                            "y": 526
+                        }
+                    ],
+                    "span": {
+                        "offset": 597,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "have",
+                    "polygon": [
+                        {
+                            "x": 315,
+                            "y": 507
+                        },
+                        {
+                            "x": 344,
+                            "y": 506
+                        },
+                        {
+                            "x": 345,
+                            "y": 525
+                        },
+                        {
+                            "x": 316,
+                            "y": 525
+                        }
+                    ],
+                    "span": {
+                        "offset": 601,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "been",
+                    "polygon": [
+                        {
+                            "x": 347,
+                            "y": 506
+                        },
+                        {
+                            "x": 378,
+                            "y": 506
+                        },
+                        {
+                            "x": 379,
+                            "y": 524
+                        },
+                        {
+                            "x": 348,
+                            "y": 525
+                        }
+                    ],
+                    "span": {
+                        "offset": 606,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "sent",
+                    "polygon": [
+                        {
+                            "x": 382,
+                            "y": 506
+                        },
+                        {
+                            "x": 407,
+                            "y": 505
+                        },
+                        {
+                            "x": 407,
+                            "y": 524
+                        },
+                        {
+                            "x": 382,
+                            "y": 524
+                        }
+                    ],
+                    "span": {
+                        "offset": 611,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "cigarettes.",
+                    "polygon": [
+                        {
+                            "x": 410,
+                            "y": 505
+                        },
+                        {
+                            "x": 475,
+                            "y": 504
+                        },
+                        {
+                            "x": 476,
+                            "y": 523
+                        },
+                        {
+                            "x": 411,
+                            "y": 524
+                        }
+                    ],
+                    "span": {
+                        "offset": 616,
+                        "length": 11
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Hopefully",
+                    "polygon": [
+                        {
+                            "x": 479,
+                            "y": 504
+                        },
+                        {
+                            "x": 537,
+                            "y": 503
+                        },
+                        {
+                            "x": 538,
+                            "y": 522
+                        },
+                        {
+                            "x": 480,
+                            "y": 523
+                        }
+                    ],
+                    "span": {
+                        "offset": 628,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "we",
+                    "polygon": [
+                        {
+                            "x": 541,
+                            "y": 503
+                        },
+                        {
+                            "x": 559,
+                            "y": 503
+                        },
+                        {
+                            "x": 559,
+                            "y": 521
+                        },
+                        {
+                            "x": 541,
+                            "y": 522
+                        }
+                    ],
+                    "span": {
+                        "offset": 638,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "will",
+                    "polygon": [
+                        {
+                            "x": 562,
+                            "y": 502
+                        },
+                        {
+                            "x": 581,
+                            "y": 502
+                        },
+                        {
+                            "x": 582,
+                            "y": 521
+                        },
+                        {
+                            "x": 563,
+                            "y": 521
+                        }
+                    ],
+                    "span": {
+                        "offset": 641,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "get",
+                    "polygon": [
+                        {
+                            "x": 585,
+                            "y": 502
+                        },
+                        {
+                            "x": 604,
+                            "y": 502
+                        },
+                        {
+                            "x": 604,
+                            "y": 521
+                        },
+                        {
+                            "x": 585,
+                            "y": 521
+                        }
+                    ],
+                    "span": {
+                        "offset": 646,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "a",
+                    "polygon": [
+                        {
+                            "x": 607,
+                            "y": 502
+                        },
+                        {
+                            "x": 614,
+                            "y": 502
+                        },
+                        {
+                            "x": 615,
+                            "y": 520
+                        },
+                        {
+                            "x": 608,
+                            "y": 520
+                        }
+                    ],
+                    "span": {
+                        "offset": 650,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "lot",
+                    "polygon": [
+                        {
+                            "x": 618,
+                            "y": 502
+                        },
+                        {
+                            "x": 637,
+                            "y": 501
+                        },
+                        {
+                            "x": 638,
+                            "y": 520
+                        },
+                        {
+                            "x": 619,
+                            "y": 520
+                        }
+                    ],
+                    "span": {
+                        "offset": 652,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "of",
+                    "polygon": [
+                        {
+                            "x": 100,
+                            "y": 527
+                        },
+                        {
+                            "x": 113,
+                            "y": 527
+                        },
+                        {
+                            "x": 113,
+                            "y": 544
+                        },
+                        {
+                            "x": 101,
+                            "y": 544
+                        }
+                    ],
+                    "span": {
+                        "offset": 656,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "callbacks",
+                    "polygon": [
+                        {
+                            "x": 116,
+                            "y": 527
+                        },
+                        {
+                            "x": 174,
+                            "y": 526
+                        },
+                        {
+                            "x": 175,
+                            "y": 543
+                        },
+                        {
+                            "x": 117,
+                            "y": 544
+                        }
+                    ],
+                    "span": {
+                        "offset": 659,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "this",
+                    "polygon": [
+                        {
+                            "x": 178,
+                            "y": 526
+                        },
+                        {
+                            "x": 201,
+                            "y": 525
+                        },
+                        {
+                            "x": 201,
+                            "y": 542
+                        },
+                        {
+                            "x": 178,
+                            "y": 543
+                        }
+                    ],
+                    "span": {
+                        "offset": 669,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "weekend.",
+                    "polygon": [
+                        {
+                            "x": 204,
+                            "y": 525
+                        },
+                        {
+                            "x": 265,
+                            "y": 524
+                        },
+                        {
+                            "x": 265,
+                            "y": 542
+                        },
+                        {
+                            "x": 204,
+                            "y": 542
+                        }
+                    ],
+                    "span": {
+                        "offset": 674,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Talk",
+                    "polygon": [
+                        {
+                            "x": 102,
+                            "y": 558
+                        },
+                        {
+                            "x": 126,
+                            "y": 558
+                        },
+                        {
+                            "x": 126,
+                            "y": 577
+                        },
+                        {
+                            "x": 102,
+                            "y": 577
+                        }
+                    ],
+                    "span": {
+                        "offset": 683,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "to",
+                    "polygon": [
+                        {
+                            "x": 130,
+                            "y": 558
+                        },
+                        {
+                            "x": 143,
+                            "y": 558
+                        },
+                        {
+                            "x": 144,
+                            "y": 576
+                        },
+                        {
+                            "x": 130,
+                            "y": 576
+                        }
+                    ],
+                    "span": {
+                        "offset": 688,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "you",
+                    "polygon": [
+                        {
+                            "x": 147,
+                            "y": 558
+                        },
+                        {
+                            "x": 170,
+                            "y": 557
+                        },
+                        {
+                            "x": 170,
+                            "y": 576
+                        },
+                        {
+                            "x": 147,
+                            "y": 576
+                        }
+                    ],
+                    "span": {
+                        "offset": 691,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Monday.",
+                    "polygon": [
+                        {
+                            "x": 174,
+                            "y": 557
+                        },
+                        {
+                            "x": 233,
+                            "y": 556
+                        },
+                        {
+                            "x": 234,
+                            "y": 574
+                        },
+                        {
+                            "x": 174,
+                            "y": 576
+                        }
+                    ],
+                    "span": {
+                        "offset": 695,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Thanks",
+                    "polygon": [
+                        {
+                            "x": 239,
+                            "y": 556
+                        },
+                        {
+                            "x": 285,
+                            "y": 555
+                        },
+                        {
+                            "x": 285,
+                            "y": 573
+                        },
+                        {
+                            "x": 240,
+                            "y": 574
+                        }
+                    ],
+                    "span": {
+                        "offset": 703,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "92298125",
+                    "polygon": [
+                        {
+                            "x": 644,
+                            "y": 810
+                        },
+                        {
+                            "x": 645,
+                            "y": 875
+                        },
+                        {
+                            "x": 629,
+                            "y": 876
+                        },
+                        {
+                            "x": 628,
+                            "y": 810
+                        }
+                    ],
+                    "span": {
+                        "offset": 710,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "41",
+                    "polygon": [
+                        {
+                            "x": 117,
+                            "y": 940
+                        },
+                        {
+                            "x": 132,
+                            "y": 940
+                        },
+                        {
+                            "x": 132,
+                            "y": 955
+                        },
+                        {
+                            "x": 117,
+                            "y": 956
+                        }
+                    ],
+                    "span": {
+                        "offset": 719,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Kennsia",
+                    "polygon": [
+                        {
+                            "x": 136,
+                            "y": 940
+                        },
+                        {
+                            "x": 186,
+                            "y": 938
+                        },
+                        {
+                            "x": 186,
+                            "y": 955
+                        },
+                        {
+                            "x": 136,
+                            "y": 955
+                        }
+                    ],
+                    "span": {
+                        "offset": 722,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Avenue.",
+                    "polygon": [
+                        {
+                            "x": 189,
+                            "y": 938
+                        },
+                        {
+                            "x": 238,
+                            "y": 937
+                        },
+                        {
+                            "x": 239,
+                            "y": 955
+                        },
+                        {
+                            "x": 190,
+                            "y": 955
+                        }
+                    ],
+                    "span": {
+                        "offset": 730,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Danburv.",
+                    "polygon": [
+                        {
+                            "x": 242,
+                            "y": 937
+                        },
+                        {
+                            "x": 298,
+                            "y": 936
+                        },
+                        {
+                            "x": 298,
+                            "y": 954
+                        },
+                        {
+                            "x": 242,
+                            "y": 955
+                        }
+                    ],
+                    "span": {
+                        "offset": 738,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CT",
+                    "polygon": [
+                        {
+                            "x": 301,
+                            "y": 936
+                        },
+                        {
+                            "x": 318,
+                            "y": 935
+                        },
+                        {
+                            "x": 318,
+                            "y": 954
+                        },
+                        {
+                            "x": 302,
+                            "y": 954
+                        }
+                    ],
+                    "span": {
+                        "offset": 747,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "06810",
+                    "polygon": [
+                        {
+                            "x": 321,
+                            "y": 935
+                        },
+                        {
+                            "x": 361,
+                            "y": 935
+                        },
+                        {
+                            "x": 361,
+                            "y": 954
+                        },
+                        {
+                            "x": 322,
+                            "y": 954
+                        }
+                    ],
+                    "span": {
+                        "offset": 750,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Phone",
+                    "polygon": [
+                        {
+                            "x": 373,
+                            "y": 935
+                        },
+                        {
+                            "x": 411,
+                            "y": 934
+                        },
+                        {
+                            "x": 411,
+                            "y": 953
+                        },
+                        {
+                            "x": 373,
+                            "y": 954
+                        }
+                    ],
+                    "span": {
+                        "offset": 756,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "203",
+                    "polygon": [
+                        {
+                            "x": 415,
+                            "y": 934
+                        },
+                        {
+                            "x": 437,
+                            "y": 934
+                        },
+                        {
+                            "x": 437,
+                            "y": 953
+                        },
+                        {
+                            "x": 415,
+                            "y": 953
+                        }
+                    ],
+                    "span": {
+                        "offset": 762,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "794-0323",
+                    "polygon": [
+                        {
+                            "x": 440,
+                            "y": 934
+                        },
+                        {
+                            "x": 499,
+                            "y": 934
+                        },
+                        {
+                            "x": 499,
+                            "y": 952
+                        },
+                        {
+                            "x": 441,
+                            "y": 953
+                        }
+                    ],
+                    "span": {
+                        "offset": 766,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Fax",
+                    "polygon": [
+                        {
+                            "x": 509,
+                            "y": 933
+                        },
+                        {
+                            "x": 534,
+                            "y": 933
+                        },
+                        {
+                            "x": 534,
+                            "y": 952
+                        },
+                        {
+                            "x": 510,
+                            "y": 952
+                        }
+                    ],
+                    "span": {
+                        "offset": 775,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "203",
+                    "polygon": [
+                        {
+                            "x": 537,
+                            "y": 933
+                        },
+                        {
+                            "x": 561,
+                            "y": 933
+                        },
+                        {
+                            "x": 561,
+                            "y": 951
+                        },
+                        {
+                            "x": 538,
+                            "y": 952
+                        }
+                    ],
+                    "span": {
+                        "offset": 779,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "748-6304",
+                    "polygon": [
+                        {
+                            "x": 564,
+                            "y": 933
+                        },
+                        {
+                            "x": 622,
+                            "y": 934
+                        },
+                        {
+                            "x": 623,
+                            "y": 950
+                        },
+                        {
+                            "x": 564,
+                            "y": 951
+                        }
+                    ],
+                    "span": {
+                        "offset": 783,
+                        "length": 8
+                    },
+                    "confidence": 0
+                }
+            ],
+            "selection_marks": [],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 791
+                }
+            ],
+            "barcodes": [],
+            "formulas": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "role": null,
+            "content": "JAN 19 '96 05:27PM: AB RESEARCH ASSOC.",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 86,
+                            "y": 82
+                        },
+                        {
+                            "x": 336,
+                            "y": 81
+                        },
+                        {
+                            "x": 336,
+                            "y": 98
+                        },
+                        {
+                            "x": 86,
+                            "y": 99
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 38
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "P.1/16",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 597,
+                            "y": 80
+                        },
+                        {
+                            "x": 641,
+                            "y": 80
+                        },
+                        {
+                            "x": 641,
+                            "y": 93
+                        },
+                        {
+                            "x": 597,
+                            "y": 93
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 39,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "AB Research Associates, Inc.",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 70,
+                            "y": 116
+                        },
+                        {
+                            "x": 351,
+                            "y": 112
+                        },
+                        {
+                            "x": 351,
+                            "y": 142
+                        },
+                        {
+                            "x": 70,
+                            "y": 146
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 46,
+                    "length": 28
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "TO:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 95,
+                            "y": 225
+                        },
+                        {
+                            "x": 122,
+                            "y": 225
+                        },
+                        {
+                            "x": 122,
+                            "y": 241
+                        },
+                        {
+                            "x": 95,
+                            "y": 240
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 75,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MARY MAZZA",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 175,
+                            "y": 223
+                        },
+                        {
+                            "x": 269,
+                            "y": 221
+                        },
+                        {
+                            "x": 269,
+                            "y": 238
+                        },
+                        {
+                            "x": 175,
+                            "y": 240
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 79,
+                    "length": 10
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "FROM:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 95,
+                            "y": 256
+                        },
+                        {
+                            "x": 142,
+                            "y": 256
+                        },
+                        {
+                            "x": 142,
+                            "y": 272
+                        },
+                        {
+                            "x": 95,
+                            "y": 272
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 90,
+                    "length": 5
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Pam Churchill",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 176,
+                            "y": 255
+                        },
+                        {
+                            "x": 264,
+                            "y": 254
+                        },
+                        {
+                            "x": 264,
+                            "y": 270
+                        },
+                        {
+                            "x": 177,
+                            "y": 271
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 96,
+                    "length": 13
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "DATE:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 95,
+                            "y": 288
+                        },
+                        {
+                            "x": 137,
+                            "y": 288
+                        },
+                        {
+                            "x": 137,
+                            "y": 303
+                        },
+                        {
+                            "x": 95,
+                            "y": 303
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 110,
+                    "length": 5
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "JAN 19. 1995",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 177,
+                            "y": 287
+                        },
+                        {
+                            "x": 265,
+                            "y": 285
+                        },
+                        {
+                            "x": 266,
+                            "y": 300
+                        },
+                        {
+                            "x": 178,
+                            "y": 303
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 116,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "TELECOPIER TRANSMITTAL COVER SHEET",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 214,
+                            "y": 189
+                        },
+                        {
+                            "x": 509,
+                            "y": 185
+                        },
+                        {
+                            "x": 509,
+                            "y": 204
+                        },
+                        {
+                            "x": 214,
+                            "y": 208
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 129,
+                    "length": 34
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "+",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 543,
+                            "y": 210
+                        },
+                        {
+                            "x": 558,
+                            "y": 208
+                        },
+                        {
+                            "x": 561,
+                            "y": 234
+                        },
+                        {
+                            "x": 546,
+                            "y": 236
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 164,
+                    "length": 1
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Revisions",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 536,
+                            "y": 261
+                        },
+                        {
+                            "x": 653,
+                            "y": 233
+                        },
+                        {
+                            "x": 662,
+                            "y": 269
+                        },
+                        {
+                            "x": 545,
+                            "y": 297
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 166,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "PAGES:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 97,
+                            "y": 314
+                        },
+                        {
+                            "x": 148,
+                            "y": 314
+                        },
+                        {
+                            "x": 148,
+                            "y": 338
+                        },
+                        {
+                            "x": 97,
+                            "y": 338
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 176,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "(Including this cover sheet)",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 302,
+                            "y": 314
+                        },
+                        {
+                            "x": 470,
+                            "y": 312
+                        },
+                        {
+                            "x": 470,
+                            "y": 332
+                        },
+                        {
+                            "x": 302,
+                            "y": 334
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 183,
+                    "length": 28
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RE:",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 97,
+                            "y": 352
+                        },
+                        {
+                            "x": 121,
+                            "y": 352
+                        },
+                        {
+                            "x": 121,
+                            "y": 366
+                        },
+                        {
+                            "x": 98,
+                            "y": 366
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 212,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "CIGARETTE QUESTIONNAIRE",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 187,
+                            "y": 348
+                        },
+                        {
+                            "x": 384,
+                            "y": 345
+                        },
+                        {
+                            "x": 385,
+                            "y": 364
+                        },
+                        {
+                            "x": 187,
+                            "y": 367
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 216,
+                    "length": 23
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Here is yet another version of the questionnaire. Please note that the last 2 pages are the alternate versions that we discussed. Take a look at the alternate Q9 to try to get at the intensity issue, and maybe we can improve on it from here.",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 97,
+                            "y": 430
+                        },
+                        {
+                            "x": 635,
+                            "y": 420
+                        },
+                        {
+                            "x": 636,
+                            "y": 470
+                        },
+                        {
+                            "x": 98,
+                            "y": 480
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 240,
+                    "length": 241
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "By the way, we received 13 more signature cards today and sent the cigarettes out. We are now up to 74 respondents who have been sent cigarettes. Hopefully we will get a lot of callbacks this weekend.",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 98,
+                            "y": 494
+                        },
+                        {
+                            "x": 637,
+                            "y": 484
+                        },
+                        {
+                            "x": 638,
+                            "y": 534
+                        },
+                        {
+                            "x": 99,
+                            "y": 544
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 482,
+                    "length": 200
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Talk to you Monday. Thanks",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 557
+                        },
+                        {
+                            "x": 285,
+                            "y": 554
+                        },
+                        {
+                            "x": 285,
+                            "y": 573
+                        },
+                        {
+                            "x": 99,
+                            "y": 576
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 683,
+                    "length": 26
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "92298125",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 628,
+                            "y": 809
+                        },
+                        {
+                            "x": 644,
+                            "y": 809
+                        },
+                        {
+                            "x": 644,
+                            "y": 879
+                        },
+                        {
+                            "x": 628,
+                            "y": 879
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 710,
+                    "length": 8
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "41 Kennsia Avenue. Danburv. CT 06810 Phone 203 794-0323 Fax 203 748-6304",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 116,
+                            "y": 937
+                        },
+                        {
+                            "x": 623,
+                            "y": 933
+                        },
+                        {
+                            "x": 623,
+                            "y": 952
+                        },
+                        {
+                            "x": 116,
+                            "y": 956
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 719,
+                    "length": 72
+                }
+            ]
+        }
+    ],
+    "tables": [],
+    "key_value_pairs": [],
+    "styles": [
+        {
+            "is_handwritten": true,
+            "similar_font_family": null,
+            "font_style": null,
+            "font_weight": null,
+            "color": null,
+            "background_color": null,
+            "spans": [
+                {
+                    "offset": 164,
+                    "length": 11
+                }
+            ],
+            "confidence": 1
+        }
+    ],
+    "documents": []
+}

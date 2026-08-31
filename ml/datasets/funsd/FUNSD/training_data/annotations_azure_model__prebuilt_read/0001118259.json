@@ -1,0 +1,4121 @@
+{
+    "api_version": "2023-07-31",
+    "model_id": "prebuilt-read",
+    "content": "B&W\nReconstituted Tobacco Leaf Substitutions Export Formulas Revision Date: 05/11/95\nAllowable Grade Substitutions for Export CPCL\nStandard Grade Mark\nPCFS\nFlue cured fines\nPCBS\nBurley fines\nMC-4\nManufacturing fines\nMC-4-S\nMC-6\nStem Meal\nMC-1\nMC-7\nWinnowers\nC Stem\nRXF\nRBF\nRRBF or RRBF-O\nFine flue cured stem\nRRXF or RRXF-O\nFine Burely stem\nAllowable Substitutions\nRPCFS or RPCFS-O\nRPCBS or RPCBS-O\nWCC\nMC-4-PH\nMC-4-RC\nMC-4-W\nRRXM-B\nRRXM-T\nRRB-B\nRRB-L\nRRB-T\n621800455",
+    "languages": [],
+    "pages": [
+        {
+            "page_number": 1,
+            "angle": 0,
+            "width": 771,
+            "height": 1000,
+            "unit": "pixel",
+            "lines": [
+                {
+                    "content": "B&W",
+                    "polygon": [
+                        {
+                            "x": 218,
+                            "y": 74
+                        },
+                        {
+                            "x": 261,
+                            "y": 74
+                        },
+                        {
+                            "x": 261,
+                            "y": 90
+                        },
+                        {
+                            "x": 218,
+                            "y": 89
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "Reconstituted Tobacco Leaf Substitutions",
+                    "polygon": [
+                        {
+                            "x": 511,
+                            "y": 50
+                        },
+                        {
+                            "x": 728,
+                            "y": 53
+                        },
+                        {
+                            "x": 728,
+                            "y": 69
+                        },
+                        {
+                            "x": 511,
+                            "y": 65
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 4,
+                            "length": 40
+                        }
+                    ]
+                },
+                {
+                    "content": "Export Formulas",
+                    "polygon": [
+                        {
+                            "x": 634,
+                            "y": 68
+                        },
+                        {
+                            "x": 728,
+                            "y": 69
+                        },
+                        {
+                            "x": 728,
+                            "y": 84
+                        },
+                        {
+                            "x": 634,
+                            "y": 82
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 45,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "Revision Date: 05/11/95",
+                    "polygon": [
+                        {
+                            "x": 599,
+                            "y": 81
+                        },
+                        {
+                            "x": 728,
+                            "y": 83
+                        },
+                        {
+                            "x": 727,
+                            "y": 98
+                        },
+                        {
+                            "x": 599,
+                            "y": 96
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 61,
+                            "length": 23
+                        }
+                    ]
+                },
+                {
+                    "content": "Allowable Grade Substitutions",
+                    "polygon": [
+                        {
+                            "x": 253,
+                            "y": 151
+                        },
+                        {
+                            "x": 510,
+                            "y": 155
+                        },
+                        {
+                            "x": 510,
+                            "y": 175
+                        },
+                        {
+                            "x": 253,
+                            "y": 171
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 85,
+                            "length": 29
+                        }
+                    ]
+                },
+                {
+                    "content": "for Export CPCL",
+                    "polygon": [
+                        {
+                            "x": 312,
+                            "y": 173
+                        },
+                        {
+                            "x": 452,
+                            "y": 174
+                        },
+                        {
+                            "x": 452,
+                            "y": 195
+                        },
+                        {
+                            "x": 312,
+                            "y": 193
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 115,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "Standard Grade Mark",
+                    "polygon": [
+                        {
+                            "x": 148,
+                            "y": 252
+                        },
+                        {
+                            "x": 328,
+                            "y": 255
+                        },
+                        {
+                            "x": 327,
+                            "y": 275
+                        },
+                        {
+                            "x": 148,
+                            "y": 272
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 131,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "PCFS",
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 283
+                        },
+                        {
+                            "x": 149,
+                            "y": 283
+                        },
+                        {
+                            "x": 149,
+                            "y": 300
+                        },
+                        {
+                            "x": 106,
+                            "y": 299
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 151,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "Flue cured fines",
+                    "polygon": [
+                        {
+                            "x": 174,
+                            "y": 285
+                        },
+                        {
+                            "x": 286,
+                            "y": 287
+                        },
+                        {
+                            "x": 286,
+                            "y": 305
+                        },
+                        {
+                            "x": 174,
+                            "y": 303
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 156,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "PCBS",
+                    "polygon": [
+                        {
+                            "x": 105,
+                            "y": 329
+                        },
+                        {
+                            "x": 150,
+                            "y": 329
+                        },
+                        {
+                            "x": 150,
+                            "y": 346
+                        },
+                        {
+                            "x": 105,
+                            "y": 345
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 173,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "Burley fines",
+                    "polygon": [
+                        {
+                            "x": 173,
+                            "y": 331
+                        },
+                        {
+                            "x": 254,
+                            "y": 333
+                        },
+                        {
+                            "x": 254,
+                            "y": 350
+                        },
+                        {
+                            "x": 173,
+                            "y": 348
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 178,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "MC-4",
+                    "polygon": [
+                        {
+                            "x": 103,
+                            "y": 404
+                        },
+                        {
+                            "x": 146,
+                            "y": 405
+                        },
+                        {
+                            "x": 146,
+                            "y": 422
+                        },
+                        {
+                            "x": 103,
+                            "y": 420
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 191,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "Manufacturing fines",
+                    "polygon": [
+                        {
+                            "x": 170,
+                            "y": 405
+                        },
+                        {
+                            "x": 307,
+                            "y": 405
+                        },
+                        {
+                            "x": 307,
+                            "y": 428
+                        },
+                        {
+                            "x": 170,
+                            "y": 426
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 196,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "MC-4-S",
+                    "polygon": [
+                        {
+                            "x": 376,
+                            "y": 410
+                        },
+                        {
+                            "x": 432,
+                            "y": 411
+                        },
+                        {
+                            "x": 432,
+                            "y": 428
+                        },
+                        {
+                            "x": 376,
+                            "y": 426
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 216,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "MC-6",
+                    "polygon": [
+                        {
+                            "x": 100,
+                            "y": 542
+                        },
+                        {
+                            "x": 139,
+                            "y": 543
+                        },
+                        {
+                            "x": 139,
+                            "y": 558
+                        },
+                        {
+                            "x": 100,
+                            "y": 557
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 223,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "Stem Meal",
+                    "polygon": [
+                        {
+                            "x": 169,
+                            "y": 544
+                        },
+                        {
+                            "x": 242,
+                            "y": 545
+                        },
+                        {
+                            "x": 242,
+                            "y": 560
+                        },
+                        {
+                            "x": 169,
+                            "y": 559
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 228,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "MC-1",
+                    "polygon": [
+                        {
+                            "x": 372,
+                            "y": 548
+                        },
+                        {
+                            "x": 412,
+                            "y": 548
+                        },
+                        {
+                            "x": 412,
+                            "y": 563
+                        },
+                        {
+                            "x": 372,
+                            "y": 563
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 238,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "MC-7",
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 587
+                        },
+                        {
+                            "x": 137,
+                            "y": 588
+                        },
+                        {
+                            "x": 137,
+                            "y": 603
+                        },
+                        {
+                            "x": 99,
+                            "y": 603
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 243,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "Winnowers",
+                    "polygon": [
+                        {
+                            "x": 167,
+                            "y": 589
+                        },
+                        {
+                            "x": 244,
+                            "y": 591
+                        },
+                        {
+                            "x": 243,
+                            "y": 606
+                        },
+                        {
+                            "x": 167,
+                            "y": 604
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 248,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "C Stem",
+                    "polygon": [
+                        {
+                            "x": 373,
+                            "y": 593
+                        },
+                        {
+                            "x": 425,
+                            "y": 593
+                        },
+                        {
+                            "x": 425,
+                            "y": 609
+                        },
+                        {
+                            "x": 373,
+                            "y": 609
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 258,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "RXF",
+                    "polygon": [
+                        {
+                            "x": 96,
+                            "y": 633
+                        },
+                        {
+                            "x": 129,
+                            "y": 634
+                        },
+                        {
+                            "x": 129,
+                            "y": 649
+                        },
+                        {
+                            "x": 96,
+                            "y": 648
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 265,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "RBF",
+                    "polygon": [
+                        {
+                            "x": 96,
+                            "y": 740
+                        },
+                        {
+                            "x": 128,
+                            "y": 741
+                        },
+                        {
+                            "x": 128,
+                            "y": 756
+                        },
+                        {
+                            "x": 96,
+                            "y": 755
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 269,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "RRBF or RRBF-O",
+                    "polygon": [
+                        {
+                            "x": 368,
+                            "y": 745
+                        },
+                        {
+                            "x": 493,
+                            "y": 747
+                        },
+                        {
+                            "x": 493,
+                            "y": 765
+                        },
+                        {
+                            "x": 368,
+                            "y": 763
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 273,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "Fine flue cured stem",
+                    "polygon": [
+                        {
+                            "x": 166,
+                            "y": 634
+                        },
+                        {
+                            "x": 307,
+                            "y": 638
+                        },
+                        {
+                            "x": 306,
+                            "y": 654
+                        },
+                        {
+                            "x": 166,
+                            "y": 651
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 288,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "RRXF or RRXF-O",
+                    "polygon": [
+                        {
+                            "x": 371,
+                            "y": 638
+                        },
+                        {
+                            "x": 496,
+                            "y": 639
+                        },
+                        {
+                            "x": 496,
+                            "y": 657
+                        },
+                        {
+                            "x": 371,
+                            "y": 655
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 309,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "Fine Burely stem",
+                    "polygon": [
+                        {
+                            "x": 163,
+                            "y": 742
+                        },
+                        {
+                            "x": 280,
+                            "y": 744
+                        },
+                        {
+                            "x": 279,
+                            "y": 762
+                        },
+                        {
+                            "x": 163,
+                            "y": 758
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 324,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "Allowable Substitutions",
+                    "polygon": [
+                        {
+                            "x": 409,
+                            "y": 255
+                        },
+                        {
+                            "x": 611,
+                            "y": 258
+                        },
+                        {
+                            "x": 611,
+                            "y": 280
+                        },
+                        {
+                            "x": 409,
+                            "y": 277
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 341,
+                            "length": 23
+                        }
+                    ]
+                },
+                {
+                    "content": "RPCFS or RPCFS-O",
+                    "polygon": [
+                        {
+                            "x": 377,
+                            "y": 287
+                        },
+                        {
+                            "x": 523,
+                            "y": 289
+                        },
+                        {
+                            "x": 523,
+                            "y": 308
+                        },
+                        {
+                            "x": 377,
+                            "y": 306
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 365,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "RPCBS or RPCBS-O",
+                    "polygon": [
+                        {
+                            "x": 377,
+                            "y": 334
+                        },
+                        {
+                            "x": 523,
+                            "y": 335
+                        },
+                        {
+                            "x": 523,
+                            "y": 354
+                        },
+                        {
+                            "x": 377,
+                            "y": 352
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 382,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "WCC",
+                    "polygon": [
+                        {
+                            "x": 377,
+                            "y": 364
+                        },
+                        {
+                            "x": 417,
+                            "y": 365
+                        },
+                        {
+                            "x": 417,
+                            "y": 380
+                        },
+                        {
+                            "x": 377,
+                            "y": 379
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 399,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "MC-4-PH",
+                    "polygon": [
+                        {
+                            "x": 375,
+                            "y": 440
+                        },
+                        {
+                            "x": 443,
+                            "y": 441
+                        },
+                        {
+                            "x": 443,
+                            "y": 457
+                        },
+                        {
+                            "x": 375,
+                            "y": 456
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 403,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "MC-4-RC",
+                    "polygon": [
+                        {
+                            "x": 374,
+                            "y": 470
+                        },
+                        {
+                            "x": 442,
+                            "y": 471
+                        },
+                        {
+                            "x": 442,
+                            "y": 487
+                        },
+                        {
+                            "x": 374,
+                            "y": 487
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 411,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "MC-4-W",
+                    "polygon": [
+                        {
+                            "x": 374,
+                            "y": 501
+                        },
+                        {
+                            "x": 436,
+                            "y": 501
+                        },
+                        {
+                            "x": 436,
+                            "y": 518
+                        },
+                        {
+                            "x": 374,
+                            "y": 517
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 419,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "RRXM-B",
+                    "polygon": [
+                        {
+                            "x": 371,
+                            "y": 668
+                        },
+                        {
+                            "x": 434,
+                            "y": 669
+                        },
+                        {
+                            "x": 433,
+                            "y": 685
+                        },
+                        {
+                            "x": 371,
+                            "y": 684
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 426,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "RRXM-T",
+                    "polygon": [
+                        {
+                            "x": 369,
+                            "y": 699
+                        },
+                        {
+                            "x": 431,
+                            "y": 700
+                        },
+                        {
+                            "x": 431,
+                            "y": 716
+                        },
+                        {
+                            "x": 369,
+                            "y": 715
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 433,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "RRB-B",
+                    "polygon": [
+                        {
+                            "x": 368,
+                            "y": 776
+                        },
+                        {
+                            "x": 419,
+                            "y": 777
+                        },
+                        {
+                            "x": 419,
+                            "y": 792
+                        },
+                        {
+                            "x": 368,
+                            "y": 792
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 440,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "RRB-L",
+                    "polygon": [
+                        {
+                            "x": 368,
+                            "y": 807
+                        },
+                        {
+                            "x": 415,
+                            "y": 807
+                        },
+                        {
+                            "x": 415,
+                            "y": 824
+                        },
+                        {
+                            "x": 368,
+                            "y": 823
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 446,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "RRB-T",
+                    "polygon": [
+                        {
+                            "x": 367,
+                            "y": 837
+                        },
+                        {
+                            "x": 415,
+                            "y": 837
+                        },
+                        {
+                            "x": 415,
+                            "y": 853
+                        },
+                        {
+                            "x": 367,
+                            "y": 853
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 452,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "621800455",
+                    "polygon": [
+                        {
+                            "x": 721,
+                            "y": 804
+                        },
+                        {
+                            "x": 720,
+                            "y": 928
+                        },
+                        {
+                            "x": 698,
+                            "y": 928
+                        },
+                        {
+                            "x": 699,
+                            "y": 804
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 458,
+                            "length": 9
+                        }
+                    ]
+                }
+            ],
+            "words": [
+                {
+                    "content": "B&W",
+                    "polygon": [
+                        {
+                            "x": 220,
+                            "y": 74
+                        },
+                        {
+                            "x": 251,
+                            "y": 74
+                        },
+                        {
+                            "x": 251,
+                            "y": 90
+                        },
+                        {
+                            "x": 220,
+                            "y": 90
+                        }
+                    ],
+                    "span": {
+                        "offset": 0,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Reconstituted",
+                    "polygon": [
+                        {
+                            "x": 512,
+                            "y": 51
+                        },
+                        {
+                            "x": 583,
+                            "y": 51
+                        },
+                        {
+                            "x": 583,
+                            "y": 67
+                        },
+                        {
+                            "x": 512,
+                            "y": 66
+                        }
+                    ],
+                    "span": {
+                        "offset": 4,
+                        "length": 13
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Tobacco",
+                    "polygon": [
+                        {
+                            "x": 587,
+                            "y": 52
+                        },
+                        {
+                            "x": 628,
+                            "y": 52
+                        },
+                        {
+                            "x": 628,
+                            "y": 67
+                        },
+                        {
+                            "x": 587,
+                            "y": 67
+                        }
+                    ],
+                    "span": {
+                        "offset": 18,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Leaf",
+                    "polygon": [
+                        {
+                            "x": 631,
+                            "y": 52
+                        },
+                        {
+                            "x": 656,
+                            "y": 53
+                        },
+                        {
+                            "x": 656,
+                            "y": 68
+                        },
+                        {
+                            "x": 631,
+                            "y": 67
+                        }
+                    ],
+                    "span": {
+                        "offset": 26,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Substitutions",
+                    "polygon": [
+                        {
+                            "x": 659,
+                            "y": 53
+                        },
+                        {
+                            "x": 728,
+                            "y": 54
+                        },
+                        {
+                            "x": 728,
+                            "y": 70
+                        },
+                        {
+                            "x": 659,
+                            "y": 68
+                        }
+                    ],
+                    "span": {
+                        "offset": 31,
+                        "length": 13
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Export",
+                    "polygon": [
+                        {
+                            "x": 635,
+                            "y": 68
+                        },
+                        {
+                            "x": 672,
+                            "y": 69
+                        },
+                        {
+                            "x": 672,
+                            "y": 83
+                        },
+                        {
+                            "x": 635,
+                            "y": 82
+                        }
+                    ],
+                    "span": {
+                        "offset": 45,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Formulas",
+                    "polygon": [
+                        {
+                            "x": 675,
+                            "y": 69
+                        },
+                        {
+                            "x": 728,
+                            "y": 70
+                        },
+                        {
+                            "x": 728,
+                            "y": 84
+                        },
+                        {
+                            "x": 675,
+                            "y": 83
+                        }
+                    ],
+                    "span": {
+                        "offset": 52,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Revision",
+                    "polygon": [
+                        {
+                            "x": 600,
+                            "y": 82
+                        },
+                        {
+                            "x": 645,
+                            "y": 83
+                        },
+                        {
+                            "x": 645,
+                            "y": 97
+                        },
+                        {
+                            "x": 600,
+                            "y": 96
+                        }
+                    ],
+                    "span": {
+                        "offset": 61,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Date:",
+                    "polygon": [
+                        {
+                            "x": 648,
+                            "y": 83
+                        },
+                        {
+                            "x": 676,
+                            "y": 83
+                        },
+                        {
+                            "x": 676,
+                            "y": 98
+                        },
+                        {
+                            "x": 648,
+                            "y": 97
+                        }
+                    ],
+                    "span": {
+                        "offset": 70,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "05/11/95",
+                    "polygon": [
+                        {
+                            "x": 679,
+                            "y": 83
+                        },
+                        {
+                            "x": 728,
+                            "y": 84
+                        },
+                        {
+                            "x": 728,
+                            "y": 99
+                        },
+                        {
+                            "x": 679,
+                            "y": 98
+                        }
+                    ],
+                    "span": {
+                        "offset": 76,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Allowable",
+                    "polygon": [
+                        {
+                            "x": 256,
+                            "y": 151
+                        },
+                        {
+                            "x": 338,
+                            "y": 152
+                        },
+                        {
+                            "x": 338,
+                            "y": 173
+                        },
+                        {
+                            "x": 256,
+                            "y": 172
+                        }
+                    ],
+                    "span": {
+                        "offset": 85,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Grade",
+                    "polygon": [
+                        {
+                            "x": 342,
+                            "y": 152
+                        },
+                        {
+                            "x": 394,
+                            "y": 153
+                        },
+                        {
+                            "x": 394,
+                            "y": 174
+                        },
+                        {
+                            "x": 342,
+                            "y": 174
+                        }
+                    ],
+                    "span": {
+                        "offset": 95,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Substitutions",
+                    "polygon": [
+                        {
+                            "x": 398,
+                            "y": 153
+                        },
+                        {
+                            "x": 509,
+                            "y": 156
+                        },
+                        {
+                            "x": 509,
+                            "y": 176
+                        },
+                        {
+                            "x": 398,
+                            "y": 174
+                        }
+                    ],
+                    "span": {
+                        "offset": 101,
+                        "length": 13
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "for",
+                    "polygon": [
+                        {
+                            "x": 313,
+                            "y": 173
+                        },
+                        {
+                            "x": 337,
+                            "y": 173
+                        },
+                        {
+                            "x": 337,
+                            "y": 194
+                        },
+                        {
+                            "x": 314,
+                            "y": 194
+                        }
+                    ],
+                    "span": {
+                        "offset": 115,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Export",
+                    "polygon": [
+                        {
+                            "x": 341,
+                            "y": 174
+                        },
+                        {
+                            "x": 398,
+                            "y": 174
+                        },
+                        {
+                            "x": 398,
+                            "y": 195
+                        },
+                        {
+                            "x": 341,
+                            "y": 194
+                        }
+                    ],
+                    "span": {
+                        "offset": 119,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "CPCL",
+                    "polygon": [
+                        {
+                            "x": 402,
+                            "y": 174
+                        },
+                        {
+                            "x": 449,
+                            "y": 174
+                        },
+                        {
+                            "x": 450,
+                            "y": 196
+                        },
+                        {
+                            "x": 402,
+                            "y": 195
+                        }
+                    ],
+                    "span": {
+                        "offset": 126,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Standard",
+                    "polygon": [
+                        {
+                            "x": 150,
+                            "y": 253
+                        },
+                        {
+                            "x": 224,
+                            "y": 254
+                        },
+                        {
+                            "x": 223,
+                            "y": 274
+                        },
+                        {
+                            "x": 149,
+                            "y": 273
+                        }
+                    ],
+                    "span": {
+                        "offset": 131,
+                        "length": 8
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Grade",
+                    "polygon": [
+                        {
+                            "x": 229,
+                            "y": 254
+                        },
+                        {
+                            "x": 279,
+                            "y": 255
+                        },
+                        {
+                            "x": 279,
+                            "y": 275
+                        },
+                        {
+                            "x": 229,
+                            "y": 274
+                        }
+                    ],
+                    "span": {
+                        "offset": 140,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Mark",
+                    "polygon": [
+                        {
+                            "x": 283,
+                            "y": 255
+                        },
+                        {
+                            "x": 326,
+                            "y": 255
+                        },
+                        {
+                            "x": 326,
+                            "y": 276
+                        },
+                        {
+                            "x": 283,
+                            "y": 275
+                        }
+                    ],
+                    "span": {
+                        "offset": 146,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PCFS",
+                    "polygon": [
+                        {
+                            "x": 107,
+                            "y": 283
+                        },
+                        {
+                            "x": 148,
+                            "y": 283
+                        },
+                        {
+                            "x": 147,
+                            "y": 300
+                        },
+                        {
+                            "x": 107,
+                            "y": 299
+                        }
+                    ],
+                    "span": {
+                        "offset": 151,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Flue",
+                    "polygon": [
+                        {
+                            "x": 175,
+                            "y": 285
+                        },
+                        {
+                            "x": 205,
+                            "y": 286
+                        },
+                        {
+                            "x": 205,
+                            "y": 304
+                        },
+                        {
+                            "x": 175,
+                            "y": 304
+                        }
+                    ],
+                    "span": {
+                        "offset": 156,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "cured",
+                    "polygon": [
+                        {
+                            "x": 209,
+                            "y": 286
+                        },
+                        {
+                            "x": 247,
+                            "y": 287
+                        },
+                        {
+                            "x": 247,
+                            "y": 304
+                        },
+                        {
+                            "x": 209,
+                            "y": 304
+                        }
+                    ],
+                    "span": {
+                        "offset": 161,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "fines",
+                    "polygon": [
+                        {
+                            "x": 251,
+                            "y": 287
+                        },
+                        {
+                            "x": 286,
+                            "y": 288
+                        },
+                        {
+                            "x": 286,
+                            "y": 305
+                        },
+                        {
+                            "x": 251,
+                            "y": 304
+                        }
+                    ],
+                    "span": {
+                        "offset": 167,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "PCBS",
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 329
+                        },
+                        {
+                            "x": 149,
+                            "y": 329
+                        },
+                        {
+                            "x": 149,
+                            "y": 346
+                        },
+                        {
+                            "x": 106,
+                            "y": 345
+                        }
+                    ],
+                    "span": {
+                        "offset": 173,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Burley",
+                    "polygon": [
+                        {
+                            "x": 174,
+                            "y": 331
+                        },
+                        {
+                            "x": 217,
+                            "y": 332
+                        },
+                        {
+                            "x": 217,
+                            "y": 350
+                        },
+                        {
+                            "x": 174,
+                            "y": 349
+                        }
+                    ],
+                    "span": {
+                        "offset": 178,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "fines",
+                    "polygon": [
+                        {
+                            "x": 221,
+                            "y": 332
+                        },
+                        {
+                            "x": 254,
+                            "y": 333
+                        },
+                        {
+                            "x": 254,
+                            "y": 351
+                        },
+                        {
+                            "x": 220,
+                            "y": 350
+                        }
+                    ],
+                    "span": {
+                        "offset": 185,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MC-4",
+                    "polygon": [
+                        {
+                            "x": 104,
+                            "y": 404
+                        },
+                        {
+                            "x": 142,
+                            "y": 405
+                        },
+                        {
+                            "x": 142,
+                            "y": 422
+                        },
+                        {
+                            "x": 103,
+                            "y": 420
+                        }
+                    ],
+                    "span": {
+                        "offset": 191,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Manufacturing",
+                    "polygon": [
+                        {
+                            "x": 172,
+                            "y": 405
+                        },
+                        {
+                            "x": 268,
+                            "y": 405
+                        },
+                        {
+                            "x": 267,
+                            "y": 428
+                        },
+                        {
+                            "x": 171,
+                            "y": 426
+                        }
+                    ],
+                    "span": {
+                        "offset": 196,
+                        "length": 13
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "fines",
+                    "polygon": [
+                        {
+                            "x": 272,
+                            "y": 405
+                        },
+                        {
+                            "x": 307,
+                            "y": 405
+                        },
+                        {
+                            "x": 307,
+                            "y": 429
+                        },
+                        {
+                            "x": 272,
+                            "y": 428
+                        }
+                    ],
+                    "span": {
+                        "offset": 210,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MC-4-S",
+                    "polygon": [
+                        {
+                            "x": 377,
+                            "y": 411
+                        },
+                        {
+                            "x": 429,
+                            "y": 412
+                        },
+                        {
+                            "x": 430,
+                            "y": 428
+                        },
+                        {
+                            "x": 377,
+                            "y": 427
+                        }
+                    ],
+                    "span": {
+                        "offset": 216,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MC-6",
+                    "polygon": [
+                        {
+                            "x": 101,
+                            "y": 542
+                        },
+                        {
+                            "x": 139,
+                            "y": 543
+                        },
+                        {
+                            "x": 138,
+                            "y": 558
+                        },
+                        {
+                            "x": 100,
+                            "y": 557
+                        }
+                    ],
+                    "span": {
+                        "offset": 223,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Stem",
+                    "polygon": [
+                        {
+                            "x": 171,
+                            "y": 545
+                        },
+                        {
+                            "x": 199,
+                            "y": 545
+                        },
+                        {
+                            "x": 199,
+                            "y": 560
+                        },
+                        {
+                            "x": 171,
+                            "y": 559
+                        }
+                    ],
+                    "span": {
+                        "offset": 228,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Meal",
+                    "polygon": [
+                        {
+                            "x": 207,
+                            "y": 545
+                        },
+                        {
+                            "x": 242,
+                            "y": 545
+                        },
+                        {
+                            "x": 242,
+                            "y": 561
+                        },
+                        {
+                            "x": 207,
+                            "y": 560
+                        }
+                    ],
+                    "span": {
+                        "offset": 233,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MC-1",
+                    "polygon": [
+                        {
+                            "x": 374,
+                            "y": 548
+                        },
+                        {
+                            "x": 412,
+                            "y": 548
+                        },
+                        {
+                            "x": 412,
+                            "y": 563
+                        },
+                        {
+                            "x": 374,
+                            "y": 563
+                        }
+                    ],
+                    "span": {
+                        "offset": 238,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MC-7",
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 587
+                        },
+                        {
+                            "x": 136,
+                            "y": 587
+                        },
+                        {
+                            "x": 136,
+                            "y": 603
+                        },
+                        {
+                            "x": 99,
+                            "y": 602
+                        }
+                    ],
+                    "span": {
+                        "offset": 243,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Winnowers",
+                    "polygon": [
+                        {
+                            "x": 168,
+                            "y": 589
+                        },
+                        {
+                            "x": 245,
+                            "y": 592
+                        },
+                        {
+                            "x": 244,
+                            "y": 607
+                        },
+                        {
+                            "x": 168,
+                            "y": 605
+                        }
+                    ],
+                    "span": {
+                        "offset": 248,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "C",
+                    "polygon": [
+                        {
+                            "x": 374,
+                            "y": 594
+                        },
+                        {
+                            "x": 382,
+                            "y": 594
+                        },
+                        {
+                            "x": 381,
+                            "y": 609
+                        },
+                        {
+                            "x": 373,
+                            "y": 609
+                        }
+                    ],
+                    "span": {
+                        "offset": 258,
+                        "length": 1
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Stem",
+                    "polygon": [
+                        {
+                            "x": 389,
+                            "y": 594
+                        },
+                        {
+                            "x": 420,
+                            "y": 594
+                        },
+                        {
+                            "x": 420,
+                            "y": 610
+                        },
+                        {
+                            "x": 389,
+                            "y": 609
+                        }
+                    ],
+                    "span": {
+                        "offset": 260,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RXF",
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 633
+                        },
+                        {
+                            "x": 129,
+                            "y": 634
+                        },
+                        {
+                            "x": 128,
+                            "y": 649
+                        },
+                        {
+                            "x": 98,
+                            "y": 648
+                        }
+                    ],
+                    "span": {
+                        "offset": 265,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RBF",
+                    "polygon": [
+                        {
+                            "x": 97,
+                            "y": 740
+                        },
+                        {
+                            "x": 127,
+                            "y": 741
+                        },
+                        {
+                            "x": 126,
+                            "y": 756
+                        },
+                        {
+                            "x": 96,
+                            "y": 755
+                        }
+                    ],
+                    "span": {
+                        "offset": 269,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RRBF",
+                    "polygon": [
+                        {
+                            "x": 369,
+                            "y": 746
+                        },
+                        {
+                            "x": 410,
+                            "y": 747
+                        },
+                        {
+                            "x": 411,
+                            "y": 764
+                        },
+                        {
+                            "x": 369,
+                            "y": 763
+                        }
+                    ],
+                    "span": {
+                        "offset": 273,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "or",
+                    "polygon": [
+                        {
+                            "x": 415,
+                            "y": 747
+                        },
+                        {
+                            "x": 430,
+                            "y": 747
+                        },
+                        {
+                            "x": 430,
+                            "y": 764
+                        },
+                        {
+                            "x": 415,
+                            "y": 764
+                        }
+                    ],
+                    "span": {
+                        "offset": 278,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RRBF-O",
+                    "polygon": [
+                        {
+                            "x": 434,
+                            "y": 747
+                        },
+                        {
+                            "x": 489,
+                            "y": 747
+                        },
+                        {
+                            "x": 489,
+                            "y": 766
+                        },
+                        {
+                            "x": 434,
+                            "y": 764
+                        }
+                    ],
+                    "span": {
+                        "offset": 281,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Fine",
+                    "polygon": [
+                        {
+                            "x": 166,
+                            "y": 635
+                        },
+                        {
+                            "x": 196,
+                            "y": 635
+                        },
+                        {
+                            "x": 196,
+                            "y": 652
+                        },
+                        {
+                            "x": 166,
+                            "y": 652
+                        }
+                    ],
+                    "span": {
+                        "offset": 288,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "flue",
+                    "polygon": [
+                        {
+                            "x": 199,
+                            "y": 636
+                        },
+                        {
+                            "x": 225,
+                            "y": 636
+                        },
+                        {
+                            "x": 224,
+                            "y": 652
+                        },
+                        {
+                            "x": 199,
+                            "y": 652
+                        }
+                    ],
+                    "span": {
+                        "offset": 293,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "cured",
+                    "polygon": [
+                        {
+                            "x": 229,
+                            "y": 636
+                        },
+                        {
+                            "x": 267,
+                            "y": 637
+                        },
+                        {
+                            "x": 267,
+                            "y": 653
+                        },
+                        {
+                            "x": 229,
+                            "y": 652
+                        }
+                    ],
+                    "span": {
+                        "offset": 298,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "stem",
+                    "polygon": [
+                        {
+                            "x": 273,
+                            "y": 637
+                        },
+                        {
+                            "x": 301,
+                            "y": 638
+                        },
+                        {
+                            "x": 301,
+                            "y": 655
+                        },
+                        {
+                            "x": 272,
+                            "y": 653
+                        }
+                    ],
+                    "span": {
+                        "offset": 304,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RRXF",
+                    "polygon": [
+                        {
+                            "x": 371,
+                            "y": 638
+                        },
+                        {
+                            "x": 412,
+                            "y": 639
+                        },
+                        {
+                            "x": 413,
+                            "y": 656
+                        },
+                        {
+                            "x": 372,
+                            "y": 655
+                        }
+                    ],
+                    "span": {
+                        "offset": 309,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "or",
+                    "polygon": [
+                        {
+                            "x": 418,
+                            "y": 639
+                        },
+                        {
+                            "x": 433,
+                            "y": 639
+                        },
+                        {
+                            "x": 433,
+                            "y": 657
+                        },
+                        {
+                            "x": 419,
+                            "y": 656
+                        }
+                    ],
+                    "span": {
+                        "offset": 314,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RRXF-O",
+                    "polygon": [
+                        {
+                            "x": 436,
+                            "y": 639
+                        },
+                        {
+                            "x": 492,
+                            "y": 640
+                        },
+                        {
+                            "x": 493,
+                            "y": 658
+                        },
+                        {
+                            "x": 437,
+                            "y": 657
+                        }
+                    ],
+                    "span": {
+                        "offset": 317,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Fine",
+                    "polygon": [
+                        {
+                            "x": 163,
+                            "y": 742
+                        },
+                        {
+                            "x": 194,
+                            "y": 743
+                        },
+                        {
+                            "x": 194,
+                            "y": 760
+                        },
+                        {
+                            "x": 163,
+                            "y": 759
+                        }
+                    ],
+                    "span": {
+                        "offset": 324,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Burely",
+                    "polygon": [
+                        {
+                            "x": 197,
+                            "y": 743
+                        },
+                        {
+                            "x": 241,
+                            "y": 744
+                        },
+                        {
+                            "x": 241,
+                            "y": 762
+                        },
+                        {
+                            "x": 197,
+                            "y": 760
+                        }
+                    ],
+                    "span": {
+                        "offset": 329,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "stem",
+                    "polygon": [
+                        {
+                            "x": 244,
+                            "y": 744
+                        },
+                        {
+                            "x": 273,
+                            "y": 745
+                        },
+                        {
+                            "x": 273,
+                            "y": 763
+                        },
+                        {
+                            "x": 244,
+                            "y": 762
+                        }
+                    ],
+                    "span": {
+                        "offset": 336,
+                        "length": 4
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Allowable",
+                    "polygon": [
+                        {
+                            "x": 412,
+                            "y": 256
+                        },
+                        {
+                            "x": 494,
+                            "y": 257
+                        },
+                        {
+                            "x": 494,
+                            "y": 279
+                        },
+                        {
+                            "x": 412,
+                            "y": 278
+                        }
+                    ],
+                    "span": {
+                        "offset": 341,
+                        "length": 9
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "Substitutions",
+                    "polygon": [
+                        {
+                            "x": 498,
+                            "y": 257
+                        },
+                        {
+                            "x": 611,
+                            "y": 260
+                        },
+                        {
+                            "x": 611,
+                            "y": 280
+                        },
+                        {
+                            "x": 499,
+                            "y": 279
+                        }
+                    ],
+                    "span": {
+                        "offset": 351,
+                        "length": 13
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RPCFS",
+                    "polygon": [
+                        {
+                            "x": 378,
+                            "y": 288
+                        },
+                        {
+                            "x": 432,
+                            "y": 288
+                        },
+                        {
+                            "x": 432,
+                            "y": 307
+                        },
+                        {
+                            "x": 379,
+                            "y": 307
+                        }
+                    ],
+                    "span": {
+                        "offset": 365,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "or",
+                    "polygon": [
+                        {
+                            "x": 435,
+                            "y": 288
+                        },
+                        {
+                            "x": 449,
+                            "y": 289
+                        },
+                        {
+                            "x": 449,
+                            "y": 307
+                        },
+                        {
+                            "x": 436,
+                            "y": 307
+                        }
+                    ],
+                    "span": {
+                        "offset": 371,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RPCFS-O",
+                    "polygon": [
+                        {
+                            "x": 453,
+                            "y": 289
+                        },
+                        {
+                            "x": 520,
+                            "y": 290
+                        },
+                        {
+                            "x": 520,
+                            "y": 309
+                        },
+                        {
+                            "x": 453,
+                            "y": 308
+                        }
+                    ],
+                    "span": {
+                        "offset": 374,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RPCBS",
+                    "polygon": [
+                        {
+                            "x": 378,
+                            "y": 334
+                        },
+                        {
+                            "x": 432,
+                            "y": 334
+                        },
+                        {
+                            "x": 432,
+                            "y": 353
+                        },
+                        {
+                            "x": 378,
+                            "y": 352
+                        }
+                    ],
+                    "span": {
+                        "offset": 382,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "or",
+                    "polygon": [
+                        {
+                            "x": 435,
+                            "y": 334
+                        },
+                        {
+                            "x": 450,
+                            "y": 334
+                        },
+                        {
+                            "x": 450,
+                            "y": 353
+                        },
+                        {
+                            "x": 436,
+                            "y": 353
+                        }
+                    ],
+                    "span": {
+                        "offset": 388,
+                        "length": 2
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RPCBS-O",
+                    "polygon": [
+                        {
+                            "x": 454,
+                            "y": 335
+                        },
+                        {
+                            "x": 521,
+                            "y": 336
+                        },
+                        {
+                            "x": 521,
+                            "y": 355
+                        },
+                        {
+                            "x": 454,
+                            "y": 353
+                        }
+                    ],
+                    "span": {
+                        "offset": 391,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "WCC",
+                    "polygon": [
+                        {
+                            "x": 379,
+                            "y": 364
+                        },
+                        {
+                            "x": 414,
+                            "y": 365
+                        },
+                        {
+                            "x": 413,
+                            "y": 380
+                        },
+                        {
+                            "x": 378,
+                            "y": 379
+                        }
+                    ],
+                    "span": {
+                        "offset": 399,
+                        "length": 3
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MC-4-PH",
+                    "polygon": [
+                        {
+                            "x": 376,
+                            "y": 440
+                        },
+                        {
+                            "x": 438,
+                            "y": 441
+                        },
+                        {
+                            "x": 438,
+                            "y": 457
+                        },
+                        {
+                            "x": 376,
+                            "y": 457
+                        }
+                    ],
+                    "span": {
+                        "offset": 403,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MC-4-RC",
+                    "polygon": [
+                        {
+                            "x": 375,
+                            "y": 471
+                        },
+                        {
+                            "x": 438,
+                            "y": 471
+                        },
+                        {
+                            "x": 438,
+                            "y": 488
+                        },
+                        {
+                            "x": 375,
+                            "y": 487
+                        }
+                    ],
+                    "span": {
+                        "offset": 411,
+                        "length": 7
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "MC-4-W",
+                    "polygon": [
+                        {
+                            "x": 374,
+                            "y": 501
+                        },
+                        {
+                            "x": 427,
+                            "y": 502
+                        },
+                        {
+                            "x": 427,
+                            "y": 518
+                        },
+                        {
+                            "x": 374,
+                            "y": 517
+                        }
+                    ],
+                    "span": {
+                        "offset": 419,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RRXM-B",
+                    "polygon": [
+                        {
+                            "x": 371,
+                            "y": 669
+                        },
+                        {
+                            "x": 430,
+                            "y": 669
+                        },
+                        {
+                            "x": 430,
+                            "y": 686
+                        },
+                        {
+                            "x": 371,
+                            "y": 684
+                        }
+                    ],
+                    "span": {
+                        "offset": 426,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RRXM-T",
+                    "polygon": [
+                        {
+                            "x": 370,
+                            "y": 700
+                        },
+                        {
+                            "x": 431,
+                            "y": 700
+                        },
+                        {
+                            "x": 431,
+                            "y": 717
+                        },
+                        {
+                            "x": 371,
+                            "y": 715
+                        }
+                    ],
+                    "span": {
+                        "offset": 433,
+                        "length": 6
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RRB-B",
+                    "polygon": [
+                        {
+                            "x": 368,
+                            "y": 777
+                        },
+                        {
+                            "x": 414,
+                            "y": 777
+                        },
+                        {
+                            "x": 414,
+                            "y": 793
+                        },
+                        {
+                            "x": 368,
+                            "y": 792
+                        }
+                    ],
+                    "span": {
+                        "offset": 440,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RRB-L",
+                    "polygon": [
+                        {
+                            "x": 368,
+                            "y": 807
+                        },
+                        {
+                            "x": 413,
+                            "y": 808
+                        },
+                        {
+                            "x": 413,
+                            "y": 824
+                        },
+                        {
+                            "x": 368,
+                            "y": 823
+                        }
+                    ],
+                    "span": {
+                        "offset": 446,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "RRB-T",
+                    "polygon": [
+                        {
+                            "x": 367,
+                            "y": 838
+                        },
+                        {
+                            "x": 415,
+                            "y": 838
+                        },
+                        {
+                            "x": 415,
+                            "y": 854
+                        },
+                        {
+                            "x": 367,
+                            "y": 853
+                        }
+                    ],
+                    "span": {
+                        "offset": 452,
+                        "length": 5
+                    },
+                    "confidence": 0
+                },
+                {
+                    "content": "621800455",
+                    "polygon": [
+                        {
+                            "x": 721,
+                            "y": 805
+                        },
+                        {
+                            "x": 720,
+                            "y": 925
+                        },
+                        {
+                            "x": 698,
+                            "y": 925
+                        },
+                        {
+                            "x": 699,
+                            "y": 805
+                        }
+                    ],
+                    "span": {
+                        "offset": 458,
+                        "length": 9
+                    },
+                    "confidence": 0
+                }
+            ],
+            "selection_marks": [],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 467
+                }
+            ],
+            "barcodes": [],
+            "formulas": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "role": null,
+            "content": "B&W",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 218,
+                            "y": 74
+                        },
+                        {
+                            "x": 261,
+                            "y": 74
+                        },
+                        {
+                            "x": 261,
+                            "y": 90
+                        },
+                        {
+                            "x": 218,
+                            "y": 90
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Reconstituted Tobacco Leaf Substitutions Export Formulas Revision Date: 05/11/95",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 511,
+                            "y": 50
+                        },
+                        {
+                            "x": 728,
+                            "y": 53
+                        },
+                        {
+                            "x": 728,
+                            "y": 98
+                        },
+                        {
+                            "x": 510,
+                            "y": 95
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 4,
+                    "length": 80
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Allowable Grade Substitutions for Export CPCL",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 253,
+                            "y": 151
+                        },
+                        {
+                            "x": 510,
+                            "y": 155
+                        },
+                        {
+                            "x": 510,
+                            "y": 196
+                        },
+                        {
+                            "x": 252,
+                            "y": 192
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 85,
+                    "length": 45
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Standard Grade Mark",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 148,
+                            "y": 252
+                        },
+                        {
+                            "x": 328,
+                            "y": 255
+                        },
+                        {
+                            "x": 327,
+                            "y": 275
+                        },
+                        {
+                            "x": 148,
+                            "y": 272
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 131,
+                    "length": 19
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "PCFS",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 106,
+                            "y": 283
+                        },
+                        {
+                            "x": 149,
+                            "y": 283
+                        },
+                        {
+                            "x": 149,
+                            "y": 300
+                        },
+                        {
+                            "x": 106,
+                            "y": 299
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 151,
+                    "length": 4
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Flue cured fines",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 174,
+                            "y": 285
+                        },
+                        {
+                            "x": 286,
+                            "y": 287
+                        },
+                        {
+                            "x": 286,
+                            "y": 305
+                        },
+                        {
+                            "x": 174,
+                            "y": 303
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 156,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "PCBS",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 105,
+                            "y": 329
+                        },
+                        {
+                            "x": 150,
+                            "y": 329
+                        },
+                        {
+                            "x": 150,
+                            "y": 346
+                        },
+                        {
+                            "x": 105,
+                            "y": 345
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 173,
+                    "length": 4
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Burley fines",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 173,
+                            "y": 331
+                        },
+                        {
+                            "x": 254,
+                            "y": 333
+                        },
+                        {
+                            "x": 254,
+                            "y": 350
+                        },
+                        {
+                            "x": 173,
+                            "y": 348
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 178,
+                    "length": 12
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MC-4",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 103,
+                            "y": 404
+                        },
+                        {
+                            "x": 146,
+                            "y": 405
+                        },
+                        {
+                            "x": 146,
+                            "y": 422
+                        },
+                        {
+                            "x": 103,
+                            "y": 420
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 191,
+                    "length": 4
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Manufacturing fines",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 170,
+                            "y": 405
+                        },
+                        {
+                            "x": 307,
+                            "y": 405
+                        },
+                        {
+                            "x": 307,
+                            "y": 428
+                        },
+                        {
+                            "x": 170,
+                            "y": 426
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 196,
+                    "length": 19
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MC-4-S",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 376,
+                            "y": 410
+                        },
+                        {
+                            "x": 432,
+                            "y": 411
+                        },
+                        {
+                            "x": 432,
+                            "y": 428
+                        },
+                        {
+                            "x": 376,
+                            "y": 426
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 216,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MC-6",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 100,
+                            "y": 542
+                        },
+                        {
+                            "x": 139,
+                            "y": 543
+                        },
+                        {
+                            "x": 139,
+                            "y": 558
+                        },
+                        {
+                            "x": 100,
+                            "y": 557
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 223,
+                    "length": 4
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Stem Meal",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 169,
+                            "y": 544
+                        },
+                        {
+                            "x": 242,
+                            "y": 545
+                        },
+                        {
+                            "x": 242,
+                            "y": 560
+                        },
+                        {
+                            "x": 169,
+                            "y": 559
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 228,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MC-1",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 372,
+                            "y": 548
+                        },
+                        {
+                            "x": 412,
+                            "y": 548
+                        },
+                        {
+                            "x": 412,
+                            "y": 563
+                        },
+                        {
+                            "x": 372,
+                            "y": 563
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 238,
+                    "length": 4
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MC-7",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 99,
+                            "y": 587
+                        },
+                        {
+                            "x": 137,
+                            "y": 588
+                        },
+                        {
+                            "x": 137,
+                            "y": 603
+                        },
+                        {
+                            "x": 99,
+                            "y": 603
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 243,
+                    "length": 4
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Winnowers",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 167,
+                            "y": 589
+                        },
+                        {
+                            "x": 244,
+                            "y": 591
+                        },
+                        {
+                            "x": 243,
+                            "y": 606
+                        },
+                        {
+                            "x": 167,
+                            "y": 604
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 248,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "C Stem",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 373,
+                            "y": 593
+                        },
+                        {
+                            "x": 425,
+                            "y": 593
+                        },
+                        {
+                            "x": 425,
+                            "y": 609
+                        },
+                        {
+                            "x": 373,
+                            "y": 609
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 258,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RXF",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 96,
+                            "y": 633
+                        },
+                        {
+                            "x": 129,
+                            "y": 634
+                        },
+                        {
+                            "x": 129,
+                            "y": 649
+                        },
+                        {
+                            "x": 96,
+                            "y": 648
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 265,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RBF",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 96,
+                            "y": 740
+                        },
+                        {
+                            "x": 128,
+                            "y": 741
+                        },
+                        {
+                            "x": 128,
+                            "y": 756
+                        },
+                        {
+                            "x": 96,
+                            "y": 755
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 269,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RRBF or RRBF-O",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 368,
+                            "y": 745
+                        },
+                        {
+                            "x": 493,
+                            "y": 747
+                        },
+                        {
+                            "x": 493,
+                            "y": 765
+                        },
+                        {
+                            "x": 368,
+                            "y": 763
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 273,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Fine flue cured stem",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 166,
+                            "y": 634
+                        },
+                        {
+                            "x": 307,
+                            "y": 638
+                        },
+                        {
+                            "x": 306,
+                            "y": 654
+                        },
+                        {
+                            "x": 166,
+                            "y": 651
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 288,
+                    "length": 20
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RRXF or RRXF-O",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 371,
+                            "y": 638
+                        },
+                        {
+                            "x": 496,
+                            "y": 639
+                        },
+                        {
+                            "x": 496,
+                            "y": 657
+                        },
+                        {
+                            "x": 371,
+                            "y": 655
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 309,
+                    "length": 14
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Fine Burely stem",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 163,
+                            "y": 742
+                        },
+                        {
+                            "x": 280,
+                            "y": 744
+                        },
+                        {
+                            "x": 280,
+                            "y": 762
+                        },
+                        {
+                            "x": 163,
+                            "y": 760
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 324,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Allowable Substitutions",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 409,
+                            "y": 255
+                        },
+                        {
+                            "x": 611,
+                            "y": 258
+                        },
+                        {
+                            "x": 611,
+                            "y": 280
+                        },
+                        {
+                            "x": 409,
+                            "y": 277
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 341,
+                    "length": 23
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RPCFS or RPCFS-O",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 377,
+                            "y": 287
+                        },
+                        {
+                            "x": 523,
+                            "y": 289
+                        },
+                        {
+                            "x": 523,
+                            "y": 308
+                        },
+                        {
+                            "x": 377,
+                            "y": 306
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 365,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RPCBS or RPCBS-O",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 377,
+                            "y": 334
+                        },
+                        {
+                            "x": 523,
+                            "y": 335
+                        },
+                        {
+                            "x": 523,
+                            "y": 354
+                        },
+                        {
+                            "x": 377,
+                            "y": 352
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 382,
+                    "length": 16
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "WCC",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 377,
+                            "y": 364
+                        },
+                        {
+                            "x": 417,
+                            "y": 365
+                        },
+                        {
+                            "x": 417,
+                            "y": 380
+                        },
+                        {
+                            "x": 377,
+                            "y": 379
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 399,
+                    "length": 3
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MC-4-PH",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 375,
+                            "y": 440
+                        },
+                        {
+                            "x": 443,
+                            "y": 441
+                        },
+                        {
+                            "x": 443,
+                            "y": 457
+                        },
+                        {
+                            "x": 375,
+                            "y": 456
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 403,
+                    "length": 7
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MC-4-RC",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 374,
+                            "y": 470
+                        },
+                        {
+                            "x": 442,
+                            "y": 471
+                        },
+                        {
+                            "x": 442,
+                            "y": 487
+                        },
+                        {
+                            "x": 374,
+                            "y": 487
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 411,
+                    "length": 7
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MC-4-W",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 374,
+                            "y": 501
+                        },
+                        {
+                            "x": 436,
+                            "y": 501
+                        },
+                        {
+                            "x": 436,
+                            "y": 518
+                        },
+                        {
+                            "x": 374,
+                            "y": 517
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 419,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RRXM-B",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 371,
+                            "y": 668
+                        },
+                        {
+                            "x": 434,
+                            "y": 669
+                        },
+                        {
+                            "x": 433,
+                            "y": 685
+                        },
+                        {
+                            "x": 371,
+                            "y": 684
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 426,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RRXM-T",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 369,
+                            "y": 699
+                        },
+                        {
+                            "x": 431,
+                            "y": 700
+                        },
+                        {
+                            "x": 431,
+                            "y": 716
+                        },
+                        {
+                            "x": 369,
+                            "y": 715
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 433,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RRB-B",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 368,
+                            "y": 776
+                        },
+                        {
+                            "x": 419,
+                            "y": 777
+                        },
+                        {
+                            "x": 419,
+                            "y": 792
+                        },
+                        {
+                            "x": 368,
+                            "y": 792
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 440,
+                    "length": 5
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RRB-L",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 368,
+                            "y": 807
+                        },
+                        {
+                            "x": 415,
+                            "y": 807
+                        },
+                        {
+                            "x": 415,
+                            "y": 824
+                        },
+                        {
+                            "x": 368,
+                            "y": 823
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 446,
+                    "length": 5
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RRB-T",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 367,
+                            "y": 837
+                        },
+                        {
+                            "x": 415,
+                            "y": 837
+                        },
+                        {
+                            "x": 415,
+                            "y": 853
+                        },
+                        {
+                            "x": 367,
+                            "y": 853
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 452,
+                    "length": 5
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "621800455",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 699,
+                            "y": 804
+                        },
+                        {
+                            "x": 721,
+                            "y": 804
+                        },
+                        {
+                            "x": 720,
+                            "y": 928
+                        },
+                        {
+                            "x": 698,
+                            "y": 928
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 458,
+                    "length": 9
+                }
+            ]
+        }
+    ],
+    "tables": [],
+    "key_value_pairs": [],
+    "styles": [],
+    "documents": []
+}
