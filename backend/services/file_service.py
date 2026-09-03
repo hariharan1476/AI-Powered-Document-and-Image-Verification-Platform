@@ -1,5 +1,6 @@
 import os
 import shutil
+import uuid
 
 from fastapi import UploadFile
 
@@ -30,12 +31,17 @@ def save_uploaded_file(file: UploadFile):
         raise ValueError(message)
 
     # -----------------------------------------
-    # 2. Create safe local path
+    # 2. Create safe unique local path
     # -----------------------------------------
 
-    filename = os.path.basename(
+    original_filename = os.path.basename(
         file.filename
     )
+
+    # Prepend a UUID to guarantee uniqueness even when
+    # multiple users upload files with identical names.
+    unique_prefix = uuid.uuid4().hex[:12]
+    filename = f"{unique_prefix}_{original_filename}"
 
     file_path = os.path.join(
         UPLOAD_FOLDER,

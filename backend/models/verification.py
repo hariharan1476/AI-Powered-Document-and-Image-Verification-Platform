@@ -24,7 +24,7 @@ class Verification(Base):
 
     overall_score = Column(Float)
 
-    result = Column(String(50))
+    result = Column(Text)
 
     details = Column(Text)
     

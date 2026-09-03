@@ -890,7 +890,47 @@ def normalize_certificate_result(
                 overall_score,
 
             "status":
-                status
+                status,
+
+            "details":
+                safe_list(
+                    verification_result.get(
+                        "details",
+                        []
+                    )
+                ),
+
+            "completeness_analysis":
+                safe_dict(
+                    verification_result.get(
+                        "completeness_analysis",
+                        {}
+                    )
+                ),
+
+            "consistency_analysis":
+                safe_dict(
+                    verification_result.get(
+                        "consistency_analysis",
+                        {}
+                    )
+                ),
+
+            "authenticity_analysis":
+                safe_dict(
+                    verification_result.get(
+                        "authenticity_analysis",
+                        {}
+                    )
+                ),
+
+            "tamper_analysis":
+                safe_dict(
+                    verification_result.get(
+                        "tamper_analysis",
+                        {}
+                    )
+                )
         }
     }
 

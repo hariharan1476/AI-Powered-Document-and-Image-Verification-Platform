@@ -1,10 +1,10 @@
-cat > .gitignore <<'EOF'
 # =========================
 # Python
 # =========================
 __pycache__/
 *.py[cod]
 *.pyo
+*.pyd
 
 # =========================
 # Virtual Environment
@@ -12,6 +12,7 @@ __pycache__/
 venv/
 .venv/
 env/
+ENV/
 
 # =========================
 # macOS
@@ -29,11 +30,15 @@ env/
 # Uploaded Documents
 # =========================
 uploads/
-*.pdf
-*.png
-*.jpg
-*.jpeg
-*.webp
+
+# =========================
+# ML Model Files
+# =========================
+*.pt
+*.pth
+*.onnx
+*.bin
+*.safetensors
 
 # =========================
 # ML Training Checkpoints
@@ -41,12 +46,11 @@ uploads/
 **/checkpoint-*/
 
 # =========================
-# ML Generated Files
+# Frontend Build
 # =========================
-*.pt
-*.pth
-*.onnx
-*.bin
+node_modules/
+.next/
+out/
 
 # =========================
 # Logs / Temporary
@@ -60,4 +64,18 @@ temp/
 # =========================
 .vscode/
 .idea/
-EOF
+
+# =========================
+# Database
+# =========================
+instance/
+*.sqlite3
+*.db
+
+# =========================
+# ML Datasets / Test Images
+# =========================
+ml/datasets/**/images/
+ml/datasets/**/img/
+ml/test_images/
+dataset/
