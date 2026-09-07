@@ -1,8 +1,9 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
+import Link from "next/link";
 import { useAuth } from "@/src/contexts/AuthContext";
-import { Shield, KeyRound, Smartphone, Laptop, Trash2, LogOut, CheckCircle2, AlertTriangle } from "lucide-react";
+import { Shield, KeyRound, Smartphone, Laptop, Trash2, LogOut, CheckCircle2, AlertTriangle, LogIn } from "lucide-react";
 import { PasswordInput } from "@/src/components/auth/PasswordInput";
 import { PasswordStrengthMeter } from "@/src/components/auth/PasswordStrengthMeter";
 
@@ -18,7 +19,8 @@ interface SessionItem {
 }
 
 export default function SecuritySettingsPage() {
-  const { user, token, logoutAll } = useAuth();
+  const { user, token, logoutAll, isLoading: authLoading } = useAuth();
+  const [mounted, setMounted] = useState(false);
 
   // Change password state
   const [currentPassword, setCurrentPassword] = useState("");
@@ -32,14 +34,23 @@ export default function SecuritySettingsPage() {
   const [sessionsLoading, setSessionsLoading] = useState(true);
 
   useEffect(() => {
-    if (!token) return;
-    fetchSessions();
-  }, [token]);
+    setMounted(true);
+  }, []);
 
-  const fetchSessions = async () => {
+  const activeToken = mounted ? (token || (typeof window !== "undefined" ? localStorage.getItem("token") : null)) : null;
+
+  useEffect(() => {
+    if (!activeToken) {
+      setSessionsLoading(false);
+      return;
+    }
+    fetchSessions(activeToken);
+  }, [activeToken]);
+
+  const fetchSessions = async (authToken: string) => {
     try {
       const res = await fetch(`${API}/api/auth/sessions`, {
-        headers: { Authorization: `Bearer ${token}` },
+        headers: { Authorization: `Bearer ${authToken}` },
       });
       if (res.ok) {
         const data = await res.json();
@@ -57,6 +68,11 @@ export default function SecuritySettingsPage() {
     setPwError("");
     setPwSuccess("");
 
+    if (!activeToken) {
+      setPwError("You must be logged in to change your password.");
+      return;
+    }
+
     if (newPassword.length < 8) {
       setPwError("New password must be at least 8 characters long.");
       return;
@@ -68,7 +84,7 @@ export default function SecuritySettingsPage() {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Bearer ${token}`,
+          Authorization: `Bearer ${activeToken}`,
         },
         body: JSON.stringify({
           current_password: currentPassword,
@@ -89,10 +105,11 @@ export default function SecuritySettingsPage() {
   };
 
   const handleRevokeSession = async (sessionId: number) => {
+    if (!activeToken) return;
     try {
       const res = await fetch(`${API}/api/auth/sessions/${sessionId}`, {
         method: "DELETE",
-        headers: { Authorization: `Bearer ${token}` },
+        headers: { Authorization: `Bearer ${activeToken}` },
       });
       if (res.ok) {
         setSessions(sessions.filter((s) => s.id !== sessionId));
@@ -118,6 +135,30 @@ export default function SecuritySettingsPage() {
             </p>
           </div>
         </div>
+
+        {/* Unauthenticated Prompt */}
+        {mounted && !authLoading && !activeToken && (
+          <div className="bg-slate-900/90 border border-slate-800 rounded-3xl p-12 text-center space-y-4 shadow-xl">
+            <div className="w-16 h-16 bg-slate-800 rounded-2xl flex items-center justify-center mx-auto text-indigo-400">
+              <LogIn className="w-8 h-8" />
+            </div>
+            <h2 className="text-2xl font-bold text-white">Sign In Required</h2>
+            <p className="text-slate-400 text-sm max-w-md mx-auto">
+              You must be logged into an account to change your password or manage active device sessions.
+            </p>
+            <div className="pt-2">
+              <Link
+                href="/login"
+                className="inline-flex items-center gap-2 px-6 py-3 bg-indigo-600 hover:bg-indigo-500 text-white font-bold rounded-xl text-sm transition-all shadow-lg shadow-indigo-600/30"
+              >
+                Sign In to Account →
+              </Link>
+            </div>
+          </div>
+        )}
+
+        {mounted && activeToken && (
+          <>
 
         {/* Change Password Card */}
         <div className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 md:p-8 space-y-6 shadow-xl">
@@ -224,6 +265,9 @@ export default function SecuritySettingsPage() {
             </div>
           )}
         </div>
+
+        </>
+        )}
 
       </div>
     </div>
