@@ -1,52 +1,52 @@
-# 🛡️ AI-Powered Document & Image Verification Platform
+# AI-Powered Document & Image Verification Platform
 
 A modern, production-ready, SaaS-grade application for document verification, fraud detection, and multi-device user authentication. Built with **FastAPI**, **Next.js 14**, **Neon PostgreSQL**, **Cloudinary**, **Argon2id Hashing**, **Dual JWT Authentication**, and **Server-Sent Events (SSE)**.
 
 ---
 
-## 📑 Table of Contents
-- [✨ Key Features](#-key-features)
-- [🏗️ System Architecture](#️-system-architecture)
-- [💻 Tech Stack](#-tech-stack)
-- [⚙️ Environment Variables Configuration](#️-environment-variables-configuration)
-- [🚀 Quickstart & Setup Guide](#-quickstart--setup-guide)
-- [🔑 Seeded System Accounts](#-seeded-system-accounts)
-- [📡 Complete API Endpoint Reference](#-complete-api-endpoint-reference)
+## Table of Contents
+- [Key Features](#key-features)
+- [System Architecture](#system-architecture)
+- [Tech Stack](#tech-stack)
+- [Environment Variables Configuration](#environment-variables-configuration)
+- [Quickstart & Setup Guide](#quickstart--setup-guide)
+- [Seeded System Accounts](#seeded-system-accounts)
+- [Complete API Endpoint Reference](#complete-api-endpoint-reference)
   - [1. System Health](#1-system-health)
   - [2. Authentication & Session Security](#2-authentication--session-security)
   - [3. Document Upload & AI Verification](#3-document-upload--ai-verification)
   - [4. Verification History](#4-verification-history)
   - [5. Admin Management](#5-admin-management)
-- [🧹 Database Reset & Seeding](#-database-reset--seeding)
-- [🛡️ Security Architecture](#️-security-architecture)
+- [Database Reset & Seeding](#database-reset--seeding)
+- [Security Architecture](#security-architecture)
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- 🔐 **SaaS Authentication Suite**:
+- **SaaS Authentication Suite**:
   - **Argon2id Password Hashing**: Resistant to GPU/ASIC brute-force attacks.
   - **Dual JWT Token System**: Short-lived 15-minute Access Tokens + 7-day Refresh Tokens with automatic token rotation.
   - **Multi-Device Session Tracking**: View active browser sessions, IP addresses, device names, and perform single-click **"Logout All Devices"**.
   - **Google OAuth 2.0 Integration**: Single Sign-On (SSO) with automated account linking and safe `NULL` password handling.
   - **OTP & Password Reset**: 6-digit email verification OTPs and single-use magic links.
   
-- 📄 **AI Document Verification Pipeline**:
+- **AI Document Verification Pipeline**:
   - **Multi-Format Support**: `.pdf`, `.png`, `.jpg`, `.jpeg`.
   - **Cloud Storage Integration**: Direct upload and hosting via **Cloudinary API**.
   - **Real-Time Progress Streaming**: Live SSE stream (`/api/upload/stream/{job_id}`) providing feedback as documents undergo OCR, authenticity scoring, and completeness checks.
   - **Verification Metrics**: Returns detailed breakdown scores for **Authenticity**, **Completeness**, and **Consistency**.
 
-- 🔒 **Data Scoping & Security**:
+- **Data Scoping & Security**:
   - **Strict User Scoping**: `/api/verification/history` ensures users can only access their own uploaded documents.
   - **Clean Error Formatting**: Zero raw `[object Object]` crashes; human-friendly error messages formatted for UI rendering.
 
-- 👑 **Admin Portal**:
+- **Admin Portal**:
   - Full management dashboard to inspect user accounts, roles, statuses (`ACTIVE`, `SUSPENDED`), and system usage metrics.
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```mermaid
 graph TD
@@ -59,7 +59,7 @@ graph TD
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### **Frontend**
 - **Framework**: Next.js 14 (App Router)
@@ -82,7 +82,7 @@ graph TD
 
 ---
 
-## ⚙️ Environment Variables Configuration
+## Environment Variables Configuration
 
 Create a `.env` file in the root project directory with the following variables:
 
@@ -126,7 +126,7 @@ SMTP_PASSWORD=your_app_password
 
 ---
 
-## 🚀 Quickstart & Setup Guide
+## Quickstart & Setup Guide
 
 ### 1. Prerequisites
 - **Python**: `3.10` or higher
@@ -171,18 +171,18 @@ python3 -m backend.scripts.reset_db
 
 ---
 
-## 🔑 Seeded System Accounts
+## Seeded System Accounts
 
 After running `python3 -m backend.scripts.reset_db`, the following accounts are ready:
 
 | Role | Email | Password | Access Level |
 |---|---|---|---|
-| 👑 **Super Admin** | `hariharankrishnamoorthy1476@gmail.com` | `Admin@2026!Hari` | Full System & User Management Access |
-| 👤 **Demo User** | `demo@example.com` | `DemoUser@123` | Standard Verification & History Access |
+| **Super Admin** | `hariharankrishnamoorthy1476@gmail.com` | `Admin@2026!Hari` | Full System & User Management Access |
+| **Demo User** | `demo@example.com` | `DemoUser@123` | Standard Verification & History Access |
 
 ---
 
-## 📡 Complete API Endpoint Reference
+## Complete API Endpoint Reference
 
 ### 1. System Health
 
@@ -317,7 +317,7 @@ After running `python3 -m backend.scripts.reset_db`, the following accounts are 
 
 ---
 
-## 🧹 Database Reset & Seeding
+## Database Reset & Seeding
 
 To clean up all test documents, reset user sessions, and restore standard admin credentials:
 
@@ -332,7 +332,7 @@ This script:
 
 ---
 
-## 🛡️ Security Architecture
+## Security Architecture
 
 1. **Password Security**: Argon2id (`passlib[argon2]`) with strict salt parameters.
 2. **Session Security**: Single-use token rotation preventing replay attacks.
