@@ -60,7 +60,7 @@ def load_document_image(file_path):
 
     if file_path.lower().endswith(".pdf"):
 
-        import fitz
+        import pymupdf as fitz
 
         pdf = fitz.open(file_path)
 
@@ -156,7 +156,9 @@ def analyze_with_layoutlm(file_path):
 
     encoding = processor(
         image,
-        return_tensors="pt"
+        return_tensors="pt",
+        truncation=True,
+        max_length=512
     )
 
     # ---------------------------------------------
@@ -276,6 +278,8 @@ def analyze_with_layoutlm(file_path):
             "tokens_processed":
                 token_count
         },
+        
+        "bounding_boxes": bbox.tolist() if bbox is not None else [],
 
         "status":
             "analyzed"

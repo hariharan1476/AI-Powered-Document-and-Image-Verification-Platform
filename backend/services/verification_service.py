@@ -260,7 +260,8 @@ def run_layoutlm(
 # ============================================================
 
 def run_ml_verification_engine(
-    file_path: str
+    file_path: str,
+    job_id: str = None
 ) -> Dict:
     """
     Run the ML verification engine used by:
@@ -296,17 +297,40 @@ def run_ml_verification_engine(
         file_path
     ]
 
-    try:
+    stdout_lines = []
+    stderr_lines = []
 
-        process = subprocess.run(
+    try:
+        from backend.services.job_manager import update_job
+        
+        process = subprocess.Popen(
             command,
             cwd=PROJECT_ROOT,
-            capture_output=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
             text=True,
-            timeout=180
+            bufsize=1
         )
+        
+        for line in process.stdout:
+            stdout_lines.append(line)
+            clean_line = line.strip()
+            if clean_line and job_id:
+                # We can log all non-JSON/debug lines as progress
+                if not clean_line.startswith("{") and not clean_line.startswith("}") and "Full Result" not in clean_line and "-----------" not in clean_line:
+                    # Ignore some layoutlm warnings
+                    if "tesseract" not in clean_line.lower() and "huggingface" not in clean_line.lower():
+                        update_job(job_id, log=clean_line)
+
+        process.wait(timeout=180)
+        
+        for line in process.stderr:
+            stderr_lines.append(line)
 
     except subprocess.TimeoutExpired:
+
+        if process:
+            process.kill()
 
         return {
             "success": False,
@@ -320,8 +344,8 @@ def run_ml_verification_engine(
             "error": str(error)
         }
 
-    stdout = process.stdout or ""
-    stderr = process.stderr or ""
+    stdout = "".join(stdout_lines)
+    stderr = "".join(stderr_lines)
 
     # --------------------------------------------------------
     # Process failure
@@ -997,29 +1021,23 @@ def build_unknown_result(
 
 def verify_uploaded_document(
     db: Session,
-    document: Document
-):
+    document: Document,
+    job_id: str = None
+) -> Verification:
     """
-    Complete document verification pipeline.
-
-    Pipeline:
-
-        Uploaded File
-             ↓
-        File Validation
-             ↓
-        OCR / Text Extraction
-             ↓
-        LayoutLMv3
-             ↓
-        Document Classification
-             ↓
-        Verification Engine
-             ↓
-        Result Normalization
-             ↓
-        PostgreSQL
+    Core pipeline that coordinates the ML models.
     """
+
+    if not document:
+        raise ValueError(
+            "Document is required"
+        )
+        
+    from backend.services.job_manager import update_job
+    
+    def log_progress(msg, status=None, progress=None):
+        if job_id:
+            update_job(job_id, log=msg, status=status, progress=progress)
 
     # ========================================================
     # 1. FILE VALIDATION
@@ -1052,6 +1070,7 @@ def verify_uploaded_document(
     # ========================================================
     # 2. OCR / TEXT EXTRACTION
     # ========================================================
+    log_progress("Extracting text via OCR...", progress=30)
 
     text = extract_text(
         file_path
@@ -1066,6 +1085,7 @@ def verify_uploaded_document(
     # ========================================================
     # 3. LAYOUTLMv3
     # ========================================================
+    log_progress("Analyzing document structure with LayoutLMv3...", progress=45)
 
     layoutlm_result = run_layoutlm(
         file_path
@@ -1074,6 +1094,7 @@ def verify_uploaded_document(
     # ========================================================
     # 4. CLASSIFICATION
     # ========================================================
+    log_progress("Classifying document type...", progress=55)
 
     (
         document_type,
@@ -1101,6 +1122,8 @@ def verify_uploaded_document(
     # ========================================================
 
     if document_type == "CERTIFICATE":
+        
+        log_progress("Running Certificate verification engine...", progress=65)
 
         fields = extract_certificate_fields(
             text
@@ -1196,11 +1219,13 @@ def verify_uploaded_document(
         # completeness = 91.67
         # consistency = 100
         # overall = 97.92
-        # status = VERIFIED
         # ----------------------------------------------------
 
+        log_progress("Running ML verification engine for Resume...", progress=65)
+
         engine_response = run_ml_verification_engine(
-            file_path
+            file_path,
+            job_id=job_id
         )
 
         # ----------------------------------------------------

@@ -2,6 +2,8 @@ import os
 import re
 from typing import Dict, Any
 
+from ml.ela_analyzer import analyze_ela
+
 
 # ============================================================
 # CONFIGURATION
@@ -528,13 +530,39 @@ def calculate_tamper_score(
         )
 
     # --------------------------------------------------------
+    # ELA (Error Level Analysis)
+    # --------------------------------------------------------
+    
+    print("Running Error Level Analysis (ELA)...")
+    ela_res = analyze_ela(file_path)
+    ela_score = 0.0
+    ela_image_path = None
+    
+    if ela_res.get("success"):
+        ela_score = ela_res.get("ela_score", 0.0)
+        local_ela_path = ela_res.get("ela_image_path")
+        
+        try:
+            from backend.cloudinary_config import upload_document
+            print("Uploading ELA image to Cloudinary...")
+            c_res = upload_document(local_ela_path)
+            ela_image_path = c_res.get("secure_url")
+            import os
+            os.remove(local_ela_path)
+        except Exception as e:
+            print(f"Failed to upload ELA image: {e}")
+            
+        if ela_score > 50:
+            suspicious_indicators.append(f"High ELA variance detected (Score: {ela_score:.1f}%). Possible forgery/splicing.")
+
+    # --------------------------------------------------------
     # Calculate score
     # --------------------------------------------------------
 
-    # Each detected indicator adds 20 points.
+    # Each detected indicator adds 20 points + ELA score
     tamper_score = min(
         100.0,
-        len(suspicious_indicators) * 20.0
+        (len(suspicious_indicators) * 20.0) + (ela_score * 0.5)
     )
 
     if tamper_score == 0:
@@ -550,6 +578,8 @@ def calculate_tamper_score(
         "score": round(tamper_score, 2),
         "status": status,
         "suspicious_indicators": suspicious_indicators,
+        "ela_score": round(ela_score, 2),
+        "ela_image_path": ela_image_path
     }
 
 
@@ -733,6 +763,8 @@ def verify_certificate(
         "completeness": completeness,
         "consistency": consistency,
         "tamper_score": tamper_score,
+        "ela_score": tamper_result.get("ela_score", 0.0),
+        "ela_image_path": tamper_result.get("ela_image_path"),
         "overall_score": overall_score,
         "status": status,
 
@@ -1103,11 +1135,37 @@ def verify_resume(text: str) -> Dict[str, Any]:
             "Resume name could not be identified"
         )
 
+    # --------------------------------------------------------
+    # ELA (Error Level Analysis)
+    # --------------------------------------------------------
+    
+    print("Running Error Level Analysis (ELA) for Resume...")
+    ela_res = analyze_ela(file_path)
+    ela_score = 0.0
+    ela_image_path = None
+    
+    if ela_res.get("success"):
+        ela_score = ela_res.get("ela_score", 0.0)
+        local_ela_path = ela_res.get("ela_image_path")
+        
+        try:
+            from backend.cloudinary_config import upload_document
+            print("Uploading ELA image to Cloudinary...")
+            c_res = upload_document(local_ela_path)
+            ela_image_path = c_res.get("secure_url")
+            import os
+            os.remove(local_ela_path)
+        except Exception as e:
+            print(f"Failed to upload ELA image: {e}")
+            
+        if ela_score > 50:
+            tamper_indicators.append(f"High ELA variance detected (Score: {ela_score:.1f}%). Possible forgery/splicing.")
+
     if tamper_indicators:
 
         tamper_score = min(
             100.0,
-            len(tamper_indicators) * 20.0
+            (len(tamper_indicators) * 20.0) + (ela_score * 0.5)
         )
 
     # ---------------------------------------------------------
@@ -1213,6 +1271,12 @@ def verify_resume(text: str) -> Dict[str, Any]:
 
             "tamper_score":
                 tamper_score,
+
+            "ela_score":
+                ela_score,
+                
+            "ela_image_path":
+                ela_image_path,
 
             "overall_score":
                 overall_score,

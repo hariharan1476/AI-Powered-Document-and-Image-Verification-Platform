@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, DateTime
+from sqlalchemy import Column, Integer, String, DateTime, ForeignKey
 from datetime import datetime
 
 from backend.database.db import Base
@@ -11,6 +11,12 @@ class Document(Base):
         Integer,
         primary_key=True,
         index=True
+    )
+
+    user_id = Column(
+        Integer,
+        ForeignKey("users.id"),
+        nullable=False
     )
 
     filename = Column(

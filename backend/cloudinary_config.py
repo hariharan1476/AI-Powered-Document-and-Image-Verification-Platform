@@ -53,13 +53,18 @@ def upload_document(file_path: str):
             f"File not found: {file_path}"
         )
 
+    # Use 'raw' for PDFs so Cloudinary serves them as downloadable/viewable files
+    ext = os.path.splitext(file_path)[1].lower()
+    resource_type = "raw" if ext == ".pdf" else "auto"
+
     result = cloudinary.uploader.upload(
         file_path,
-        resource_type="auto",
+        resource_type=resource_type,
         folder="document-verification",
         use_filename=True,
         unique_filename=True,
-        overwrite=False
+        overwrite=False,
+        access_mode="public"
     )
 
     return {

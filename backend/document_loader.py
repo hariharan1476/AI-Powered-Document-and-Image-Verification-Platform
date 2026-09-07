@@ -1,6 +1,6 @@
 import os
 import sys
-import fitz
+import pymupdf as fitz
 from PIL import Image
 
 

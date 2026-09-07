@@ -1,10 +1,14 @@
+import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 
 from backend.database.db import Base, engine
 from backend.routes.upload import router as upload_router
 from backend.routes.verification import router as verification_router
 from backend.routes.report import router as report_router
+from backend.routes.auth import router as auth_router
+from backend.routes.admin import router as admin_router
 
 
 app = FastAPI(
@@ -34,6 +38,7 @@ app.add_middleware(
 # DATABASE
 # ---------------------------------------------------------
 
+import backend.models  # Ensure all models are registered with Base metadata
 Base.metadata.create_all(bind=engine)
 
 
@@ -41,9 +46,16 @@ Base.metadata.create_all(bind=engine)
 # ROUTES
 # ---------------------------------------------------------
 
+app.include_router(auth_router)
 app.include_router(upload_router)
 app.include_router(verification_router)
 app.include_router(report_router)
+app.include_router(admin_router)
+
+# Serve uploaded files so admin can view PDFs directly
+uploads_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "uploads")
+os.makedirs(uploads_dir, exist_ok=True)
+app.mount("/uploads", StaticFiles(directory=uploads_dir), name="uploads")
 
 
 # ---------------------------------------------------------
