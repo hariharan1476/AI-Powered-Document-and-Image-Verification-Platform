@@ -79,3 +79,5 @@ ml/datasets/**/images/
 ml/datasets/**/img/
 ml/test_images/
 dataset/
+# Word Documents
+*.docx
