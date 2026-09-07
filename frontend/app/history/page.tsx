@@ -33,9 +33,14 @@ export default function HistoryPage() {
   const [history, setHistory] = useState<HistoryItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
 
   const fetchHistory = useCallback(async () => {
-    const activeToken = token || localStorage.getItem("token");
+    const activeToken = token || (typeof window !== "undefined" ? localStorage.getItem("token") : null);
     if (!activeToken) {
       setLoading(false);
       return;
@@ -58,17 +63,17 @@ export default function HistoryPage() {
   }, [token]);
 
   useEffect(() => {
-    if (!authLoading) {
-      const storedToken = token || localStorage.getItem("token");
+    if (mounted && !authLoading) {
+      const storedToken = token || (typeof window !== "undefined" ? localStorage.getItem("token") : null);
       if (!storedToken) {
         setLoading(false);
       } else {
         fetchHistory();
       }
     }
-  }, [authLoading, token, fetchHistory]);
+  }, [mounted, authLoading, token, fetchHistory]);
 
-  const storedToken = token || (typeof window !== "undefined" ? localStorage.getItem("token") : null);
+  const storedToken = mounted ? (token || (typeof window !== "undefined" ? localStorage.getItem("token") : null)) : null;
 
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 p-6 md:p-12">

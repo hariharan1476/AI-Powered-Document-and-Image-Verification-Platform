@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { AuthProvider } from "../src/contexts/AuthContext";
+import Navbar from "../src/components/Navbar";
 
 export const metadata: Metadata = {
   title: "AI Document & Image Verification",
@@ -29,6 +30,7 @@ export default function RootLayout({
       </head>
       <body>
         <AuthProvider>
+          <Navbar />
           {children}
         </AuthProvider>
       </body>
