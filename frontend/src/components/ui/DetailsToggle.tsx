@@ -12,7 +12,7 @@ export function DetailsToggle({
     <div className="flex justify-center mt-8 mb-4">
       <button
         type="button"
-        className="flex items-center gap-2 px-6 py-2.5 bg-indigo-50 hover:bg-indigo-100 text-indigo-700 rounded-full font-bold text-sm transition-all border border-indigo-100 shadow-sm active:scale-95 group"
+        className="flex items-center gap-2 px-6 py-2.5 bg-indigo-50 dark:bg-indigo-600/20 hover:bg-indigo-100 dark:hover:bg-indigo-600/30 text-indigo-700 dark:text-indigo-300 rounded-full font-bold text-sm transition-all border border-indigo-100 dark:border-indigo-500/30 shadow-sm active:scale-95 group"
         onClick={onToggle}
       >
         <Beaker size={16} />

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { AuthProvider } from "../src/contexts/AuthContext";
-import Navbar from "../src/components/Navbar";
+import { ThemeProvider } from "../src/contexts/ThemeContext";
 
 export const metadata: Metadata = {
   title: "AI Document & Image Verification",
@@ -15,7 +15,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className="dark">
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
@@ -28,11 +28,12 @@ export default function RootLayout({
           rel="stylesheet"
         />
       </head>
-      <body>
-        <AuthProvider>
-          <Navbar />
-          {children}
-        </AuthProvider>
+      <body className="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 font-sans antialiased min-h-screen transition-colors duration-300">
+        <ThemeProvider>
+          <AuthProvider>
+            {children}
+          </AuthProvider>
+        </ThemeProvider>
       </body>
     </html>
   );

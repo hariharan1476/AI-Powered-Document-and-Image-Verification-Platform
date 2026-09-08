@@ -142,8 +142,8 @@ export default function AdminPage() {
 
   if (isLoading || loading) {
     return (
-      <div className="min-h-screen flex flex-col items-center justify-center bg-slate-950 text-slate-400">
-        <svg className="animate-spin h-10 w-10 text-indigo-500 mb-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+      <div className="min-h-screen flex flex-col items-center justify-center bg-slate-50 dark:bg-slate-950 text-slate-600 dark:text-slate-400">
+        <svg className="animate-spin h-10 w-10 text-indigo-600 dark:text-indigo-500 mb-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
           <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
           <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
         </svg>
@@ -157,14 +157,14 @@ export default function AdminPage() {
       <div className="max-w-6xl mx-auto">
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-10">
           <div>
-            <h1 className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-slate-900 to-slate-600 tracking-tight mb-1">
+            <h1 className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-slate-900 via-slate-800 to-indigo-600 dark:from-white dark:via-slate-200 dark:to-indigo-400 tracking-tight mb-1">
               Admin Dashboard
             </h1>
-            <p className="text-slate-500 font-medium">Manage platform users and uploaded documents across the entire system.</p>
+            <p className="text-slate-600 dark:text-slate-400 font-medium">Manage platform users and uploaded documents across the entire system.</p>
           </div>
           <Link 
             href="/" 
-            className="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-slate-200 text-slate-700 font-semibold rounded-xl hover:bg-slate-50 hover:border-slate-300 transition-all shadow-sm"
+            className="inline-flex items-center gap-2 px-5 py-2.5 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 font-semibold rounded-xl hover:bg-slate-50 dark:hover:bg-slate-800 transition-all shadow-sm"
           >
             <ArrowLeft size={18} />
             Back to App
@@ -172,7 +172,7 @@ export default function AdminPage() {
         </div>
 
         {error && (
-          <div className="mb-8 p-4 rounded-xl bg-red-50 border border-red-100 flex items-start gap-3 text-red-600 animate-fade-in shadow-sm">
+          <div className="mb-8 p-4 rounded-xl bg-red-50 dark:bg-red-500/10 border border-red-200 dark:border-red-500/20 flex items-start gap-3 text-red-600 dark:text-red-400 shadow-sm">
             <ShieldAlert className="shrink-0 mt-0.5" size={20} />
             <p className="font-medium">{error}</p>
           </div>
@@ -182,40 +182,40 @@ export default function AdminPage() {
           
           {/* USERS COLUMN */}
           <div className="lg:col-span-1 space-y-6">
-            <div className="bg-white border border-slate-200 shadow-sm rounded-2xl p-6">
+            <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm rounded-2xl p-6">
               <div className="flex items-center justify-between mb-6">
                 <div className="flex items-center gap-3">
-                  <div className="p-2.5 bg-indigo-50 text-indigo-600 rounded-xl">
+                  <div className="p-2.5 bg-indigo-50 dark:bg-indigo-600/20 text-indigo-600 dark:text-indigo-400 rounded-xl">
                     <Users size={22} />
                   </div>
-                  <h2 className="text-lg font-bold text-slate-800">Users</h2>
+                  <h2 className="text-lg font-bold text-slate-900 dark:text-white">Users</h2>
                 </div>
-                <span className="bg-slate-100 text-slate-600 font-bold px-3 py-1 rounded-full text-xs">
+                <span className="bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 font-bold px-3 py-1 rounded-full text-xs">
                   {users.length}
                 </span>
               </div>
               
               <div className="space-y-4 max-h-[600px] overflow-y-auto pr-2 custom-scrollbar">
                 {users.map(u => (
-                  <div key={u.id} className="p-4 rounded-xl border border-slate-100 bg-slate-50/50 hover:bg-white hover:border-indigo-100 hover:shadow-md hover:-translate-y-1 transition-all duration-300 group cursor-default">
+                  <div key={u.id} className="p-4 rounded-xl border border-slate-200 dark:border-slate-800 bg-slate-50/80 dark:bg-slate-950/50 hover:bg-white dark:hover:bg-slate-800/80 transition-all duration-300 shadow-sm">
                     <div className="flex justify-between items-start mb-2">
                       <div>
-                        <div className="font-bold text-slate-900">{u.name}</div>
-                        <div className="text-xs font-medium text-slate-500">{u.email}</div>
+                        <div className="font-bold text-slate-900 dark:text-white">{u.name}</div>
+                        <div className="text-xs font-medium text-slate-500 dark:text-slate-400">{u.email}</div>
                       </div>
                       {u.is_admin ? (
-                        <span className="px-2.5 py-1 bg-indigo-100 text-indigo-700 text-[10px] font-bold uppercase tracking-wider rounded-md">Admin</span>
+                        <span className="px-2.5 py-1 bg-indigo-100 dark:bg-indigo-600/30 text-indigo-700 dark:text-indigo-300 text-[10px] font-bold uppercase tracking-wider rounded-md">Admin</span>
                       ) : (
-                        <span className="px-2.5 py-1 bg-slate-200 text-slate-600 text-[10px] font-bold uppercase tracking-wider rounded-md">User</span>
+                        <span className="px-2.5 py-1 bg-slate-200 dark:bg-slate-800 text-slate-700 dark:text-slate-400 text-[10px] font-bold uppercase tracking-wider rounded-md">User</span>
                       )}
                     </div>
                     
-                    <div className="flex items-center justify-between mt-4 pt-4 border-t border-slate-200/60">
-                      <div className="text-xs font-medium text-slate-400">ID: #{u.id}</div>
+                    <div className="flex items-center justify-between mt-4 pt-4 border-t border-slate-200 dark:border-slate-800/60">
+                      <div className="text-xs font-medium text-slate-400 dark:text-slate-500">ID: #{u.id}</div>
                       {!u.is_admin && (
                         <button 
                           onClick={() => deleteUser(u.id)} 
-                          className="p-1.5 text-red-400 hover:bg-red-50 hover:text-red-600 rounded-lg transition-colors"
+                          className="p-1.5 text-red-400 hover:bg-red-50 dark:hover:bg-red-500/10 hover:text-red-600 dark:hover:text-red-400 rounded-lg transition-colors"
                           title="Delete User"
                         >
                           <Trash2 size={16} />
@@ -236,15 +236,15 @@ export default function AdminPage() {
 
           {/* DOCUMENTS COLUMN */}
           <div className="lg:col-span-2 space-y-6">
-            <div className="bg-white border border-slate-200 shadow-sm rounded-2xl p-6">
+            <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm rounded-2xl p-6">
               <div className="flex items-center justify-between mb-6">
                 <div className="flex items-center gap-3">
-                  <div className="p-2.5 bg-blue-50 text-blue-600 rounded-xl">
+                  <div className="p-2.5 bg-blue-50 dark:bg-blue-600/20 text-blue-600 dark:text-blue-400 rounded-xl">
                     <FileText size={22} />
                   </div>
-                  <h2 className="text-lg font-bold text-slate-800">All Documents</h2>
+                  <h2 className="text-lg font-bold text-slate-900 dark:text-white">All Documents</h2>
                 </div>
-                <span className="bg-slate-100 text-slate-600 font-bold px-3 py-1 rounded-full text-xs">
+                <span className="bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 font-bold px-3 py-1 rounded-full text-xs">
                   {docs.length}
                 </span>
               </div>
@@ -253,21 +253,21 @@ export default function AdminPage() {
                 <table className="w-full text-left border-collapse min-w-[600px]">
                   <thead>
                     <tr>
-                      <th className="pb-4 pt-2 border-b border-slate-200 text-xs font-bold text-slate-400 uppercase tracking-wider">Document</th>
-                      <th className="pb-4 pt-2 border-b border-slate-200 text-xs font-bold text-slate-400 uppercase tracking-wider">Uploader</th>
-                      <th className="pb-4 pt-2 border-b border-slate-200 text-xs font-bold text-slate-400 uppercase tracking-wider">Status</th>
-                      <th className="pb-4 pt-2 border-b border-slate-200 text-xs font-bold text-slate-400 uppercase tracking-wider text-right">Actions</th>
+                      <th className="pb-4 pt-2 border-b border-slate-200 dark:border-slate-800 text-xs font-bold text-slate-400 uppercase tracking-wider">Document</th>
+                      <th className="pb-4 pt-2 border-b border-slate-200 dark:border-slate-800 text-xs font-bold text-slate-400 uppercase tracking-wider">Uploader</th>
+                      <th className="pb-4 pt-2 border-b border-slate-200 dark:border-slate-800 text-xs font-bold text-slate-400 uppercase tracking-wider">Status</th>
+                      <th className="pb-4 pt-2 border-b border-slate-200 dark:border-slate-800 text-xs font-bold text-slate-400 uppercase tracking-wider text-right">Actions</th>
                     </tr>
                   </thead>
-                  <tbody className="divide-y divide-slate-100">
+                  <tbody className="divide-y divide-slate-100 dark:divide-slate-800/80">
                     {docs.map(d => (
-                      <tr key={d.id} className="hover:bg-indigo-50/30 transition-colors duration-200 group">
+                      <tr key={d.id} className="hover:bg-indigo-50/50 dark:hover:bg-slate-800/50 transition-colors duration-200 group">
                         <td className="py-4 pr-4">
-                          <div className="font-bold text-slate-900 max-w-[200px] truncate" title={d.filename}>{d.filename}</div>
-                          <div className="text-xs font-medium text-slate-400">ID: #{d.id}</div>
+                          <div className="font-bold text-slate-900 dark:text-white max-w-[200px] truncate" title={d.filename}>{d.filename}</div>
+                          <div className="text-xs font-medium text-slate-400 dark:text-slate-500">ID: #{d.id}</div>
                         </td>
                         <td className="py-4 px-2">
-                          <div className="text-sm font-medium text-slate-700">{d.user_email}</div>
+                          <div className="text-sm font-medium text-slate-700 dark:text-slate-300">{d.user_email}</div>
                         </td>
                         <td className="py-4 px-2">
                           <span className={`inline-flex px-2.5 py-1 rounded-md text-[10px] font-bold uppercase tracking-wider ${
