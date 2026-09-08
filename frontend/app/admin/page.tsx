@@ -4,7 +4,8 @@ import { useEffect, useState } from "react";
 import { useAuth } from "../../src/contexts/AuthContext";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
-import { Trash2, ShieldAlert, ArrowLeft, Users, FileText, Eye } from "lucide-react";
+import AppLayout from "../../src/components/AppLayout";
+import { Trash2, ShieldAlert, ArrowLeft, Users, FileText, Eye, ShieldCheck, User } from "lucide-react";
 import dynamic from "next/dynamic";
 const PdfViewerModal = dynamic(() => import("../../src/components/PdfViewerModal"), { ssr: false });
 
@@ -61,28 +62,54 @@ export default function AdminPage() {
   const fetchData = async () => {
     try {
       setLoading(true);
+      setError("");
       const headers = { Authorization: `Bearer ${token}` };
       
-      const [usersRes, docsRes] = await Promise.all([
+      const [uRes, dRes] = await Promise.all([
         fetch(`${API_BASE_URL}/api/admin/users`, { headers }),
         fetch(`${API_BASE_URL}/api/admin/documents`, { headers })
       ]);
 
-      if (!usersRes.ok || !docsRes.ok) throw new Error("Failed to fetch admin data");
+      if (!uRes.ok || !dRes.ok) {
+        throw new Error("Failed to fetch admin data");
+      }
 
-      setUsers(await usersRes.json());
-      setDocs(await docsRes.json());
+      const uData = await uRes.json();
+      const dData = await dRes.json();
+
+      setUsers(uData);
+      setDocs(dData);
     } catch (err: any) {
-      setError(err.message);
+      setError(err.message || "An error occurred");
     } finally {
       setLoading(false);
     }
   };
 
-  const deleteUser = async (id: number) => {
-    if (!confirm("Are you sure? This deletes the user and all their documents.")) return;
+  const toggleAdmin = async (userId: number, currentAdmin: boolean) => {
     try {
-      const res = await fetch(`${API_BASE_URL}/api/admin/users/${id}`, {
+      const res = await fetch(`${API_BASE_URL}/api/admin/users/${userId}/role`, {
+        method: "PUT",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${token}`
+        },
+        body: JSON.stringify({ is_admin: !currentAdmin })
+      });
+      if (!res.ok) {
+        const data = await res.json();
+        throw new Error(data.detail || "Failed to update role");
+      }
+      fetchData();
+    } catch (err: any) {
+      alert(err.message);
+    }
+  };
+
+  const deleteUser = async (userId: number) => {
+    if (!confirm("Are you sure you want to delete this user? All their documents will be permanently removed.")) return;
+    try {
+      const res = await fetch(`${API_BASE_URL}/api/admin/users/${userId}`, {
         method: "DELETE",
         headers: { Authorization: `Bearer ${token}` }
       });
@@ -90,8 +117,6 @@ export default function AdminPage() {
         const data = await res.json();
         throw new Error(data.detail || "Failed to delete user");
       }
-      setUsers(users.filter(u => u.id !== id));
-      setDocs(docs.filter(d => !d.user_email || d.user_email === users.find(u=>u.id===id)?.email)); // A rough cleanup on the UI side to refresh
       fetchData();
     } catch (err: any) {
       alert(err.message);
@@ -117,8 +142,8 @@ export default function AdminPage() {
 
   if (isLoading || loading) {
     return (
-      <div className="min-h-screen flex flex-col items-center justify-center bg-slate-50 text-slate-500">
-        <svg className="animate-spin h-10 w-10 text-primary-500 mb-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+      <div className="min-h-screen flex flex-col items-center justify-center bg-slate-950 text-slate-400">
+        <svg className="animate-spin h-10 w-10 text-indigo-500 mb-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
           <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
           <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
         </svg>
@@ -128,7 +153,7 @@ export default function AdminPage() {
   }
 
   return (
-    <div className="min-h-screen bg-slate-50 p-6 md:p-10">
+    <AppLayout>
       <div className="max-w-6xl mx-auto">
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-10">
           <div>
@@ -302,6 +327,6 @@ export default function AdminPage() {
           onClose={() => setPdfViewUrl(null)}
         />
       )}
-    </div>
+    </AppLayout>
   );
 }

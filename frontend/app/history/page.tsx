@@ -4,6 +4,7 @@ import React, { useEffect, useState, useCallback } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useAuth } from "@/src/contexts/AuthContext";
+import AppLayout from "@/src/components/AppLayout";
 import { History, FileText, AlertTriangle, ShieldCheck, Clock, ExternalLink, RefreshCw, LogIn } from "lucide-react";
 
 const API = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
@@ -76,7 +77,7 @@ export default function HistoryPage() {
   const storedToken = mounted ? (token || (typeof window !== "undefined" ? localStorage.getItem("token") : null)) : null;
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 p-6 md:p-12">
+    <AppLayout>
       <div className="max-w-6xl mx-auto space-y-8">
 
         {/* Page Header */}
@@ -246,6 +247,6 @@ export default function HistoryPage() {
         ) : null}
 
       </div>
-    </div>
+    </AppLayout>
   );
 }

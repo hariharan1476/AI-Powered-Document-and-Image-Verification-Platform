@@ -3,6 +3,7 @@
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import { useAuth } from "@/src/contexts/AuthContext";
+import AppLayout from "@/src/components/AppLayout";
 import { Shield, KeyRound, Smartphone, Laptop, Trash2, LogOut, CheckCircle2, AlertTriangle, LogIn } from "lucide-react";
 import { PasswordInput } from "@/src/components/auth/PasswordInput";
 import { PasswordStrengthMeter } from "@/src/components/auth/PasswordStrengthMeter";
@@ -120,7 +121,7 @@ export default function SecuritySettingsPage() {
   };
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 p-6 md:p-12">
+    <AppLayout>
       <div className="max-w-4xl mx-auto space-y-10">
 
         {/* Page Title */}
@@ -270,6 +271,6 @@ export default function SecuritySettingsPage() {
         )}
 
       </div>
-    </div>
+    </AppLayout>
   );
 }
