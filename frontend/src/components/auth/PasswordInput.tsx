@@ -31,7 +31,7 @@ export function PasswordInput({
   return (
     <div className={`space-y-1.5 ${className}`}>
       {label && (
-        <label htmlFor={id} className="block text-sm font-semibold text-slate-300">
+        <label htmlFor={id} className="block text-sm font-semibold text-slate-700 dark:text-slate-300">
           {label}
         </label>
       )}
@@ -48,7 +48,7 @@ export function PasswordInput({
           placeholder={placeholder}
           required={required}
           autoComplete={autoComplete}
-          className="w-full pl-11 pr-11 py-3 bg-slate-900/80 border border-slate-700/80 rounded-xl text-white placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all duration-200"
+          className="w-full pl-11 pr-11 py-3 bg-slate-50 dark:bg-slate-900/80 border border-slate-200 dark:border-slate-700/80 rounded-xl text-slate-900 dark:text-white placeholder-slate-400 dark:placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all duration-200"
         />
         <button
           type="button"

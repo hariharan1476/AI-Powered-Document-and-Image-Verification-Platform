@@ -21,13 +21,30 @@ import {
 interface SidebarProps {
   isMobileOpen?: boolean;
   onMobileClose?: () => void;
+  collapsed?: boolean;
+  onToggleCollapse?: () => void;
 }
 
-export default function Sidebar({ isMobileOpen = false, onMobileClose }: SidebarProps) {
+export default function Sidebar({
+  isMobileOpen = false,
+  onMobileClose,
+  collapsed: controlledCollapsed,
+  onToggleCollapse,
+}: SidebarProps) {
   const { user, token, logout, isLoading } = useAuth();
   const pathname = usePathname();
-  const [collapsed, setCollapsed] = useState(false);
+  const [internalCollapsed, setInternalCollapsed] = useState(false);
   const [mounted, setMounted] = useState(false);
+
+  const collapsed = controlledCollapsed !== undefined ? controlledCollapsed : internalCollapsed;
+
+  const handleToggleCollapse = () => {
+    if (onToggleCollapse) {
+      onToggleCollapse();
+    } else {
+      setInternalCollapsed(!internalCollapsed);
+    }
+  };
 
   useEffect(() => {
     setMounted(true);
@@ -97,7 +114,7 @@ export default function Sidebar({ isMobileOpen = false, onMobileClose }: Sidebar
         }`}
       >
         {/* Sidebar Header */}
-        <div className="h-16 flex items-center justify-between px-4 border-b border-slate-200 dark:border-slate-800/80">
+        <div className={`h-16 flex items-center border-b border-slate-200 dark:border-slate-800/80 ${collapsed ? "justify-center px-2 gap-2" : "justify-between px-4"}`}>
           <Link
             href="/"
             onClick={onMobileClose}
@@ -120,8 +137,8 @@ export default function Sidebar({ isMobileOpen = false, onMobileClose }: Sidebar
 
           {/* Desktop Collapse Toggle */}
           <button
-            onClick={() => setCollapsed(!collapsed)}
-            className="hidden lg:flex p-1.5 rounded-lg text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 border border-transparent hover:border-slate-200 dark:hover:border-slate-700 transition-all"
+            onClick={handleToggleCollapse}
+            className="hidden lg:flex p-1.5 rounded-lg text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 border border-transparent hover:border-slate-200 dark:hover:border-slate-700 transition-all shrink-0"
             title={collapsed ? "Expand Sidebar" : "Collapse Sidebar"}
           >
             {collapsed ? (
@@ -158,7 +175,9 @@ export default function Sidebar({ isMobileOpen = false, onMobileClose }: Sidebar
                 key={link.href}
                 href={link.href}
                 onClick={onMobileClose}
-                className={`flex items-center gap-3.5 px-3.5 py-3 rounded-2xl text-sm font-semibold transition-all group ${
+                className={`flex items-center gap-3.5 py-3 rounded-2xl text-sm font-semibold transition-all group ${
+                  collapsed ? "justify-center px-0" : "px-3.5"
+                } ${
                   active
                     ? isAdminLink
                       ? "bg-amber-600 text-white shadow-lg shadow-amber-600/20"
@@ -184,9 +203,12 @@ export default function Sidebar({ isMobileOpen = false, onMobileClose }: Sidebar
         {/* User Profile & Theme Controls */}
         <div className="p-3 border-t border-slate-200 dark:border-slate-800/80 space-y-3">
           {mounted && !isLoading && activeToken && user ? (
-            <div className={`p-3 bg-slate-50 dark:bg-slate-950/60 border border-slate-200 dark:border-slate-800/80 rounded-2xl flex items-center justify-between gap-3 ${collapsed ? "flex-col" : ""}`}>
+            <div className={`p-3 bg-slate-50 dark:bg-slate-950/60 border border-slate-200 dark:border-slate-800/80 rounded-2xl flex items-center justify-between gap-2 ${collapsed ? "flex-col py-2 px-1" : ""}`}>
               <div className="flex items-center gap-3 overflow-hidden">
-                <div className="w-9 h-9 rounded-xl bg-indigo-600/10 dark:bg-indigo-600/20 border border-indigo-500/30 text-indigo-600 dark:text-indigo-400 flex items-center justify-center font-extrabold text-sm shrink-0">
+                <div
+                  className="w-9 h-9 rounded-xl bg-indigo-600/10 dark:bg-indigo-600/20 border border-indigo-500/30 text-indigo-600 dark:text-indigo-400 flex items-center justify-center font-extrabold text-sm shrink-0"
+                  title={user.name}
+                >
                   {user.name ? user.name.charAt(0).toUpperCase() : "U"}
                 </div>
                 {!collapsed && (
@@ -224,7 +246,7 @@ export default function Sidebar({ isMobileOpen = false, onMobileClose }: Sidebar
           )}
 
           {/* Theme Toggle in Sidebar */}
-          <div className="flex items-center justify-between px-2 pt-1">
+          <div className={`flex items-center ${collapsed ? "justify-center" : "justify-between px-2"} pt-1`}>
             {!collapsed && (
               <span className="text-[11px] font-semibold text-slate-500 dark:text-slate-400">Theme</span>
             )}

@@ -39,13 +39,13 @@ export function PasswordStrengthMeter({ password }: PasswordStrengthMeterProps) 
   const percentage = (score / 5) * 100;
 
   return (
-    <div className="mt-2.5 space-y-2 p-3 bg-slate-900/60 rounded-xl border border-slate-800/80">
+    <div className="mt-2.5 space-y-2 p-3 bg-slate-100/80 dark:bg-slate-900/60 rounded-xl border border-slate-200 dark:border-slate-800/80">
       <div className="flex justify-between items-center text-xs">
-        <span className="text-slate-400">Password strength:</span>
+        <span className="text-slate-600 dark:text-slate-400">Password strength:</span>
         <span className={`font-semibold ${textColor}`}>{strengthLabel}</span>
       </div>
 
-      <div className="w-full bg-slate-800 h-1.5 rounded-full overflow-hidden">
+      <div className="w-full bg-slate-200 dark:bg-slate-800 h-1.5 rounded-full overflow-hidden">
         <div
           className={`h-full transition-all duration-300 ${barColor}`}
           style={{ width: `${percentage}%` }}
@@ -65,7 +65,7 @@ export function PasswordStrengthMeter({ password }: PasswordStrengthMeterProps) 
 
 function ReqItem({ met, text }: { met: boolean; text: string }) {
   return (
-    <div className={`flex items-center gap-1.5 ${met ? "text-emerald-400 font-medium" : "text-slate-500"}`}>
+    <div className={`flex items-center gap-1.5 ${met ? "text-emerald-600 dark:text-emerald-400 font-medium" : "text-slate-500 dark:text-slate-400"}`}>
       {met ? <Check className="w-3.5 h-3.5" /> : <X className="w-3.5 h-3.5" />}
       <span>{text}</span>
     </div>
