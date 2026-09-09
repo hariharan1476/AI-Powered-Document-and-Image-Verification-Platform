@@ -13,7 +13,9 @@ GOOGLE_USERINFO_URL = "https://www.googleapis.com/oauth2/v3/userinfo"
 def _get_google_config():
     client_id = os.getenv("GOOGLE_CLIENT_ID", "").strip()
     client_secret = os.getenv("GOOGLE_CLIENT_SECRET", "").strip()
-    redirect_uri = os.getenv("GOOGLE_CALLBACK_URL", "http://localhost:8000/api/auth/google/callback").strip()
+    redirect_uri = (
+        os.getenv("GOOGLE_CALLBACK_URL") or os.getenv("GOOGLE_REDIRECT_URI") or "http://localhost:8000/api/auth/google/callback"
+    ).strip()
     return client_id, client_secret, redirect_uri
 
 
