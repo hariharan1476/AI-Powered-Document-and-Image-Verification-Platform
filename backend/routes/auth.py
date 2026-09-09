@@ -66,7 +66,7 @@ router = APIRouter(
 
 class SignupRequest(BaseModel):
     name: str
-    email: EmailStr
+    email: str
     password: str
 
 
@@ -78,16 +78,16 @@ class LoginRequest(BaseModel):
 
 
 class OTPVerifyRequest(BaseModel):
-    email: EmailStr
+    email: str
     otp: str
 
 
 class ResendVerificationRequest(BaseModel):
-    email: EmailStr
+    email: str
 
 
 class ForgotPasswordRequest(BaseModel):
-    email: EmailStr
+    email: str
 
 
 class ResetPasswordRequest(BaseModel):
