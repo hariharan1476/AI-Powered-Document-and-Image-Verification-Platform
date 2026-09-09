@@ -11,7 +11,7 @@ import { AuthDivider } from "@/src/components/auth/AuthDivider";
 import { useAuth } from "@/src/contexts/AuthContext";
 import { ThemeToggle } from "@/src/components/ui/ThemeToggle";
 
-const API = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API = process.env.NEXT_PUBLIC_API_URL || "https://ai-powered-document-and-image.onrender.com";
 
 type Step = "register" | "otp" | "success";
 

@@ -10,7 +10,7 @@ import { GoogleAuthButton } from "@/src/components/auth/GoogleAuthButton";
 import { AuthDivider } from "@/src/components/auth/AuthDivider";
 import { ThemeToggle } from "@/src/components/ui/ThemeToggle";
 
-const API = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API = process.env.NEXT_PUBLIC_API_URL || "https://ai-powered-document-and-image.onrender.com";
 
 function LoginForm() {
   const searchParams = useSearchParams();

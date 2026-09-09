@@ -14,7 +14,7 @@ import { useAuth } from "@/src/contexts/AuthContext";
 import AppLayout from "@/src/components/AppLayout";
 import { motion, AnimatePresence } from "framer-motion";
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "https://ai-powered-document-and-image.onrender.com";
 const MAX_FILE_SIZE = 25 * 1024 * 1024; // 25 MB
 
 const ACCEPTED_TYPES = [

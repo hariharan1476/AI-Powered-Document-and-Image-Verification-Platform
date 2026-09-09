@@ -9,7 +9,7 @@ import "react-pdf/dist/Page/TextLayer.css";
 // Use CDN worker so no localhost or bundling needed
 pdfjs.GlobalWorkerOptions.workerSrc = `https://unpkg.com/pdfjs-dist@${pdfjs.version}/build/pdf.worker.min.mjs`;
 
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || "https://ai-powered-document-and-image.onrender.com";
 
 interface PdfViewerModalProps {
   url: string;

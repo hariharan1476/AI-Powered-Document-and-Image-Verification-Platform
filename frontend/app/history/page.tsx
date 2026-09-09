@@ -7,7 +7,7 @@ import { useAuth } from "@/src/contexts/AuthContext";
 import AppLayout from "@/src/components/AppLayout";
 import { History, FileText, AlertTriangle, ShieldCheck, Clock, ExternalLink, RefreshCw, LogIn } from "lucide-react";
 
-const API = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API = process.env.NEXT_PUBLIC_API_URL || "https://ai-powered-document-and-image.onrender.com";
 
 interface HistoryItem {
   document_id: number;

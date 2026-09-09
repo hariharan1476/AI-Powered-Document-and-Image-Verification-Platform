@@ -6,7 +6,7 @@ import Link from "next/link";
 import { CheckCircle, XCircle, ArrowRight, ShieldCheck } from "lucide-react";
 import { ThemeToggle } from "@/src/components/ui/ThemeToggle";
 
-const API = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API = process.env.NEXT_PUBLIC_API_URL || "https://ai-powered-document-and-image.onrender.com";
 
 function VerifyEmailContent() {
   const searchParams = useSearchParams();

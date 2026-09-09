@@ -8,7 +8,7 @@ import { Shield, KeyRound, Smartphone, Laptop, Trash2, LogOut, CheckCircle2, Ale
 import { PasswordInput } from "@/src/components/auth/PasswordInput";
 import { PasswordStrengthMeter } from "@/src/components/auth/PasswordStrengthMeter";
 
-const API = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API = process.env.NEXT_PUBLIC_API_URL || "https://ai-powered-document-and-image.onrender.com";
 
 interface SessionItem {
   id: number;

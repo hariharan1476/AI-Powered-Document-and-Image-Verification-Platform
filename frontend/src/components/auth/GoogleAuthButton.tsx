@@ -6,7 +6,7 @@ interface GoogleAuthButtonProps {
   label?: string;
 }
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "https://ai-powered-document-and-image.onrender.com";
 
 export function GoogleAuthButton({ label = "Continue with Google" }: GoogleAuthButtonProps) {
   const [loading, setLoading] = useState(false);

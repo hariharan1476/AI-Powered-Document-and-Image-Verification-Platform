@@ -83,20 +83,20 @@ def save_uploaded_file(file: UploadFile):
     # -----------------------------------------
 
     try:
-
         cloudinary_result = upload_document(
             file_path
         )
-
     except Exception as error:
-
-        # Remove local file if Cloudinary fails
-        if os.path.exists(file_path):
-            os.remove(file_path)
-
-        raise ValueError(
-            f"Cloudinary upload failed: {str(error)}"
-        )
+        print(f"Cloudinary upload warning: {error}. Falling back to local file path.")
+        cloudinary_result = {
+            "public_id": f"local_{filename}",
+            "secure_url": f"/uploads/{filename}",
+            "resource_type": "raw" if extension == ".pdf" else "image",
+            "format": extension.lstrip("."),
+            "bytes": file_size,
+            "width": None,
+            "height": None
+        }
 
     # -----------------------------------------
     # 6. Return everything

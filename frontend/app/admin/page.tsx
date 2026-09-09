@@ -9,7 +9,7 @@ import { Trash2, ShieldAlert, ArrowLeft, Users, FileText, Eye, ShieldCheck, User
 import dynamic from "next/dynamic";
 const PdfViewerModal = dynamic(() => import("../../src/components/PdfViewerModal"), { ssr: false });
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "https://ai-powered-document-and-image.onrender.com";
 
 interface AdminUser {
   id: number;
