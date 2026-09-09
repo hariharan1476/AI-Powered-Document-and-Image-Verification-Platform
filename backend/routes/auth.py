@@ -223,9 +223,21 @@ def _send_link_and_otp_email(user: User, db: DBSession):
 
 @router.post("/signup", status_code=201)
 @router.post("/register", status_code=201)
-def signup(req: SignupRequest, db: DBSession = Depends(get_db)):
+async def signup(request: Request, db: DBSession = Depends(get_db)):
     """Register a new user account and send OTP + verification link."""
-    existing = _get_user_by_email(req.email, db)
+    try:
+        data = await request.json()
+    except Exception:
+        raise HTTPException(status_code=400, detail="Invalid JSON body.")
+
+    name = str(data.get("name") or "").strip()
+    email = str(data.get("email") or "").lower().strip()
+    password = str(data.get("password") or "").strip()
+
+    if not name or not email or not password:
+        raise HTTPException(status_code=400, detail="Name, email, and password are required.")
+
+    existing = _get_user_by_email(email, db)
 
     if existing:
         if existing.is_email_verified:
@@ -233,17 +245,19 @@ def signup(req: SignupRequest, db: DBSession = Depends(get_db)):
                 status_code=400,
                 detail="An account with this email address already exists. Please log in."
             )
-        # Resend verification for unverified account
-        _send_link_and_otp_email(existing, db)
+        try:
+            _send_link_and_otp_email(existing, db)
+        except Exception as e:
+            print(f"[AUTH WARNING] Resend email failed: {e}")
         return {
             "message": "Verification code & link resent to your email address.",
             "email": existing.email
         }
 
     user = User(
-        name=req.name.strip(),
-        email=req.email.lower().strip(),
-        hashed_password=get_password_hash(req.password),
+        name=name,
+        email=email,
+        hashed_password=get_password_hash(password),
         is_email_verified=False,
         status=AccountStatus.PENDING_VERIFICATION.value
     )
@@ -251,7 +265,10 @@ def signup(req: SignupRequest, db: DBSession = Depends(get_db)):
     db.commit()
     db.refresh(user)
 
-    _send_link_and_otp_email(user, db)
+    try:
+        _send_link_and_otp_email(user, db)
+    except Exception as e:
+        print(f"[AUTH WARNING] Verification email send failed: {e}")
 
     return {
         "message": "Registration successful! A verification code and link have been sent to your email.",
