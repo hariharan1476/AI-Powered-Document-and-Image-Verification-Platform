@@ -19,11 +19,14 @@ def analyze_ela(file_path: str, quality: int = 90) -> dict:
             if len(pdf) == 0:
                 return {"success": False, "error": "Empty PDF"}
             page = pdf[0]
-            pix = page.get_pixmap(matrix=fitz.Matrix(2, 2))
+            pix = page.get_pixmap(matrix=fitz.Matrix(1, 1))
             original = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
             pdf.close()
         else:
             original = Image.open(file_path).convert("RGB")
+            
+        # Downscale to max 800x800 to keep memory footprint under 2MB
+        original.thumbnail((800, 800))
             
         # Create a temporary file to save the compressed version
         temp_filename = f"{file_path}_temp_ela.jpg"
