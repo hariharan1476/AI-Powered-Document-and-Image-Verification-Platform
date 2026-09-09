@@ -213,7 +213,10 @@ def _send_link_and_otp_email(user: User, db: DBSession):
     </body>
     </html>
     """
-    _send_email(user.email, subject, html)
+    try:
+        _send_email(user.email, subject, html)
+    except Exception as err:
+        print(f"[AUTH WARNING] Verification email send failed: {err}")
 
 
 # ─── Routes ─────────────────────────────────────────────────────────────────
