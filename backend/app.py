@@ -17,6 +17,19 @@ app = FastAPI(
     version="1.0.0"
 )
 
+from fastapi import Request
+from fastapi.responses import JSONResponse
+
+@app.exception_handler(Exception)
+async def global_exception_handler(request: Request, exc: Exception):
+    import traceback
+    err_str = "".join(traceback.format_exception(type(exc), exc, exc.__traceback__))
+    print(f"[SERVER ERROR 500]: {err_str}")
+    return JSONResponse(
+        status_code=500,
+        content={"detail": f"Internal Server Error: {str(exc)}", "traceback": err_str}
+    )
+
 
 # ---------------------------------------------------------
 # CORS
