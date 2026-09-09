@@ -28,8 +28,13 @@ oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/api/auth/login", auto_error=Fals
 # ── Hashing Utilities ──────────────────────────────────────────────────────
 
 def hash_password(password: str) -> str:
-    """Hash a password using Argon2id."""
-    return argon2.using(type="ID").hash(password)
+    """Hash a password using Argon2id with bcrypt fallback."""
+    try:
+        return argon2.using(type="ID").hash(password)
+    except Exception as err:
+        print(f"[AUTH WARNING] Argon2 hash failed ({err}), falling back to bcrypt")
+        import bcrypt
+        return bcrypt.hashpw(password.encode("utf-8"), bcrypt.gensalt()).decode("utf-8")
 
 
 def verify_password(plain_password: str, hashed_password: str) -> bool:
