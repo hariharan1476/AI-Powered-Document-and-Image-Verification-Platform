@@ -22,28 +22,19 @@ CLOUDINARY_API_SECRET = os.getenv(
 )
 
 
-if not CLOUDINARY_CLOUD_NAME:
-    raise RuntimeError(
-        "CLOUDINARY_CLOUD_NAME is missing"
-    )
-
-if not CLOUDINARY_API_KEY:
-    raise RuntimeError(
-        "CLOUDINARY_API_KEY is missing"
-    )
-
-if not CLOUDINARY_API_SECRET:
-    raise RuntimeError(
-        "CLOUDINARY_API_SECRET is missing"
-    )
-
-
-cloudinary.config(
-    cloud_name=CLOUDINARY_CLOUD_NAME,
-    api_key=CLOUDINARY_API_KEY,
-    api_secret=CLOUDINARY_API_SECRET,
-    secure=True
+CLOUDINARY_CONFIGURED = bool(
+    CLOUDINARY_CLOUD_NAME and CLOUDINARY_API_KEY and CLOUDINARY_API_SECRET
 )
+
+if CLOUDINARY_CONFIGURED:
+    cloudinary.config(
+        cloud_name=CLOUDINARY_CLOUD_NAME,
+        api_key=CLOUDINARY_API_KEY,
+        api_secret=CLOUDINARY_API_SECRET,
+        secure=True
+    )
+else:
+    print("[CLOUDINARY WARNING] Cloudinary keys not configured. System will use local disk storage fallback.")
 
 
 def upload_document(file_path: str):
@@ -52,6 +43,9 @@ def upload_document(file_path: str):
         raise FileNotFoundError(
             f"File not found: {file_path}"
         )
+
+    if not CLOUDINARY_CONFIGURED:
+        raise ValueError("Cloudinary credentials not configured; using local storage fallback.")
 
     # Use 'raw' for PDFs so Cloudinary serves them as downloadable/viewable files
     ext = os.path.splitext(file_path)[1].lower()
