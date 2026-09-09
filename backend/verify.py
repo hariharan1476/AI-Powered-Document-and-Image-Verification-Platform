@@ -10,7 +10,7 @@ from backend.ai.resume_extractor import extract_resume_fields
 # ============================================================
 
 try:
-    from ml.layoutlm_analyzer import analyze_document
+    from ml.layoutlm_analyzer import analyze_with_layoutlm as analyze_document
 
     LAYOUTLM_AVAILABLE = True
 
@@ -260,14 +260,23 @@ def extract_text(file_path):
 
     text = ""
     try:
-        output = run_command([
-            sys.executable,
-            extractor_script,
-            file_path
-        ])
-        text = extract_ocr_text(output)
+        from ml.generic_extractor import extract_document
+        res = extract_document(file_path)
+        if isinstance(res, dict) and res.get("text"):
+            text = res["text"]
     except Exception as e:
-        print(f"[EXTRACTOR WARNING] Subprocess generic_extractor failed: {e}")
+        print(f"[EXTRACTOR WARNING] Direct in-process generic_extractor skipped/failed: {e}")
+
+    if not text or not text.strip():
+        try:
+            output = run_command([
+                sys.executable,
+                extractor_script,
+                file_path
+            ])
+            text = extract_ocr_text(output)
+        except Exception as e:
+            print(f"[EXTRACTOR WARNING] Subprocess generic_extractor failed: {e}")
 
     if not text or not text.strip():
         try:
@@ -313,6 +322,14 @@ def classify_document(text):
     temp_file = create_temp_text(
         text
     )
+
+    try:
+        from ml.document_classifier import classify as classify_document
+        res = classify_document(text)
+        if isinstance(res, (tuple, list)) and len(res) >= 2:
+            return res[0], res[1]
+    except Exception as e:
+        print(f"[CLASSIFIER WARNING] Direct in-process document_classifier skipped/failed: {e}")
 
     try:
 

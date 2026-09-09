@@ -280,8 +280,22 @@ def run_ml_verification_engine(
             "error": f"File not found: {file_path}"
         }
 
+    # 1. Attempt direct in-process execution first (Fast & memory efficient)
+    try:
+        from ml.verification_engine import verify_document
+        res = verify_document(file_path)
+        if isinstance(res, dict):
+            return {
+                "success": True,
+                "result": res
+            }
+    except Exception as inproc_err:
+        print(f"[VERIFICATION WARNING] Direct in-process verification engine call skipped/failed: {inproc_err}")
+
+    # 2. Subprocess fallback using sys.executable
+    import sys
     command = [
-        "python",
+        sys.executable,
         "-m",
         "ml.verification_engine",
         file_path

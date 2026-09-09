@@ -43,7 +43,6 @@ def extract_text(file_path: str) -> str:
     Uses the existing document_processor.py from this project.
     """
 
-    import os
     from backend.ai.document_processor import process_document
 
     file_type = os.path.splitext(file_path)[1].lower()
@@ -547,7 +546,6 @@ def calculate_tamper_score(
             print("Uploading ELA image to Cloudinary...")
             c_res = upload_document(local_ela_path)
             ela_image_path = c_res.get("secure_url")
-            import os
             os.remove(local_ela_path)
         except Exception as e:
             print(f"Failed to upload ELA image: {e}")
@@ -1153,7 +1151,6 @@ def verify_resume(text: str) -> Dict[str, Any]:
             print("Uploading ELA image to Cloudinary...")
             c_res = upload_document(local_ela_path)
             ela_image_path = c_res.get("secure_url")
-            import os
             os.remove(local_ela_path)
         except Exception as e:
             print(f"Failed to upload ELA image: {e}")
