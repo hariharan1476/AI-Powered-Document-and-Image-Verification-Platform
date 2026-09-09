@@ -6,7 +6,6 @@ from fastapi import UploadFile
 
 from backend.utils.file_validator import validate_file
 from backend.utils.helpers import calculate_file_hash
-from backend.cloudinary_config import upload_document
 
 
 UPLOAD_FOLDER = "uploads"
@@ -79,27 +78,7 @@ def save_uploaded_file(file: UploadFile):
     )[1].lower()
 
     # -----------------------------------------
-    # 5. Upload to Cloudinary
-    # -----------------------------------------
-
-    try:
-        cloudinary_result = upload_document(
-            file_path
-        )
-    except Exception as error:
-        print(f"Cloudinary upload warning: {error}. Falling back to local file path.")
-        cloudinary_result = {
-            "public_id": f"local_{filename}",
-            "secure_url": f"/uploads/{filename}",
-            "resource_type": "raw" if extension == ".pdf" else "image",
-            "format": extension.lstrip("."),
-            "bytes": file_size,
-            "width": None,
-            "height": None
-        }
-
-    # -----------------------------------------
-    # 6. Return everything
+    # 5. Return local file info
     # -----------------------------------------
 
     return {
@@ -113,19 +92,8 @@ def save_uploaded_file(file: UploadFile):
         "file_size": file_size,
 
         "file_hash": file_hash,
-
-        "cloudinary_public_id":
-            cloudinary_result.get(
-                "public_id"
-            ),
-
-        "cloudinary_url":
-            cloudinary_result.get(
-                "secure_url"
-            ),
-
-        "cloudinary_resource_type":
-            cloudinary_result.get(
-                "resource_type"
-            )
+        
+        "cloudinary_public_id": None,
+        "cloudinary_url": None,
+        "cloudinary_resource_type": None
     }

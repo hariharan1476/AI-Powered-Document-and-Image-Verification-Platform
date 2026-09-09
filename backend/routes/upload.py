@@ -18,6 +18,7 @@ from backend.services.job_manager import create_job, update_job, get_job, get_jo
 from backend.services.verification_service import verify_uploaded_document
 from backend.services.auth_service import get_current_user
 from backend.models.user import User
+from backend.cloudinary_config import upload_document as cloudinary_upload
 
 
 router = APIRouter(
@@ -28,7 +29,24 @@ router = APIRouter(
 def process_document_task(job_id: str, file_data: dict, user_id: int):
     db = SessionLocal()
     try:
-        update_job(job_id, status="saving_database", progress=10, log="Creating database record")
+        update_job(job_id, status="uploading_cloud", progress=10, log="Uploading document to Cloudinary")
+        try:
+            cloudinary_result = cloudinary_upload(file_data["file_path"])
+        except Exception as error:
+            print(f"Cloudinary upload warning: {error}. Falling back to local file path.")
+            extension = file_data["file_type"]
+            filename = file_data["filename"]
+            cloudinary_result = {
+                "public_id": f"local_{filename}",
+                "secure_url": f"/uploads/{filename}",
+                "resource_type": "raw" if extension == ".pdf" else "image",
+            }
+            
+        file_data["cloudinary_public_id"] = cloudinary_result.get("public_id")
+        file_data["cloudinary_url"] = cloudinary_result.get("secure_url")
+        file_data["cloudinary_resource_type"] = cloudinary_result.get("resource_type")
+
+        update_job(job_id, status="saving_database", progress=15, log="Creating database record")
         document = Document(
             filename=file_data["filename"],
             file_path=file_data["file_path"],
@@ -92,14 +110,14 @@ def process_document_task(job_id: str, file_data: dict, user_id: int):
 
 
 @router.post("/")
-def upload_document(
+async def upload_document(
     background_tasks: BackgroundTasks,
     file: UploadFile = File(...),
     current_user: User = Depends(get_current_user)
 ):
     try:
         job_id = create_job()
-        update_job(job_id, status="uploading", progress=5, log="Saving file to Cloudinary and local disk")
+        update_job(job_id, status="uploading_local", progress=5, log="Saving file to local disk")
         
         file_data = save_uploaded_file(file)
         
