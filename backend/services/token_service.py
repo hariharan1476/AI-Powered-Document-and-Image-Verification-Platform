@@ -45,7 +45,7 @@ def create_verification_token(
         VerificationToken.user_id == user_id,
         VerificationToken.token_type == token_type.value,
         VerificationToken.used_at.is_(None),
-    ).update({"used_at": datetime.utcnow()})
+    ).update({"used_at": datetime.utcnow()}, synchronize_session=False)
 
     vt = VerificationToken(
         user_id=user_id,
