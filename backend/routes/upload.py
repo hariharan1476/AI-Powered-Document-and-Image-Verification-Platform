@@ -153,6 +153,22 @@ async def event_generator(job_id: str):
         else:
             await asyncio.sleep(1)
 
+@router.get("/job/{job_id}")
+def get_job_status(job_id: str):
+    job = get_job(job_id)
+    if not job:
+        raise HTTPException(status_code=404, detail="Job not found")
+    return job
+
+
 @router.get("/stream/{job_id}")
 async def stream_job(job_id: str):
-    return StreamingResponse(event_generator(job_id), media_type="text/event-stream")
+    return StreamingResponse(
+        event_generator(job_id),
+        media_type="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "X-Accel-Buffering": "no"
+        }
+    )

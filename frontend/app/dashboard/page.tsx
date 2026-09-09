@@ -142,38 +142,77 @@ export default function DashboardPage() {
     }
 
     return new Promise((resolve, reject) => {
+      let settled = false;
       const source = new EventSource(`${API_BASE_URL}/api/upload/stream/${jobId}`);
-      
+
+      const pollTimer = setInterval(async () => {
+        if (settled) return;
+        try {
+          const pollRes = await fetch(`${API_BASE_URL}/api/upload/job/${jobId}`);
+          if (pollRes.ok) {
+            const jobData = await pollRes.json();
+            if (jobData.status === "completed" && jobData.result) {
+              settled = true;
+              clearInterval(pollTimer);
+              try { source.close(); } catch {}
+              setDocuments((c) =>
+                c.map((d, i) =>
+                  i === index ? { ...d, data: jobData.result, processing: false, verified: true, error: undefined, progress: 100 } : d
+                )
+              );
+              resolve(jobData.result);
+            } else if (jobData.status === "failed") {
+              settled = true;
+              clearInterval(pollTimer);
+              try { source.close(); } catch {}
+              reject(new Error(jobData.error || "Verification failed."));
+            } else if (jobData.progress) {
+              setDocuments((c) =>
+                c.map((d, i) => (i === index ? { ...d, progress: jobData.progress } : d))
+              );
+            }
+          }
+        } catch {
+          // ignore transient poll error
+        }
+      }, 1200);
+
       source.onmessage = (event) => {
+        if (settled) return;
         try {
           const data = JSON.parse(event.data);
-          if (data.status === 'completed' && data.result) {
-            source.close();
+          if (data.status === "completed" && data.result) {
+            settled = true;
+            clearInterval(pollTimer);
+            try { source.close(); } catch {}
             setDocuments((c) =>
-              c.map((d, i) => i === index ? { ...d, data: data.result, processing: false, verified: true, error: undefined, progress: 100 } : d)
+              c.map((d, i) => (i === index ? { ...d, data: data.result, processing: false, verified: true, error: undefined, progress: 100 } : d))
             );
             resolve(data.result);
-          } else if (data.status === 'failed') {
-            source.close();
+          } else if (data.status === "failed") {
+            settled = true;
+            clearInterval(pollTimer);
+            try { source.close(); } catch {}
             reject(new Error(data.error || "Verification failed."));
-          } else if (data.status === 'processing' || data.status === 'pending' || data.status === 'uploading' || data.status === 'verifying') {
-             setDocuments((c) =>
-               c.map((d, i) => {
-                 if (i === index) {
-                   const newLogs = data.log ? [...(d.logs || []), data.log] : d.logs;
-                   return { ...d, logs: newLogs, progress: data.progress || d.progress };
-                 }
-                 return d;
-               })
-             );
+          } else if (data.status === "processing" || data.status === "pending" || data.status === "uploading" || data.status === "verifying") {
+            setDocuments((c) =>
+              c.map((d, i) => {
+                if (i === index) {
+                  const newLogs = data.log ? [...(d.logs || []), data.log] : d.logs;
+                  return { ...d, logs: newLogs, progress: data.progress || d.progress };
+                }
+                return d;
+              })
+            );
           }
         } catch (e) {
           console.error("SSE Parse error", e);
         }
       };
-      source.onerror = (err) => {
-        source.close();
-        reject(new Error("Connection to verification stream lost."));
+
+      source.onerror = () => {
+        try { source.close(); } catch {}
+        // Fallback polling loop continues automatically
       };
     });
   }
