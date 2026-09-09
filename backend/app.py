@@ -57,6 +57,41 @@ app.add_middleware(
 import backend.models  # Ensure all models are registered with Base metadata
 Base.metadata.create_all(bind=engine)
 
+# SEED ADMIN ON STARTUP
+from backend.database.db import SessionLocal
+from backend.models.user import User, AccountStatus
+from backend.services.auth_service import hash_password
+from datetime import datetime
+
+db = SessionLocal()
+try:
+    admin_email = "hariharankrishnamoorthy1476@gmail.com"
+    admin_pass = "Admin@2026!Hari"
+    existing = db.query(User).filter(User.email == admin_email).first()
+    if existing:
+        existing.is_admin = True
+        existing.hashed_password = hash_password(admin_pass)
+        existing.status = AccountStatus.ACTIVE.value
+        existing.is_email_verified = True
+    else:
+        admin_user = User(
+            name="Hariharan Krishnamoorthy (Admin)",
+            email=admin_email,
+            hashed_password=hash_password(admin_pass),
+            is_admin=True,
+            is_email_verified=True,
+            status=AccountStatus.ACTIVE.value,
+            avatar_url="https://lh3.googleusercontent.com/a/default-user=s96-c",
+            created_at=datetime.utcnow()
+        )
+        db.add(admin_user)
+    db.commit()
+except Exception as e:
+    db.rollback()
+    print(f"Error seeding admin: {e}")
+finally:
+    db.close()
+
 
 # ---------------------------------------------------------
 # ROUTES
