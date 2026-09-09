@@ -38,6 +38,7 @@ from backend.services.email_service import (
     _send_email,
     APP_NAME,
     FRONTEND_URL,
+    get_frontend_url,
 )
 from backend.services.token_service import (
     create_verification_token,
@@ -505,14 +506,15 @@ async def google_auth_callback(
 ):
     """Handle Google OAuth callback, authenticate or auto-register user cleanly."""
     from fastapi.responses import RedirectResponse
+    target_frontend_url = get_frontend_url()
 
     if error or not code:
-        return RedirectResponse(url=f"{FRONTEND_URL}/login?error=google_denied")
+        return RedirectResponse(url=f"{target_frontend_url}/login?error=google_denied")
 
     try:
         user_info = await get_google_tokens_and_user_info(code)
         if not user_info or not user_info.get("email"):
-            return RedirectResponse(url=f"{FRONTEND_URL}/login?error=google_auth_failed")
+            return RedirectResponse(url=f"{target_frontend_url}/login?error=google_auth_failed")
 
         email = user_info["email"].lower().strip()
         google_sub = user_info["sub"]
@@ -578,14 +580,14 @@ async def google_auth_callback(
             ip_address=request.client.host if request.client else None
         )
 
-        redirect_target = f"{FRONTEND_URL}/auth/callback?access_token={access_token}&refresh_token={refresh_token}"
+        redirect_target = f"{target_frontend_url}/auth/callback?access_token={access_token}&refresh_token={refresh_token}"
         return RedirectResponse(url=redirect_target)
 
     except Exception as e:
         import urllib.parse
         err_msg = urllib.parse.quote(str(e))
         print(f"[GOOGLE OAUTH CALLBACK ERROR] {e}")
-        return RedirectResponse(url=f"{FRONTEND_URL}/login?error={err_msg}")
+        return RedirectResponse(url=f"{target_frontend_url}/login?error={err_msg}")
 
 
 @router.post("/forgot-password")

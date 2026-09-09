@@ -15,7 +15,19 @@ SMTP_HOST = os.getenv("SMTP_HOST", "smtp.gmail.com")
 SMTP_PORT = int(os.getenv("SMTP_PORT", "587"))
 SMTP_EMAIL = os.getenv("SMTP_EMAIL", "")
 SMTP_PASSWORD = os.getenv("SMTP_PASSWORD", "")
-FRONTEND_URL = os.getenv("FRONTEND_URL", "http://localhost:3000")
+def get_frontend_url() -> str:
+    env_url = os.getenv("FRONTEND_URL", "").strip()
+    if env_url:
+        return env_url.rstrip("/")
+    allowed_origins = os.getenv("ALLOWED_ORIGINS", "").strip()
+    if allowed_origins:
+        origins = [o.strip() for o in allowed_origins.split(",") if o.strip()]
+        for o in origins:
+            if o.startswith("http://") or o.startswith("https://"):
+                return o.rstrip("/")
+    return "http://localhost:3000"
+
+FRONTEND_URL = get_frontend_url()
 APP_NAME = os.getenv("APP_NAME", "AI Document Verification Platform")
 
 OTP_EXPIRE_MINUTES = 10
