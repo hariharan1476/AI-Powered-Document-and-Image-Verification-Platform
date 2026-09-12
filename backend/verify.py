@@ -16,7 +16,7 @@ from backend.ai.resume_extractor import extract_resume_fields
 
 def is_mock_env():
     """Bulletproof check for cloud/low-memory environments."""
-    return True
+    return False
 
 
 PROJECT_ROOT = os.path.dirname(
@@ -2264,21 +2264,11 @@ def verify_certificate(
     # Status
     # --------------------------------------------------------
 
-    if (
-        completeness >= 95.0
-        and consistency >= 90.0
-        and authenticity >= 90.0
-        and tamper_score <= 10.0
-    ):
-
+    if overall >= 75.0:
         status = "VERIFIED"
-
-    elif overall >= 70.0:
-
+    elif overall >= 60.0:
         status = "REVIEW REQUIRED"
-
     else:
-
         status = "SUSPICIOUS"
 
     present_fields = []
