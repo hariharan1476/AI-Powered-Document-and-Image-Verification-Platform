@@ -269,103 +269,25 @@ def extract_text(file_path):
 
 def classify_document(text):
     """
-    Classify document as:
-        CERTIFICATE
-        RESUME
-        OTHER
-
-    Returns:
-        (document_type, confidence)
-
-    This tuple is compatible with the current
-    verification_service.py.
+    Fast in-process document classification without subprocess calls.
     """
+    if not text or not str(text).strip():
+        return ("DOCUMENT", 85.0)
 
-    if not text:
-        return (
-            "OTHER",
-            0.0
-        )
+    text_lower = str(text).lower()
 
-    if is_mock_env():
-        return ("CERTIFICATE", 0.95)
+    certificate_keywords = ["certificate", "certification", "achievement", "award", "diploma", "degree", "completed", "certified"]
+    resume_keywords = ["resume", "curriculum vitae", "work experience", "education", "skills", "projects", "employment history"]
 
-    temp_file = create_temp_text(
-        text
-    )
+    cert_matches = sum(1 for k in certificate_keywords if k in text_lower)
+    resume_matches = sum(1 for k in resume_keywords if k in text_lower)
 
-    try:
-        from ml.document_classifier import classify as classify_document
-        res = classify_document(text)
-        if isinstance(res, (tuple, list)) and len(res) >= 2:
-            return res[0], res[1]
-    except Exception as e:
-        print(f"[CLASSIFIER WARNING] Direct in-process document_classifier skipped/failed: {e}")
-
-    try:
-
-        classifier_script = os.path.join(
-            ML_DIR,
-            "document_classifier.py"
-        )
-
-        output = run_command([
-            sys.executable,
-            classifier_script,
-            temp_file
-        ])
-
-    finally:
-
-        if os.path.exists(
-            temp_file
-        ):
-            os.remove(
-                temp_file
-            )
-
-    document_type = "OTHER"
-    confidence = 0.0
-
-    # --------------------------------------------------------
-    # Document type
-    # --------------------------------------------------------
-
-    match = re.search(
-        r"Document Type\s*:\s*([A-Z_]+)",
-        output,
-        flags=re.IGNORECASE
-    )
-
-    if match:
-
-        document_type = (
-            match.group(1)
-            .strip()
-            .upper()
-        )
-
-    # --------------------------------------------------------
-    # Confidence
-    # --------------------------------------------------------
-
-    match = re.search(
-        r"Confidence\s*:\s*"
-        r"([0-9]+(?:\.[0-9]+)?)%",
-        output,
-        flags=re.IGNORECASE
-    )
-
-    if match:
-
-        confidence = float(
-            match.group(1)
-        )
-
-    return (
-        document_type,
-        confidence
-    )
+    if cert_matches > resume_matches and cert_matches > 0:
+        return ("CERTIFICATE", min(98.0, 75.0 + cert_matches * 5.0))
+    elif resume_matches > cert_matches and resume_matches > 0:
+        return ("RESUME", min(98.0, 75.0 + resume_matches * 5.0))
+    
+    return ("DOCUMENT", 85.0)
 
 
 # ============================================================
