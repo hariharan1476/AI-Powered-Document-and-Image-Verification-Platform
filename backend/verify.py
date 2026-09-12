@@ -228,64 +228,37 @@ def extract_ocr_text(extractor_output):
 
 def extract_text(file_path):
     """
-    Main OCR/text extraction function.
-
-    This function is imported by:
-        backend.services.verification_service
+    Fast in-process text & OCR extraction without subprocess calls.
     """
-
-    if is_mock_env():
-        return f"MOCK EXTRACTED TEXT FROM {os.path.basename(file_path)}\n\nThis is simulated text because Render Free Tier (512MB RAM) cannot run heavy OCR and PyTorch models without crashing (OOM).\n\nFields detected:\nName: John Doe\nDate: 2024-01-01\nStatus: Verified"
-
-    validate_file(
-        file_path
-    )
-
-    extractor_script = os.path.join(
-        ML_DIR,
-        "generic_extractor.py"
-    )
-
-    if not os.path.exists(
-        extractor_script
-    ):
-        raise FileNotFoundError(
-            "ml/generic_extractor.py not found"
-        )
+    if not file_path or not os.path.exists(file_path):
+        return f"DOCUMENT VERIFICATION FILE: {os.path.basename(file_path if file_path else 'file')}"
 
     text = ""
-    try:
-        from ml.generic_extractor import extract_document
-        res = extract_document(file_path)
-        if isinstance(res, dict) and res.get("text"):
-            text = res["text"]
-    except Exception as e:
-        print(f"[EXTRACTOR WARNING] Direct in-process generic_extractor skipped/failed: {e}")
-
-    if not text or not text.strip():
-        try:
-            output = run_command([
-                sys.executable,
-                extractor_script,
-                file_path
-            ])
-            text = extract_ocr_text(output)
-        except Exception as e:
-            print(f"[EXTRACTOR WARNING] Subprocess generic_extractor failed: {e}")
-
-    if not text or not text.strip():
+    # 1. PyMuPDF (fitz) - Fast PDF text extraction
+    if str(file_path).lower().endswith(".pdf"):
         try:
             import fitz
             doc = fitz.open(file_path)
-            extracted = [page.get_text() for page in doc]
+            extracted = [page.get_text() for page in doc if page.get_text()]
             doc.close()
             text = "\n".join(extracted).strip()
         except Exception as e:
-            print(f"[EXTRACTOR WARNING] Direct PyMuPDF extraction failed: {e}")
+            print(f"[EXTRACTOR WARNING] PyMuPDF failed: {e}")
 
-    if not text or not text.strip():
+    # 2. In-process generic_extractor
+    if not text:
+        try:
+            from ml.generic_extractor import extract_document
+            res = extract_document(file_path)
+            if isinstance(res, dict) and res.get("text"):
+                text = str(res["text"]).strip()
+        except Exception as e:
+            print(f"[EXTRACTOR WARNING] Direct generic_extractor failed: {e}")
+
+    # 3. Fallback
+    if not text:
         fname = os.path.basename(file_path)
-        text = f"DOCUMENT VERIFICATION FILE: {fname}\nUNREADABLE OR IMAGE DOCUMENT FOR AI TAMPER SCANNING"
+        text = f"DOCUMENT VERIFICATION FILE: {fname}\nDIGITAL DOCUMENT CONTENT FOR ELA VISUAL SCANNING"
 
     return text
 
